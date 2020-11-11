@@ -3,7 +3,20 @@ import * as superagent from 'superagent';
 
 const router = express.Router();
 
-
+router.use(
+    '/app/privacy-policy',
+    async (
+        req: express.Request,
+        res: express.Response,
+        next: express.NextFunction
+    ) => {
+        try {
+         res.render('app/privacy-policy')
+        } catch (error) {
+            res.redirect('/')
+        }
+    }
+);
 
 router.use(
     '/',
