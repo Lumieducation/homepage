@@ -1,9 +1,8 @@
 {
-    "name": "lumi",
-    "version": "0.2.35",
-    "description": "A tool to create and display interactive content with H5P",
+    "name": "lumi-education-homepage",
+    "version": "0.0.0",
+    "description": "Lumi.education",
     "author": "J.P. Schellenberg",
-    "main": "build/main.js",
     "dependencies": {
         "body-parser": "1.19.0",
         "express": "4.17.1",
@@ -44,6 +43,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Lumieducation/Lumi.git"
+        "url": "https://github.com/Lumieducation/homepage.git"
     }
 }
