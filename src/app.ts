@@ -16,21 +16,26 @@ app.use(
 app.engine('handlebars', exphbs());
 app.set('view engine', 'handlebars');
 app.enable('view cache');
+app.enable('trust proxy');
 
-app.use("*", (req: express.Request, res: express.Response, next: express.NextFunction) => {
-
-    if ( process.env.NODE_ENV === 'production') {
-        if (req.secure) {
-            next();
+app.use(
+    '*',
+    (
+        req: express.Request,
+        res: express.Response,
+        next: express.NextFunction
+    ) => {
+        if (process.env.NODE_ENV === 'production') {
+            if (req.secure) {
+                next();
+            } else {
+                res.redirect(`https://${req.headers.host}${req.url}`);
+            }
         } else {
-            res.redirect(`https://${req.headers.host}${req.url}` )
+            next();
         }
-    } else {
-        next()
     }
-
-});
-
+);
 
 app.use(express.static(path.join(__dirname, '..', 'public')));
 
