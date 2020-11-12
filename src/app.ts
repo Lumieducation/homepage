@@ -17,6 +17,21 @@ app.engine('handlebars', exphbs());
 app.set('view engine', 'handlebars');
 app.enable('view cache');
 
+app.use("*", (req: express.Request, res: express.Response, next: express.NextFunction) => {
+
+    if ( process.env.NODE_ENV === 'production') {
+        if (req.secure) {
+            next();
+        } else {
+            res.redirect(`https://${req.headers.host}${req.url}` )
+        }
+    } else {
+        next()
+    }
+
+});
+
+
 app.use(express.static(path.join(__dirname, '..', 'public')));
 
 app.use(routes);
