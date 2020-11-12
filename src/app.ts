@@ -41,8 +41,4 @@ app.use(express.static(path.join(__dirname, '..', 'public')));
 
 app.use(routes);
 
-app.listen(process.env.PORT || 8080, () => {
-    console.log(
-        'express-server successfully booted: ' + process.env.PORT || 80
-    );
-});
+app.listen(process.env.PORT || 8080);
