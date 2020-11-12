@@ -11,9 +11,9 @@ router.use(
         next: express.NextFunction
     ) => {
         try {
-         res.render('app/privacy-policy')
+            res.render('app/privacy-policy');
         } catch (error) {
-            res.redirect('/')
+            res.redirect('/');
         }
     }
 );
@@ -34,9 +34,9 @@ router.use(
                 )
                 .set('User-Agent', 'Lumi.education-Homepage');
 
-            res.render('home', { release: releaseInfo.body.name});
+            res.render('home', { release: releaseInfo.body.name });
         } catch (error) {
-            res.render('home', { release: '0.2.35'});
+            res.render('home', { release: '0.2.35' });
         }
     }
 );
