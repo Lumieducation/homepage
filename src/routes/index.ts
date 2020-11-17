@@ -18,17 +18,20 @@ router.use(
     }
 );
 
-router.use('/impressum',  async (
-    req: express.Request,
-    res: express.Response,
-    next: express.NextFunction
-) => {
-    try {
-        res.render('impressum');
-    } catch (error) {
-        res.redirect('/');
+router.use(
+    '/impressum',
+    async (
+        req: express.Request,
+        res: express.Response,
+        next: express.NextFunction
+    ) => {
+        try {
+            res.render('impressum');
+        } catch (error) {
+            res.redirect('/');
+        }
     }
-})
+);
 
 router.use(
     '/',
