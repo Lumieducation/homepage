@@ -15,7 +15,10 @@ app.use(
 
 app.engine('handlebars', exphbs());
 app.set('view engine', 'handlebars');
-app.enable('view cache');
+if (process.env.NODE_ENV === 'production') {
+    app.enable('view cache');
+}
+
 app.enable('trust proxy');
 
 app.use(
