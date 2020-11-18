@@ -19,6 +19,21 @@ router.use(
 );
 
 router.use(
+    '/imprint',
+    async (
+        req: express.Request,
+        res: express.Response,
+        next: express.NextFunction
+    ) => {
+        try {
+            res.render('imprint');
+        } catch (error) {
+            res.redirect('/');
+        }
+    }
+);
+
+router.use(
     '/',
     async (
         req: express.Request,
