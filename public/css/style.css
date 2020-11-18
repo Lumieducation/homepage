@@ -9448,7 +9448,7 @@ h5,
 .btn.btn-outline-white:hover,
 .btn.btn-outline-white:focus,
 .btn.btn-outline-white:active {
-    background: #fff;
+    background: #212121;
     border-color: #fff;
     color: #404044;
 }
