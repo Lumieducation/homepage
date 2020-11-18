@@ -9336,7 +9336,7 @@ h5,
 .home-slider .slider-item .slider-text .btn-primary:hover,
 .home-slider .slider-item .slider-text .btn-primary:focus {
     background: #fff !important;
-    color: #404044;
+    color: #404044 !important;
 }
 .home-slider .slider-item.bread-wrap .slider-text {
     color: #fff;
@@ -10107,7 +10107,7 @@ textarea.form-control {
     text-transform: uppercase;
     font-weight: 400;
     letter-spacing: 1px;
-    color: rgba(0, 0, 0, 0.2);
+    color: rgb(0, 0, 0);
 }
 .heading-section h2 {
     font-size: 34px;
