@@ -9606,17 +9606,17 @@ h5,
     position: relative;
     padding: 15em 0;
     background: #448ef6;
-    background: -moz-linear-gradient(45deg, #1abc9c 0%, #3498db 100%);
+    background: -moz-linear-gradient(90deg, #1abc9c 0%, #3498db 100%);
     background: -webkit-gradient(
-        left bottom,
-        right top,
+        left,
+        right,
         color-stop(0%, #1abc9c),
         color-stop(100%, #3498db)
     );
-    background: -webkit-linear-gradient(45deg, #1abc9c 0%, #3498db 100%);
-    background: -o-linear-gradient(45deg, #1abc9c 0%, #3498db 100%);
-    background: -ms-linear-gradient(45deg, #1abc9c 0%, #3498db 100%);
-    background: linear-gradient(45deg, #1abc9c 0%, #3498db 100%);
+    background: -webkit-linear-gradient(90deg, #1abc9c 0%, #3498db 100%);
+    background: -o-linear-gradient(90deg, #1abc9c 0%, #3498db 100%);
+    background: -ms-linear-gradient(90deg, #1abc9c 0%, #3498db 100%);
+    background: linear-gradient(90deg, #1abc9c 0%, #3498db 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#1abc9c", endColorstr="#3498db", GradientType=1 );
 }
 
@@ -10252,7 +10252,19 @@ textarea.form-control {
 }
 
 .ftco-counter {
-    background: #3498db;
+    background: #448ef6;
+    background: -moz-linear-gradient(90deg, #1abc9c 0%, #3498db 100%);
+    background: -webkit-gradient(
+        left,
+        right,
+        color-stop(0%, #1abc9c),
+        color-stop(100%, #3498db)
+    );
+    background: -webkit-linear-gradient(90deg, #1abc9c 0%, #3498db 100%);
+    background: -o-linear-gradient(90deg, #1abc9c 0%, #3498db 100%);
+    background: -ms-linear-gradient(90deg, #1abc9c 0%, #3498db 100%);
+    background: linear-gradient(90deg, #1abc9c 0%, #3498db 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#1abc9c", endColorstr="#3498db", GradientType=1 );
     padding: 15em 0;
 }
 .ftco-counter .text strong.number {
