@@ -19,14 +19,14 @@ router.use(
 );
 
 router.use(
-    '/impressum',
+    '/imprint',
     async (
         req: express.Request,
         res: express.Response,
         next: express.NextFunction
     ) => {
         try {
-            res.render('impressum');
+            res.render('imprint');
         } catch (error) {
             res.redirect('/');
         }
