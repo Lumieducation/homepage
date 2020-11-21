@@ -9934,7 +9934,7 @@ textarea.form-control {
     font-size: 24px;
 }
 .ftco-section {
-    padding: 8em 0;
+    padding: 2em 0;
     position: relative;
 }
 @media (max-width: 767.98px) {
@@ -10265,7 +10265,7 @@ textarea.form-control {
     background: -ms-linear-gradient(90deg, #1abc9c 0%, #3498db 100%);
     background: linear-gradient(90deg, #1abc9c 0%, #3498db 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#1abc9c", endColorstr="#3498db", GradientType=1 );
-    padding: 15em 0;
+    padding: 7em 0;
 }
 .ftco-counter .text strong.number {
     font-weight: 400;
