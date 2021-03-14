@@ -19,6 +19,21 @@ router.use(
 );
 
 router.use(
+    '/privacy-policy',
+    async (
+        req: express.Request,
+        res: express.Response,
+        next: express.NextFunction
+    ) => {
+        try {
+            res.render('privacy-policy');
+        } catch (error) {
+            res.redirect('/');
+        }
+    }
+);
+
+router.use(
     '/imprint',
     async (
         req: express.Request,

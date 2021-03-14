@@ -15,11 +15,15 @@
                             <strong class="number"> <i class="fa fa-windows"></i> Windows </strong>
                         </button>
                         <div class="dropdown-menu" aria-labelledby="windowsDownloadButton">
-                            <a class="dropdown-item" href="https://www.microsoft.com/store/apps/9PD83XFV86J4"><img
+                            <a 
+                            onclick="_paq.push(['trackEvent', 'Download', 'Download', 'Download', 'Windows (MS Store)']);"
+                            class="dropdown-item" href="https://www.microsoft.com/store/apps/9PD83XFV86J4"><img
                                     src="images/microsoft_store.svg" width="24" class="mr-1"></img> Download
                                 from the Microsoft Store (recommended)</a>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item"
+                            <a 
+                            onclick="_paq.push(['trackEvent', 'Download', 'Download', 'Download', 'Windows']);"
+                            class="dropdown-item"
                                 href="https://github.com/Lumieducation/Lumi/releases/download/v0.5.1/Lumi-Setup-0.5.1.exe">
                                 <i class="fa fa-file" style="font-size:20px; margin-right:10px;" aria-hidden="true"></i>
                                 Download installer (exe)</a>
@@ -34,7 +38,9 @@
             <div class="col-md-12 col-lg-4 d-flex justify-content-center counter-wrap">
                 <div class="block-18 text-center">
                     <div class="text">
-                        <a href="https://github.com/Lumieducation/Lumi/releases/download/v0.5.1/Lumi-0.5.1.dmg"
+                        <a
+                        onclick="_paq.push(['trackEvent', 'Download', 'Download', 'Download', 'macOS']);"
+                        href="https://github.com/Lumieducation/Lumi/releases/download/v0.5.1/Lumi-0.5.1.dmg"
                             class="btn btn-primary btn-outline-white mb-md-3 px-4 py-3 cloud-download">
                             <strong class="number"><i class="fa fa-apple"></i> macOS</strong></a>
                     </div>
@@ -49,9 +55,13 @@
                             <strong class="number"><i class="fa fa-linux"></i> Linux</strong>
                         </button>
                         <div class="dropdown-menu" aria-labelledby="linuxDownloadButton">
-                            <a class="dropdown-item" href="https://snapcraft.io/lumi">Download from the Snap Store</a>
+                            <a 
+                            onclick="_paq.push(['trackEvent', 'Download', 'Download', 'Download', 'Linux (Snap)']);"
+                            class="dropdown-item" href="https://snapcraft.io/lumi">Download from the Snap Store</a>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item"
+                            <a
+                            onclick="_paq.push(['trackEvent', 'Download', 'Download', 'Download', 'Linux (AppImage)']);"
+                             class="dropdown-item"
                                 href="https://github.com/Lumieducation/Lumi/releases/download/v0.5.1/Lumi-0.5.1.AppImage">
                                 Download AppImage</a>
                         </div>
