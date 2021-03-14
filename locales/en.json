@@ -1,0 +1,60 @@
+{
+    "mission": {
+        "make_learning": "Make learning",
+        "accessible": "accessible.",
+        "individual": "individual.",
+        "exciting": "exciting."
+    },
+    "home": {
+        "welcome": "Lumi is a desktop app that allows you to create, edit,view and share interactive content with dozens of different content types.",
+        "get_started": "Get Started"
+    },
+    "navigation": {
+        "home": "Home",
+        "menu": "Menu",
+        "newsletter": "Newsletter",
+        "download": "Download"
+    },
+    "newsletter": {
+        "placeholder": "enter your email address to receive our newsletter",
+        "subscribe": "Subscribe"
+    },
+    "features": {
+        "subheading": "Lumi H5P Editor",
+        "heading": "Create, edit and view H5P files directly on your computer.",
+        "h5p": {
+            "heading": "All H5P Hub Content Types",
+            "description": "You can choose from over 40 content types and directly download them from the H5P Hub."
+        },
+        "use": {
+            "heading": "Easy to use",
+            "description": "You don't need any programming knowledge to create engaging interactive content with Lumi!"
+        },
+        "preview": {
+            "heading": "Quick preview",
+            "description": "Check your changes without saving by switching to the preview."
+        },
+        "standalone": {
+            "heading": "Runs standalone",
+            "description": "Lumi runs as a desktop program on your computer and it can export HTML files that work on nearly all devices. No need for a Leraning Management System like Moodle or a Content Management System like WordPress.                           "
+        }
+    },
+    "download": {
+        "title": "Download Lumi",
+        "windows_download_store": "Download from the Microsoft Store (recommended)",
+        "window_download_installer": "Download installer (exe)",
+        "download": "Download",
+        "bypass_smartscreen": "Learn here how to bypass Windows's SmartScreen filter (only needed for exe-installer)."
+    },
+    "footer": {
+        "company": "Company",
+        "mission": "Make learning accessible, individual and exciting.",
+        "quick_links": "Quikc Links",
+        "contact": "Contact",
+        "privacy": "Privacy",
+        "imprint": "Imprint",
+        "contact_information": "Contact Information",
+        "newsletter": "Newsletter",
+        "newsletter_description": "Get the latest news from Lumi."
+    }
+}
