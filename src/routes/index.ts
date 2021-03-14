@@ -1,6 +1,8 @@
 import * as express from 'express';
 import * as superagent from 'superagent';
 
+import i18next from 'i18next';
+
 const router = express.Router();
 
 router.use(
@@ -64,9 +66,11 @@ router.use(
                 )
                 .set('User-Agent', 'Lumi.education-Homepage');
 
-            res.render('home', { release: releaseInfo.body.name });
+            res.render('home', {
+                release: releaseInfo.body.name
+            });
         } catch (error) {
-            res.render('home', { release: '0.2.35' });
+            res.render('home', { release: '0.2.35', test: 'moo' });
         }
     }
 );
