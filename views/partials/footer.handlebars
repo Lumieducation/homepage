@@ -3,10 +3,9 @@
         <div class="row mb-5">
             <div class="col-md">
                 <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2">Company</h2>
+                    <h2 class="ftco-heading-2">{{i18n "footer.company"}}</h2>
                     <p>
-                        Lumi - A world in which learning is individual,
-                        exciting and interactive.
+                       {{i18n "footer.mission"}}
                     </p>
                     <!-- <ul
                 class="ftco-footer-social list-unstyled float-md-left float-lft"
@@ -25,27 +24,27 @@
             </div>
             <div class="col-md">
                 <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2">Quick Links</h2>
+                    <h2 class="ftco-heading-2">{{i18n "footer.quick_links"}}</h2>
                     <ul class="list-unstyled">
                         <!-- <li><a href="#" class="py-2 d-block">Home</a></li>
                 <li><a href="#" class="py-2 d-block">About</a></li>
                 <li><a href="#" class="py-2 d-block">Services</a></li>
                 <li><a href="#" class="py-2 d-block">Portfolio</a></li> -->
                         <li>
-                            <a href="#" class="py-2 d-block">Contact</a>
+                            <a href="#" class="py-2 d-block">{{i18n "footer.contact"}}</a>
                         </li>
                         <li>
-                            <a href="#" class="py-2 d-block">Privacy</a>
+                            <a href="#" class="py-2 d-block">{{i18n "footer.privacy"}}</a>
                         </li>
                         <li>
-                            <a href="/imprint" class="py-2 d-block">Imprint</a>
+                            <a href="/imprint" class="py-2 d-block">{{i18n "footer.imprint"}}</a>
                         </li>
                     </ul>
                 </div>
             </div>
             <div class="col-md">
                 <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2">Contact Information</h2>
+                    <h2 class="ftco-heading-2">{{i18n "footer.contact_information"}}</h2>
                     <ul class="list-unstyled">
                         <li>
                             <a href="#" class="py-2 d-block">Frida-Kahlo-Straße 41 - D-38126
@@ -59,8 +58,8 @@
             </div>
             <div class="col-md">
                 <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2">Newsletter</h2>
-                    <p>Get the latest news from Lumi.</p>
+                    <h2 class="ftco-heading-2">{{i18n "footer.newsletter"}}</h2>
+                    <p>{{ i18n "footer.newsletter_description"}}</p>
                     <div id="mc_embed_signup">
                         <form
                             action="https://education.us16.list-manage.com/subscribe/post?u=d013a4abbc01289bdbf145fcb&amp;id=72e27cfeee"
@@ -70,7 +69,7 @@
                                 <div class="form-group">
                                     <input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL">
 
-                                    <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe"
+                                    <input type="submit" value={{i18n "newsletter.subscribe"}} name="subscribe" id="mc-embedded-subscribe"
                                         class="button"></input>
                         </form>
                     </div>
