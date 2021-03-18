@@ -6,55 +6,55 @@
         "exciting": "aufregend."
     },
     "home": {
-        "welcome": "Lumi ist eine Desktop-App, mit der Sie interaktive Inhalte mit Dutzenden verschiedener Inhaltstypen erstellen, bearbeiten, anzeigen und freigeben können.",
+        "welcome": "Lumi ist eine Desktop-App, mit der du interaktive Inhalte mit dutzenden verschiedenen Inhaltstypen erstellen, bearbeiten, anzeigen und weitergeben kannst.",
         "get_started": "Loslegen"
     },
     "navigation": {
-        "home": "Zuhause",
-        "menu": "Speisekarte",
+        "home": "Home",
+        "menu": "Menü",
         "newsletter": "Newsletter",
         "download": "Herunterladen"
     },
     "newsletter": {
-        "placeholder": "Geben Sie Ihre E-Mail-Adresse ein, um unseren Newsletter zu erhalten",
+        "placeholder": "Gib deine E-Mail-Adresse ein, um unseren Newsletter zu erhalten",
         "subscribe": "Abonnieren"
     },
     "features": {
-        "subheading": "Lumi H5P Editor",
-        "heading": "Erstellen, bearbeiten und anzeigen Sie H5P-Dateien direkt auf Ihrem Computer.",
+        "subheading": "Lumi H5P-Editor",
+        "heading": "Erstelle, bearbeite und zeige H5P-Dateien direkt auf deinem Computer an.",
         "h5p": {
             "heading": "Alle H5P Hub-Inhaltstypen",
-            "description": "Sie können aus über 40 Inhaltstypen auswählen und diese direkt vom H5P Hub herunterladen."
+            "description": "Du kannst aus über 40 Inhaltstypen auswählen und diese direkt vom H5P-Hub herunterladen."
         },
         "use": {
             "heading": "Einfach zu verwenden",
-            "description": "Sie benötigen keine Programmierkenntnisse, um mit Lumi ansprechende interaktive Inhalte zu erstellen!"
+            "description": "Du benötigst keine Programmierkenntnisse, um mit Lumi ansprechende interaktive Inhalte zu erstellen!"
         },
         "preview": {
             "heading": "Schnelle Vorschau",
-            "description": "Überprüfen Sie Ihre Änderungen, ohne sie zu speichern, indem Sie zur Vorschau wechseln."
+            "description": "Überprüfe deine Änderungen, ohne sie zu speichern, indem du zur Vorschau wechselt."
         },
         "standalone": {
             "heading": "Läuft eigenständig",
-            "description": "Lumi wird als Desktop-Programm auf Ihrem Computer ausgeführt und kann HTML-Dateien exportieren, die auf fast allen Geräten funktionieren. Kein Leraning Management System wie Moodle oder ein Content Management System wie WordPress erforderlich."
+            "description": "Lumi wird als Desktop-Programm auf deinem Computer ausgeführt und kann HTML-Dateien exportieren, die auf fast allen Geräten funktionieren. Es ist kein Learning Management System wie Moodle oder ein Content Management System wie WordPress erforderlich.                           "
         }
     },
     "download": {
-        "title": "Laden Sie Lumi herunter",
+        "title": "Lade Lumi herunter",
         "windows_download_store": "Download aus dem Microsoft Store (empfohlen)",
         "window_download_installer": "Installationsprogramm herunterladen (exe)",
         "download": "Herunterladen",
-        "bypass_smartscreen": "Erfahren Sie hier, wie Sie den SmartScreen-Filter von Windows umgehen (nur für das Exe-Installationsprogramm erforderlich)."
+        "bypass_smartscreen": "Lese hier, wie du den SmartScreen-Filter von Windows umgehst (nur für das Exe-Installationsprogramm erforderlich)."
     },
     "footer": {
         "company": "Unternehmen",
-        "mission": "Machen Sie das Lernen zugänglich, individuell und aufregend.",
-        "quick_links": "Quikc Links",
+        "mission": "Mache Lernen zugänglich, individuell und aufregend.",
+        "quick_links": "Kurzlinks",
         "contact": "Kontakt",
-        "privacy": "Privatsphäre",
+        "privacy": "Datenschutzerklärung",
         "imprint": "Impressum",
-        "contact_information": "Kontakt Informationen",
+        "contact_information": "Kontaktinformationen",
         "newsletter": "Newsletter",
-        "newsletter_description": "Erhalten Sie die neuesten Nachrichten von Lumi."
+        "newsletter_description": "Erhalte die neuesten Nachrichten von Lumi."
     }
 }
