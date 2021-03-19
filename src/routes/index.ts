@@ -1,9 +1,27 @@
 import * as express from 'express';
 import * as superagent from 'superagent';
 
-import i18next from 'i18next';
-
 const router = express.Router();
+
+router.post(
+    '/api/v0/newsletter',
+    (req: express.Request, res: express.Response) => {
+        superagent
+            .post(process.env.NEWSLETTER_API)
+            .auth('anykey', process.env.NEWSLETTER_API_KEY)
+            .send({
+                email_address: req.body.email_address,
+                status: 'pending'
+            })
+            .end((err, response) => {
+                if (err) {
+                    res.status(400).end();
+                } else {
+                    res.status(200).end();
+                }
+            });
+    }
+);
 
 router.use(
     '/app/privacy-policy',
