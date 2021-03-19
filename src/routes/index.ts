@@ -1,8 +1,6 @@
 import * as express from 'express';
 import * as superagent from 'superagent';
 
-import i18next from 'i18next';
-
 const router = express.Router();
 
 router.use(
@@ -14,6 +12,21 @@ router.use(
     ) => {
         try {
             res.render('app/privacy-policy');
+        } catch (error) {
+            res.redirect('/');
+        }
+    }
+);
+
+router.use(
+    '/privacy-policy',
+    async (
+        req: express.Request,
+        res: express.Response,
+        next: express.NextFunction
+    ) => {
+        try {
+            res.render('privacy-policy');
         } catch (error) {
             res.redirect('/');
         }
@@ -55,7 +68,7 @@ router.use(
                 release: releaseInfo.body.name
             });
         } catch (error) {
-            res.render('home', { release: '0.2.35', test: 'moo' });
+            res.render('home', { release: '0.5.3' });
         }
     }
 );
