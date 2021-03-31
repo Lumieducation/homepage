@@ -1,1 +1,60 @@
-{}
+{
+    "footer": {
+        "newsletter_description": "Kry die nuutse nuus vanaf Lumi.",
+        "newsletter": "Nuusbrief",
+        "contact_information": "Kontak informasie",
+        "imprint": "Afdruk",
+        "privacy": "Privaatheid",
+        "contact": "Kontak",
+        "quick_links": "Spoedskakels",
+        "mission": "Maak onderrig toeganklik, individueel en opwindend.",
+        "company": "Maatskappy"
+    },
+    "download": {
+        "bypass_smartscreen": "Leer hoe jy die SmartScreen-filter van Windows kan omseil (slegs nodig vir 'n exe-installasie).",
+        "download": "Laai af",
+        "window_download_installer": "Laai installeerder af (exe)",
+        "windows_download_store": "Laai van die Microsoft Winkel af (word aanbeveel)",
+        "title": "Laai Lumi af"
+    },
+    "features": {
+        "standalone": {
+            "description": "Lumi werk as 'n program op jou rekenaar en kan HTML-lêers uitvoer wat op byna alle toestelle werk. Geen Leerbestuurstelsel (LBS) soos Moodle of 'n inhoudsbestuurstelsel soos WordPress is nodig nie.                           ",
+            "heading": "Loop losstaande"
+        },
+        "preview": {
+            "description": "Toets jou veranderinge sonder om te stoor deur na die voorskou oor te slaan.",
+            "heading": "Vinnige voorskou"
+        },
+        "use": {
+            "description": "Jy het geen programeringskennis nodig om innemende interaktiewe inhoud met Lumi te skep nie!",
+            "heading": "Maklik om te gebruik"
+        },
+        "h5p": {
+            "description": "Jy kan kies van meer as 40 inhoudtipes en hul direk vanaf die H5P Hub aflaai.",
+            "heading": "Alle H5P Hup inhoudtipes"
+        },
+        "heading": "Skep, redigeer en beskou H5P lêers direk op jou rekenaar.",
+        "subheading": "Lumi H5P redigeerder"
+    },
+    "newsletter": {
+        "subscribe": "Teken in",
+        "placeholder": "voer jou epos adres in om ons nuusbrief te ontvang"
+    },
+    "navigation": {
+        "download": "Laai af",
+        "newsletter": "Nuusbrief",
+        "menu": "Menu",
+        "home": "Tuis"
+    },
+    "home": {
+        "get_started": "Begin",
+        "welcome": "Lumi is 'n rekenaartoep wat jou in staat stel om interaktiewe inhoud met vele ander inhoudtipes te skep, redigeer, wys en te deel."
+    },
+    "mission": {
+        "exciting": "opwindend.",
+        "individual": "individueel.",
+        "accessible": "toeganklik.",
+        "make_learning": "Maak onderrig"
+    }
+}
