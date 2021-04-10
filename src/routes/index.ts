@@ -68,7 +68,7 @@ router.use(
                 release: releaseInfo.body.name
             });
         } catch (error) {
-            res.render('home', { release: '0.5.3' });
+            res.render('home', { release: '0.6.1' });
         }
     }
 );
