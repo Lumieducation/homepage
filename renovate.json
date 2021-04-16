@@ -1,0 +1,15 @@
+{
+    "extends": ["config:base"],
+    "labels": ["[type] chore"],
+    "automerge": true,
+    "major": {
+        "automerge": false
+    },
+    "lockFileMaintenance": {
+        "enabled": true
+    },
+    "prConcurrentLimit": 0,
+    "prHourlyLimit": 50,
+    "semanticCommits": true,
+    "semanticCommitType": "chore"    
+}
