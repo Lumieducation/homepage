@@ -1,0 +1,24 @@
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: lumi-homepage-ingress
+  annotations:
+    cert-manager.io/cluster-issuer: letsencrypt-production
+    nginx.ingress.kubernetes.io/proxy-body-size: 200m
+spec:
+  tls:
+  - hosts:
+    - homepage.testcluster2.lumi-dev.tk
+    secretName: production-issuer-account-key
+  rules:
+  - host: homepage.testcluster2.lumi-dev.tk
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: lumi-homepage-svc
+            port:
+              number: 80

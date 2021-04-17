@@ -21,3 +21,5 @@ microsoft.gpg
 # Dependency directory
 node_modules
 /h5p
+
+.secrets
