@@ -5,7 +5,7 @@ FROM node:14 AS BUILD_IMAGE
 # install 
 RUN npm install -g clean-modules
 WORKDIR /app
-COPY ./package*.json /app
+COPY ./package*.json /app/
 RUN npm ci 
 
 COPY . /app/
