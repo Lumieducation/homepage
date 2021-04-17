@@ -43,15 +43,15 @@ jobs:
                   docker build . -t lumieducation/homepage:${{ github.sha }}
                   docker push lumieducation/homepage:${{ github.sha }}
 
-            - uses: azure/setup-kubectl@v1
-              id: install
-
             - uses: azure/k8s-set-context@v1
               with:
                 method: service-account
                 k8s-url: ${{ secrets.K8S_URL }}
                 k8s-secret: ${{ secrets.K8S_SECRET }}
               id: setcontext
+
+            - uses: azure/setup-kubectl@v1
+              id: install
 
             - uses: azure/k8s-deploy@v1.4
               with:
