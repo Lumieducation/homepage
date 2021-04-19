@@ -36,7 +36,7 @@
         },
         "standalone": {
             "heading": "Runs standalone",
-            "description": "Lumi runs as a desktop program on your computer and it can export HTML files that work on nearly all devices. No need for a Leraning Management System like Moodle or a Content Management System like WordPress.                           "
+            "description": "Lumi runs as a desktop program on your computer and it can export HTML files that work on nearly all devices. No need for a Learning Management System like Moodle or a Content Management System like WordPress."
         }
     },
     "download": {
