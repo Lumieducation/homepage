@@ -19,7 +19,7 @@
     },
     "features": {
         "standalone": {
-            "description": "Lumi se ejecuta como un programa de escritorio en su computadora y puede exportar archivos HTML que funcionan en casi todos los dispositivos. No hay necesidad de un Sistema de Manejo del Aprendizaje como Moodle, ni de un Sistema de Manejo del Contenido como Wordpress.                           ",
+            "description": "Lumi se ejecuta como un programa de escritorio en su computadora y puede exportar archivos HTML que funcionan en casi todos los dispositivos. No hay necesidad de un Sistema de Manejo del Aprendizaje como Moodle, ni de un Sistema de Manejo del Contenido como Wordpress.",
             "heading": "Ejecuta independientemente"
         },
         "preview": {
