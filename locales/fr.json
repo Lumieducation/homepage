@@ -1,1 +1,60 @@
-{"mission":{"make_learning":"Faire l'apprentissage","accessible":"accessible.","individual":"individuel.","exciting":"passionnant."},"home":{"welcome":"Lumi est une application de bureau qui vous permet de créer, modifier, afficher et partager du contenu interactif avec des dizaines de types de contenu différents.","get_started":"Commencer"},"navigation":{"home":"Maison","menu":"Menu","newsletter":"Bulletin","download":"Télécharger"},"newsletter":{"placeholder":"entrez votre adresse e-mail pour recevoir notre newsletter","subscribe":"S'abonner"},"features":{"subheading":"Éditeur Lumi H5P","heading":"Créez, modifiez et visualisez les fichiers H5P directement sur votre ordinateur.","h5p":{"heading":"Tous les types de contenu H5P Hub","description":"Vous pouvez choisir parmi plus de 40 types de contenu et les télécharger directement à partir du H5P Hub."},"use":{"heading":"Facile à utiliser","description":"Vous n'avez besoin d'aucune connaissance en programmation pour créer du contenu interactif engageant avec Lumi!"},"preview":{"heading":"Aperçu rapide","description":"Vérifiez vos modifications sans enregistrer en passant à l'aperçu."},"standalone":{"heading":"Fonctionne de manière autonome","description":"Lumi fonctionne comme un programme de bureau sur votre ordinateur et il peut exporter des fichiers HTML qui fonctionnent sur presque tous les appareils. Pas besoin d'un système de gestion Leraning comme Moodle ou d'un système de gestion de contenu comme WordPress."}},"download":{"title":"Télécharger Lumi","windows_download_store":"Télécharger depuis le Microsoft Store (recommandé)","window_download_installer":"Télécharger l'installateur (exe)","download":"Télécharger","bypass_smartscreen":"Apprenez ici comment contourner le filtre SmartScreen de Windows (nécessaire uniquement pour le programme d'installation exe)."},"footer":{"company":"Entreprise","mission":"Rendez l'apprentissage accessible, individuel et passionnant.","quick_links":"Liens Quikc","contact":"Contacter","privacy":"Vie privée","imprint":"Imprimer","contact_information":"Coordonnées","newsletter":"Bulletin","newsletter_description":"Recevez les dernières nouvelles de Lumi."}}
+{
+    "mission": {
+        "make_learning": "Faire l'apprentissage",
+        "accessible": "accessible.",
+        "individual": "individuel.",
+        "exciting": "passionnant."
+    },
+    "home": {
+        "welcome": "Lumi est une application de bureau qui vous permet de créer, modifier, afficher et partager du contenu interactif avec des dizaines de types de contenu différents.",
+        "get_started": "Commencer"
+    },
+    "navigation": {
+        "home": "Accueil",
+        "menu": "Menu",
+        "newsletter": "Newsletter",
+        "download": "Télécharger"
+    },
+    "newsletter": {
+        "placeholder": "entrez votre adresse e-mail pour recevoir notre newsletter",
+        "subscribe": "S'abonner"
+    },
+    "features": {
+        "subheading": "Éditeur Lumi H5P",
+        "heading": "Créez, modifiez et visualisez les fichiers H5P directement sur votre ordinateur.",
+        "h5p": {
+            "heading": "Tous les types de contenu H5P Hub",
+            "description": "Vous pouvez choisir parmi plus de 40 types de contenu et les télécharger directement à partir du H5P Hub."
+        },
+        "use": {
+            "heading": "Facile à utiliser",
+            "description": "Vous n'avez besoin d'aucune connaissance en programmation pour créer du contenu interactif engageant avec Lumi!"
+        },
+        "preview": {
+            "heading": "Aperçu rapide",
+            "description": "Vérifiez vos modifications sans enregistrer en passant à l'aperçu."
+        },
+        "standalone": {
+            "heading": "Fonctionne de manière autonome",
+            "description": "Lumi fonctionne comme un programme de bureau sur votre ordinateur et il peut exporter des fichiers HTML qui fonctionnent sur presque tous les appareils. Pas besoin d'un système de gestion Leraning comme Moodle ou d'un système de gestion de contenu comme WordPress."
+        }
+    },
+    "download": {
+        "title": "Télécharger Lumi",
+        "windows_download_store": "Télécharger depuis le Microsoft Store (recommandé)",
+        "window_download_installer": "Télécharger l'installateur (exe)",
+        "download": "Télécharger",
+        "bypass_smartscreen": "Apprenez ici comment contourner le filtre SmartScreen de Windows (nécessaire uniquement pour le programme d'installation exe)."
+    },
+    "footer": {
+        "company": "Entreprise",
+        "mission": "Rendez l'apprentissage accessible, individuel et passionnant.",
+        "quick_links": "Liens Quikc",
+        "contact": "Contacter",
+        "privacy": "Vie privée",
+        "imprint": "Imprimer",
+        "contact_information": "Coordonnées",
+        "newsletter": "Bulletin",
+        "newsletter_description": "Recevez les dernières nouvelles de Lumi."
+    }
+}
