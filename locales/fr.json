@@ -1,6 +1,6 @@
 {
     "mission": {
-        "make_learning": "Faire l'apprentissage",
+        "make_learning": "Rendez l'apprentissage",
         "accessible": "accessible.",
         "individual": "individuel.",
         "exciting": "passionnant."
@@ -36,7 +36,7 @@
         },
         "standalone": {
             "heading": "Fonctionne de manière autonome",
-            "description": "Lumi fonctionne comme un programme de bureau sur votre ordinateur et il peut exporter des fichiers HTML qui fonctionnent sur presque tous les appareils. Pas besoin d'un système de gestion Leraning comme Moodle ou d'un système de gestion de contenu comme WordPress."
+            "description": "Lumi fonctionne comme un programme de bureau sur votre ordinateur et il peut exporter des fichiers HTML qui fonctionnent sur presque tous les appareils. Pas besoin d'un système de gestion de l'apprentissage comme Moodle ou d'un système de gestion de contenu comme WordPress."
         }
     },
     "download": {
