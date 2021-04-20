@@ -1,1 +1,66 @@
-{"mission":{"make_learning":"Tee oppiminen","accessible":"saatavilla.","individual":"yksilö.","exciting":"jännittävä."},"home":{"welcome":"Lumi on työpöytäsovellus, jonka avulla voit luoda, muokata, tarkastella ja jakaa interaktiivista sisältöä kymmenien erilaisten sisältötyyppien kanssa.","get_started":"Aloittaa"},"navigation":{"home":"Koti","menu":"Valikko","newsletter":"Uutiskirje","download":"ladata"},"newsletter":{"placeholder":"kirjoita sähköpostiosoitteesi saadaksesi uutiskirjeemme","subscribe":"Tilaa"},"features":{"subheading":"Lumi H5P -editori","heading":"Luo, muokkaa ja tarkastele H5P-tiedostoja suoraan tietokoneellasi.","h5p":{"heading":"Kaikki H5P-keskittimen sisältötyypit","description":"Voit valita yli 40 sisältötyypistä ja ladata ne suoraan H5P-keskittimestä."},"use":{"heading":"Helppokäyttöinen","description":"Et tarvitse mitään ohjelmointitaitoa luodaksesi kiinnostavaa interaktiivista sisältöä Lumin kanssa!"},"preview":{"heading":"Nopea esikatselu","description":"Tarkista muutokset tallentamatta siirtymällä esikatseluun."},"standalone":{"heading":"Toimii itsenäisesti","description":"Lumi toimii tietokoneesi työpöytäohjelmana, ja se voi viedä HTML-tiedostoja, jotka toimivat lähes kaikilla laitteilla. Ei tarvetta Leraning-hallintajärjestelmälle, kuten Moodle, tai sisällönhallintajärjestelmälle, kuten WordPress."}},"download":{"title":"Lataa Lumi","windows_download_store":"Lataa Microsoft Storesta (suositus)","window_download_installer":"Lataa asennusohjelma (exe)","download":"ladata","bypass_smartscreen":"Opi täältä, kuinka ohittaa Windowsin SmartScreen-suodatin (tarvitaan vain exe-installerille)."},"footer":{"company":"Yhtiö","mission":"Tee oppimisesta helppoa, yksilöllistä ja jännittävää.","quick_links":"Quikc Linkit","contact":"Ottaa yhteyttä","privacy":"Yksityisyys","imprint":"Jälki","contact_information":"Yhteystiedot","newsletter":"Uutiskirje","newsletter_description":"Hanki viimeisimmät uutiset Lumilta."}}
+{
+    "mission": {
+        "make_learning": "Tee oppiminen",
+        "accessible": "saatavilla.",
+        "individual": "yksilö.",
+        "exciting": "jännittävä."
+    },
+    "home": {
+        "welcome": "Lumi on työpöytäsovellus, jonka avulla voit luoda, muokata, tarkastella ja jakaa interaktiivista sisältöä kymmenien erilaisten sisältötyyppien kanssa.",
+        "get_started": "Aloittaa"
+    },
+    "navigation": {
+        "home": "Koti",
+        "menu": "Valikko",
+        "newsletter": "Uutiskirje",
+        "download": "ladata"
+    },
+    "newsletter": {
+        "placeholder": "kirjoita sähköpostiosoitteesi saadaksesi uutiskirjeemme",
+        "subscribe": "Tilaa"
+    },
+    "features": {
+        "subheading": "Lumi H5P -editori",
+        "heading": "Luo, muokkaa ja tarkastele H5P-tiedostoja suoraan tietokoneellasi.",
+        "h5p": {
+            "heading": "Kaikki H5P-keskittimen sisältötyypit",
+            "description": "Voit valita yli 40 sisältötyypistä ja ladata ne suoraan H5P-keskittimestä."
+        },
+        "use": {
+            "heading": "Helppokäyttöinen",
+            "description": "Et tarvitse mitään ohjelmointitaitoa luodaksesi kiinnostavaa interaktiivista sisältöä Lumin kanssa!"
+        },
+        "preview": {
+            "heading": "Nopea esikatselu",
+            "description": "Tarkista muutokset tallentamatta siirtymällä esikatseluun."
+        },
+        "standalone": {
+            "heading": "Toimii itsenäisesti",
+            "description": "Lumi toimii tietokoneesi työpöytäohjelmana, ja se voi viedä HTML-tiedostoja, jotka toimivat lähes kaikilla laitteilla. Ei tarvetta Leraning-hallintajärjestelmälle, kuten Moodle, tai sisällönhallintajärjestelmälle, kuten WordPress."
+        }
+    },
+    "download": {
+        "title": "Lataa Lumi",
+        "windows_download_store": "Lataa Microsoft Storesta (suositus)",
+        "window_download_installer": "Lataa asennusohjelma (exe)",
+        "download": "ladata",
+        "bypass_smartscreen": "Opi täältä, kuinka ohittaa Windowsin SmartScreen-suodatin (tarvitaan vain exe-installerille)."
+    },
+    "footer": {
+        "company": "Yhtiö",
+        "mission": "Tee oppimisesta helppoa, yksilöllistä ja jännittävää.",
+        "quick_links": "Quikc Linkit",
+        "contact": "Ottaa yhteyttä",
+        "privacy": "Yksityisyys",
+        "imprint": "Jälki",
+        "contact_information": "Yhteystiedot",
+        "newsletter": "Uutiskirje",
+        "newsletter_description": "Hanki viimeisimmät uutiset Lumilta."
+    },
+    "meta": {
+        "description": "Lumi on työpöytäsovellus, jonka avulla voit luoda, muokata, tarkastella ja jakaa interaktiivista sisältöä kymmenien erilaisten sisältötyyppien kanssa.",
+        "keywords": "luoda, jakaa, vuorovaikutteista sisältöä, vuorovaikutteisia harjoituksia, h5p, verkko-oppiminen, e-oppiminen, scorm, xapi, kirjoitustyökalu, offline, erillinen, html5",
+        "pageTopic": "koulutus",
+        "pageType": "ohjelmiston lataus"
+    }
+}

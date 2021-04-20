@@ -1,1 +1,66 @@
-{"mission":{"make_learning":"Fai apprendimento","accessible":"accessibile.","individual":"individuale.","exciting":"eccitante."},"home":{"welcome":"Lumi è un'app desktop che consente di creare, modificare, visualizzare e condividere contenuti interattivi con dozzine di diversi tipi di contenuto.","get_started":"Iniziare"},"navigation":{"home":"Casa","menu":"Menù","newsletter":"Newsletter","download":"Scarica"},"newsletter":{"placeholder":"Inserisci il tuo indirizzo email per ricevere la nostra newsletter","subscribe":"sottoscrivi"},"features":{"subheading":"Lumi H5P Editor","heading":"Crea, modifica e visualizza i file H5P direttamente sul tuo computer.","h5p":{"heading":"Tutti i tipi di contenuto dell'hub H5P","description":"Puoi scegliere tra oltre 40 tipi di contenuto e scaricarli direttamente dall'H5P Hub."},"use":{"heading":"Facile da usare","description":"Non hai bisogno di alcuna conoscenza di programmazione per creare contenuti interattivi coinvolgenti con Lumi!"},"preview":{"heading":"Anteprima rapida","description":"Controlla le modifiche senza salvare passando all'anteprima."},"standalone":{"heading":"Funziona da solo","description":"Lumi funziona come un programma desktop sul tuo computer e può esportare file HTML che funzionano su quasi tutti i dispositivi. Non c'è bisogno di un sistema di gestione Leraning come Moodle o di un sistema di gestione dei contenuti come WordPress."}},"download":{"title":"Download Lumi","windows_download_store":"Scarica da Microsoft Store (consigliato)","window_download_installer":"Scarica il programma di installazione (exe)","download":"Scarica","bypass_smartscreen":"Scopri qui come bypassare il filtro SmartScreen di Windows (necessario solo per exe-installer)."},"footer":{"company":"Azienda","mission":"Rendi l'apprendimento accessibile, individuale ed entusiasmante.","quick_links":"Collegamenti Quikc","contact":"Contatto","privacy":"Privacy","imprint":"Impronta","contact_information":"Informazioni sui contatti","newsletter":"Newsletter","newsletter_description":"Ricevi le ultime notizie da Lumi."}}
+{
+    "mission": {
+        "make_learning": "Fai apprendimento",
+        "accessible": "accessibile.",
+        "individual": "individuale.",
+        "exciting": "eccitante."
+    },
+    "home": {
+        "welcome": "Lumi è un'app desktop che consente di creare, modificare, visualizzare e condividere contenuti interattivi con dozzine di diversi tipi di contenuto.",
+        "get_started": "Iniziare"
+    },
+    "navigation": {
+        "home": "Casa",
+        "menu": "Menù",
+        "newsletter": "Newsletter",
+        "download": "Scarica"
+    },
+    "newsletter": {
+        "placeholder": "Inserisci il tuo indirizzo email per ricevere la nostra newsletter",
+        "subscribe": "sottoscrivi"
+    },
+    "features": {
+        "subheading": "Lumi H5P Editor",
+        "heading": "Crea, modifica e visualizza i file H5P direttamente sul tuo computer.",
+        "h5p": {
+            "heading": "Tutti i tipi di contenuto dell'hub H5P",
+            "description": "Puoi scegliere tra oltre 40 tipi di contenuto e scaricarli direttamente dall'H5P Hub."
+        },
+        "use": {
+            "heading": "Facile da usare",
+            "description": "Non hai bisogno di alcuna conoscenza di programmazione per creare contenuti interattivi coinvolgenti con Lumi!"
+        },
+        "preview": {
+            "heading": "Anteprima rapida",
+            "description": "Controlla le modifiche senza salvare passando all'anteprima."
+        },
+        "standalone": {
+            "heading": "Funziona da solo",
+            "description": "Lumi funziona come un programma desktop sul tuo computer e può esportare file HTML che funzionano su quasi tutti i dispositivi. Non c'è bisogno di un sistema di gestione Leraning come Moodle o di un sistema di gestione dei contenuti come WordPress."
+        }
+    },
+    "download": {
+        "title": "Download Lumi",
+        "windows_download_store": "Scarica da Microsoft Store (consigliato)",
+        "window_download_installer": "Scarica il programma di installazione (exe)",
+        "download": "Scarica",
+        "bypass_smartscreen": "Scopri qui come bypassare il filtro SmartScreen di Windows (necessario solo per exe-installer)."
+    },
+    "footer": {
+        "company": "Azienda",
+        "mission": "Rendi l'apprendimento accessibile, individuale ed entusiasmante.",
+        "quick_links": "Collegamenti Quikc",
+        "contact": "Contatto",
+        "privacy": "Privacy",
+        "imprint": "Impronta",
+        "contact_information": "Informazioni sui contatti",
+        "newsletter": "Newsletter",
+        "newsletter_description": "Ricevi le ultime notizie da Lumi."
+    },
+    "meta": {
+        "description": "Lumi è un'app desktop che consente di creare, modificare, visualizzare e condividere contenuti interattivi con dozzine di diversi tipi di contenuto.",
+        "keywords": "creare, condividere, contenuto interattivo, esercizi interattivi, h5p, e-learning, elearning, scorm, xapi, strumento di authoring, offline, autonomo, html5",
+        "pageTopic": "formazione scolastica",
+        "pageType": "download del software"
+    }
+}

@@ -56,5 +56,11 @@
         "individual": "individual.",
         "accessible": "accesible.",
         "make_learning": "Hacer aprendizaje"
+    },
+    "meta": {
+        "description": "Lumi es una aplicación de escritorio que le permite crear, editar, ver y compartir contenido interactivo con docenas de diferentes tipos de contenido.",
+        "keywords": "crear, compartir, contenido interactivo, ejercicios interactivos, h5p, e-learning, elearning, scorm, xapi, herramienta de autoría, sin conexión, independiente, html5",
+        "pageTopic": "educación",
+        "pageType": "Descarga de software"
     }
 }

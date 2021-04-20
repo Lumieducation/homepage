@@ -21,7 +21,9 @@
         "format:check": "npx prettier --check \"{src,test}/**/*.ts\"",
         "lint": "./node_modules/.bin/tslint --project tsconfig.json --config tslint.json",
         "uninstall": "rm -rf build/ && rm -rf node_modules/",
-        "heroku-postbuild": "npm run build"
+        "heroku-postbuild": "npm run build",
+        "watch": "nodemon",
+        "localize": "json-autotranslate -d --directory-structure ngx-translate -c google_translate.json -s google-translate --decode-escapes -t key-based -i locales -m i18next && prettier --write \"locales/*.json\""
     },
     "publishConfig": {
         "access": "restricted"
@@ -41,7 +43,10 @@
         "@types/node": "12.20.10",
         "commitlint": "11.0.0",
         "husky": "4.3.8",
+        "json-autotranslate": "^1.8.0",
+        "nodemon": "^2.0.7",
         "prettier": "2.2.1",
+        "ts-node": "^9.1.1",
         "tslint": "6.1.3",
         "tslint-config-airbnb": "5.11.2",
         "tslint-config-prettier": "1.18.0",

@@ -8,6 +8,8 @@ import i18nextHttpMiddleware from 'i18next-http-middleware';
 import i18nextFsBackend from 'i18next-fs-backend';
 
 import routes from './routes';
+import { languages } from './languages';
+
 const app = express();
 
 i18next
@@ -21,17 +23,18 @@ i18next
         backend: {
             loadPath: path.resolve(`locales/{{lng}}.json`)
         },
-
         debug: process.env.DEBUG && process.env.DEBUG.includes('i18n'),
         defaultNS: 'server',
         fallbackLng: 'en',
-        load: 'languageOnly',
+        load: 'all',
         ns: ['server'],
-        preload: ['en', 'de'] // If you don't use a language detector of
-        // i18next, you must preload all languages you want to use!
+        preload: languages,
+        detection: {
+            order: ['path', 'header'],
+            lookupPath: 'lng',
+            lookupFromPathIndex: 0
+        }
     });
-
-i18next.loadLanguages('en');
 
 app.use(bodyParser.json());
 app.use(
@@ -77,6 +80,18 @@ app.use(
 );
 
 app.use(express.static(path.join(__dirname, '..', 'public')));
+
+app.use('/:lang([a-zA-Z]{2,3})', (req, res, next) => {
+    if (languages.includes(req.params.lang)) {
+        if (req.url === '/' && !req.originalUrl.endsWith('/')) {
+            res.redirect(`/${req.params.lang}/`);
+        } else {
+            routes(req, res, next);
+        }
+    } else {
+        next();
+    }
+});
 
 app.use(routes);
 

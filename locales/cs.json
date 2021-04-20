@@ -1,1 +1,66 @@
-{"mission":{"make_learning":"Učit se","accessible":"přístupné.","individual":"individuální.","exciting":"vzrušující."},"home":{"welcome":"Lumi je aplikace pro stolní počítače, která vám umožňuje vytvářet, upravovat, prohlížet a sdílet interaktivní obsah s desítkami různých typů obsahu.","get_started":"Začít"},"navigation":{"home":"Domov","menu":"Jídelní lístek","newsletter":"Zpravodaj","download":"Stažení"},"newsletter":{"placeholder":"zadejte svou e-mailovou adresu pro zasílání našeho zpravodaje","subscribe":"předplatit"},"features":{"subheading":"Editor Lumi H5P","heading":"Vytvářejte, upravujte a zobrazujte soubory H5P přímo ve vašem počítači.","h5p":{"heading":"Všechny typy obsahu centra H5P","description":"Můžete si vybrat z více než 40 typů obsahu a stáhnout si je přímo z H5P Hub."},"use":{"heading":"Snadné použití","description":"K vytváření poutavého interaktivního obsahu s Lumi nepotřebujete žádné znalosti programování."},"preview":{"heading":"Rychlý náhled","description":"Změny můžete zkontrolovat bez uložení přepnutím na náhled."},"standalone":{"heading":"Běží samostatně","description":"Lumi běží jako desktopový program na vašem počítači a dokáže exportovat soubory HTML, které fungují téměř na všech zařízeních. Není třeba systém správy leraningu, jako je Moodle, ani systém správy obsahu, jako je WordPress."}},"download":{"title":"Stáhnout Lumi","windows_download_store":"Stáhnout z Microsoft Store (doporučeno)","window_download_installer":"Stáhnout instalační program (exe)","download":"Stažení","bypass_smartscreen":"Naučte se zde, jak obejít filtr SmartScreen systému Windows (je potřeba pouze pro instalační program exe)."},"footer":{"company":"Společnost","mission":"Zajistěte, aby bylo učení přístupné, individuální a vzrušující.","quick_links":"Odkazy Quikc","contact":"Kontakt","privacy":"Soukromí","imprint":"Otisk","contact_information":"Kontaktní informace","newsletter":"Zpravodaj","newsletter_description":"Získejte nejnovější zprávy od Lumi."}}
+{
+    "mission": {
+        "make_learning": "Učit se",
+        "accessible": "přístupné.",
+        "individual": "individuální.",
+        "exciting": "vzrušující."
+    },
+    "home": {
+        "welcome": "Lumi je aplikace pro stolní počítače, která vám umožňuje vytvářet, upravovat, prohlížet a sdílet interaktivní obsah s desítkami různých typů obsahu.",
+        "get_started": "Začít"
+    },
+    "navigation": {
+        "home": "Domov",
+        "menu": "Jídelní lístek",
+        "newsletter": "Zpravodaj",
+        "download": "Stažení"
+    },
+    "newsletter": {
+        "placeholder": "zadejte svou e-mailovou adresu pro zasílání našeho zpravodaje",
+        "subscribe": "předplatit"
+    },
+    "features": {
+        "subheading": "Editor Lumi H5P",
+        "heading": "Vytvářejte, upravujte a zobrazujte soubory H5P přímo ve vašem počítači.",
+        "h5p": {
+            "heading": "Všechny typy obsahu centra H5P",
+            "description": "Můžete si vybrat z více než 40 typů obsahu a stáhnout si je přímo z H5P Hub."
+        },
+        "use": {
+            "heading": "Snadné použití",
+            "description": "K vytváření poutavého interaktivního obsahu s Lumi nepotřebujete žádné znalosti programování."
+        },
+        "preview": {
+            "heading": "Rychlý náhled",
+            "description": "Změny můžete zkontrolovat bez uložení přepnutím na náhled."
+        },
+        "standalone": {
+            "heading": "Běží samostatně",
+            "description": "Lumi běží jako desktopový program na vašem počítači a dokáže exportovat soubory HTML, které fungují téměř na všech zařízeních. Není třeba systém správy leraningu, jako je Moodle, ani systém správy obsahu, jako je WordPress."
+        }
+    },
+    "download": {
+        "title": "Stáhnout Lumi",
+        "windows_download_store": "Stáhnout z Microsoft Store (doporučeno)",
+        "window_download_installer": "Stáhnout instalační program (exe)",
+        "download": "Stažení",
+        "bypass_smartscreen": "Naučte se zde, jak obejít filtr SmartScreen systému Windows (je potřeba pouze pro instalační program exe)."
+    },
+    "footer": {
+        "company": "Společnost",
+        "mission": "Zajistěte, aby bylo učení přístupné, individuální a vzrušující.",
+        "quick_links": "Odkazy Quikc",
+        "contact": "Kontakt",
+        "privacy": "Soukromí",
+        "imprint": "Otisk",
+        "contact_information": "Kontaktní informace",
+        "newsletter": "Zpravodaj",
+        "newsletter_description": "Získejte nejnovější zprávy od Lumi."
+    },
+    "meta": {
+        "description": "Lumi je aplikace pro stolní počítače, která vám umožňuje vytvářet, upravovat, prohlížet a sdílet interaktivní obsah s desítkami různých typů obsahu.",
+        "keywords": "vytvořit, sdílet, interaktivní obsah, interaktivní cvičení, h5p, e-learning, elearning, scorm, xapi, redakční nástroj, offline, samostatný, html5",
+        "pageTopic": "vzdělání",
+        "pageType": "stahování softwaru"
+    }
+}

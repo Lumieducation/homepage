@@ -1,1 +1,66 @@
-{"mission":{"make_learning":"Fer aprenentatge","accessible":"accessible.","individual":"individual.","exciting":"emocionant."},"home":{"welcome":"Lumi és una aplicació d'escriptori que us permet crear, editar, veure i compartir contingut interactiu amb desenes de tipus de contingut diferents.","get_started":"Començar"},"navigation":{"home":"Inici","menu":"Menú","newsletter":"Butlletí informatiu","download":"descarregar"},"newsletter":{"placeholder":"introduïu la vostra adreça de correu electrònic per rebre el nostre butlletí","subscribe":"Subscriu-te"},"features":{"subheading":"Editor Lumi H5P","heading":"Creeu, editeu i visualitzeu fitxers H5P directament a l'ordinador.","h5p":{"heading":"Tots els tipus de contingut del centre H5P","description":"Podeu triar entre més de 40 tipus de contingut i descarregar-los directament des del centre H5P."},"use":{"heading":"Fàcil d'usar","description":"No necessiteu cap coneixement de programació per crear contingut interactiu atractiu amb Lumi."},"preview":{"heading":"Vista prèvia ràpida","description":"Consulteu els canvis sense desar canviant a la previsualització."},"standalone":{"heading":"Funciona de forma autònoma","description":"Lumi s’executa com a programa d’escriptori a l’ordinador i pot exportar fitxers HTML que funcionen a gairebé tots els dispositius. No cal un sistema de gestió Leraning com Moodle ni un sistema de gestió de contingut com WordPress."}},"download":{"title":"Descarrega Lumi","windows_download_store":"Baixada de Microsoft Store (recomanat)","window_download_installer":"Descarregueu l'instal·lador (exe)","download":"descarregar","bypass_smartscreen":"Obteniu informació sobre com evitar el filtre SmartScreen de Windows (només necessari per a l'exe-installer)."},"footer":{"company":"Empresa","mission":"Feu que l’aprenentatge sigui accessible, individual i emocionant.","quick_links":"Enllaços Quikc","contact":"Contacte","privacy":"Privadesa","imprint":"Empremta","contact_information":"Informació de contacte","newsletter":"Butlletí informatiu","newsletter_description":"Rep les últimes notícies de Lumi."}}
+{
+    "mission": {
+        "make_learning": "Fer aprenentatge",
+        "accessible": "accessible.",
+        "individual": "individual.",
+        "exciting": "emocionant."
+    },
+    "home": {
+        "welcome": "Lumi és una aplicació d'escriptori que us permet crear, editar, veure i compartir contingut interactiu amb desenes de tipus de contingut diferents.",
+        "get_started": "Començar"
+    },
+    "navigation": {
+        "home": "Inici",
+        "menu": "Menú",
+        "newsletter": "Butlletí informatiu",
+        "download": "descarregar"
+    },
+    "newsletter": {
+        "placeholder": "introduïu la vostra adreça de correu electrònic per rebre el nostre butlletí",
+        "subscribe": "Subscriu-te"
+    },
+    "features": {
+        "subheading": "Editor Lumi H5P",
+        "heading": "Creeu, editeu i visualitzeu fitxers H5P directament a l'ordinador.",
+        "h5p": {
+            "heading": "Tots els tipus de contingut del centre H5P",
+            "description": "Podeu triar entre més de 40 tipus de contingut i descarregar-los directament des del centre H5P."
+        },
+        "use": {
+            "heading": "Fàcil d'usar",
+            "description": "No necessiteu cap coneixement de programació per crear contingut interactiu atractiu amb Lumi."
+        },
+        "preview": {
+            "heading": "Vista prèvia ràpida",
+            "description": "Consulteu els canvis sense desar canviant a la previsualització."
+        },
+        "standalone": {
+            "heading": "Funciona de forma autònoma",
+            "description": "Lumi s’executa com a programa d’escriptori a l’ordinador i pot exportar fitxers HTML que funcionen a gairebé tots els dispositius. No cal un sistema de gestió Leraning com Moodle ni un sistema de gestió de contingut com WordPress."
+        }
+    },
+    "download": {
+        "title": "Descarrega Lumi",
+        "windows_download_store": "Baixada de Microsoft Store (recomanat)",
+        "window_download_installer": "Descarregueu l'instal·lador (exe)",
+        "download": "descarregar",
+        "bypass_smartscreen": "Obteniu informació sobre com evitar el filtre SmartScreen de Windows (només necessari per a l'exe-installer)."
+    },
+    "footer": {
+        "company": "Empresa",
+        "mission": "Feu que l’aprenentatge sigui accessible, individual i emocionant.",
+        "quick_links": "Enllaços Quikc",
+        "contact": "Contacte",
+        "privacy": "Privadesa",
+        "imprint": "Empremta",
+        "contact_information": "Informació de contacte",
+        "newsletter": "Butlletí informatiu",
+        "newsletter_description": "Rep les últimes notícies de Lumi."
+    },
+    "meta": {
+        "description": "Lumi és una aplicació d'escriptori que us permet crear, editar, veure i compartir contingut interactiu amb desenes de tipus de contingut diferents.",
+        "keywords": "crear, compartir, contingut interactiu, exercicis interactius, h5p, e-learning, e-learning, scorm, xapi, eina de creació personalitzada, fora de línia, autònom, html5",
+        "pageTopic": "educació",
+        "pageType": "descàrrega de programari"
+    }
+}

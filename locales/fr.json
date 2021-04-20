@@ -56,5 +56,11 @@
         "contact_information": "Coordonnées",
         "newsletter": "Bulletin",
         "newsletter_description": "Recevez les dernières nouvelles de Lumi."
+    },
+    "meta": {
+        "description": "Lumi est une application de bureau qui vous permet de créer, modifier, afficher et partager du contenu interactif avec des dizaines de types de contenu différents.",
+        "keywords": "créer, partager, contenu interactif, exercices interactifs, h5p, e-learning, e-learning, scorm, xapi, outil de création, hors ligne, autonome, html5",
+        "pageTopic": "éducation",
+        "pageType": "téléchargement de logiciel"
     }
 }
