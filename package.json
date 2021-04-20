@@ -22,7 +22,8 @@
         "lint": "./node_modules/.bin/tslint --project tsconfig.json --config tslint.json",
         "uninstall": "rm -rf build/ && rm -rf node_modules/",
         "heroku-postbuild": "npm run build",
-        "watch": "nodemon"
+        "watch": "nodemon",
+        "localize": "json-autotranslate -d --directory-structure ngx-translate -c google_translate.json -s google-translate --decode-escapes -t key-based -i locales -m i18next && prettier --write \"locales/*.json\""
     },
     "publishConfig": {
         "access": "restricted"
@@ -42,6 +43,7 @@
         "@types/node": "12.20.10",
         "commitlint": "11.0.0",
         "husky": "4.3.8",
+        "json-autotranslate": "^1.8.0",
         "nodemon": "^2.0.7",
         "prettier": "2.2.1",
         "ts-node": "^9.1.1",

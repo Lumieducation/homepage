@@ -56,5 +56,11 @@
         "contact_information": "Kontaktinformationen",
         "newsletter": "Newsletter",
         "newsletter_description": "Erhalte die neuesten Nachrichten von Lumi."
+    },
+    "meta": {
+        "description": "Lumi ist eine Desktop-App, mit der du interaktive Inhalte mit dutzenden verschiedener Inhaltstypen erstellen, bearbeiten, anzeigen und freigeben kannst.",
+        "keywords": "Erstellen, Teilen, interaktive Inhalte, interaktive Übungen, H5P, E-Learning, Lernen, SCORM, xAPI, Authoring-Tool, Offline, Standalone, HTML5",
+        "pageTopic": "Bildung",
+        "pageType": "Software Download"
     }
 }

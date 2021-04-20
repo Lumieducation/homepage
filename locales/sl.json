@@ -1,1 +1,66 @@
-{"mission":{"make_learning":"Učite se","accessible":"dostopna.","individual":"posameznik.","exciting":"razburljivo."},"home":{"welcome":"Lumi je namizna aplikacija, ki vam omogoča ustvarjanje, urejanje, ogled in skupno rabo interaktivne vsebine z desetinami različnih vrst vsebin.","get_started":"Začeti"},"navigation":{"home":"Domov","menu":"Meni","newsletter":"Glasilo","download":"Prenesi"},"newsletter":{"placeholder":"vnesite svoj e-poštni naslov za prejemanje našega glasila","subscribe":"Naročite se"},"features":{"subheading":"Urejevalnik Lumi H5P","heading":"Ustvarite, uredite in si oglejte datoteke H5P neposredno v računalniku.","h5p":{"heading":"Vse vrste vsebin Hub Hub","description":"Izbirate lahko med več kot 40 vrstami vsebin in jih neposredno prenesete s Hub Hub."},"use":{"heading":"Enostaven za uporabo","description":"Za ustvarjanje privlačne interaktivne vsebine z Lumi ne potrebujete znanja programiranja!"},"preview":{"heading":"Hitri predogled","description":"Svoje spremembe preverite brez shranjevanja, tako da preklopite na predogled."},"standalone":{"heading":"Deluje samostojno","description":"Lumi deluje kot namizni program v vašem računalniku in lahko izvozi datoteke HTML, ki delujejo v skoraj vseh napravah. Ni potrebe po sistemu za upravljanje Leraning, kot je Moodle, ali sistemu za upravljanje vsebin, kot je WordPress."}},"download":{"title":"Prenesite Lumi","windows_download_store":"Prenesite iz Microsoftove trgovine (priporočeno)","window_download_installer":"Namestitveni program za prenos (exe)","download":"Prenesi","bypass_smartscreen":"Tukaj preberite, kako zaobiti Windows-ov filter SmartScreen (potreben samo za namestitveni program exe)."},"footer":{"company":"Podjetje","mission":"Naj bo učenje dostopno, individualno in razburljivo.","quick_links":"Povezave Quikc","contact":"Kontakt","privacy":"Zasebnost","imprint":"Odtis","contact_information":"Kontaktni podatki","newsletter":"Glasilo","newsletter_description":"Pridobite najnovejše novice od Lumi."}}
+{
+    "mission": {
+        "make_learning": "Učite se",
+        "accessible": "dostopna.",
+        "individual": "posameznik.",
+        "exciting": "razburljivo."
+    },
+    "home": {
+        "welcome": "Lumi je namizna aplikacija, ki vam omogoča ustvarjanje, urejanje, ogled in skupno rabo interaktivne vsebine z desetinami različnih vrst vsebin.",
+        "get_started": "Začeti"
+    },
+    "navigation": {
+        "home": "Domov",
+        "menu": "Meni",
+        "newsletter": "Glasilo",
+        "download": "Prenesi"
+    },
+    "newsletter": {
+        "placeholder": "vnesite svoj e-poštni naslov za prejemanje našega glasila",
+        "subscribe": "Naročite se"
+    },
+    "features": {
+        "subheading": "Urejevalnik Lumi H5P",
+        "heading": "Ustvarite, uredite in si oglejte datoteke H5P neposredno v računalniku.",
+        "h5p": {
+            "heading": "Vse vrste vsebin Hub Hub",
+            "description": "Izbirate lahko med več kot 40 vrstami vsebin in jih neposredno prenesete s Hub Hub."
+        },
+        "use": {
+            "heading": "Enostaven za uporabo",
+            "description": "Za ustvarjanje privlačne interaktivne vsebine z Lumi ne potrebujete znanja programiranja!"
+        },
+        "preview": {
+            "heading": "Hitri predogled",
+            "description": "Svoje spremembe preverite brez shranjevanja, tako da preklopite na predogled."
+        },
+        "standalone": {
+            "heading": "Deluje samostojno",
+            "description": "Lumi deluje kot namizni program v vašem računalniku in lahko izvozi datoteke HTML, ki delujejo v skoraj vseh napravah. Ni potrebe po sistemu za upravljanje Leraning, kot je Moodle, ali sistemu za upravljanje vsebin, kot je WordPress."
+        }
+    },
+    "download": {
+        "title": "Prenesite Lumi",
+        "windows_download_store": "Prenesite iz Microsoftove trgovine (priporočeno)",
+        "window_download_installer": "Namestitveni program za prenos (exe)",
+        "download": "Prenesi",
+        "bypass_smartscreen": "Tukaj preberite, kako zaobiti Windows-ov filter SmartScreen (potreben samo za namestitveni program exe)."
+    },
+    "footer": {
+        "company": "Podjetje",
+        "mission": "Naj bo učenje dostopno, individualno in razburljivo.",
+        "quick_links": "Povezave Quikc",
+        "contact": "Kontakt",
+        "privacy": "Zasebnost",
+        "imprint": "Odtis",
+        "contact_information": "Kontaktni podatki",
+        "newsletter": "Glasilo",
+        "newsletter_description": "Pridobite najnovejše novice od Lumi."
+    },
+    "meta": {
+        "description": "Lumi je namizna aplikacija, ki vam omogoča ustvarjanje, urejanje, ogled in skupno rabo interaktivne vsebine z desetinami različnih vrst vsebin.",
+        "keywords": "ustvariti, deliti, interaktivne vsebine, interaktivne vaje, h5p, e-učenje, učenje, scorm, xapi, orodje za avtoring, brez povezave, samostojno, html5",
+        "pageTopic": "izobraževanje",
+        "pageType": "prenos programske opreme"
+    }
+}

@@ -56,5 +56,11 @@
         "individual": "individueel.",
         "accessible": "toeganklik.",
         "make_learning": "Maak onderrig"
+    },
+    "meta": {
+        "description": "Lumi is 'n lessenaarprogram waarmee u interaktiewe inhoud kan skep, wysig, sien en deel met tientalle verskillende inhoudstipes.",
+        "keywords": "skep, deel, interaktiewe inhoud, interaktiewe oefeninge, h5p, e-learning, elearning, scorm, xapi, authoring tool, offline, standalone, html5",
+        "pageTopic": "onderwys",
+        "pageType": "sagteware aflaai"
     }
 }

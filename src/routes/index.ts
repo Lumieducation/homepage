@@ -1,7 +1,11 @@
 import * as express from 'express';
 import * as superagent from 'superagent';
 
-import { languages, getListWithNativeNames, getNativeName } from '../languages';
+import {
+    getListWithNativeNames,
+    getNativeName,
+    getCurrentLanguageCode
+} from '../languages';
 
 const router = express.Router();
 
@@ -13,7 +17,11 @@ router.use(
         next: express.NextFunction
     ) => {
         try {
-            res.render('app/privacy-policy');
+            res.render('app/privacy-policy', {
+                languages: getListWithNativeNames(),
+                currentLanguage: getNativeName(req.language),
+                currentLanguageCode: getCurrentLanguageCode(req.language)
+            });
         } catch (error) {
             res.redirect('/');
         }
@@ -28,7 +36,11 @@ router.use(
         next: express.NextFunction
     ) => {
         try {
-            res.render('privacy-policy');
+            res.render('privacy-policy', {
+                languages: getListWithNativeNames(),
+                currentLanguage: getNativeName(req.language),
+                currentLanguageCode: getCurrentLanguageCode(req.language)
+            });
         } catch (error) {
             res.redirect('/');
         }
@@ -43,7 +55,11 @@ router.use(
         next: express.NextFunction
     ) => {
         try {
-            res.render('imprint');
+            res.render('imprint', {
+                languages: getListWithNativeNames(),
+                currentLanguage: getNativeName(req.language),
+                currentLanguageCode: getCurrentLanguageCode(req.language)
+            });
         } catch (error) {
             res.redirect('/');
         }
@@ -72,13 +88,15 @@ router.use(
             res.render('home', {
                 release: releaseInfo.body.name,
                 languages: getListWithNativeNames(),
-                currentLanguage: getNativeName(req.language)
+                currentLanguage: getNativeName(req.language),
+                currentLanguageCode: getCurrentLanguageCode(req.language)
             });
         } catch (error) {
             res.render('home', {
                 release: '0.6.1',
                 languages: getListWithNativeNames(),
-                currentLanguage: getNativeName(req.language)
+                currentLanguage: getNativeName(req.language),
+                currentLanguageCode: getCurrentLanguageCode(req.language)
             });
         }
     }

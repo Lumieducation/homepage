@@ -1,4 +1,10 @@
 {
+    "meta": {
+        "description": "Lumi is a desktop app that allows you to create, edit, view and share interactive content with dozens of different content types.",
+        "keywords": "create, share, interactive content, interactive exercises, h5p, e-learning, elearning, scorm, xapi, authoring tool, offline, standalone, html5",
+        "pageTopic": "education",
+        "pageType": "software download"
+    },
     "mission": {
         "make_learning": "Make learning",
         "accessible": "accessible.",

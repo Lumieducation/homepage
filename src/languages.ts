@@ -8,6 +8,17 @@ export const languages = fs
     .readdirSync(path.resolve(__dirname, '../locales'))
     .map((f) => f.replace('.json', ''));
 
+export const getCurrentLanguageCode = (browserLocale: string) => {
+    if (languageCodes[browserLocale]) {
+        return browserLocale;
+    }
+    const match = browserLocale.match(localeMatcher);
+    if (match) {
+        return match[1];
+    }
+    return 'en';
+};
+
 export const getNativeName = (code: string) => {
     let name = languageCodes[code]?.nativeName as string;
     if (!name) {
