@@ -8,7 +8,7 @@ import i18nextHttpMiddleware from 'i18next-http-middleware';
 import i18nextFsBackend from 'i18next-fs-backend';
 
 import routes from './routes';
-import languages from './languages';
+import { languages } from './languages';
 
 const app = express();
 

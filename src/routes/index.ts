@@ -1,6 +1,8 @@
 import * as express from 'express';
 import * as superagent from 'superagent';
 
+import { languages, getListWithNativeNames, getNativeName } from '../languages';
+
 const router = express.Router();
 
 router.use(
@@ -62,17 +64,22 @@ router.use(
         try {
             // we should throttle and chache this, so we do not exceed the github rate limit
             const releaseInfo = await superagent
-
                 .get(
                     'https://api.github.com/repos/Lumieducation/Lumi/releases/latest'
                 )
                 .set('User-Agent', 'Lumi.education-Homepage');
 
             res.render('home', {
-                release: releaseInfo.body.name
+                release: releaseInfo.body.name,
+                languages: getListWithNativeNames(),
+                currentLanguage: getNativeName(req.language)
             });
         } catch (error) {
-            res.render('home', { release: '0.6.1' });
+            res.render('home', {
+                release: '0.6.1',
+                languages: getListWithNativeNames(),
+                currentLanguage: getNativeName(req.language)
+            });
         }
     }
 );
