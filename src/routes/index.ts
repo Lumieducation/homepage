@@ -77,6 +77,13 @@ router.use(
         res: express.Response,
         next: express.NextFunction
     ) => {
+        res.render('home', {
+            release: '0.7.2',
+            languages: getListWithNativeNames(),
+            currentLanguage: getNativeName(req.language),
+            currentLanguageCode: getCurrentLanguageCode(req.language)
+        });
+        /*
         try {
             // we should throttle and cache this, so we do not exceed the github rate limit
             const releaseInfo = await superagent
@@ -92,13 +99,14 @@ router.use(
                 currentLanguageCode: getCurrentLanguageCode(req.language)
             });
         } catch (error) {
+            console.log('error:', error);
             res.render('home', {
-                release: '0.6.1',
+                release: '0.7.2',
                 languages: getListWithNativeNames(),
                 currentLanguage: getNativeName(req.language),
                 currentLanguageCode: getCurrentLanguageCode(req.language)
             });
-        }
+        }*/
     }
 );
 
