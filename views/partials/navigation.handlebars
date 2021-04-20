@@ -18,12 +18,14 @@
                     <a href="#download" class="nav-link">{{i18n "navigation.download"}}</a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" id="languageMenuLink"
+                    <a class="nav-link dropdown-toggle" href="" role="button" id="languageMenuLink"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         {{currentLanguage}}
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="languageMenuLink"
-                     style="margin: 0px;max-height:30rem; overflow-y: scroll;">
+                     style="max-height:30rem; overflow-y: scroll;">
+                        <a class="dropdown-item" href="/en">English</a>
+                        <div class="dropdown-divider"></div>
                         {{#each languages}}
                         <a class="dropdown-item" href="/{{this.code}}">{{this.native}}</a>
                         {{/each}}

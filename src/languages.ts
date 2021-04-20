@@ -30,6 +30,9 @@ export const getNativeName = (code: string) => {
     return name ?? 'English';
 };
 
-export const getListWithNativeNames = () => {
-    return languages.map((code) => ({ code, native: getNativeName(code) }));
+export const getListWithNativeNames = (options?: { includeOriginal: true }) => {
+    return (options?.includeOriginal
+        ? languages
+        : languages.filter((code) => code !== 'en')
+    ).map((code) => ({ code, native: getNativeName(code) }));
 };

@@ -78,7 +78,7 @@ router.use(
         next: express.NextFunction
     ) => {
         try {
-            // we should throttle and chache this, so we do not exceed the github rate limit
+            // we should throttle and cache this, so we do not exceed the github rate limit
             const releaseInfo = await superagent
                 .get(
                     'https://api.github.com/repos/Lumieducation/Lumi/releases/latest'
