@@ -48,6 +48,10 @@ router.use(
     }
 );
 
+router.use('/:rest', (req, res) => {
+    res.redirect('/');
+});
+
 router.use(
     '/',
     async (
