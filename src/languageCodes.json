@@ -115,9 +115,9 @@
         "name":"Chichewa; Chewa; Nyanja",
         "nativeName":"chiCheŵa, chinyanja"
     },
-    "zh":{
-        "name":"Chinese",
-        "nativeName":"中文 (Zhōngwén), 汉语, 漢語"
+    "zh-hans":{
+        "name":"Chinese (simplified)",
+        "nativeName":"中文 (Zhōngwén), 汉语 (漢字)"
     },
     "cv":{
         "name":"Chuvash",
@@ -594,6 +594,10 @@
     "es":{
         "name":"Spanish; Castilian",
         "nativeName":"español, castellano"
+    },
+    "es-mx":{
+        "name":"Spanish; Mexicon",
+        "nativeName":"español, mexicano"
     },
     "su":{
         "name":"Sundanese",

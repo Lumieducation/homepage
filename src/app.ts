@@ -81,7 +81,7 @@ app.use(
 
 app.use(express.static(path.join(__dirname, '..', 'public')));
 
-app.use('/:lang([a-zA-Z]{2,3})', (req, res, next) => {
+app.use('/:lang([a-zA-Z]{2,3}-?[a-zA-Z]{0,6})', (req, res, next) => {
     if (languages.includes(req.params.lang)) {
         if (req.url === '/' && !req.originalUrl.endsWith('/')) {
             res.redirect(`/${req.params.lang}/`);
