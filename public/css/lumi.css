@@ -3,3 +3,14 @@
         white-space: normal;
     }
 }
+
+.navbar-brand .logo {
+    content: url('/images/logo.svg');
+    width: 50px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.scrolled .navbar-brand .logo {
+    content: url('/images/logo-color.svg');
+}
