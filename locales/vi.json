@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "description": "Lumi là một ứng dụng dành cho máy tính để bàn cho phép bạn tạo, chỉnh sửa, xem và chia sẻ nội dung tương tác với hàng chục loại nội dung khác nhau.",
+        "keywords": "tạo, chia sẻ, nội dung tương tác, bài tập tương tác, h5p, e-learning, elearning, scorm, xapi, công cụ tác giả, ngoại tuyến, độc lập, html5",
+        "pageTopic": "giáo dục",
+        "pageType": "Tải phần mềm"
+    },
+    "mission": {
+        "make_learning": "Học tập",
+        "accessible": "có thể truy cập được.",
+        "individual": "cá nhân.",
+        "exciting": "thú vị."
+    },
+    "home": {
+        "welcome": "Lumi là một ứng dụng dành cho máy tính để bàn cho phép bạn tạo, chỉnh sửa, xem và chia sẻ nội dung tương tác với hàng chục loại nội dung khác nhau.",
+        "get_started": "Bắt đầu"
+    },
+    "navigation": {
+        "home": "Trang Chủ",
+        "menu": "Thực đơn",
+        "newsletter": "Bản tin",
+        "download": "Tải xuống"
+    },
+    "newsletter": {
+        "placeholder": "Nhập địa chỉ email của bạn để nhận bản tin của chúng tôi",
+        "subscribe": "Đăng ký"
+    },
+    "features": {
+        "subheading": "Biên tập viên Lumi H5P",
+        "heading": "Tạo, chỉnh sửa và xem các tệp H5P trực tiếp trên máy tính của bạn.",
+        "h5p": {
+            "heading": "Tất cả các loại nội dung Hub H5P",
+            "description": "Bạn có thể chọn từ hơn 40 loại nội dung và tải trực tiếp chúng từ H5P Hub."
+        },
+        "use": {
+            "heading": "Dễ sử dụng",
+            "description": "Bạn không cần bất kỳ kiến thức lập trình nào để tạo nội dung tương tác hấp dẫn với Lumi!"
+        },
+        "preview": {
+            "heading": "Xem nhanh",
+            "description": "Kiểm tra các thay đổi của bạn mà không cần lưu bằng cách chuyển sang bản xem trước."
+        },
+        "standalone": {
+            "heading": "Chạy độc lập",
+            "description": "Lumi chạy như một chương trình máy tính để bàn trên máy tính của bạn và nó có thể xuất các tệp HTML hoạt động trên hầu hết các thiết bị. Không cần Hệ thống quản lý học tập như Moodle hoặc Hệ thống quản lý nội dung như WordPress."
+        }
+    },
+    "download": {
+        "title": "Tải xuống Lumi",
+        "windows_download_store": "Tải xuống từ Microsoft Store (được khuyến nghị)",
+        "window_download_installer": "Tải xuống trình cài đặt (exe)",
+        "download": "Tải xuống",
+        "bypass_smartscreen": "Tìm hiểu tại đây cách bỏ qua bộ lọc SmartScreen của Windows (chỉ cần thiết cho trình cài đặt exe)."
+    },
+    "footer": {
+        "company": "Công ty",
+        "mission": "Làm cho việc học trở nên dễ tiếp cận, cá nhân và thú vị.",
+        "quick_links": "đường dẫn nhanh",
+        "contact": "Tiếp xúc",
+        "privacy": "Riêng tư",
+        "imprint": "Dấu ấn",
+        "contact_information": "Thông tin liên lạc",
+        "newsletter": "Bản tin",
+        "newsletter_description": "Nhận tin tức mới nhất từ Lumi."
+    }
+}

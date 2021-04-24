@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "description": "Lumi to aplikacja komputerowa, która umożliwia tworzenie, edytowanie, przeglądanie i udostępnianie interaktywnych treści z dziesiątkami różnych typów treści.",
+        "keywords": "tworzenie, udostępnianie, zawartość interaktywna, ćwiczenia interaktywne, h5p, e-learning, elearning, scorm, xapi, narzędzie autorskie, offline, samodzielne, html5",
+        "pageTopic": "Edukacja",
+        "pageType": "pobieranie oprogramowania"
+    },
+    "mission": {
+        "make_learning": "Ucz się",
+        "accessible": "dostępny.",
+        "individual": "indywidualny.",
+        "exciting": "ekscytujący."
+    },
+    "home": {
+        "welcome": "Lumi to aplikacja komputerowa, która umożliwia tworzenie, edytowanie, przeglądanie i udostępnianie interaktywnych treści z dziesiątkami różnych typów treści.",
+        "get_started": "Zaczynaj"
+    },
+    "navigation": {
+        "home": "Dom",
+        "menu": "Menu",
+        "newsletter": "Biuletyn Informacyjny",
+        "download": "Ściągnij"
+    },
+    "newsletter": {
+        "placeholder": "Podaj swój adres email, aby otrzymać nasz newsletter",
+        "subscribe": "Subskrybuj"
+    },
+    "features": {
+        "subheading": "Edytor Lumi H5P",
+        "heading": "Twórz, edytuj i przeglądaj pliki H5P bezpośrednio na komputerze.",
+        "h5p": {
+            "heading": "Wszystkie typy zawartości H5P Hub",
+            "description": "Możesz wybierać spośród ponad 40 typów treści i pobierać je bezpośrednio z H5P Hub."
+        },
+        "use": {
+            "heading": "Łatwy w użyciu",
+            "description": "Nie potrzebujesz żadnej wiedzy programistycznej, aby tworzyć angażujące, interaktywne treści za pomocą Lumi!"
+        },
+        "preview": {
+            "heading": "Szybki podgląd",
+            "description": "Sprawdź zmiany bez zapisywania, przechodząc do podglądu."
+        },
+        "standalone": {
+            "heading": "Działa samodzielnie",
+            "description": "Lumi działa jako program komputerowy na Twoim komputerze i może eksportować pliki HTML, które działają na prawie wszystkich urządzeniach. Nie potrzebujesz systemu zarządzania nauką, takiego jak Moodle, ani systemu zarządzania treścią, takiego jak WordPress."
+        }
+    },
+    "download": {
+        "title": "Pobierz Lumi",
+        "windows_download_store": "Pobierz ze sklepu Microsoft Store (zalecane)",
+        "window_download_installer": "Pobierz instalator (exe)",
+        "download": "Ściągnij",
+        "bypass_smartscreen": "Dowiedz się, jak ominąć filtr SmartScreen systemu Windows (potrzebny tylko w przypadku exe-instalatora)."
+    },
+    "footer": {
+        "company": "Firma",
+        "mission": "Spraw, aby nauka była dostępna, indywidualna i ekscytująca.",
+        "quick_links": "Szybkie linki",
+        "contact": "Kontakt",
+        "privacy": "Prywatność",
+        "imprint": "Odcisk",
+        "contact_information": "Informacje kontaktowe",
+        "newsletter": "Biuletyn Informacyjny",
+        "newsletter_description": "Otrzymuj najnowsze wiadomości od Lumi."
+    }
+}

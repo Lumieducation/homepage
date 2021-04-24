@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "description": "Lumiは、数十の異なるコンテンツタイプでインタラクティブなコンテンツを作成、編集、表示、共有できるデスクトップアプリです。",
+        "keywords": "作成、共有、インタラクティブコンテンツ、インタラクティブエクササイズ、h5p、eラーニング、eラーニング、scorm、xapi、オーサリングツール、オフライン、スタンドアロン、html5",
+        "pageTopic": "教育",
+        "pageType": "ソフトウェアのダウンロード"
+    },
+    "mission": {
+        "make_learning": "学習する",
+        "accessible": "アクセス可能。",
+        "individual": "個人。",
+        "exciting": "エキサイティング。"
+    },
+    "home": {
+        "welcome": "Lumiは、数十の異なるコンテンツタイプでインタラクティブなコンテンツを作成、編集、表示、共有できるデスクトップアプリです。",
+        "get_started": "はじめに"
+    },
+    "navigation": {
+        "home": "ホームホーム",
+        "menu": "メニュー",
+        "newsletter": "ニュースレター",
+        "download": "ダウンロード"
+    },
+    "newsletter": {
+        "placeholder": "ニュースレターを受け取るには、メールアドレスを入力してください",
+        "subscribe": "申し込む"
+    },
+    "features": {
+        "subheading": "LumiH5Pエディター",
+        "heading": "コンピューター上で直接H5Pファイルを作成、編集、表示します。",
+        "h5p": {
+            "heading": "すべてのH5Pハブコンテンツタイプ",
+            "description": "40を超えるコンテンツタイプから選択して、H5Pハブから直接ダウンロードできます。"
+        },
+        "use": {
+            "heading": "使いやすい",
+            "description": "Lumiで魅力的なインタラクティブコンテンツを作成するのにプログラミングの知識は必要ありません。"
+        },
+        "preview": {
+            "heading": "クイックプレビュー",
+            "description": "プレビューに切り替えて、保存せずに変更を確認します。"
+        },
+        "standalone": {
+            "heading": "スタンドアロンで実行",
+            "description": "Lumiは、コンピューター上でデスクトッププログラムとして実行され、ほぼすべてのデバイスで機能するHTMLファイルをエクスポートできます。 Moodleのような学習管理システムやWordPressのようなコンテンツ管理システムは必要ありません。"
+        }
+    },
+    "download": {
+        "title": "ルミをダウンロード",
+        "windows_download_store": "Microsoftストアからダウンロード（推奨）",
+        "window_download_installer": "インストーラーのダウンロード（exe）",
+        "download": "ダウンロード",
+        "bypass_smartscreen": "ここでは、WindowsのSmartScreenフィルターをバイパスする方法を学びます（exe-installerにのみ必要）。"
+    },
+    "footer": {
+        "company": "会社",
+        "mission": "学習をアクセシブルで、個性的で、刺激的なものにします。",
+        "quick_links": "クイックリンク",
+        "contact": "連絡先",
+        "privacy": "プライバシー",
+        "imprint": "インプリント",
+        "contact_information": "連絡先",
+        "newsletter": "ニュースレター",
+        "newsletter_description": "ルミから最新ニュースを入手してください。"
+    }
+}

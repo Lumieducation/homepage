@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "description": "Lumi aikace-aikacen tebur ne wanda ke ba ku damar ƙirƙiri, shiryawa, dubawa da raba abubuwan hulɗa tare da nau'ikan nau'ikan abun ciki da yawa.",
+        "keywords": "ƙirƙira, raba, abubuwan hulɗa, motsa jiki masu ma'amala, h5p, i-koyo, haɓaka, scorm, xapi, kayan aikin marubuta, wajen layi, kai tsaye, html5",
+        "pageTopic": "ilimi",
+        "pageType": "sauke software"
+    },
+    "mission": {
+        "make_learning": "Yi koyo",
+        "accessible": "m.",
+        "individual": "mutum.",
+        "exciting": "m."
+    },
+    "home": {
+        "welcome": "Lumi aikace-aikacen tebur ne wanda ke ba ku damar ƙirƙiri, shiryawa, dubawa da raba abubuwan hulɗa tare da nau'ikan nau'ikan abubuwan ciki da yawa.",
+        "get_started": "Farawa"
+    },
+    "navigation": {
+        "home": "Gida",
+        "menu": "Menu",
+        "newsletter": "Newsletter",
+        "download": "Zazzagewa"
+    },
+    "newsletter": {
+        "placeholder": "shigar da adireshin imel ɗinka don karɓar wasiƙarmu",
+        "subscribe": "Biyan kuɗi"
+    },
+    "features": {
+        "subheading": "Editan Lumi H5P",
+        "heading": "Irƙiri, shirya da duba fayilolin H5P kai tsaye akan kwamfutarka.",
+        "h5p": {
+            "heading": "Duk nau'ikan nau'ikan H5P Hub",
+            "description": "Zaka iya zaɓar daga nau'ikan abun ciki sama da 40 kuma kai tsaye zazzage su daga Hub H5P."
+        },
+        "use": {
+            "heading": "Sauki don amfani",
+            "description": "Ba kwa buƙatar kowane ilimin ilimin shirye-shirye don ƙirƙirar abubuwan hulɗa tare da Lumi!"
+        },
+        "preview": {
+            "heading": "Duba cikin sauri",
+            "description": "Duba canje-canjenku ba tare da adanawa ba ta hanyar sauyawa zuwa samfoti."
+        },
+        "standalone": {
+            "heading": "Gudun kai tsaye",
+            "description": "Lumi yana gudana azaman shirin tebur akan kwamfutarka kuma yana iya fitarwa fayilolin HTML waɗanda ke aiki kusan kusan dukkan na'urori. Babu buƙatar Tsarin Gudanar da Ilmantarwa kamar Moodle ko Tsarin Gudanar da Abun ciki kamar WordPress."
+        }
+    },
+    "download": {
+        "title": "Zazzage Lumi",
+        "windows_download_store": "Zazzage daga Shagon Microsoft (shawarar)",
+        "window_download_installer": "Zazzage mai sakawa (exe)",
+        "download": "Zazzagewa",
+        "bypass_smartscreen": "Koyi anan yadda za'a keɓance matattarar SmartScreen na Windows (kawai ana buƙata don mai sakawa)."
+    },
+    "footer": {
+        "company": "Kamfanin",
+        "mission": "Sa koyo ya zama da sauki, mutum kuma mai kayatarwa.",
+        "quick_links": "Hanyoyin Hanyoyi Masu Sauri",
+        "contact": "Saduwa",
+        "privacy": "Sirri",
+        "imprint": "Bugawa",
+        "contact_information": "Bayanin hulda",
+        "newsletter": "Newsletter",
+        "newsletter_description": "Samu sabon labari daga Lumi."
+    }
+}

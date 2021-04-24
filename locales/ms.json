@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "description": "Lumi adalah aplikasi desktop yang membolehkan anda membuat, mengedit, melihat dan berkongsi kandungan interaktif dengan puluhan jenis kandungan yang berbeza.",
+        "keywords": "buat, kongsi, kandungan interaktif, latihan interaktif, h5p, e-learning, elearning, scorm, xapi, alat pengarang, luar talian, mandiri, html5",
+        "pageTopic": "pendidikan",
+        "pageType": "muat turun perisian"
+    },
+    "mission": {
+        "make_learning": "Buat pembelajaran",
+        "accessible": "boleh diakses.",
+        "individual": "individu.",
+        "exciting": "mengujakan."
+    },
+    "home": {
+        "welcome": "Lumi adalah aplikasi desktop yang membolehkan anda membuat, mengedit, melihat dan berkongsi kandungan interaktif dengan puluhan jenis kandungan yang berbeza.",
+        "get_started": "Bermula"
+    },
+    "navigation": {
+        "home": "Rumah",
+        "menu": "Menu",
+        "newsletter": "Surat berita",
+        "download": "Muat turun"
+    },
+    "newsletter": {
+        "placeholder": "masukkan alamat e-mel anda untuk menerima buletin kami",
+        "subscribe": "Langgan"
+    },
+    "features": {
+        "subheading": "Penyunting Lumi H5P",
+        "heading": "Buat, edit dan lihat fail H5P terus di komputer anda.",
+        "h5p": {
+            "heading": "Semua Jenis Kandungan Hab H5P",
+            "description": "Anda boleh memilih dari lebih daripada 40 jenis kandungan dan memuat turunnya secara langsung dari H5P Hub."
+        },
+        "use": {
+            "heading": "Mudah untuk digunakan",
+            "description": "Anda tidak memerlukan pengetahuan pengaturcaraan untuk membuat kandungan interaktif yang menarik dengan Lumi!"
+        },
+        "preview": {
+            "heading": "Pratonton pantas",
+            "description": "Periksa perubahan anda tanpa menyimpan dengan beralih ke pratonton."
+        },
+        "standalone": {
+            "heading": "Berjalan secara mandiri",
+            "description": "Lumi berfungsi sebagai program desktop di komputer anda dan dapat mengeksport fail HTML yang berfungsi di hampir semua peranti. Tidak memerlukan Sistem Pengurusan Pembelajaran seperti Moodle atau Sistem Pengurusan Kandungan seperti WordPress."
+        }
+    },
+    "download": {
+        "title": "Muat turun Lumi",
+        "windows_download_store": "Muat turun dari Kedai Microsoft (disyorkan)",
+        "window_download_installer": "Muat turun pemasang (exe)",
+        "download": "Muat turun",
+        "bypass_smartscreen": "Pelajari di sini cara memintas penapis SmartScreen Windows (hanya diperlukan untuk exe-installer)."
+    },
+    "footer": {
+        "company": "Syarikat",
+        "mission": "Jadikan pembelajaran mudah diakses, individu dan menarik.",
+        "quick_links": "Pautan Pantas",
+        "contact": "Hubungi",
+        "privacy": "Privasi",
+        "imprint": "Cetakan",
+        "contact_information": "Maklumat perhubungan",
+        "newsletter": "Surat berita",
+        "newsletter_description": "Dapatkan berita terkini dari Lumi."
+    }
+}
