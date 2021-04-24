@@ -37,7 +37,6 @@ i18next
         ns: ['server'],
         lowerCaseLng: true,
         preload: languages,
-        supportedLngs: languages,
         detection: {
             order: ['path', 'header'],
             lookupPath: 'lng',
