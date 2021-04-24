@@ -6,13 +6,18 @@ import morgan from 'morgan';
 import i18next from 'i18next';
 import i18nextHttpMiddleware from 'i18next-http-middleware';
 import i18nextFsBackend from 'i18next-fs-backend';
+import helmet from 'helmet';
 
 import routes from './routes';
 import { languages } from './languages';
 
 const app = express();
 
+// Add logger
 app.use(morgan('tiny'));
+
+// Add save HTTP headers
+app.use(helmet());
 
 i18next
     .use(i18nextFsBackend)
