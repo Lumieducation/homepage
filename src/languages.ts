@@ -9,10 +9,13 @@ export const languages = fs
     .map((f) => f.replace('.json', ''));
 
 export const getCurrentLanguageCode = (browserLocale: string) => {
-    if (languageCodes[browserLocale]) {
-        return browserLocale;
+    const lowerCaseBrowserLocale = browserLocale.toLocaleLowerCase();
+    if (languageCodes[lowerCaseBrowserLocale]) {
+        return lowerCaseBrowserLocale;
     }
-    const match = browserLocale.match(localeMatcher);
+    const match = lowerCaseBrowserLocale
+        .toLocaleLowerCase()
+        .match(localeMatcher);
     if (match) {
         return match[1];
     }
@@ -20,9 +23,10 @@ export const getCurrentLanguageCode = (browserLocale: string) => {
 };
 
 export const getNativeName = (code: string) => {
-    let name = languageCodes[code]?.nativeName as string;
+    const codeLowercase = code.toLocaleLowerCase();
+    let name = languageCodes[codeLowercase]?.nativeName as string;
     if (!name) {
-        const match = code.match(localeMatcher);
+        const match = codeLowercase.match(localeMatcher);
         if (match) {
             name = languageCodes[match[1]]?.nativeName as string;
         }
