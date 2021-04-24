@@ -36,7 +36,7 @@
         },
         "standalone": {
             "heading": "Běží samostatně",
-            "description": "Lumi běží jako desktopový program na vašem počítači a dokáže exportovat soubory HTML, které fungují téměř na všech zařízeních. Není třeba systém správy leraningu, jako je Moodle, ani systém správy obsahu, jako je WordPress."
+            "description": "Lumi běží jako desktopový program na vašem počítači a dokáže exportovat soubory HTML, které fungují téměř na všech zařízeních. Není třeba systém správy Learningu, jako je Moodle, ani systém správy obsahu, jako je WordPress."
         }
     },
     "download": {

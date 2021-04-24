@@ -36,7 +36,7 @@
         },
         "standalone": {
             "heading": "Kjører frittstående",
-            "description": "Lumi kjører som et skrivebordsprogram på datamaskinen din, og den kan eksportere HTML-filer som fungerer på nesten alle enheter. Ingen behov for et Leraning Management System som Moodle eller et Content Management System som WordPress."
+            "description": "Lumi kjører som et skrivebordsprogram på datamaskinen din, og den kan eksportere HTML-filer som fungerer på nesten alle enheter. Ingen behov for et Learning Management System som Moodle eller et Content Management System som WordPress."
         }
     },
     "download": {

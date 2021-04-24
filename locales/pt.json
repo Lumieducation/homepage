@@ -36,7 +36,7 @@
         },
         "standalone": {
             "heading": "Funciona sozinho",
-            "description": "O Lumi é executado como um programa de desktop em seu computador e pode exportar arquivos HTML que funcionam em quase todos os dispositivos. Não há necessidade de um sistema de gerenciamento Leraning como o Moodle ou um sistema de gerenciamento de conteúdo como o WordPress."
+            "description": "O Lumi é executado como um programa de desktop em seu computador e pode exportar arquivos HTML que funcionam em quase todos os dispositivos. Não há necessidade de um sistema de gerenciamento Learning como o Moodle ou um sistema de gerenciamento de conteúdo como o WordPress."
         }
     },
     "download": {

@@ -36,7 +36,7 @@
         },
         "standalone": {
             "heading": "Funciona de forma autònoma",
-            "description": "Lumi s’executa com a programa d’escriptori a l’ordinador i pot exportar fitxers HTML que funcionen a gairebé tots els dispositius. No cal un sistema de gestió Leraning com Moodle ni un sistema de gestió de contingut com WordPress."
+            "description": "Lumi s’executa com a programa d’escriptori a l’ordinador i pot exportar fitxers HTML que funcionen a gairebé tots els dispositius. No cal un sistema de gestió Learning com Moodle ni un sistema de gestió de contingut com WordPress."
         }
     },
     "download": {

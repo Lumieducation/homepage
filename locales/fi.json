@@ -36,7 +36,7 @@
         },
         "standalone": {
             "heading": "Toimii itsenäisesti",
-            "description": "Lumi toimii tietokoneesi työpöytäohjelmana, ja se voi viedä HTML-tiedostoja, jotka toimivat lähes kaikilla laitteilla. Ei tarvetta Leraning-hallintajärjestelmälle, kuten Moodle, tai sisällönhallintajärjestelmälle, kuten WordPress."
+            "description": "Lumi toimii tietokoneesi työpöytäohjelmana, ja se voi viedä HTML-tiedostoja, jotka toimivat lähes kaikilla laitteilla. Ei tarvetta Learning-hallintajärjestelmälle, kuten Moodle, tai sisällönhallintajärjestelmälle, kuten WordPress."
         }
     },
     "download": {
