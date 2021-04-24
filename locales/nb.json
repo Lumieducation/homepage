@@ -35,8 +35,7 @@
             "description": "Sjekk endringene dine uten å lagre ved å bytte til forhåndsvisningen."
         },
         "standalone": {
-            "heading": "Kjører frittstående",
-            "description": "Lumi kjører som et skrivebordsprogram på datamaskinen din, og den kan eksportere HTML-filer som fungerer på nesten alle enheter. Ingen behov for et Leraning Management System som Moodle eller et Content Management System som WordPress."
+            "heading": "Kjører frittstående"
         }
     },
     "download": {
@@ -49,7 +48,6 @@
     "footer": {
         "company": "Selskap",
         "mission": "Gjør læring tilgjengelig, individuell og spennende.",
-        "quick_links": "Quikc-koblinger",
         "contact": "Ta kontakt med",
         "privacy": "Personvern",
         "imprint": "Avtrykk",

@@ -36,7 +36,7 @@
         },
         "standalone": {
             "heading": "Deluje samostojno",
-            "description": "Lumi deluje kot namizni program v vašem računalniku in lahko izvozi datoteke HTML, ki delujejo v skoraj vseh napravah. Ni potrebe po sistemu za upravljanje Leraning, kot je Moodle, ali sistemu za upravljanje vsebin, kot je WordPress."
+            "description": "Lumi deluje kot namizni program v vašem računalniku in lahko izvozi datoteke HTML, ki delujejo v skoraj vseh napravah. Ni potrebe po sistemu za upravljanje učenja, kot je Moodle, ali sistemu za upravljanje vsebin, kot je WordPress."
         }
     },
     "download": {
@@ -49,13 +49,13 @@
     "footer": {
         "company": "Podjetje",
         "mission": "Naj bo učenje dostopno, individualno in razburljivo.",
-        "quick_links": "Povezave Quikc",
         "contact": "Kontakt",
         "privacy": "Zasebnost",
         "imprint": "Odtis",
         "contact_information": "Kontaktni podatki",
         "newsletter": "Glasilo",
-        "newsletter_description": "Pridobite najnovejše novice od Lumi."
+        "newsletter_description": "Pridobite najnovejše novice od Lumi.",
+        "quick_links": "hitre povezave"
     },
     "meta": {
         "description": "Lumi je namizna aplikacija, ki vam omogoča ustvarjanje, urejanje, ogled in skupno rabo interaktivne vsebine z desetinami različnih vrst vsebin.",

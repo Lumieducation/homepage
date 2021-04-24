@@ -36,7 +36,7 @@
         },
         "standalone": {
             "heading": "Funziona da solo",
-            "description": "Lumi funziona come un programma desktop sul tuo computer e può esportare file HTML che funzionano su quasi tutti i dispositivi. Non c'è bisogno di un sistema di gestione Leraning come Moodle o di un sistema di gestione dei contenuti come WordPress."
+            "description": "Lumi funziona come un programma desktop sul tuo computer e può esportare file HTML che funzionano su quasi tutti i dispositivi. Non c'è bisogno di un sistema di gestione dell'apprendimento come Moodle o di un sistema di gestione dei contenuti come WordPress."
         }
     },
     "download": {
@@ -49,13 +49,13 @@
     "footer": {
         "company": "Azienda",
         "mission": "Rendi l'apprendimento accessibile, individuale ed entusiasmante.",
-        "quick_links": "Collegamenti Quikc",
         "contact": "Contatto",
         "privacy": "Privacy",
         "imprint": "Impronta",
         "contact_information": "Informazioni sui contatti",
         "newsletter": "Newsletter",
-        "newsletter_description": "Ricevi le ultime notizie da Lumi."
+        "newsletter_description": "Ricevi le ultime notizie da Lumi.",
+        "quick_links": "Link veloci"
     },
     "meta": {
         "description": "Lumi è un'app desktop che consente di creare, modificare, visualizzare e condividere contenuti interattivi con dozzine di diversi tipi di contenuto.",

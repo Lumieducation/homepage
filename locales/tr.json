@@ -36,7 +36,7 @@
         },
         "standalone": {
             "heading": "Bağımsız çalışır",
-            "description": "Lumi, bilgisayarınızda bir masaüstü programı olarak çalışır ve neredeyse tüm cihazlarda çalışan HTML dosyalarını dışa aktarabilir. Moodle gibi bir Eğitim Yönetim Sistemine veya WordPress gibi bir İçerik Yönetim Sistemine gerek yok."
+            "description": "Lumi, bilgisayarınızda bir masaüstü programı olarak çalışır ve neredeyse tüm cihazlarda çalışan HTML dosyalarını dışa aktarabilir. Moodle gibi bir Öğrenme Yönetim Sistemine veya WordPress gibi bir İçerik Yönetim Sistemine gerek yok."
         }
     },
     "download": {
@@ -49,13 +49,13 @@
     "footer": {
         "company": "şirket",
         "mission": "Öğrenimi erişilebilir, bireysel ve heyecan verici hale getirin.",
-        "quick_links": "Quikc Bağlantıları",
         "contact": "İletişim",
         "privacy": "Gizlilik",
         "imprint": "Künye",
         "contact_information": "İletişim bilgileri",
         "newsletter": "Haber bülteni",
-        "newsletter_description": "Lumi'den en son haberleri alın."
+        "newsletter_description": "Lumi'den en son haberleri alın.",
+        "quick_links": "Hızlı Linkler"
     },
     "meta": {
         "description": "Lumi, onlarca farklı içerik türüyle etkileşimli içerik oluşturmanıza, düzenlemenize, görüntülemenize ve paylaşmanıza olanak tanıyan bir masaüstü uygulamasıdır.",

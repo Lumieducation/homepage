@@ -36,7 +36,7 @@
         },
         "standalone": {
             "heading": "Běží samostatně",
-            "description": "Lumi běží jako desktopový program na vašem počítači a dokáže exportovat soubory HTML, které fungují téměř na všech zařízeních. Není třeba systém správy leraningu, jako je Moodle, ani systém správy obsahu, jako je WordPress."
+            "description": "Lumi běží jako desktopový program na vašem počítači a dokáže exportovat soubory HTML, které fungují téměř na všech zařízeních. Není třeba systém pro správu učení, jako je Moodle, ani systém pro správu obsahu, jako je WordPress."
         }
     },
     "download": {
@@ -49,13 +49,13 @@
     "footer": {
         "company": "Společnost",
         "mission": "Zajistěte, aby bylo učení přístupné, individuální a vzrušující.",
-        "quick_links": "Odkazy Quikc",
         "contact": "Kontakt",
         "privacy": "Soukromí",
         "imprint": "Otisk",
         "contact_information": "Kontaktní informace",
         "newsletter": "Zpravodaj",
-        "newsletter_description": "Získejte nejnovější zprávy od Lumi."
+        "newsletter_description": "Získejte nejnovější zprávy od Lumi.",
+        "quick_links": "Rychlé odkazy"
     },
     "meta": {
         "description": "Lumi je aplikace pro stolní počítače, která vám umožňuje vytvářet, upravovat, prohlížet a sdílet interaktivní obsah s desítkami různých typů obsahu.",

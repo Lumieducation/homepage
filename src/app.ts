@@ -2,15 +2,22 @@ import bodyParser from 'body-parser';
 import express from 'express';
 import exphbs from 'express-handlebars';
 import path from 'path';
-
+import morgan from 'morgan';
 import i18next from 'i18next';
 import i18nextHttpMiddleware from 'i18next-http-middleware';
 import i18nextFsBackend from 'i18next-fs-backend';
+import helmet from 'helmet';
 
 import routes from './routes';
 import { languages } from './languages';
 
 const app = express();
+
+// Add logger
+app.use(morgan('tiny'));
+
+// Add save HTTP headers
+app.use(helmet());
 
 i18next
     .use(i18nextFsBackend)
@@ -28,7 +35,9 @@ i18next
         fallbackLng: 'en',
         load: 'all',
         ns: ['server'],
+        lowerCaseLng: true,
         preload: languages,
+        supportedLngs: languages,
         detection: {
             order: ['path', 'header'],
             lookupPath: 'lng',
@@ -82,9 +91,10 @@ app.use(
 app.use(express.static(path.join(__dirname, '..', 'public')));
 
 app.use('/:lang([a-zA-Z]{2,3}-?[a-zA-Z]{0,6})', (req, res, next) => {
-    if (languages.includes(req.params.lang)) {
+    const langLowercase = req.params.lang.toLocaleLowerCase();
+    if (languages.includes(langLowercase)) {
         if (req.url === '/' && !req.originalUrl.endsWith('/')) {
-            res.redirect(`/${req.params.lang}/`);
+            res.redirect(`/${langLowercase}/`);
         } else {
             routes(req, res, next);
         }

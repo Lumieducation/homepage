@@ -36,7 +36,7 @@
         },
         "standalone": {
             "heading": "독립 실행 형",
-            "description": "Lumi는 컴퓨터에서 데스크톱 프로그램으로 실행되며 거의 모든 장치에서 작동하는 HTML 파일을 내보낼 수 있습니다. Moodle과 같은 Leraning 관리 시스템이나 WordPress와 같은 콘텐츠 관리 시스템이 필요하지 않습니다."
+            "description": "Lumi는 컴퓨터에서 데스크톱 프로그램으로 실행되며 거의 모든 장치에서 작동하는 HTML 파일을 내보낼 수 있습니다. Moodle과 같은 학습 관리 시스템이나 WordPress와 같은 콘텐츠 관리 시스템이 필요하지 않습니다."
         }
     },
     "download": {
@@ -49,13 +49,13 @@
     "footer": {
         "company": "회사",
         "mission": "접근 가능하고 개별적이며 흥미 진진한 학습을 만드십시오.",
-        "quick_links": "Quikc 링크",
         "contact": "접촉",
         "privacy": "은둔",
         "imprint": "날인",
         "contact_information": "연락 정보",
         "newsletter": "뉴스 레터",
-        "newsletter_description": "Lumi의 최신 뉴스를 받아보세요."
+        "newsletter_description": "Lumi의 최신 뉴스를 받아보세요.",
+        "quick_links": "빠른 링크"
     },
     "meta": {
         "description": "Lumi는 수십 가지 다양한 콘텐츠 유형으로 대화 형 콘텐츠를 만들고, 편집하고,보고, 공유 할 수있는 데스크톱 앱입니다.",
