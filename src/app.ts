@@ -2,7 +2,7 @@ import bodyParser from 'body-parser';
 import express from 'express';
 import exphbs from 'express-handlebars';
 import path from 'path';
-
+import morgan from 'morgan';
 import i18next from 'i18next';
 import i18nextHttpMiddleware from 'i18next-http-middleware';
 import i18nextFsBackend from 'i18next-fs-backend';
@@ -11,6 +11,8 @@ import routes from './routes';
 import { languages } from './languages';
 
 const app = express();
+
+app.use(morgan('tiny'));
 
 i18next
     .use(i18nextFsBackend)
