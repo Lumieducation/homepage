@@ -36,7 +36,7 @@
         },
         "standalone": {
             "heading": "Töötab iseseisvalt",
-            "description": "Lumi töötab teie arvutis töölauaprogrammina ja sellega saab eksportida HTML-faile, mis töötavad peaaegu kõigis seadmetes. Pole vaja sellist juhtimissüsteemi nagu Moodle ega sisuhaldussüsteemi nagu WordPress."
+            "description": "Lumi töötab arvutis töölauaprogrammina ja sellega saab eksportida HTML-faile, mis töötavad peaaegu kõigis seadmetes. Pole vaja sellist õpihaldussüsteemi nagu Moodle ega sisuhaldussüsteemi nagu WordPress."
         }
     },
     "download": {
@@ -49,13 +49,13 @@
     "footer": {
         "company": "Firma",
         "mission": "Muutke õppimine kättesaadavaks, individuaalseks ja põnevaks.",
-        "quick_links": "Quikci lingid",
         "contact": "Võta ühendust",
         "privacy": "Privaatsus",
         "imprint": "Jäljend",
         "contact_information": "Kontaktinfo",
         "newsletter": "Infoleht",
-        "newsletter_description": "Hankige Lumi viimaseid uudiseid."
+        "newsletter_description": "Hankige Lumi viimaseid uudiseid.",
+        "quick_links": "Kiirlingid"
     },
     "meta": {
         "description": "Lumi on töölauarakendus, mis võimaldab teil interaktiivset sisu luua, muuta, vaadata ja jagada kümnete erinevate sisutüüpidega.",

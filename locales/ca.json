@@ -36,7 +36,7 @@
         },
         "standalone": {
             "heading": "Funciona de forma autònoma",
-            "description": "Lumi s’executa com a programa d’escriptori a l’ordinador i pot exportar fitxers HTML que funcionen a gairebé tots els dispositius. No cal un sistema de gestió Learning com Moodle ni un sistema de gestió de contingut com WordPress."
+            "description": "Lumi s’executa com a programa d’escriptori a l’ordinador i pot exportar fitxers HTML que funcionen a gairebé tots els dispositius. No cal un sistema de gestió de l’aprenentatge com Moodle ni un sistema de gestió de contingut com WordPress."
         }
     },
     "download": {
@@ -49,13 +49,13 @@
     "footer": {
         "company": "Empresa",
         "mission": "Feu que l’aprenentatge sigui accessible, individual i emocionant.",
-        "quick_links": "Enllaços Quikc",
         "contact": "Contacte",
         "privacy": "Privadesa",
         "imprint": "Empremta",
         "contact_information": "Informació de contacte",
         "newsletter": "Butlletí informatiu",
-        "newsletter_description": "Rep les últimes notícies de Lumi."
+        "newsletter_description": "Rep les últimes notícies de Lumi.",
+        "quick_links": "Links ràpids"
     },
     "meta": {
         "description": "Lumi és una aplicació d'escriptori que us permet crear, editar, veure i compartir contingut interactiu amb desenes de tipus de contingut diferents.",

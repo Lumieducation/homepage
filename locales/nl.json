@@ -36,7 +36,7 @@
         },
         "standalone": {
             "heading": "Werkt zelfstandig",
-            "description": "Lumi werkt als een desktopprogramma op uw computer en het kan HTML-bestanden exporteren die op bijna alle apparaten werken. Geen behoefte aan een Learning Management Systeem zoals Moodle of een Content Management Systeem zoals WordPress."
+            "description": "Lumi werkt als een desktopprogramma op uw computer en het kan HTML-bestanden exporteren die op bijna alle apparaten werken. Geen leermanagementsysteem zoals Moodle of een contentmanagementsysteem zoals WordPress nodig."
         }
     },
     "download": {
@@ -49,13 +49,13 @@
     "footer": {
         "company": "Bedrijf",
         "mission": "Maak leren toegankelijk, individueel en spannend.",
-        "quick_links": "Snelle koppelingen",
         "contact": "Contact",
         "privacy": "Privacy",
         "imprint": "Colofon",
         "contact_information": "Contactgegevens",
         "newsletter": "Nieuwsbrief",
-        "newsletter_description": "Ontvang het laatste nieuws van Lumi."
+        "newsletter_description": "Ontvang het laatste nieuws van Lumi.",
+        "quick_links": "Snelle links"
     },
     "meta": {
         "description": "Lumi is een desktop-app waarmee u interactieve inhoud met tientallen verschillende inhoudstypen kunt maken, bewerken, bekijken en delen.",

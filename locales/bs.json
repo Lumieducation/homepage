@@ -36,7 +36,7 @@
         },
         "standalone": {
             "heading": "Radi samostalno",
-            "description": "Lumi se pokreće kao desktop program na vašem računaru i može izvoziti HTML datoteke koje rade na gotovo svim uređajima. Nema potrebe za Learning sistemom upravljanja kao što je Moodle ili sistemom za upravljanje sadržajem poput WordPressa."
+            "description": "Lumi se pokreće kao desktop program na vašem računaru i može izvesti HTML datoteke koje rade na gotovo svim uređajima. Nije potreban sistem za upravljanje učenjem poput Moodle-a ili sistem za upravljanje sadržajem kao što je WordPress."
         }
     },
     "download": {
@@ -49,13 +49,13 @@
     "footer": {
         "company": "Kompanija",
         "mission": "Učenje učinite dostupnim, individualnim i uzbudljivim.",
-        "quick_links": "Quikc Linkovi",
         "contact": "Kontakt",
         "privacy": "Privatnost",
         "imprint": "Otisak",
         "contact_information": "Kontakt informacije",
         "newsletter": "Bilten",
-        "newsletter_description": "Primajte najnovije vijesti od Lumi."
+        "newsletter_description": "Primajte najnovije vijesti od Lumi.",
+        "quick_links": "Brzi linkovi"
     },
     "meta": {
         "description": "Lumi je aplikacija za radnu površinu koja vam omogućava stvaranje, uređivanje, pregled i dijeljenje interaktivnog sadržaja s desetinama različitih vrsta sadržaja.",

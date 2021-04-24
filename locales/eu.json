@@ -36,7 +36,7 @@
         },
         "standalone": {
             "heading": "Korrika autonomoa",
-            "description": "Lumi ordenagailuko programa gisa exekutatzen da eta ia gailu guztietan funtzionatzen duten HTML fitxategiak esporta ditzake. Ez da beharrezkoa Moodle bezalako Learning Kudeaketa Sistemarik edo WordPress bezalako Edukien Kudeaketa Sistemarik."
+            "description": "Lumi ordenagailuko mahaigaineko programa gisa exekutatzen da eta ia gailu guztietan funtzionatzen duten HTML fitxategiak esporta ditzake. Ez da beharrezkoa Moodle bezalako Ikasketa Kudeaketa Sistemaren edo WordPress bezalako Edukien Kudeaketa Sistemaren beharrik."
         }
     },
     "download": {
@@ -49,13 +49,13 @@
     "footer": {
         "company": "Enpresa",
         "mission": "Egin ikaskuntza eskuragarria, indibiduala eta zirraragarria.",
-        "quick_links": "Quikc Loturak",
         "contact": "Harremanetarako",
         "privacy": "Pribatutasuna",
         "imprint": "Aztarna",
         "contact_information": "Harremanetarako informazioa",
         "newsletter": "Buletina",
-        "newsletter_description": "Lumi-ren azken berriak jaso."
+        "newsletter_description": "Lumi-ren azken berriak jaso.",
+        "quick_links": "Esteka azkarrak"
     },
     "meta": {
         "description": "Lumi mahaigaineko aplikazioa da, eduki interaktiboa sortu, editatu, ikusi eta partekatzeko aukera ematen du dozenaka eduki mota desberdinekin.",

@@ -36,7 +36,7 @@
         },
         "standalone": {
             "heading": "Toimii itsenäisesti",
-            "description": "Lumi toimii tietokoneesi työpöytäohjelmana, ja se voi viedä HTML-tiedostoja, jotka toimivat lähes kaikilla laitteilla. Ei tarvetta Learning-hallintajärjestelmälle, kuten Moodle, tai sisällönhallintajärjestelmälle, kuten WordPress."
+            "description": "Lumi toimii työpöytäohjelmana tietokoneellasi ja se voi viedä HTML-tiedostoja, jotka toimivat lähes kaikilla laitteilla. Ei tarvita oppimisen hallintajärjestelmää, kuten Moodle, tai sisällönhallintajärjestelmää, kuten WordPress."
         }
     },
     "download": {
@@ -49,13 +49,13 @@
     "footer": {
         "company": "Yhtiö",
         "mission": "Tee oppimisesta helppoa, yksilöllistä ja jännittävää.",
-        "quick_links": "Quikc Linkit",
         "contact": "Ottaa yhteyttä",
         "privacy": "Yksityisyys",
         "imprint": "Jälki",
         "contact_information": "Yhteystiedot",
         "newsletter": "Uutiskirje",
-        "newsletter_description": "Hanki viimeisimmät uutiset Lumilta."
+        "newsletter_description": "Hanki viimeisimmät uutiset Lumilta.",
+        "quick_links": "Pikalinkit"
     },
     "meta": {
         "description": "Lumi on työpöytäsovellus, jonka avulla voit luoda, muokata, tarkastella ja jakaa interaktiivista sisältöä kymmenien erilaisten sisältötyyppien kanssa.",

@@ -6,9 +6,9 @@
         "imprint": "Afdruk",
         "privacy": "Privaatheid",
         "contact": "Kontak",
-        "quick_links": "Spoedskakels",
         "mission": "Maak onderrig toeganklik, individueel en opwindend.",
-        "company": "Maatskappy"
+        "company": "Maatskappy",
+        "quick_links": "Blitsskakels"
     },
     "download": {
         "bypass_smartscreen": "Leer hoe jy die SmartScreen-filter van Windows kan omseil (slegs nodig vir 'n exe-installasie).",
@@ -19,8 +19,8 @@
     },
     "features": {
         "standalone": {
-            "description": "Lumi werk as 'n program op jou rekenaar en kan HTML-lêers uitvoer wat op byna alle toestelle werk. Geen Leerbestuurstelsel (LBS) soos Moodle of 'n inhoudsbestuurstelsel soos WordPress is nodig nie.                           ",
-            "heading": "Loop losstaande"
+            "heading": "Loop losstaande",
+            "description": "Lumi werk as 'n lessenaarprogram op u rekenaar en kan HTML-lêers uitvoer wat op byna alle toestelle werk. Geen leerbestuurstelsel soos Moodle of 'n inhoudsbestuurstelsel soos WordPress nodig nie."
         },
         "preview": {
             "description": "Toets jou veranderinge sonder om te stoor deur na die voorskou oor te slaan.",
