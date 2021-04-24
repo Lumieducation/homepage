@@ -13,9 +13,7 @@ export const getCurrentLanguageCode = (browserLocale: string) => {
     if (languageCodes[lowerCaseBrowserLocale]) {
         return lowerCaseBrowserLocale;
     }
-    const match = lowerCaseBrowserLocale
-        .toLocaleLowerCase()
-        .match(localeMatcher);
+    const match = lowerCaseBrowserLocale.match(localeMatcher);
     if (match) {
         return match[1];
     }

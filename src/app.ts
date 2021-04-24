@@ -35,7 +35,9 @@ i18next
         fallbackLng: 'en',
         load: 'all',
         ns: ['server'],
+        lowerCaseLng: true,
         preload: languages,
+        supportedLngs: languages,
         detection: {
             order: ['path', 'header'],
             lookupPath: 'lng',
