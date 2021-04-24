@@ -10,6 +10,9 @@ spec:
   tls:
   - hosts:
     - homepage.testcluster2.lumi-dev.tk
+    - lumi.education
+    - next.lumi.education
+    - www.lumi.education
     secretName: production-issuer-account-key
   rules:
   - host: homepage.testcluster2.lumi-dev.tk
@@ -22,3 +25,33 @@ spec:
             name: lumi-homepage-svc
             port:
               number: 80
+  - host: lumi.education
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: lumi-homepage-svc
+            port:
+              number: 80
+  - host: next.lumi.education
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: lumi-homepage-svc
+            port:
+              number: 80
+  - host: www.lumi.education
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: lumi-homepage-svc
+            port:
+              number: 80              
