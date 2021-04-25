@@ -17,7 +17,7 @@ const app = express();
 app.use(morgan('tiny'));
 
 // Add save HTTP headers
-app.use(helmet());
+app.use(helmet({ contentSecurityPolicy: false }));
 
 i18next
     .use(i18nextFsBackend)
