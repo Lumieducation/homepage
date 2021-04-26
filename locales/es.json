@@ -19,8 +19,8 @@
     },
     "features": {
         "standalone": {
-            "description": "Lumi se ejecuta como un programa de escritorio en su computadora y puede exportar archivos HTML que funcionan en casi todos los dispositivos. No hay necesidad de un Sistema de Manejo del Aprendizaje como Moodle, ni de un Sistema de Manejo del Contenido como Wordpress.",
-            "heading": "Ejecuta independientemente"
+            "heading": "Ejecuta independientemente",
+            "description": "Lumi se ejecuta como un programa de escritorio en su computadora. No es necesario un LMS como Moodle o un CMS como WordPress."
         },
         "preview": {
             "description": "Compruebe sus cambios antes de guardar al cambiar a la previsualización.",
@@ -35,7 +35,23 @@
             "heading": "Todos los Tipos de Contenido del Hub H5P"
         },
         "heading": "Crea, edita y ve archivos H5P directamente en tu computadora.",
-        "subheading": "Editor Lumi H5P"
+        "subheading": "Editor Lumi H5P",
+        "htmlExport": {
+            "heading": "Exportación de HTML puro",
+            "description": "Guarde su contenido como archivos HTML todo en uno que funcionan en casi todas partes y envíelo a sus alumnos."
+        },
+        "scormExport": {
+            "heading": "Exportación SCORM",
+            "description": "Exporte su contenido como paquetes SCORM 1.2 que se pueden utilizar en cualquier LMS compatible."
+        },
+        "analytics": {
+            "heading": "Obtenga el progreso del alumno",
+            "description": "Los alumnos pueden descargar su progreso con la herramienta de informes de Lumi y enviársela para su análisis."
+        },
+        "openSource": {
+            "heading": "Gratis y de código abierto",
+            "description": "Lumi tiene la licencia GNU Affero General Public License 3.0 y es completamente gratis. Puede utilizar el contenido creado con él de la forma que desee."
+        }
     },
     "newsletter": {
         "subscribe": "Suscribirse",
@@ -49,7 +65,7 @@
     },
     "home": {
         "get_started": "Comenzar",
-        "welcome": "LUMI es una app de escritorio que le permite crear, editar y compartir contenido interactivo con docenas de diferentes tipos de contenido."
+        "welcome": "Lumi es una aplicación de escritorio que le permite crear, editar, ver y compartir contenido interactivo con docenas de diferentes tipos de contenido. Es gratis y de código abierto."
     },
     "mission": {
         "exciting": "excitante.",

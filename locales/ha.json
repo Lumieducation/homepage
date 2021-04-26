@@ -12,8 +12,8 @@
         "exciting": "m."
     },
     "home": {
-        "welcome": "Lumi aikace-aikacen tebur ne wanda ke ba ku damar ƙirƙiri, shiryawa, dubawa da raba abubuwan hulɗa tare da nau'ikan nau'ikan abubuwan ciki da yawa.",
-        "get_started": "Farawa"
+        "get_started": "Farawa",
+        "welcome": "Lumi aikace-aikacen tebur ne wanda ke ba ku damar ƙirƙiri, shiryawa, dubawa da raba abubuwan hulɗa tare da nau'ikan nau'ikan abubuwan ciki da yawa. Kyauta ne kuma buɗaɗɗen tushe."
     },
     "navigation": {
         "home": "Gida",
@@ -42,7 +42,23 @@
         },
         "standalone": {
             "heading": "Gudun kai tsaye",
-            "description": "Lumi yana gudana azaman shirin tebur akan kwamfutarka kuma yana iya fitarwa fayilolin HTML waɗanda ke aiki kusan kusan dukkan na'urori. Babu buƙatar Tsarin Gudanar da Ilmantarwa kamar Moodle ko Tsarin Gudanar da Abun ciki kamar WordPress."
+            "description": "Lumi yana gudana azaman shirin tebur akan kwamfutarka. Babu buƙatar LMS kamar Moodle ko CMS kamar WordPress."
+        },
+        "htmlExport": {
+            "heading": "Fitar HTML mai tsabta",
+            "description": "Adana abubuwanku azaman fayilolin HTML guda ɗaya waɗanda suke aiki kusan ko'ina kuma aika shi zuwa ga masu koyo."
+        },
+        "scormExport": {
+            "heading": "SCORM fitarwa",
+            "description": "Fitar da abun cikin ku azaman kunshin SCORM 1.2 wanda za'a iya amfani dashi a cikin kowane LMS mai aiki."
+        },
+        "analytics": {
+            "heading": "Samun ci gaban mai koyo",
+            "description": "Masu koyo suna iya zazzage ci gaban su ta hanyar kayan aikin rahoton Lumi kuma su aiko muku shi don yin nazari."
+        },
+        "openSource": {
+            "heading": "Free da Buɗe Tushen",
+            "description": "Lumi lasisi ne a ƙarƙashin GNU Affero General License License 3.0 kuma kyauta kyauta. Kuna iya amfani da abun ciki da aka ƙirƙira tare da shi ta kowace hanyar da kuke so."
         }
     },
     "download": {

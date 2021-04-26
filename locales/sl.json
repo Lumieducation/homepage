@@ -6,8 +6,8 @@
         "exciting": "razburljivo."
     },
     "home": {
-        "welcome": "Lumi je namizna aplikacija, ki vam omogoča ustvarjanje, urejanje, ogled in skupno rabo interaktivne vsebine z desetinami različnih vrst vsebin.",
-        "get_started": "Začeti"
+        "get_started": "Začeti",
+        "welcome": "Lumi je namizna aplikacija, ki vam omogoča ustvarjanje, urejanje, ogled in skupno rabo interaktivne vsebine z desetinami različnih vrst vsebin. Je brezplačna in odprtokodna."
     },
     "navigation": {
         "home": "Domov",
@@ -36,7 +36,23 @@
         },
         "standalone": {
             "heading": "Deluje samostojno",
-            "description": "Lumi deluje kot namizni program v vašem računalniku in lahko izvozi datoteke HTML, ki delujejo v skoraj vseh napravah. Ni potrebe po sistemu za upravljanje učenja, kot je Moodle, ali sistemu za upravljanje vsebin, kot je WordPress."
+            "description": "Lumi deluje kot namizni program v vašem računalniku. Ni potrebe po LMS, kot je Moodle, ali CMS, kot je WordPress."
+        },
+        "htmlExport": {
+            "heading": "Čisti izvoz HTML",
+            "description": "Shranite vsebino kot vsestranske datoteke HTML, ki delujejo skoraj povsod, in jih pošljite svojim učencem."
+        },
+        "scormExport": {
+            "heading": "SCORM izvoz",
+            "description": "Izvozite svojo vsebino kot pakete SCORM 1.2, ki jih je mogoče uporabiti v katerem koli skladnem LMS"
+        },
+        "analytics": {
+            "heading": "Pridobite napredek učencev",
+            "description": "Učenci lahko svoj napredek prenesejo z orodjem Lumi's reporter in vam ga pošljejo v analizo."
+        },
+        "openSource": {
+            "heading": "Prosti in odprtokodni",
+            "description": "Lumi je licenciran pod GNU Affero General Public License 3.0 in popolnoma brezplačen. Vsebino, ustvarjeno z njo, lahko uporabite na kakršen koli način."
         }
     },
     "download": {

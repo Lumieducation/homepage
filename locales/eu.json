@@ -6,8 +6,8 @@
         "exciting": "zirraragarria."
     },
     "home": {
-        "welcome": "Lumi mahaigaineko aplikazioa da, eduki interaktiboa sortu, editatu, ikusi eta partekatzeko aukera ematen du dozenaka eduki mota desberdinekin.",
-        "get_started": "Hasi"
+        "get_started": "Hasi",
+        "welcome": "Lumi mahaigaineko aplikazioa da, eduki interaktiboa sortu, editatu, ikusi eta partekatzeko aukera ematen du dozenaka eduki mota desberdinekin. Doakoa eta irekia da."
     },
     "navigation": {
         "home": "Etxea",
@@ -36,7 +36,23 @@
         },
         "standalone": {
             "heading": "Korrika autonomoa",
-            "description": "Lumi ordenagailuko mahaigaineko programa gisa exekutatzen da eta ia gailu guztietan funtzionatzen duten HTML fitxategiak esporta ditzake. Ez da beharrezkoa Moodle bezalako Ikasketa Kudeaketa Sistemaren edo WordPress bezalako Edukien Kudeaketa Sistemaren beharrik."
+            "description": "Lumi ordenagailuko programa gisa exekutatzen da. Ez da beharrezkoa Moodle bezalako LMS edo WordPress bezalako CMSrik."
+        },
+        "htmlExport": {
+            "heading": "HTML esportazio hutsa",
+            "description": "Gorde zure edukia ia edonon funtzionatzen duten HTML fitxategi guztiak eta bidali ikasleei."
+        },
+        "scormExport": {
+            "heading": "SCORM esportazioa",
+            "description": "Esportatu zure edukia SCORM 1.2 pakete gisa, edozein LMS bateragarritan erabil daitekeena."
+        },
+        "analytics": {
+            "heading": "Lortu ikasleen aurrerapena",
+            "description": "Ikasleek Lumi-ren berriemaile tresnarekin deskargatu ditzakete beren aurrerabideak eta aztertu ditzaten bidali."
+        },
+        "openSource": {
+            "heading": "Doako eta kode irekia",
+            "description": "Lumi GNU Affero General Public License 3.0 lizentziapean dago eta guztiz doakoa da. Berarekin sortutako edukia nahi duzun moduan erabil dezakezu."
         }
     },
     "download": {

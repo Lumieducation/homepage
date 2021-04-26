@@ -6,7 +6,7 @@
         "exciting": "aufregend."
     },
     "home": {
-        "welcome": "Lumi ist eine Desktop-App, mit der du interaktive Inhalte mit dutzenden verschiedenen Inhaltstypen erstellen, bearbeiten, anzeigen und weitergeben kannst.",
+        "welcome": "Lumi ist eine Desktop-App, mit der Sie interaktive Inhalte mit Dutzenden verschiedener Inhaltstypen erstellen, bearbeiten, anzeigen und freigeben können. Es ist kostenlos und Open Source.",
         "get_started": "Loslegen"
     },
     "navigation": {
@@ -36,7 +36,23 @@
         },
         "standalone": {
             "heading": "Läuft eigenständig",
-            "description": "Lumi wird als Desktop-Programm auf deinem Computer ausgeführt und kann HTML-Dateien exportieren, die auf fast allen Geräten funktionieren. Es ist kein Learning Management System wie Moodle oder ein Content Management System wie WordPress erforderlich.                           "
+            "description": "Lumi läuft als Desktop-Programm auf deinem Computer. Du brauchst kein LMS wie Moodle oder CMS wie WordPress."
+        },
+        "htmlExport": {
+            "heading": "Export als reine HTML-Datei",
+            "description": "Speicher Deine Inhalte als All-in-One-HTML-Dateien, die fast überall funktionieren, und sende sie an deine Lernenden."
+        },
+        "scormExport": {
+            "heading": "SCORM-Export",
+            "description": "Exportieren deine Inhalte als SCORM 1.2-Pakete, die in jedem kompatiblen LMS verwendet werden können."
+        },
+        "analytics": {
+            "heading": "Holen Sie sich Lernfortschritte",
+            "description": "Die Lernenden können ihre Fortschritte mit dem Reporter-Tool von Lumi herunterladen und zur Analyse an dich senden."
+        },
+        "openSource": {
+            "heading": "Kostenlos und Open Source",
+            "description": "Lumi ist unter der GNU Affero General Public License 3.0 lizenziert und völlig kostenlos. Du kannst damit erstellte Inhalte beliebig verwenden."
         }
     },
     "download": {

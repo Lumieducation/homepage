@@ -6,6 +6,7 @@
         "tslint-config-prettier"
     ],
     "rules": {
+        "no-console": false,
         "typedef": [
             true,
             "call-signature",

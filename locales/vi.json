@@ -12,8 +12,8 @@
         "exciting": "thú vị."
     },
     "home": {
-        "welcome": "Lumi là một ứng dụng dành cho máy tính để bàn cho phép bạn tạo, chỉnh sửa, xem và chia sẻ nội dung tương tác với hàng chục loại nội dung khác nhau.",
-        "get_started": "Bắt đầu"
+        "get_started": "Bắt đầu",
+        "welcome": "Lumi là một ứng dụng dành cho máy tính để bàn cho phép bạn tạo, chỉnh sửa, xem và chia sẻ nội dung tương tác với hàng chục loại nội dung khác nhau. Nó miễn phí và mã nguồn mở."
     },
     "navigation": {
         "home": "Trang Chủ",
@@ -42,7 +42,23 @@
         },
         "standalone": {
             "heading": "Chạy độc lập",
-            "description": "Lumi chạy như một chương trình máy tính để bàn trên máy tính của bạn và nó có thể xuất các tệp HTML hoạt động trên hầu hết các thiết bị. Không cần Hệ thống quản lý học tập như Moodle hoặc Hệ thống quản lý nội dung như WordPress."
+            "description": "Lumi chạy như một chương trình máy tính để bàn trên máy tính của bạn. Không cần LMS như Moodle hoặc CMS như WordPress."
+        },
+        "htmlExport": {
+            "heading": "Xuất HTML thuần túy",
+            "description": "Lưu nội dung của bạn dưới dạng các tệp HTML tất cả trong một hoạt động ở hầu hết mọi nơi và gửi nội dung đó cho người học của bạn."
+        },
+        "scormExport": {
+            "heading": "Xuất khẩu SCORM",
+            "description": "Xuất nội dung của bạn dưới dạng gói SCORM 1.2 có thể được sử dụng trong bất kỳ LMS tuân thủ nào."
+        },
+        "analytics": {
+            "heading": "Nhận sự tiến bộ của người học",
+            "description": "Người học có thể tải xuống tiến trình của mình bằng công cụ báo cáo của Lumi và gửi cho bạn để phân tích."
+        },
+        "openSource": {
+            "heading": "Nguồn mở và miễn phí",
+            "description": "Lumi được cấp phép theo GNU Affero General Public License 3.0 và hoàn toàn miễn phí. Bạn có thể sử dụng nội dung được tạo bằng nó theo bất kỳ cách nào bạn muốn."
         }
     },
     "download": {

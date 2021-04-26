@@ -6,8 +6,8 @@
         "exciting": "emocionant."
     },
     "home": {
-        "welcome": "Lumi és una aplicació d'escriptori que us permet crear, editar, veure i compartir contingut interactiu amb desenes de tipus de contingut diferents.",
-        "get_started": "Començar"
+        "get_started": "Començar",
+        "welcome": "Lumi és una aplicació d'escriptori que us permet crear, editar, veure i compartir contingut interactiu amb desenes de tipus de contingut diferents. És de codi obert i gratuït."
     },
     "navigation": {
         "home": "Inici",
@@ -36,7 +36,23 @@
         },
         "standalone": {
             "heading": "Funciona de forma autònoma",
-            "description": "Lumi s’executa com a programa d’escriptori a l’ordinador i pot exportar fitxers HTML que funcionen a gairebé tots els dispositius. No cal un sistema de gestió de l’aprenentatge com Moodle ni un sistema de gestió de contingut com WordPress."
+            "description": "Lumi s’executa com a programa d’escriptori a l’ordinador. No cal un LMS com Moodle ni un CMS com WordPress."
+        },
+        "htmlExport": {
+            "heading": "Exportació HTML pura",
+            "description": "Deseu el vostre contingut com a fitxers HTML tot en un que funcionen gairebé a tot arreu i envieu-lo als vostres alumnes."
+        },
+        "scormExport": {
+            "heading": "Exportació SCORM",
+            "description": "Exporteu el vostre contingut com a paquets SCORM 1.2 que es poden utilitzar en qualsevol LMS compatible."
+        },
+        "analytics": {
+            "heading": "Aconsegueix el progrés de l’alumne",
+            "description": "Els estudiants poden descarregar el seu progrés amb l’eina de reporters de Lumi i us l’enviaran per a l’anàlisi."
+        },
+        "openSource": {
+            "heading": "Lliure i de codi obert",
+            "description": "Lumi té una llicència GNU Affero General Public License 3.0 i és totalment gratuïta. Podeu utilitzar el contingut creat amb ell de la manera que vulgueu."
         }
     },
     "download": {

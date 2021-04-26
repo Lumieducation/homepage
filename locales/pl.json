@@ -12,8 +12,8 @@
         "exciting": "ekscytujący."
     },
     "home": {
-        "welcome": "Lumi to aplikacja komputerowa, która umożliwia tworzenie, edytowanie, przeglądanie i udostępnianie interaktywnych treści z dziesiątkami różnych typów treści.",
-        "get_started": "Zaczynaj"
+        "get_started": "Zaczynaj",
+        "welcome": "Lumi to aplikacja komputerowa, która umożliwia tworzenie, edytowanie, przeglądanie i udostępnianie interaktywnych treści z dziesiątkami różnych typów treści. Jest darmowy i open source."
     },
     "navigation": {
         "home": "Dom",
@@ -42,7 +42,23 @@
         },
         "standalone": {
             "heading": "Działa samodzielnie",
-            "description": "Lumi działa jako program komputerowy na Twoim komputerze i może eksportować pliki HTML, które działają na prawie wszystkich urządzeniach. Nie potrzebujesz systemu zarządzania nauką, takiego jak Moodle, ani systemu zarządzania treścią, takiego jak WordPress."
+            "description": "Lumi działa jako program na komputerze. Nie ma potrzeby posiadania systemu LMS, takiego jak Moodle, ani systemu CMS, takiego jak WordPress."
+        },
+        "htmlExport": {
+            "heading": "Eksport w czystym formacie HTML",
+            "description": "Zapisz swoje treści jako pliki HTML typu „wszystko w jednym”, które działają prawie wszędzie, i wyślij je do swoich uczniów."
+        },
+        "scormExport": {
+            "heading": "Eksport SCORM",
+            "description": "Wyeksportuj zawartość jako pakiety SCORM 1.2, których można używać w dowolnym zgodnym LMS."
+        },
+        "analytics": {
+            "heading": "Uzyskaj postępy ucznia",
+            "description": "Uczniowie mogą pobrać swoje postępy za pomocą narzędzia reporter Lumi i przesłać je do analizy."
+        },
+        "openSource": {
+            "heading": "Darmowe i otwarte oprogramowanie",
+            "description": "Lumi jest objęte licencją GNU Affero General Public License 3.0 i jest całkowicie bezpłatne. Możesz korzystać z utworzonych za jego pomocą treści w dowolny sposób."
         }
     },
     "download": {

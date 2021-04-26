@@ -6,8 +6,8 @@
         "exciting": "opwindend."
     },
     "home": {
-        "welcome": "Lumi is een desktop-app waarmee u interactieve inhoud met tientallen verschillende inhoudstypen kunt maken, bewerken, bekijken en delen.",
-        "get_started": "Begin"
+        "get_started": "Begin",
+        "welcome": "Lumi is een desktop-app waarmee u interactieve inhoud met tientallen verschillende inhoudstypen kunt maken, bewerken, bekijken en delen. Het is gratis en open source."
     },
     "navigation": {
         "home": "Huis",
@@ -36,7 +36,23 @@
         },
         "standalone": {
             "heading": "Werkt zelfstandig",
-            "description": "Lumi werkt als een desktopprogramma op uw computer en het kan HTML-bestanden exporteren die op bijna alle apparaten werken. Geen leermanagementsysteem zoals Moodle of een contentmanagementsysteem zoals WordPress nodig."
+            "description": "Lumi werkt als een desktopprogramma op uw computer. Een LMS zoals Moodle of een CMS zoals WordPress is niet nodig."
+        },
+        "htmlExport": {
+            "heading": "Pure HTML-export",
+            "description": "Sla uw inhoud op als alles-in-één HTML-bestanden die bijna overal werken en stuur deze naar uw leerlingen."
+        },
+        "scormExport": {
+            "heading": "SCORM-export",
+            "description": "Exporteer uw inhoud als SCORM 1.2-pakketten die in elk compatibel LMS kunnen worden gebruikt."
+        },
+        "analytics": {
+            "heading": "Krijg de voortgang van de leerling",
+            "description": "Leerlingen kunnen hun voortgang downloaden met de rapportagetool van Lumi en deze naar u opsturen voor analyse."
+        },
+        "openSource": {
+            "heading": "Gratis en open source",
+            "description": "Lumi heeft een licentie onder de GNU Affero General Public License 3.0 en is volledig gratis. U kunt inhoud die ermee is gemaakt op elke gewenste manier gebruiken."
         }
     },
     "download": {

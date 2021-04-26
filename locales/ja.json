@@ -12,8 +12,8 @@
         "exciting": "エキサイティング。"
     },
     "home": {
-        "welcome": "Lumiは、数十の異なるコンテンツタイプでインタラクティブなコンテンツを作成、編集、表示、共有できるデスクトップアプリです。",
-        "get_started": "はじめに"
+        "get_started": "はじめに",
+        "welcome": "Lumiは、数十の異なるコンテンツタイプでインタラクティブなコンテンツを作成、編集、表示、共有できるデスクトップアプリです。それは無料でオープンソースです。"
     },
     "navigation": {
         "home": "ホームホーム",
@@ -42,7 +42,23 @@
         },
         "standalone": {
             "heading": "スタンドアロンで実行",
-            "description": "Lumiは、コンピューター上でデスクトッププログラムとして実行され、ほぼすべてのデバイスで機能するHTMLファイルをエクスポートできます。 Moodleのような学習管理システムやWordPressのようなコンテンツ管理システムは必要ありません。"
+            "description": "Lumiは、コンピューター上でデスクトッププログラムとして実行されます。 MoodleのようなLMSやWordPressのようなCMSは必要ありません。"
+        },
+        "htmlExport": {
+            "heading": "純粋なHTMLエクスポート",
+            "description": "コンテンツをオールインワンのHTMLファイルとして保存し、ほぼすべての場所で機能して、学習者に送信します。"
+        },
+        "scormExport": {
+            "heading": "SCORMエクスポート",
+            "description": "コンテンツを、準拠するLMSで使用できるSCORM1.2パッケージとしてエクスポートします。"
+        },
+        "analytics": {
+            "heading": "学習者の進歩を得る",
+            "description": "学習者は、Lumiのレポーターツールを使用して進捗状況をダウンロードし、分析のために送信できます。"
+        },
+        "openSource": {
+            "heading": "無料でオープンソース",
+            "description": "Lumiは、GNU Affero General Public License 3.0に基づいてライセンスされており、完全に無料です。それで作成されたコンテンツは、好きなように使用できます。"
         }
     },
     "download": {

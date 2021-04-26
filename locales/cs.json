@@ -6,8 +6,8 @@
         "exciting": "vzrušující."
     },
     "home": {
-        "welcome": "Lumi je aplikace pro stolní počítače, která vám umožňuje vytvářet, upravovat, prohlížet a sdílet interaktivní obsah s desítkami různých typů obsahu.",
-        "get_started": "Začít"
+        "get_started": "Začít",
+        "welcome": "Lumi je aplikace pro stolní počítače, která vám umožňuje vytvářet, upravovat, prohlížet a sdílet interaktivní obsah s desítkami různých typů obsahu. Je to zdarma a open source."
     },
     "navigation": {
         "home": "Domov",
@@ -36,7 +36,23 @@
         },
         "standalone": {
             "heading": "Běží samostatně",
-            "description": "Lumi běží jako desktopový program na vašem počítači a dokáže exportovat soubory HTML, které fungují téměř na všech zařízeních. Není třeba systém pro správu učení, jako je Moodle, ani systém pro správu obsahu, jako je WordPress."
+            "description": "Lumi běží jako desktopový program na vašem počítači. Není třeba LMS jako Moodle nebo CMS jako WordPress."
+        },
+        "htmlExport": {
+            "heading": "Čistý export HTML",
+            "description": "Uložte svůj obsah jako soubory HTML typu vše v jednom, které fungují téměř všude, a pošlete jej svým studentům."
+        },
+        "scormExport": {
+            "heading": "SCORM export",
+            "description": "Exportujte svůj obsah jako balíčky SCORM 1.2, které lze použít v jakémkoli kompatibilním LMS."
+        },
+        "analytics": {
+            "heading": "Získejte pokrok žáků",
+            "description": "Studenti si mohou stáhnout svůj postup pomocí reportérského nástroje Lumi a poslat vám jej k analýze."
+        },
+        "openSource": {
+            "heading": "Zdarma a otevřený zdroj",
+            "description": "Lumi má licenci GNU Affero General Public License 3.0 a je zcela zdarma. Obsah s ním vytvořený můžete použít jakýmkoli způsobem."
         }
     },
     "download": {

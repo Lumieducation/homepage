@@ -12,7 +12,7 @@
         "exciting": "exciting."
     },
     "home": {
-        "welcome": "Lumi is a desktop app that allows you to create, edit,view and share interactive content with dozens of different content types.",
+        "welcome": "Lumi is a desktop app that allows you to create, edit, view and share interactive content with dozens of different content types. It's free and open source.",
         "get_started": "Get Started"
     },
     "navigation": {
@@ -42,7 +42,23 @@
         },
         "standalone": {
             "heading": "Runs standalone",
-            "description": "Lumi runs as a desktop program on your computer and it can export HTML files that work on nearly all devices. No need for a Learning Management System like Moodle or a Content Management System like WordPress."
+            "description": "Lumi runs as a desktop program on your computer. No need for a LMS like Moodle or a CMS like WordPress."
+        },
+        "htmlExport": {
+            "heading": "Pure HTML export",
+            "description": "Save your content as all-in-one HTML files that work nearly everywhere and send it to your learners."
+        },
+        "scormExport": {
+            "heading": "SCORM export",
+            "description": "Export your content as SCORM 1.2 packages that can be used in any compliant LMS."
+        },
+        "analytics": {
+            "heading": "Get learner progress",
+            "description": "Learners can download their progress with Lumi's reporter tool and send it to you for analysis."
+        },
+        "openSource": {
+            "heading": "Free and Open Source",
+            "description": "Lumi is licensed under the GNU Affero General Public License 3.0 and completely free. You can use content created with it in any way you like."
         }
     },
     "download": {

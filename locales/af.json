@@ -20,7 +20,7 @@
     "features": {
         "standalone": {
             "heading": "Loop losstaande",
-            "description": "Lumi werk as 'n lessenaarprogram op u rekenaar en kan HTML-lêers uitvoer wat op byna alle toestelle werk. Geen leerbestuurstelsel soos Moodle of 'n inhoudsbestuurstelsel soos WordPress nodig nie."
+            "description": "Lumi werk as 'n lessenaarprogram op u rekenaar. Geen LMS soos Moodle of CMS soos WordPress nodig nie."
         },
         "preview": {
             "description": "Toets jou veranderinge sonder om te stoor deur na die voorskou oor te slaan.",
@@ -35,7 +35,23 @@
             "heading": "Alle H5P Hup inhoudtipes"
         },
         "heading": "Skep, redigeer en beskou H5P lêers direk op jou rekenaar.",
-        "subheading": "Lumi H5P redigeerder"
+        "subheading": "Lumi H5P redigeerder",
+        "htmlExport": {
+            "heading": "Suiwer HTML-uitvoer",
+            "description": "Stoor u inhoud as alles-in-een HTML-lêers wat byna oral werk en stuur dit na u leerders."
+        },
+        "scormExport": {
+            "heading": "SCORM uitvoer",
+            "description": "Voer u inhoud uit as SCORM 1.2-pakkette wat in enige LMS wat voldoen, gebruik kan word."
+        },
+        "analytics": {
+            "heading": "Kry leerdervordering",
+            "description": "Leerders kan hul vordering aflaai met Lumi se verslaggewersinstrument en dit na u stuur vir ontleding."
+        },
+        "openSource": {
+            "heading": "Gratis en oop bron",
+            "description": "Lumi is gelisensieer onder die GNU Affero General Public License 3.0 en is heeltemal gratis. U kan inhoud wat daarmee geskep is op enige manier gebruik."
+        }
     },
     "newsletter": {
         "subscribe": "Teken in",
@@ -49,7 +65,7 @@
     },
     "home": {
         "get_started": "Begin",
-        "welcome": "Lumi is 'n rekenaartoep wat jou in staat stel om interaktiewe inhoud met vele ander inhoudtipes te skep, redigeer, wys en te deel."
+        "welcome": "Lumi is 'n lessenaarprogram waarmee u interaktiewe inhoud kan skep, wysig, sien en deel met tientalle verskillende inhoudstipes. Dit is gratis en open source."
     },
     "mission": {
         "exciting": "opwindend.",

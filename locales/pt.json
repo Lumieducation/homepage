@@ -6,8 +6,8 @@
         "exciting": "emocionante."
     },
     "home": {
-        "welcome": "Lumi é um aplicativo de desktop que permite criar, editar, visualizar e compartilhar conteúdo interativo com dezenas de diferentes tipos de conteúdo.",
-        "get_started": "Iniciar"
+        "get_started": "Iniciar",
+        "welcome": "Lumi é um aplicativo de desktop que permite criar, editar, visualizar e compartilhar conteúdo interativo com dezenas de diferentes tipos de conteúdo. É gratuito e de código aberto."
     },
     "navigation": {
         "home": "Casa",
@@ -36,7 +36,23 @@
         },
         "standalone": {
             "heading": "Funciona sozinho",
-            "description": "O Lumi é executado como um programa de desktop em seu computador e pode exportar arquivos HTML que funcionam em quase todos os dispositivos. Não há necessidade de um Sistema de Gerenciamento de Aprendizagem como o Moodle ou um Sistema de Gerenciamento de Conteúdo como o WordPress."
+            "description": "O Lumi é executado como um programa de desktop no seu computador. Não há necessidade de um LMS como o Moodle ou um CMS como o WordPress."
+        },
+        "htmlExport": {
+            "heading": "Exportação de HTML puro",
+            "description": "Salve seu conteúdo como arquivos HTML tudo-em-um que funcionam em quase todos os lugares e envie para seus alunos."
+        },
+        "scormExport": {
+            "heading": "Exportação SCORM",
+            "description": "Exporte seu conteúdo como pacotes SCORM 1.2 que podem ser usados em qualquer LMS compatível."
+        },
+        "analytics": {
+            "heading": "Obtenha o progresso do aluno",
+            "description": "Os alunos podem baixar seu progresso com a ferramenta de repórter do Lumi e enviá-lo para análise."
+        },
+        "openSource": {
+            "heading": "Livre e de código aberto",
+            "description": "Lumi é licenciado sob a GNU Affero General Public License 3.0 e totalmente gratuito. Você pode usar o conteúdo criado com ele da maneira que quiser."
         }
     },
     "download": {
