@@ -71,7 +71,8 @@
         "contact_information": "Harremanetarako informazioa",
         "newsletter": "Buletina",
         "newsletter_description": "Lumi-ren azken berriak jaso.",
-        "quick_links": "Esteka azkarrak"
+        "quick_links": "Esteka azkarrak",
+        "sourceCode": "Iturburu kodea"
     },
     "meta": {
         "description": "Lumi mahaigaineko aplikazioa da, eduki interaktiboa sortu, editatu, ikusi eta partekatzeko aukera ematen du dozenaka eduki mota desberdinekin.",

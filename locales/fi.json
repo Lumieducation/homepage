@@ -71,7 +71,8 @@
         "contact_information": "Yhteystiedot",
         "newsletter": "Uutiskirje",
         "newsletter_description": "Hanki viimeisimmät uutiset Lumilta.",
-        "quick_links": "Pikalinkit"
+        "quick_links": "Pikalinkit",
+        "sourceCode": "Lähdekoodi"
     },
     "meta": {
         "description": "Lumi on työpöytäsovellus, jonka avulla voit luoda, muokata, tarkastella ja jakaa interaktiivista sisältöä kymmenien erilaisten sisältötyyppien kanssa.",

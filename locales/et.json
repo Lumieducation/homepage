@@ -71,7 +71,8 @@
         "contact_information": "Kontaktinfo",
         "newsletter": "Infoleht",
         "newsletter_description": "Hankige Lumi viimaseid uudiseid.",
-        "quick_links": "Kiirlingid"
+        "quick_links": "Kiirlingid",
+        "sourceCode": "Lähtekood"
     },
     "meta": {
         "description": "Lumi on töölauarakendus, mis võimaldab teil interaktiivset sisu luua, muuta, vaadata ja jagada kümnete erinevate sisutüüpidega.",

@@ -8955,16 +8955,16 @@ body {
     font-size: 16px;
     line-height: 1.8;
     font-weight: 300;
-    color: #8b8b92;
+    color: #343a40;
 }
 
 a {
     transition: 0.3s all ease;
-    color: #78d5ef;
+    color: #17a2b8;
 }
 a:hover {
     text-decoration: none;
-    color: #78d5ef;
+    color: #007bff;
 }
 
 h1,

@@ -71,7 +71,8 @@
         "contact_information": "Contactgegevens",
         "newsletter": "Nieuwsbrief",
         "newsletter_description": "Ontvang het laatste nieuws van Lumi.",
-        "quick_links": "Snelle links"
+        "quick_links": "Snelle links",
+        "sourceCode": "Broncode"
     },
     "meta": {
         "description": "Lumi is een desktop-app waarmee u interactieve inhoud met tientallen verschillende inhoudstypen kunt maken, bewerken, bekijken en delen.",

@@ -8,7 +8,8 @@
         "contact": "Contacto",
         "quick_links": "Enlaces Rápidos",
         "mission": "Hacer accesible el aprendizaje, individual y excitante.",
-        "company": "Compañía"
+        "company": "Compañía",
+        "sourceCode": "Código fuente"
     },
     "download": {
         "bypass_smartscreen": "Aprenda aquí como pasar el filtro SmartScreen de Windows (solamente necesario para instalador-exe).",

@@ -6,7 +6,7 @@
         "exciting": "aufregend."
     },
     "home": {
-        "welcome": "Lumi ist eine Desktop-App, mit der Sie interaktive Inhalte mit Dutzenden verschiedener Inhaltstypen erstellen, bearbeiten, anzeigen und freigeben können. Es ist kostenlos und Open Source.",
+        "welcome": "Lumi ist eine Desktop-App, mit der du interaktive Inhalte mit dutzenden verschiedener Inhaltstypen erstellen, bearbeiten, anzeigen und weitergeben kannst. Es ist kostenlos und Open Source.",
         "get_started": "Loslegen"
     },
     "navigation": {
@@ -47,7 +47,7 @@
             "description": "Exportieren deine Inhalte als SCORM 1.2-Pakete, die in jedem kompatiblen LMS verwendet werden können."
         },
         "analytics": {
-            "heading": "Holen Sie sich Lernfortschritte",
+            "heading": "Erhalte Lernfortschritte",
             "description": "Die Lernenden können ihre Fortschritte mit dem Reporter-Tool von Lumi herunterladen und zur Analyse an dich senden."
         },
         "openSource": {
@@ -71,7 +71,8 @@
         "imprint": "Impressum",
         "contact_information": "Kontaktinformationen",
         "newsletter": "Newsletter",
-        "newsletter_description": "Erhalte die neuesten Nachrichten von Lumi."
+        "newsletter_description": "Erhalte die neuesten Nachrichten von Lumi.",
+        "sourceCode": "Quellcode"
     },
     "meta": {
         "description": "Lumi ist eine Desktop-App, mit der du interaktive Inhalte mit dutzenden verschiedener Inhaltstypen erstellen, bearbeiten, anzeigen und freigeben kannst.",

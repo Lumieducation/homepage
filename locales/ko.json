@@ -71,7 +71,8 @@
         "contact_information": "연락 정보",
         "newsletter": "뉴스 레터",
         "newsletter_description": "Lumi의 최신 뉴스를 받아보세요.",
-        "quick_links": "빠른 링크"
+        "quick_links": "빠른 링크",
+        "sourceCode": "소스 코드"
     },
     "meta": {
         "description": "Lumi는 수십 가지 다양한 콘텐츠 유형으로 대화 형 콘텐츠를 만들고, 편집하고,보고, 공유 할 수있는 데스크톱 앱입니다.",

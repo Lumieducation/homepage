@@ -8,7 +8,8 @@
         "contact": "Kontak",
         "mission": "Maak onderrig toeganklik, individueel en opwindend.",
         "company": "Maatskappy",
-        "quick_links": "Blitsskakels"
+        "quick_links": "Blitsskakels",
+        "sourceCode": "Bronkode"
     },
     "download": {
         "bypass_smartscreen": "Leer hoe jy die SmartScreen-filter van Windows kan omseil (slegs nodig vir 'n exe-installasie).",

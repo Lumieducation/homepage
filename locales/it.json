@@ -71,7 +71,8 @@
         "contact_information": "Informazioni sui contatti",
         "newsletter": "Newsletter",
         "newsletter_description": "Ricevi le ultime notizie da Lumi.",
-        "quick_links": "Link veloci"
+        "quick_links": "Link veloci",
+        "sourceCode": "Codice sorgente"
     },
     "meta": {
         "description": "Lumi è un'app desktop che consente di creare, modificare, visualizzare e condividere contenuti interattivi con dozzine di diversi tipi di contenuto.",

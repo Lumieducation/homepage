@@ -71,7 +71,8 @@
         "contact_information": "Kontaktní informace",
         "newsletter": "Zpravodaj",
         "newsletter_description": "Získejte nejnovější zprávy od Lumi.",
-        "quick_links": "Rychlé odkazy"
+        "quick_links": "Rychlé odkazy",
+        "sourceCode": "Zdrojový kód"
     },
     "meta": {
         "description": "Lumi je aplikace pro stolní počítače, která vám umožňuje vytvářet, upravovat, prohlížet a sdílet interaktivní obsah s desítkami různých typů obsahu.",

@@ -71,7 +71,8 @@
         "contact_information": "Kontakt informacije",
         "newsletter": "Bilten",
         "newsletter_description": "Primajte najnovije vijesti od Lumi.",
-        "quick_links": "Brzi linkovi"
+        "quick_links": "Brzi linkovi",
+        "sourceCode": "Izvorni kod"
     },
     "meta": {
         "description": "Lumi je aplikacija za radnu površinu koja vam omogućava stvaranje, uređivanje, pregled i dijeljenje interaktivnog sadržaja s desetinama različitih vrsta sadržaja.",

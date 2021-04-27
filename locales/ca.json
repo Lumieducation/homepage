@@ -71,7 +71,8 @@
         "contact_information": "Informació de contacte",
         "newsletter": "Butlletí informatiu",
         "newsletter_description": "Rep les últimes notícies de Lumi.",
-        "quick_links": "Links ràpids"
+        "quick_links": "Links ràpids",
+        "sourceCode": "Codi font"
     },
     "meta": {
         "description": "Lumi és una aplicació d'escriptori que us permet crear, editar, veure i compartir contingut interactiu amb desenes de tipus de contingut diferents.",

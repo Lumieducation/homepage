@@ -77,6 +77,7 @@
         "imprint": "インプリント",
         "contact_information": "連絡先",
         "newsletter": "ニュースレター",
-        "newsletter_description": "ルミから最新ニュースを入手してください。"
+        "newsletter_description": "ルミから最新ニュースを入手してください。",
+        "sourceCode": "ソースコード"
     }
 }

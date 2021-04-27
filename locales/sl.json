@@ -71,7 +71,8 @@
         "contact_information": "Kontaktni podatki",
         "newsletter": "Glasilo",
         "newsletter_description": "Pridobite najnovejše novice od Lumi.",
-        "quick_links": "hitre povezave"
+        "quick_links": "hitre povezave",
+        "sourceCode": "Izvorna koda"
     },
     "meta": {
         "description": "Lumi je namizna aplikacija, ki vam omogoča ustvarjanje, urejanje, ogled in skupno rabo interaktivne vsebine z desetinami različnih vrst vsebin.",

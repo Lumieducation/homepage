@@ -77,6 +77,7 @@
         "imprint": "ছাপ",
         "contact_information": "যোগাযোগের তথ্য",
         "newsletter": "নিউজলেটার",
-        "newsletter_description": "লুমি থেকে সর্বশেষ খবর পান।"
+        "newsletter_description": "লুমি থেকে সর্বশেষ খবর পান।",
+        "sourceCode": "সোর্স কোড"
     }
 }

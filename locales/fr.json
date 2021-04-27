@@ -71,7 +71,8 @@
         "imprint": "Imprimer",
         "contact_information": "Coordonnées",
         "newsletter": "Bulletin",
-        "newsletter_description": "Recevez les dernières nouvelles de Lumi."
+        "newsletter_description": "Recevez les dernières nouvelles de Lumi.",
+        "sourceCode": "Code source"
     },
     "meta": {
         "description": "Lumi est une application de bureau qui vous permet de créer, modifier, afficher et partager du contenu interactif avec des dizaines de types de contenu différents.",

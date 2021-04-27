@@ -71,7 +71,8 @@
         "contact_information": "İletişim bilgileri",
         "newsletter": "Haber bülteni",
         "newsletter_description": "Lumi'den en son haberleri alın.",
-        "quick_links": "Hızlı Linkler"
+        "quick_links": "Hızlı Linkler",
+        "sourceCode": "Kaynak kodu"
     },
     "meta": {
         "description": "Lumi, onlarca farklı içerik türüyle etkileşimli içerik oluşturmanıza, düzenlemenize, görüntülemenize ve paylaşmanıza olanak tanıyan bir masaüstü uygulamasıdır.",

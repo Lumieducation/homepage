@@ -77,6 +77,7 @@
         "imprint": "Imprint",
         "contact_information": "Contact Information",
         "newsletter": "Newsletter",
-        "newsletter_description": "Get the latest news from Lumi."
+        "newsletter_description": "Get the latest news from Lumi.",
+        "sourceCode": "Source Code"
     }
 }

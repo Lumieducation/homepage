@@ -71,7 +71,8 @@
         "contact_information": "Kontaktinformation",
         "newsletter": "Nyhetsbrev",
         "newsletter_description": "Få de senaste nyheterna från Lumi.",
-        "quick_links": "snabblänkar"
+        "quick_links": "snabblänkar",
+        "sourceCode": "Källkod"
     },
     "meta": {
         "description": "Lumi är en stationär app som låter dig skapa, redigera, visa och dela interaktivt innehåll med dussintals olika innehållstyper.",
