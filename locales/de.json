@@ -40,7 +40,7 @@
         },
         "htmlExport": {
             "heading": "Export als reine HTML-Datei",
-            "description": "Speicher Deine Inhalte als All-in-One-HTML-Dateien, die fast überall funktionieren, und sende sie an deine Lernenden."
+            "description": "Speicher deine Inhalte als All-in-One-HTML-Dateien, die fast überall funktionieren, und sende sie an deine Lernenden."
         },
         "scormExport": {
             "heading": "SCORM-Export",
