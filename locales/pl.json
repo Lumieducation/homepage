@@ -1,9 +1,9 @@
 {
     "meta": {
-        "description": "Lumi to aplikacja komputerowa, która umożliwia tworzenie, edytowanie, przeglądanie i udostępnianie interaktywnych treści z dziesiątkami różnych typów treści.",
         "keywords": "tworzenie, udostępnianie, zawartość interaktywna, ćwiczenia interaktywne, h5p, e-learning, elearning, scorm, xapi, narzędzie autorskie, offline, samodzielne, html5",
         "pageTopic": "Edukacja",
-        "pageType": "pobieranie oprogramowania"
+        "pageType": "pobieranie oprogramowania",
+        "description": "Lumi to aplikacja komputerowa typu open source, która umożliwia tworzenie, edytowanie, przeglądanie i udostępnianie interaktywnych treści z dziesiątkami różnych typów treści."
     },
     "mission": {
         "make_learning": "Ucz się",

@@ -75,9 +75,9 @@
         "sourceCode": "소스 코드"
     },
     "meta": {
-        "description": "Lumi는 수십 가지 다양한 콘텐츠 유형으로 대화 형 콘텐츠를 만들고, 편집하고,보고, 공유 할 수있는 데스크톱 앱입니다.",
         "keywords": "만들기, 공유, 대화 형 콘텐츠, 대화 형 연습, h5p, e-learning, elearning, scorm, xapi, 저작 도구, 오프라인, 독립 실행 형, html5",
         "pageTopic": "교육",
-        "pageType": "소프트웨어 다운로드"
+        "pageType": "소프트웨어 다운로드",
+        "description": "Lumi는 수십 가지 다양한 콘텐츠 유형으로 대화 형 콘텐츠를 만들고, 편집하고,보고, 공유 할 수있는 오픈 소스 데스크톱 앱입니다."
     }
 }

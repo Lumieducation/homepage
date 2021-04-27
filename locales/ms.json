@@ -1,9 +1,9 @@
 {
     "meta": {
-        "description": "Lumi adalah aplikasi desktop yang membolehkan anda membuat, mengedit, melihat dan berkongsi kandungan interaktif dengan puluhan jenis kandungan yang berbeza.",
         "keywords": "buat, kongsi, kandungan interaktif, latihan interaktif, h5p, e-learning, elearning, scorm, xapi, alat pengarang, luar talian, mandiri, html5",
         "pageTopic": "pendidikan",
-        "pageType": "muat turun perisian"
+        "pageType": "muat turun perisian",
+        "description": "Lumi adalah aplikasi desktop sumber terbuka yang membolehkan anda membuat, mengedit, melihat dan berkongsi kandungan interaktif dengan puluhan jenis kandungan yang berbeza."
     },
     "mission": {
         "make_learning": "Buat pembelajaran",

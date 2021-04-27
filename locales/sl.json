@@ -75,9 +75,9 @@
         "sourceCode": "Izvorna koda"
     },
     "meta": {
-        "description": "Lumi je namizna aplikacija, ki vam omogoča ustvarjanje, urejanje, ogled in skupno rabo interaktivne vsebine z desetinami različnih vrst vsebin.",
         "keywords": "ustvariti, deliti, interaktivne vsebine, interaktivne vaje, h5p, e-učenje, učenje, scorm, xapi, orodje za avtoring, brez povezave, samostojno, html5",
         "pageTopic": "izobraževanje",
-        "pageType": "prenos programske opreme"
+        "pageType": "prenos programske opreme",
+        "description": "Lumi je odprtokodna namizna aplikacija, ki vam omogoča ustvarjanje, urejanje, ogled in skupno rabo interaktivne vsebine z na desetine različnih vrst vsebin."
     }
 }

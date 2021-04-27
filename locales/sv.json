@@ -75,9 +75,9 @@
         "sourceCode": "Källkod"
     },
     "meta": {
-        "description": "Lumi är en stationär app som låter dig skapa, redigera, visa och dela interaktivt innehåll med dussintals olika innehållstyper.",
         "keywords": "skapa, dela, interaktivt innehåll, interaktiva övningar, h5p, e-learning, elearning, scorm, xapi, redigeringsverktyg, offline, fristående, html5",
         "pageTopic": "utbildning",
-        "pageType": "nedladdning av programvara"
+        "pageType": "nedladdning av programvara",
+        "description": "Lumi är en open source-stationär app som låter dig skapa, redigera, visa och dela interaktivt innehåll med dussintals olika innehållstyper."
     }
 }

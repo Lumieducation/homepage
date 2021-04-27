@@ -75,9 +75,9 @@
         "sourceCode": "Zdrojový kód"
     },
     "meta": {
-        "description": "Lumi je aplikace pro stolní počítače, která vám umožňuje vytvářet, upravovat, prohlížet a sdílet interaktivní obsah s desítkami různých typů obsahu.",
         "keywords": "vytvořit, sdílet, interaktivní obsah, interaktivní cvičení, h5p, e-learning, elearning, scorm, xapi, redakční nástroj, offline, samostatný, html5",
         "pageTopic": "vzdělání",
-        "pageType": "stahování softwaru"
+        "pageType": "stahování softwaru",
+        "description": "Lumi je desktopová aplikace s otevřeným zdrojovým kódem, která vám umožňuje vytvářet, upravovat, prohlížet a sdílet interaktivní obsah s desítkami různých typů obsahu."
     }
 }

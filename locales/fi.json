@@ -75,9 +75,9 @@
         "sourceCode": "Lähdekoodi"
     },
     "meta": {
-        "description": "Lumi on työpöytäsovellus, jonka avulla voit luoda, muokata, tarkastella ja jakaa interaktiivista sisältöä kymmenien erilaisten sisältötyyppien kanssa.",
         "keywords": "luoda, jakaa, vuorovaikutteista sisältöä, vuorovaikutteisia harjoituksia, h5p, verkko-oppiminen, e-oppiminen, scorm, xapi, kirjoitustyökalu, offline, erillinen, html5",
         "pageTopic": "koulutus",
-        "pageType": "ohjelmiston lataus"
+        "pageType": "ohjelmiston lataus",
+        "description": "Lumi on avoimen lähdekoodin työpöytäsovellus, jonka avulla voit luoda, muokata, tarkastella ja jakaa interaktiivista sisältöä kymmenien erilaisten sisältötyyppien kanssa."
     }
 }

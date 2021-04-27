@@ -29,9 +29,12 @@ for (const file of files) {
     for (let depth = 0; depth < splitJsonPath.length - 1; depth++) {
         requestedObject = requestedObject[splitJsonPath[depth]];
         if (!requestedObject) {
-            throw new Error(`Could not find path in ${file}. Aborting`);
+            console.error(`Could not find path in ${file}.`);
+            break;
         }
     }
-    delete requestedObject[splitJsonPath[splitJsonPath.length - 1]];
-    fsExtra.writeJSONSync(fullPath, js, { spaces: 4 });
+    if (requestedObject && requestedObject[splitJsonPath[splitJsonPath.length - 1]]) {
+        delete requestedObject[splitJsonPath[splitJsonPath.length - 1]];
+        fsExtra.writeJSONSync(fullPath, js, { spaces: 4 });
+    }
 }

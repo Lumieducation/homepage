@@ -75,9 +75,9 @@
         "sourceCode": "Broncode"
     },
     "meta": {
-        "description": "Lumi is een desktop-app waarmee u interactieve inhoud met tientallen verschillende inhoudstypen kunt maken, bewerken, bekijken en delen.",
         "keywords": "creëren, delen, interactieve inhoud, interactieve oefeningen, h5p, e-learning, e-learning, scorm, xapi, authoringtool, offline, standalone, html5",
         "pageTopic": "onderwijs",
-        "pageType": "software download"
+        "pageType": "software download",
+        "description": "Lumi is een open-source desktop-app waarmee u interactieve inhoud met tientallen verschillende inhoudstypen kunt maken, bewerken, bekijken en delen."
     }
 }

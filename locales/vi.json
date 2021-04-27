@@ -1,9 +1,9 @@
 {
     "meta": {
-        "description": "Lumi là một ứng dụng dành cho máy tính để bàn cho phép bạn tạo, chỉnh sửa, xem và chia sẻ nội dung tương tác với hàng chục loại nội dung khác nhau.",
         "keywords": "tạo, chia sẻ, nội dung tương tác, bài tập tương tác, h5p, e-learning, elearning, scorm, xapi, công cụ tác giả, ngoại tuyến, độc lập, html5",
         "pageTopic": "giáo dục",
-        "pageType": "Tải phần mềm"
+        "pageType": "Tải phần mềm",
+        "description": "Lumi là một ứng dụng máy tính để bàn mã nguồn mở cho phép bạn tạo, chỉnh sửa, xem và chia sẻ nội dung tương tác với hàng chục loại nội dung khác nhau."
     },
     "mission": {
         "make_learning": "Học tập",

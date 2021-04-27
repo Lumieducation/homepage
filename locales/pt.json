@@ -75,9 +75,9 @@
         "sourceCode": "Código fonte"
     },
     "meta": {
-        "description": "Lumi é um aplicativo de desktop que permite criar, editar, visualizar e compartilhar conteúdo interativo com dezenas de diferentes tipos de conteúdo.",
         "keywords": "criar, compartilhar, conteúdo interativo, exercícios interativos, h5p, e-learning, elearning, scorm, xapi, ferramenta de autoria, offline, autônomo, html5",
         "pageTopic": "Educação",
-        "pageType": "download de software"
+        "pageType": "download de software",
+        "description": "Lumi é um aplicativo de desktop de código aberto que permite criar, editar, visualizar e compartilhar conteúdo interativo com dezenas de diferentes tipos de conteúdo."
     }
 }

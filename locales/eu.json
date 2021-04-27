@@ -75,9 +75,9 @@
         "sourceCode": "Iturburu kodea"
     },
     "meta": {
-        "description": "Lumi mahaigaineko aplikazioa da, eduki interaktiboa sortu, editatu, ikusi eta partekatzeko aukera ematen du dozenaka eduki mota desberdinekin.",
         "keywords": "sortu, partekatu, eduki interaktiboa, ariketa interaktiboak, h5p, e-learning, elearning, scorm, xapi, egile tresna, lineaz kanpo, standalone, html5",
         "pageTopic": "hezkuntza",
-        "pageType": "softwarea deskargatzea"
+        "pageType": "softwarea deskargatzea",
+        "description": "Lumi iturburu irekiko mahaigaineko aplikazio bat da, eduki interaktiboak sortu, editatu, ikusi eta partekatzeko aukera ematen du dozenaka eduki mota desberdinekin."
     }
 }

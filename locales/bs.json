@@ -75,9 +75,9 @@
         "sourceCode": "Izvorni kod"
     },
     "meta": {
-        "description": "Lumi je aplikacija za radnu površinu koja vam omogućava stvaranje, uređivanje, pregled i dijeljenje interaktivnog sadržaja s desetinama različitih vrsta sadržaja.",
         "keywords": "kreirati, dijeliti, interaktivni sadržaj, interaktivne vježbe, h5p, e-učenje, učenje, scorm, xapi, alat za autoriranje, offline, samostalno, html5",
         "pageTopic": "obrazovanje",
-        "pageType": "preuzimanje softvera"
+        "pageType": "preuzimanje softvera",
+        "description": "Lumi je aplikacija za računare otvorenog koda koja vam omogućava stvaranje, uređivanje, pregled i dijeljenje interaktivnog sadržaja s desetinama različitih vrsta sadržaja."
     }
 }

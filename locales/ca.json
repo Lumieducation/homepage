@@ -75,9 +75,9 @@
         "sourceCode": "Codi font"
     },
     "meta": {
-        "description": "Lumi és una aplicació d'escriptori que us permet crear, editar, veure i compartir contingut interactiu amb desenes de tipus de contingut diferents.",
         "keywords": "crear, compartir, contingut interactiu, exercicis interactius, h5p, e-learning, e-learning, scorm, xapi, eina de creació personalitzada, fora de línia, autònom, html5",
         "pageTopic": "educació",
-        "pageType": "descàrrega de programari"
+        "pageType": "descàrrega de programari",
+        "description": "Lumi és una aplicació d'escriptori de codi obert que us permet crear, editar, veure i compartir contingut interactiu amb desenes de tipus de contingut diferents."
     }
 }

@@ -75,9 +75,9 @@
         "sourceCode": "Kaynak kodu"
     },
     "meta": {
-        "description": "Lumi, onlarca farklı içerik türüyle etkileşimli içerik oluşturmanıza, düzenlemenize, görüntülemenize ve paylaşmanıza olanak tanıyan bir masaüstü uygulamasıdır.",
         "keywords": "oluşturma, paylaşma, etkileşimli içerik, etkileşimli alıştırmalar, h5p, e-öğrenme, e-öğrenme, scorm, xapi, yazma aracı, çevrimdışı, bağımsız, html5",
         "pageTopic": "Eğitim",
-        "pageType": "yazılım indir"
+        "pageType": "yazılım indir",
+        "description": "Lumi, düzinelerce farklı içerik türüyle etkileşimli içerik oluşturmanıza, düzenlemenize, görüntülemenize ve paylaşmanıza olanak tanıyan açık kaynaklı bir masaüstü uygulamasıdır."
     }
 }

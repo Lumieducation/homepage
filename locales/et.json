@@ -75,9 +75,9 @@
         "sourceCode": "Lähtekood"
     },
     "meta": {
-        "description": "Lumi on töölauarakendus, mis võimaldab teil interaktiivset sisu luua, muuta, vaadata ja jagada kümnete erinevate sisutüüpidega.",
         "keywords": "luua, jagada, interaktiivset sisu, interaktiivseid harjutusi, h5p, e-õpe, e-õpe, scorm, xapi, autoritööriist, võrguühenduseta, eraldiseisev, html5",
         "pageTopic": "haridus",
-        "pageType": "tarkvara allalaadimine"
+        "pageType": "tarkvara allalaadimine",
+        "description": "Lumi on avatud lähtekoodiga töölauarakendus, mis võimaldab interaktiivset sisu luua, muuta, vaadata ja jagada kümnete erinevate sisutüüpidega."
     }
 }

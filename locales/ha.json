@@ -1,9 +1,9 @@
 {
     "meta": {
-        "description": "Lumi aikace-aikacen tebur ne wanda ke ba ku damar ƙirƙiri, shiryawa, dubawa da raba abubuwan hulɗa tare da nau'ikan nau'ikan abun ciki da yawa.",
         "keywords": "ƙirƙira, raba, abubuwan hulɗa, motsa jiki masu ma'amala, h5p, i-koyo, haɓaka, scorm, xapi, kayan aikin marubuta, wajen layi, kai tsaye, html5",
         "pageTopic": "ilimi",
-        "pageType": "sauke software"
+        "pageType": "sauke software",
+        "description": "Lumi aikace-aikace ne na buɗe-tushen tebur wanda ke ba ka damar ƙirƙiri, shiryawa, dubawa da raba abubuwan hulɗa tare da nau'ikan nau'ikan abun ciki da yawa."
     },
     "mission": {
         "make_learning": "Yi koyo",
