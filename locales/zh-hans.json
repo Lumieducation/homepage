@@ -14,7 +14,8 @@
         "contact": "联系我们",
         "quick_links": "链接",
         "mission": "让学习随手可及，充满个性，令人激动。",
-        "company": "公司"
+        "company": "公司",
+        "sourceCode": "源代码"
     },
     "download": {
         "bypass_smartscreen": "在这里了解如何绕过Windows的SmartScreen筛选器（仅exe安装方式）。",
@@ -25,7 +26,8 @@
     },
     "features": {
         "standalone": {
-            "heading": "独立运行"
+            "heading": "独立运行",
+            "description": "Lumi在您的计算机上作为桌面程序运行，不必依靠像Moodle这样的学习管理系统，或像WordPress这样的内容管理系统运行。"
         },
         "preview": {
             "description": "通过切换到快速预览来查看您的内容更改，无需保存。",
@@ -40,7 +42,23 @@
             "heading": "包含所有H5P内容类型"
         },
         "heading": "在您的计算机上直接创建、编辑和查看H5P文件。",
-        "subheading": "Lumi H5P 编辑器"
+        "subheading": "Lumi H5P 编辑器",
+        "openSource": {
+            "description": "Lumi使用GNU Affero通用公共许可证3.0的许可，并且完全免费。您可以按自己喜欢的任何方式使用创建的内容。",
+            "heading": "免费且开源"
+        },
+        "analytics": {
+            "description": "学习者可以使用Lumi的学习数据报告工具下载进度，并将其发送给您进行分析。",
+            "heading": "获取学习者的进度"
+        },
+        "scormExport": {
+            "description": "将您的内容导出为可在任何兼容的LMS中使用的SCORM 1.2课件包。",
+            "heading": "支持SCORM导出"
+        },
+        "htmlExport": {
+            "description": "将您的内容保存为几乎在任何地方都可以使用的多合一HTML文件，然后将其发送给您的学习者。",
+            "heading": "支持HTML导出"
+        }
     },
     "newsletter": {
         "subscribe": "订阅",
@@ -53,11 +71,13 @@
         "home": "首页"
     },
     "home": {
-        "get_started": "软件下载"
+        "get_started": "软件下载",
+        "welcome": "Lumi是一款桌面应用程序，您可以使用Lumi创建、编辑、查看和分享数十种不同类型的交互式内容。"
     },
     "meta": {
         "pageType": "软件下载",
         "pageTopic": "教育",
-        "keywords": "创建，分享，互动内容，互动练习，H5P，e-learning，elearning，scorm，xapi，课件工具，单机版，线下工具，html5"
+        "keywords": "创建，分享，互动内容，互动练习，H5P，e-learning，elearning，scorm，xapi，课件工具，单机版，线下工具，html5",
+        "description": "Lumi是一款桌面应用程序，您可以使用Lumi创建、编辑、查看和分享数十种不同类型的交互式内容。"
     }
 }
