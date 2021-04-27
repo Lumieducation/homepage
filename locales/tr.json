@@ -6,8 +6,8 @@
         "exciting": "heyecan verici."
     },
     "home": {
-        "welcome": "Lumi, onlarca farklı içerik türüyle etkileşimli içerik oluşturmanıza, düzenlemenize, görüntülemenize ve paylaşmanıza olanak tanıyan bir masaüstü uygulamasıdır.",
-        "get_started": "Başlamak"
+        "get_started": "Başlamak",
+        "welcome": "Lumi, onlarca farklı içerik türüyle etkileşimli içerik oluşturmanıza, düzenlemenize, görüntülemenize ve paylaşmanıza olanak tanıyan bir masaüstü uygulamasıdır. Ücretsiz ve açık kaynaklıdır."
     },
     "navigation": {
         "home": "Ev",
@@ -36,7 +36,23 @@
         },
         "standalone": {
             "heading": "Bağımsız çalışır",
-            "description": "Lumi, bilgisayarınızda bir masaüstü programı olarak çalışır ve neredeyse tüm cihazlarda çalışan HTML dosyalarını dışa aktarabilir. Moodle gibi bir Öğrenme Yönetim Sistemine veya WordPress gibi bir İçerik Yönetim Sistemine gerek yok."
+            "description": "Lumi, bilgisayarınızda bir masaüstü programı olarak çalışır. Moodle gibi bir LMS veya WordPress gibi bir CMS'ye gerek yok."
+        },
+        "htmlExport": {
+            "heading": "Saf HTML dışa aktarma",
+            "description": "İçeriğinizi hemen hemen her yerde çalışan hepsi bir arada HTML dosyaları olarak kaydedin ve öğrencilerinize gönderin."
+        },
+        "scormExport": {
+            "heading": "SCORM dışa aktarma",
+            "description": "İçeriğinizi herhangi bir uyumlu LMS'de kullanılabilen SCORM 1.2 paketleri olarak dışa aktarın."
+        },
+        "analytics": {
+            "heading": "Öğrenci ilerlemesini alın",
+            "description": "Öğrenciler, Lumi'nin muhabir aracıyla ilerlemelerini indirebilir ve analiz için size gönderebilirler."
+        },
+        "openSource": {
+            "heading": "Ücretsiz ve Açık Kaynak",
+            "description": "Lumi, GNU Affero Genel Kamu Lisansı 3.0 altında lisanslıdır ve tamamen ücretsizdir. Onunla oluşturulan içeriği istediğiniz şekilde kullanabilirsiniz."
         }
     },
     "download": {
@@ -55,12 +71,13 @@
         "contact_information": "İletişim bilgileri",
         "newsletter": "Haber bülteni",
         "newsletter_description": "Lumi'den en son haberleri alın.",
-        "quick_links": "Hızlı Linkler"
+        "quick_links": "Hızlı Linkler",
+        "sourceCode": "Kaynak kodu"
     },
     "meta": {
-        "description": "Lumi, onlarca farklı içerik türüyle etkileşimli içerik oluşturmanıza, düzenlemenize, görüntülemenize ve paylaşmanıza olanak tanıyan bir masaüstü uygulamasıdır.",
         "keywords": "oluşturma, paylaşma, etkileşimli içerik, etkileşimli alıştırmalar, h5p, e-öğrenme, e-öğrenme, scorm, xapi, yazma aracı, çevrimdışı, bağımsız, html5",
         "pageTopic": "Eğitim",
-        "pageType": "yazılım indir"
+        "pageType": "yazılım indir",
+        "description": "Lumi, düzinelerce farklı içerik türüyle etkileşimli içerik oluşturmanıza, düzenlemenize, görüntülemenize ve paylaşmanıza olanak tanıyan açık kaynaklı bir masaüstü uygulamasıdır."
     }
 }

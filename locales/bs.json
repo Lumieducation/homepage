@@ -6,8 +6,8 @@
         "exciting": "uzbudljivo."
     },
     "home": {
-        "welcome": "Lumi je aplikacija za radnu površinu koja vam omogućava stvaranje, uređivanje, pregled i dijeljenje interaktivnog sadržaja s desetinama različitih vrsta sadržaja.",
-        "get_started": "Počnite"
+        "get_started": "Počnite",
+        "welcome": "Lumi je aplikacija za računare koja vam omogućava stvaranje, uređivanje, pregled i dijeljenje interaktivnog sadržaja s desetinama različitih vrsta sadržaja. Besplatno je i otvoreno."
     },
     "navigation": {
         "home": "Dom",
@@ -36,7 +36,23 @@
         },
         "standalone": {
             "heading": "Radi samostalno",
-            "description": "Lumi se pokreće kao desktop program na vašem računaru i može izvesti HTML datoteke koje rade na gotovo svim uređajima. Nije potreban sistem za upravljanje učenjem poput Moodle-a ili sistem za upravljanje sadržajem kao što je WordPress."
+            "description": "Lumi se pokreće kao desktop program na vašem računaru. Nema potrebe za LMS-om poput Moodle-a ili CMS-om poput WordPressa."
+        },
+        "htmlExport": {
+            "heading": "Čisti HTML izvoz",
+            "description": "Spremite sadržaj kao cjelovite HTML datoteke koje rade gotovo svugdje i pošaljite ih učenicima."
+        },
+        "scormExport": {
+            "heading": "SCORM izvoz",
+            "description": "Izvezite svoj sadržaj kao SCORM 1.2 pakete koji se mogu koristiti u bilo kojem usklađenom LMS-u."
+        },
+        "analytics": {
+            "heading": "Neka napreduje učenik",
+            "description": "Učenici mogu svoj napredak preuzeti s Lumijevim alatom za izvještavanje i poslati vam ga na analizu."
+        },
+        "openSource": {
+            "heading": "Besplatni i otvoreni kod",
+            "description": "Lumi je licenciran pod GNU Affero General Public License 3.0 i potpuno je besplatan. Sadržaj kreiran pomoću njega možete koristiti na bilo koji način."
         }
     },
     "download": {
@@ -55,12 +71,13 @@
         "contact_information": "Kontakt informacije",
         "newsletter": "Bilten",
         "newsletter_description": "Primajte najnovije vijesti od Lumi.",
-        "quick_links": "Brzi linkovi"
+        "quick_links": "Brzi linkovi",
+        "sourceCode": "Izvorni kod"
     },
     "meta": {
-        "description": "Lumi je aplikacija za radnu površinu koja vam omogućava stvaranje, uređivanje, pregled i dijeljenje interaktivnog sadržaja s desetinama različitih vrsta sadržaja.",
         "keywords": "kreirati, dijeliti, interaktivni sadržaj, interaktivne vježbe, h5p, e-učenje, učenje, scorm, xapi, alat za autoriranje, offline, samostalno, html5",
         "pageTopic": "obrazovanje",
-        "pageType": "preuzimanje softvera"
+        "pageType": "preuzimanje softvera",
+        "description": "Lumi je aplikacija za računare otvorenog koda koja vam omogućava stvaranje, uređivanje, pregled i dijeljenje interaktivnog sadržaja s desetinama različitih vrsta sadržaja."
     }
 }

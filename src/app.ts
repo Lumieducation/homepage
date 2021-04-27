@@ -13,11 +13,22 @@ import { languages } from './languages';
 
 const app = express();
 
+let devMode = false;
+if (process.env.NODE_ENV === 'development') {
+    console.log('Starting server in development mode...');
+    devMode = true;
+}
+
 // Add logger
 app.use(morgan('tiny'));
 
 // Add save HTTP headers
-app.use(helmet({ contentSecurityPolicy: false }));
+app.use(
+    helmet({
+        contentSecurityPolicy: false,
+        hsts: !devMode
+    })
+);
 
 i18next
     .use(i18nextFsBackend)

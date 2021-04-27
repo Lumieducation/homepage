@@ -12,7 +12,6 @@
     },
     "features": {
         "standalone": {
-            "description": "Lumi se ejecuta como un programa de escritorio en su computadora y puede exportar archivos HTML que funcionan en casi todos los dispositivos. No hay necesidad de un Sistema de Manejo del Aprendizaje como Moodle, ni de un Sistema de Manejo del Contenido como Wordpress.",
             "heading": "Ejecuta independientemente"
         },
         "preview": {
@@ -31,7 +30,6 @@
         "subheading": "Editor Lumi H5P"
     },
     "home": {
-        "welcome": "LUMI es una app de escritorio que le permite crear, editar y compartir contenido interactivo con docenas de diferentes tipos de contenido.",
         "get_started": "Comenzar"
     },
     "download": {

@@ -6,8 +6,8 @@
         "exciting": "põnev."
     },
     "home": {
-        "welcome": "Lumi on töölauarakendus, mis võimaldab teil interaktiivset sisu luua, muuta, vaadata ja jagada kümnete erinevate sisutüüpidega.",
-        "get_started": "Alustama"
+        "get_started": "Alustama",
+        "welcome": "Lumi on töölauarakendus, mis võimaldab teil interaktiivset sisu luua, muuta, vaadata ja jagada kümnete erinevate sisutüüpidega. See on tasuta ja avatud lähtekoodiga."
     },
     "navigation": {
         "home": "Kodu",
@@ -36,7 +36,23 @@
         },
         "standalone": {
             "heading": "Töötab iseseisvalt",
-            "description": "Lumi töötab arvutis töölauaprogrammina ja sellega saab eksportida HTML-faile, mis töötavad peaaegu kõigis seadmetes. Pole vaja sellist õpihaldussüsteemi nagu Moodle ega sisuhaldussüsteemi nagu WordPress."
+            "description": "Lumi töötab arvutis töölauaprogrammina. Pole vaja sellist LMS-i nagu Moodle ega CMS-i nagu WordPress."
+        },
+        "htmlExport": {
+            "heading": "Puhas HTML-i eksport",
+            "description": "Salvestage oma sisu kõik-ühes HTML-failidena, mis töötavad peaaegu kõikjal, ja saatke see oma õppijatele."
+        },
+        "scormExport": {
+            "heading": "SCORM eksport",
+            "description": "Eksportige oma sisu SCORM 1.2 pakettidena, mida saab kasutada mis tahes ühilduvas LMS-is."
+        },
+        "analytics": {
+            "heading": "Saage õppija edusamme",
+            "description": "Õppijad saavad Lumi reporteri tööriista abil oma edusammud alla laadida ja teile analüüsimiseks saata."
+        },
+        "openSource": {
+            "heading": "Vaba ja avatud lähtekoodiga",
+            "description": "Lumi on litsentsitud GNU Affero General Public License 3.0 alusel ja täiesti tasuta. Sellega loodud sisu saate kasutada mis tahes viisil."
         }
     },
     "download": {
@@ -55,12 +71,13 @@
         "contact_information": "Kontaktinfo",
         "newsletter": "Infoleht",
         "newsletter_description": "Hankige Lumi viimaseid uudiseid.",
-        "quick_links": "Kiirlingid"
+        "quick_links": "Kiirlingid",
+        "sourceCode": "Lähtekood"
     },
     "meta": {
-        "description": "Lumi on töölauarakendus, mis võimaldab teil interaktiivset sisu luua, muuta, vaadata ja jagada kümnete erinevate sisutüüpidega.",
         "keywords": "luua, jagada, interaktiivset sisu, interaktiivseid harjutusi, h5p, e-õpe, e-õpe, scorm, xapi, autoritööriist, võrguühenduseta, eraldiseisev, html5",
         "pageTopic": "haridus",
-        "pageType": "tarkvara allalaadimine"
+        "pageType": "tarkvara allalaadimine",
+        "description": "Lumi on avatud lähtekoodiga töölauarakendus, mis võimaldab interaktiivset sisu luua, muuta, vaadata ja jagada kümnete erinevate sisutüüpidega."
     }
 }

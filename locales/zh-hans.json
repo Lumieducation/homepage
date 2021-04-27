@@ -25,7 +25,6 @@
     },
     "features": {
         "standalone": {
-            "description": "Lumi在您的计算机上作为桌面程序运行，它可以导出几乎在所有设备上都可以使用的HTML文件。 不需要像Moodle这样的学习管理系统，也不需要像WordPress这样的内容管理系统。",
             "heading": "独立运行"
         },
         "preview": {
@@ -54,13 +53,11 @@
         "home": "首页"
     },
     "home": {
-        "get_started": "软件下载",
-        "welcome": "Lumi是一款桌面应用程序。您可以使用Lumi创建、编辑、查看和分享数十种不同类型的交互式内容。"
+        "get_started": "软件下载"
     },
     "meta": {
         "pageType": "软件下载",
         "pageTopic": "教育",
-        "keywords": "创建，分享，互动内容，互动练习，H5P，e-learning，elearning，scorm，xapi，课件工具，单机版，线下工具，html5",
-        "description": "Lumi是一款桌面应用程序。您可以使用Lumi创建、编辑、查看和分享数十种不同类型的交互式内容。"
+        "keywords": "创建，分享，互动内容，互动练习，H5P，e-learning，elearning，scorm，xapi，课件工具，单机版，线下工具，html5"
     }
 }

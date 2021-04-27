@@ -6,8 +6,8 @@
         "exciting": "spännande."
     },
     "home": {
-        "welcome": "Lumi är en stationär app som låter dig skapa, redigera, visa och dela interaktivt innehåll med dussintals olika innehållstyper.",
-        "get_started": "Komma igång"
+        "get_started": "Komma igång",
+        "welcome": "Lumi är en stationär app som låter dig skapa, redigera, visa och dela interaktivt innehåll med dussintals olika innehållstyper. Det är gratis och öppen källkod."
     },
     "navigation": {
         "home": "Hem",
@@ -36,7 +36,23 @@
         },
         "standalone": {
             "heading": "Kör fristående",
-            "description": "Lumi körs som ett skrivbordsprogram på din dator och det kan exportera HTML-filer som fungerar på nästan alla enheter. Inget behov av ett Learning Management System som Moodle eller ett Content Management System som WordPress."
+            "description": "Lumi körs som ett skrivbordsprogram på din dator. Inget behov av en LMS som Moodle eller en CMS som WordPress."
+        },
+        "htmlExport": {
+            "heading": "Ren HTML-export",
+            "description": "Spara ditt innehåll som allt-i-ett-HTML-filer som fungerar nästan överallt och skicka det till dina elever."
+        },
+        "scormExport": {
+            "heading": "SCORM export",
+            "description": "Exportera ditt innehåll som SCORM 1.2-paket som kan användas i valfri LMS."
+        },
+        "analytics": {
+            "heading": "Få elevernas framsteg",
+            "description": "Eleverna kan ladda ner sina framsteg med Lumis reporterverktyg och skicka dem till dig för analys."
+        },
+        "openSource": {
+            "heading": "Gratis och öppen källkod",
+            "description": "Lumi är licensierat under GNU Affero General Public License 3.0 och helt gratis. Du kan använda innehåll som skapats med det på vilket sätt du vill."
         }
     },
     "download": {
@@ -55,12 +71,13 @@
         "contact_information": "Kontaktinformation",
         "newsletter": "Nyhetsbrev",
         "newsletter_description": "Få de senaste nyheterna från Lumi.",
-        "quick_links": "snabblänkar"
+        "quick_links": "snabblänkar",
+        "sourceCode": "Källkod"
     },
     "meta": {
-        "description": "Lumi är en stationär app som låter dig skapa, redigera, visa och dela interaktivt innehåll med dussintals olika innehållstyper.",
         "keywords": "skapa, dela, interaktivt innehåll, interaktiva övningar, h5p, e-learning, elearning, scorm, xapi, redigeringsverktyg, offline, fristående, html5",
         "pageTopic": "utbildning",
-        "pageType": "nedladdning av programvara"
+        "pageType": "nedladdning av programvara",
+        "description": "Lumi är en open source-stationär app som låter dig skapa, redigera, visa och dela interaktivt innehåll med dussintals olika innehållstyper."
     }
 }

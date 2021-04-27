@@ -6,8 +6,8 @@
         "exciting": "jännittävä."
     },
     "home": {
-        "welcome": "Lumi on työpöytäsovellus, jonka avulla voit luoda, muokata, tarkastella ja jakaa interaktiivista sisältöä kymmenien erilaisten sisältötyyppien kanssa.",
-        "get_started": "Aloittaa"
+        "get_started": "Aloittaa",
+        "welcome": "Lumi on työpöytäsovellus, jonka avulla voit luoda, muokata, tarkastella ja jakaa interaktiivista sisältöä kymmenien erilaisten sisältötyyppien kanssa. Se on ilmainen ja avoimen lähdekoodin."
     },
     "navigation": {
         "home": "Koti",
@@ -36,7 +36,23 @@
         },
         "standalone": {
             "heading": "Toimii itsenäisesti",
-            "description": "Lumi toimii työpöytäohjelmana tietokoneellasi ja se voi viedä HTML-tiedostoja, jotka toimivat lähes kaikilla laitteilla. Ei tarvita oppimisen hallintajärjestelmää, kuten Moodle, tai sisällönhallintajärjestelmää, kuten WordPress."
+            "description": "Lumi toimii tietokoneesi työpöytäohjelmana. Ei tarvita Moodlen kaltaista LMS: ää tai CMS: ää, kuten WordPress."
+        },
+        "htmlExport": {
+            "heading": "Puhdas HTML-vienti",
+            "description": "Tallenna sisältösi all-in-one HTML-tiedostoina, jotka toimivat lähes kaikkialla, ja lähetä se oppijoille."
+        },
+        "scormExport": {
+            "heading": "SCORM-vienti",
+            "description": "Vie sisältösi SCORM 1.2 -paketteina, joita voidaan käyttää missä tahansa yhteensopivassa LMS: ssä."
+        },
+        "analytics": {
+            "heading": "Hanki oppijan edistymistä",
+            "description": "Oppijat voivat ladata edistymisensä Lumin reportterityökalulla ja lähettää sen sinulle analysoitavaksi."
+        },
+        "openSource": {
+            "heading": "Ilmainen ja avoin lähdekoodi",
+            "description": "Lumi on lisensoitu GNU Affero General Public License 3.0 -lisenssillä ja täysin ilmainen. Voit käyttää sen avulla luotua sisältöä haluamallasi tavalla."
         }
     },
     "download": {
@@ -55,12 +71,13 @@
         "contact_information": "Yhteystiedot",
         "newsletter": "Uutiskirje",
         "newsletter_description": "Hanki viimeisimmät uutiset Lumilta.",
-        "quick_links": "Pikalinkit"
+        "quick_links": "Pikalinkit",
+        "sourceCode": "Lähdekoodi"
     },
     "meta": {
-        "description": "Lumi on työpöytäsovellus, jonka avulla voit luoda, muokata, tarkastella ja jakaa interaktiivista sisältöä kymmenien erilaisten sisältötyyppien kanssa.",
         "keywords": "luoda, jakaa, vuorovaikutteista sisältöä, vuorovaikutteisia harjoituksia, h5p, verkko-oppiminen, e-oppiminen, scorm, xapi, kirjoitustyökalu, offline, erillinen, html5",
         "pageTopic": "koulutus",
-        "pageType": "ohjelmiston lataus"
+        "pageType": "ohjelmiston lataus",
+        "description": "Lumi on avoimen lähdekoodin työpöytäsovellus, jonka avulla voit luoda, muokata, tarkastella ja jakaa interaktiivista sisältöä kymmenien erilaisten sisältötyyppien kanssa."
     }
 }

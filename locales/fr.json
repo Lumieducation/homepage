@@ -6,8 +6,8 @@
         "exciting": "passionnant."
     },
     "home": {
-        "welcome": "Lumi est une application de bureau qui vous permet de créer, modifier, afficher et partager du contenu interactif avec des dizaines de types de contenu différents.",
-        "get_started": "Commencer"
+        "get_started": "Commencer",
+        "welcome": "Lumi est une application de bureau qui vous permet de créer, modifier, afficher et partager du contenu interactif avec des dizaines de types de contenu différents. C'est gratuit et open source."
     },
     "navigation": {
         "home": "Accueil",
@@ -36,7 +36,23 @@
         },
         "standalone": {
             "heading": "Fonctionne de manière autonome",
-            "description": "Lumi fonctionne comme un programme de bureau sur votre ordinateur et il peut exporter des fichiers HTML qui fonctionnent sur presque tous les appareils. Pas besoin d'un système de gestion de l'apprentissage comme Moodle ou d'un système de gestion de contenu comme WordPress."
+            "description": "Lumi fonctionne comme un programme de bureau sur votre ordinateur. Pas besoin d'un LMS comme Moodle ou d'un CMS comme WordPress."
+        },
+        "htmlExport": {
+            "heading": "Exportation HTML pur",
+            "description": "Enregistrez votre contenu sous forme de fichiers HTML tout-en-un fonctionnant presque partout et envoyez-le à vos apprenants."
+        },
+        "scormExport": {
+            "heading": "Exportation SCORM",
+            "description": "Exportez votre contenu sous forme de packages SCORM 1.2 pouvant être utilisés dans n'importe quel LMS conforme."
+        },
+        "analytics": {
+            "heading": "Obtenez les progrès de l'apprenant",
+            "description": "Les apprenants peuvent télécharger leurs progrès avec l'outil de rapport de Lumi et vous l'envoyer pour analyse."
+        },
+        "openSource": {
+            "heading": "Gratuit et Open Source",
+            "description": "Lumi est sous licence GNU Affero General Public License 3.0 et totalement gratuit. Vous pouvez utiliser le contenu créé avec celui-ci comme vous le souhaitez."
         }
     },
     "download": {
@@ -55,12 +71,13 @@
         "imprint": "Imprimer",
         "contact_information": "Coordonnées",
         "newsletter": "Bulletin",
-        "newsletter_description": "Recevez les dernières nouvelles de Lumi."
+        "newsletter_description": "Recevez les dernières nouvelles de Lumi.",
+        "sourceCode": "Code source"
     },
     "meta": {
-        "description": "Lumi est une application de bureau qui vous permet de créer, modifier, afficher et partager du contenu interactif avec des dizaines de types de contenu différents.",
         "keywords": "créer, partager, contenu interactif, exercices interactifs, h5p, e-learning, e-learning, scorm, xapi, outil de création, hors ligne, autonome, html5",
         "pageTopic": "éducation",
-        "pageType": "téléchargement de logiciel"
+        "pageType": "téléchargement de logiciel",
+        "description": "Lumi est une application de bureau open source qui vous permet de créer, modifier, afficher et partager du contenu interactif avec des dizaines de types de contenu différents."
     }
 }
