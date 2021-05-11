@@ -48,6 +48,44 @@ router.use(
 );
 
 router.use(
+    '/run/terms-of-use',
+    async (
+        req: express.Request,
+        res: express.Response,
+        next: express.NextFunction
+    ) => {
+        try {
+            res.render('run/terms-of-use', {
+                languages: getListWithNativeNames(),
+                currentLanguage: getNativeName(req.language),
+                currentLanguageCode: getCurrentLanguageCode(req.language)
+            });
+        } catch (error) {
+            res.redirect('/');
+        }
+    }
+);
+
+router.use(
+    '/run/privacy-policy',
+    async (
+        req: express.Request,
+        res: express.Response,
+        next: express.NextFunction
+    ) => {
+        try {
+            res.render('run/privacy-policy', {
+                languages: getListWithNativeNames(),
+                currentLanguage: getNativeName(req.language),
+                currentLanguageCode: getCurrentLanguageCode(req.language)
+            });
+        } catch (error) {
+            res.redirect('/');
+        }
+    }
+);
+
+router.use(
     '/imprint',
     async (
         req: express.Request,
