@@ -8,11 +8,13 @@
         "privacy": "Privacidad",
         "contact": "Contacto",
         "quick_links": "Enlaces Rápidos",
-        "company": "Compañía"
+        "company": "Compañía",
+        "sourceCode": "Código Fuente"
     },
     "features": {
         "standalone": {
-            "heading": "Ejecuta independientemente"
+            "heading": "Ejecuta independientemente",
+            "description": "Lumi se ejecuta como un programa de escritorio en su computadora. No es necesario un LMS como Moodle o un CMS como WordPress."
         },
         "preview": {
             "description": "Compruebe sus cambios antes de guardar al cambiar a la previsualización.",
@@ -27,10 +29,27 @@
             "heading": "Todos los Tipos de Contenido del Hub H5P"
         },
         "heading": "Crea, edita y ve archivos H5P directamente en tu computadora.",
-        "subheading": "Editor Lumi H5P"
+        "subheading": "Editor Lumi H5P",
+        "openSource": {
+            "description": "Lumi tiene la licencia GNU Affero General Public License 3.0 y es completamente gratis. Puede utilizar el contenido creado con él de la forma que desee.",
+            "heading": "Gratis y de Código Abierto"
+        },
+        "analytics": {
+            "description": "Los alumnos pueden descargar su progreso con la herramienta de informes de Lumi y enviárselo a Usted para su análisis.",
+            "heading": "Obtenga el progreso del alumno"
+        },
+        "scormExport": {
+            "description": "Exporte su contenido como paquetes SCORM 1.2 que se pueden utilizar en cualquier LMS compatible.",
+            "heading": "Exportación SCORM"
+        },
+        "htmlExport": {
+            "description": "Guarde su contenido como archivos HTML todo en uno que funcionan en casi todas partes y envíelo a sus alumnos.",
+            "heading": "Exportación de HTML puro"
+        }
     },
     "home": {
-        "get_started": "Comenzar"
+        "get_started": "Comenzar",
+        "welcome": "Lumi es una aplicación de escritorio que le permite crear, editar, ver y compartir contenido interactivo con docenas de diferentes tipos de contenido. Es gratis y de código abierto."
     },
     "download": {
         "bypass_smartscreen": "Aprenda aquí como pasar el filtro SmartScreen de Windows (solamente necesario para instalador-exe).",
@@ -54,5 +73,11 @@
         "individual": "individual.",
         "accessible": "accesible.",
         "make_learning": "Hacer aprendizaje"
+    },
+    "meta": {
+        "pageType": "Descarga de software",
+        "pageTopic": "educación",
+        "keywords": "crear, compartir, contenido interactivo, ejercicios interactivos, h5p, e-learning, elearning, scorm, xapi, herramienta de autoría, sin conexión, independiente, html5",
+        "description": "Lumi es una aplicación de escritorio de código abierto que le permite crear, editar, ver y compartir contenido interactivo con docenas de diferentes tipos de contenido."
     }
 }
