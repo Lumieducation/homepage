@@ -79,5 +79,57 @@
         "newsletter": "Newsletter",
         "newsletter_description": "Get the latest news from Lumi.",
         "sourceCode": "Source Code"
+    },
+    "appPrivacyPolicy": {
+        "title":"Lumi H5P Desktop Editor – Privacy Policy",
+        "definitions": "The Lumi H5P Desktop Editor is an application developed and distributed by “Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig” (“Lumi Education GbR”, “we” and “our company” in the following). This privacy policy will explain how our company uses the personal data we collect from you while you use the app.",
+        "scope": "This privacy policy only applies to copies of the app you received directly from Lumi Education GbR, either by downloading it from the website lumi.education, the GitHub repository at https://github.com/lumieducation/lumi or from an application store. If you downloaded it from an application store, this privacy policy only applies if you downloaded it from an official store entry of Lumi Education GbR, which can have one of these publishers (or an abbreviation of these): <ul><li>Lumi Education GbR Jan Philip Schellenberg and Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
+        "warningGPL": "As the Lumi app is licensed under the AGPL-3.0 License, anyone can change and distribute the app. This privacy policy does not apply to versions of the Lumi app that were modified and published by anyone else.",
+        "controllerHeading": "Who is responsible for data collection in Lumi H5P Desktop Editor?",
+        "controllerText": "The controller (according to Art. 4 (7) GDPR the legal person who determines the purpose and means of the processing of personal data) is Lumi Education GbR Jan Philip Schellenberg and Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig, Germany.",
+        "dataHeading": "What data is collected? How is it collected?",
+        "dataText": "The following data is transmitted to our organization or third parties while you use the app:",
+        "dataTable": {
+            "header": "<th>Number</th><th>Data</th><th>When?</th><th>To whom is it transmitted?</th>",
+            "row1": "<td>1</td><td>A unique identifier of your installation and your IP address</td><td>When you start the app</td><td rowspan=\"5\">Lumi Education GbR</td>",
+            "row2": "<td>2</td><td>How often you use the app</td><td>When you start the app & have use statistics enabled</td>",
+            "row3": "<td>3</td><td>Information about your computer (operating system) and your location</td><td>When you start the app & have use statistics enabled</td>",
+            "row4": "<td>4</td><td>What parts of the app you use</td><td>While you use the app & have use statistics enabled</td>",
+            "row5": "<td>5</td><td>Errors that occur while you use the app</td><td>If your app encounters an error & you have bug reporting enabled</td>",
+            "row6": "<td>6</td><td>Your IP address, a (stable) unique identifier of your machine and information about the installation of Lumi H5P Editor (version etc.)</td><td>When downloading content types from the H5P Hub (on app startup and when you click on install or update in the content type list)</td><td>Joubel AS, c/o Flow Coworking AS Strandgata 9, 9008 Tromsø, Norway (see their privacy policy here: https://h5p.org/privacy)</td>",
+            "row7": "<td>7</td><td>Your IP address</td><td>When checking for new app updates and downloading them</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, United States (see their privacy policy here: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement)</td>",
+            "row8": "<td>8</td><td>Your IP address</td><td>When using the app (to download fonts)</td><td>Google, Gordon House, Barrow Street, Dublin 4, Ireland (see their privacy policy here: https://policies.google.com/privacy?hl=en)</td>",
+            "row9": "<td>9</td><td>Your IP address and possibly other data</td><td>If you use content types that transmit data to third parties (e.g. Speak the Answer transmits your voice recording to Google to transcribe it)</td><td>depends on content type used</td>",
+            "row10": "<td>10</td><td>Your uploaded H5P</td><td>If you choose to upload a H5P to Lumi.run via the Lumi Run App </td><td>Lumi Education GbR</td>"
+        },
+        "basisHeading": "On what basis do we collect your data?",
+        "basisText": "We collect or transmit your data with your explicit consent (Art. 6 (1) a GDPR) for numbers 1-9 through the consent dialog on the first start of Lumi. The data transmission in numbers 6-9 is required for the H5P editor and player to work. If you object to it, it is not technically possible to use the app.",
+        "usageHeading": "How will we use your data?",
+        "usageText": "Our company collects your data (numbers 1-5) so that we can: <ul><li>decide what parts of the app should be developed further (e.g. choice of languages to localize)</li><li>to optimize the user interface</li><li>find and fix bugs</li><li>contact you with follow-up questions about a bug reported by you</li></ul>Your data is not used for individual decision-making, including profiling.<br/><br/> Data that we receive about you is not shared with other companies or organizations, except if we are required to do so by law (e.g. for law enforcement) and for processing purposes (see below). It is beyond our control how data that is transmitted directly to third parties (numbers 6-9) is used by them.",
+        "storageHeading": "How do we store your data?",
+        "storageText": {
+            "sentence1": "Our company uses a processor to securely store the data about your app usage (numbers 1-5) on Scaleway Cloud systems, 8 rue de la Ville l’Evêque, 75008 Paris, France",
+            "sentence2": "Our company will keep your data for two years after it was collected. Once this time period has expired, we will delete your data.",
+            "sentence3": "It is beyond our control how data that is transmitted directly to third parties (numbers 6-9) is stored by them and for how long. As some of the recipients are resident in the USA, it is likely that your data is transmitted to and stored in the USA."
+        },
+        "rightsHeading": "What are your data protection rights?",
+        "rightsText": "Our company would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:",
+        "rightsList": {
+            "r1": "The right to object to processing – You have the right to object to our company’s processing of your personal data, under certain conditions.",
+            "r2": "The right to access – You have the right to request our company for copies of your personal data. We may charge you a small fee for this service.",
+            "r3": "The right to rectification – You have the right to request that our company correct any information you believe is inaccurate. You also have the right to request our company to complete the information you believe is incomplete.",
+            "r4": "The right to erasure – You have the right to request that our company erase your personal data, under certain conditions.",
+            "r5": "The right to restrict processing – You have the right to request that our company restrict the processing of your personal data, under certain conditions.",
+            "r6": "The right to data portability – You have the right to request that our company transfer the data that we have collected to another organization, or directly to you, under certain conditions."
+        },
+        "rightsContact": "If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a><br/><br/>All requests concerning data transmitted as described in numbers 6-9 must be directed directly to the recipients.",
+        "otherSitesHeading": "Privacy policies of other websites",
+        "otherSitesText": "Our app contains links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy.",
+        "changesHeading": "Changes to our privacy policy",
+        "changesText": "Our company keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 10th July 2021.",
+        "contactHeading": "How to contact us",
+        "contactText": "If you have any questions about our company’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us. Email us at: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
+        "authorityHeading": "How to contact the appropriate authority",
+        "authorityText": "Should you wish to report a complaint or if you feel that our company has not addressed your concern in a satisfactory manner, you may contact the Information Commissioner’s Office.<br/><br/>Email: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br />Address:<br />Der Landesbeauftragte für den Datenschutz Niedersachsen<br />Prinzenstraße 5<br />D-30159 Hannover<br />Germany"
     }
 }
