@@ -79,5 +79,57 @@
         "pageTopic": "educación",
         "pageType": "Descarga de software",
         "description": "Lumi es una aplicación de escritorio de código abierto que le permite crear, editar, ver y compartir contenido interactivo con docenas de diferentes tipos de contenido."
+    },
+    "appPrivacyPolicy": {
+        "title": "Editor de escritorio Lumi H5P - Política de privacidad",
+        "definitions": "Para ayudarlo a comprender nuestra política de privacidad, se tradujo automáticamente <a href=\"/en/app/privacy-policy\">del original en inglés</a> , que es el documento legalmente vinculante. Si no comprende partes de este documento, comuníquese con nosotros como se describe a continuación.<br/><br/> El editor de escritorio Lumi H5P es una aplicación desarrollada y distribuida por “Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig” (“Lumi Education GbR”, “nosotros” y “nuestra empresa” en lo sucesivo). Esta política de privacidad explicará cómo nuestra empresa utiliza los datos personales que recopilamos de usted mientras usa la aplicación.",
+        "scope": "Esta política de privacidad solo se aplica a las copias de la aplicación que recibió directamente de Lumi Education GbR, ya sea descargándola del sitio web lumi.education, del repositorio de GitHub en https://github.com/lumieducation/lumi o de una tienda de aplicaciones. Si lo descargó de una tienda de aplicaciones, esta política de privacidad solo se aplica si lo descargó de una entrada de tienda oficial de Lumi Education GbR, que puede tener uno de estos editores (o una abreviatura de estos):<ul><li> Lumi Education GbR Jan Philip Schellenberg y Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastián Rettig</li></ul>",
+        "warningGPL": "Como la aplicación Lumi tiene la licencia AGPL-3.0, cualquiera puede cambiar y distribuir la aplicación. Esta política de privacidad no se aplica a las versiones de la aplicación Lumi que fueron modificadas y publicadas por otra persona.",
+        "controllerHeading": "¿Quién es responsable de la recopilación de datos en Lumi H5P Desktop Editor?",
+        "controllerText": "El controlador (según el Art. 4 (7) GDPR la persona jurídica que determina el propósito y los medios del procesamiento de datos personales) es Lumi Education GbR Jan Philip Schellenberg y Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig , Alemania.",
+        "dataHeading": "¿Qué datos se recopilan? ¿Cómo se recolecta?",
+        "dataText": "Los siguientes datos se transmiten a nuestra organización o terceros mientras utiliza la aplicación:",
+        "dataTable": {
+            "header": "<th>Número</th><th>Datos</th><th>¿Cuándo?</th><th>¿A quién se transmite?</th>",
+            "row1": "<td>1</td><td>Un identificador único de su instalación y su dirección IP</td><td>Cuando inicias la aplicación</td><td rowspan=\"5\">Lumi Education GbR</td>",
+            "row2": "<td>2</td><td>Con qué frecuencia usas la aplicación</td><td>Cuando inicia la aplicación y tiene habilitadas las estadísticas de uso</td>",
+            "row3": "<td>3</td><td>Información sobre su computadora (sistema operativo) y su ubicación</td><td>Cuando inicia la aplicación y tiene habilitadas las estadísticas de uso</td>",
+            "row4": "<td>4</td><td>Qué partes de la aplicación usas</td><td>Mientras usa la aplicación y tiene habilitadas las estadísticas de uso</td>",
+            "row5": "<td>5</td><td>Errores que ocurren mientras usa la aplicación</td><td>Si su aplicación encuentra un error y tiene habilitado el informe de errores</td>",
+            "row6": "<td>6</td><td>Su dirección IP, un identificador único (estable) de su máquina e información sobre la instalación de Lumi H5P Editor (versión, etc.)</td><td>Al descargar tipos de contenido del H5P Hub (al iniciar la aplicación y al hacer clic en instalar o actualizar en la lista de tipos de contenido)</td><td>Joubel AS, c / o Flow Coworking AS Strandgata 9, 9008 Tromsø, Noruega (consulte su política de privacidad aquí: https://h5p.org/privacy)</td>",
+            "row7": "<td>7</td><td>Su dirección IP</td><td>Al buscar nuevas actualizaciones de aplicaciones y descargarlas</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, Estados Unidos (consulte su política de privacidad aquí: https://docs.github.com/en/free-pro-team@latest/github/site- policy / github-privacy-statement)</td>",
+            "row8": "<td>8</td><td>Su dirección IP</td><td>Al usar la aplicación (para descargar fuentes)</td><td>Google, Gordon House, Barrow Street, Dublin 4, Irlanda (consulte su política de privacidad aquí: https://policies.google.com/privacy?hl=en)</td>",
+            "row9": "<td>9</td><td>Su dirección IP y posiblemente otros datos</td><td>Si usa tipos de contenido que transmiten datos a terceros (por ejemplo, Speak the Answer transmite su grabación de voz a Google para transcribirla)</td><td>depende del tipo de contenido utilizado</td>",
+            "row10": "<td>10</td><td>Tu H5P subido</td><td>Si elige cargar un H5P en Lumi.run a través de la aplicación Lumi Run</td><td>Lumi Education GbR</td>"
+        },
+        "basisHeading": "¿Sobre qué base recopilamos sus datos?",
+        "basisText": "Recopilamos o transmitimos sus datos con su consentimiento explícito (Art. 6 (1) a GDPR) para los números 1-9 a través del diálogo de consentimiento en el primer inicio de Lumi. La transmisión de datos en los números 6-9 es necesaria para que el editor y el reproductor H5P funcionen. Si se opone a ello, técnicamente no es posible utilizar la aplicación. Los datos de acuerdo con el número 10 se recopilan con su consentimiento explícito antes de usar Lumi Run.",
+        "usageHeading": "¿Cómo usaremos sus datos?",
+        "usageText": "Nuestra empresa recopila sus datos (números 1-5) para que podamos:<ul><li> decidir qué partes de la aplicación deben desarrollarse más (por ejemplo, elección de idiomas para localizar)</li><li>para optimizar la interfaz de usuario</li><li>encontrar y corregir errores</li><li>contactarlo con preguntas de seguimiento sobre un error informado por usted</li></ul> Sus datos no se utilizan para la toma de decisiones individuales, incluida la elaboración de perfiles.<br/><br/> Los datos que recibimos sobre usted no se comparten con otras empresas u organizaciones, excepto si así lo exige la ley (por ejemplo, para el cumplimiento de la ley) y para fines de procesamiento (consulte a continuación). Está fuera de nuestro control cómo los datos que se transmiten directamente a terceros (números 6-9) son utilizados por ellos.",
+        "storageHeading": "¿Cómo almacenamos sus datos?",
+        "storageText": {
+            "sentence1": "Nuestra empresa utiliza un procesador de datos para almacenar de forma segura los datos sobre el uso de su aplicación (números 1-5 y 10) en sistemas administrados por Hetzner Online GmbH, Industriestr. 25, D-91710 Gunzenhausen, Alemania.",
+            "sentence2": "Nuestra empresa conservará sus datos durante dos años después de su recopilación. Una vez que este período de tiempo haya expirado, eliminaremos sus datos.",
+            "sentence3": "Está fuera de nuestro control cómo almacenan los datos que se transmiten directamente a terceros (números 6-9) y durante cuánto tiempo. Dado que algunos de los destinatarios residen en EE. UU., Es probable que sus datos se transmitan y se almacenen en EE. UU."
+        },
+        "rightsHeading": "¿Cuáles son sus derechos de protección de datos?",
+        "rightsText": "Nuestra empresa desea asegurarse de que conoce todos sus derechos de protección de datos. Todo usuario tiene derecho a lo siguiente:",
+        "rightsList": {
+            "r1": "El derecho a oponerse al procesamiento: tiene derecho a oponerse al procesamiento de sus datos personales por parte de nuestra empresa, bajo ciertas condiciones.",
+            "r2": "Derecho de acceso: tiene derecho a solicitar a nuestra empresa copias de sus datos personales. Es posible que le cobremos una pequeña tarifa por este servicio.",
+            "r3": "El derecho a la rectificación: tiene derecho a solicitar que nuestra empresa corrija cualquier información que crea que es inexacta. También tiene derecho a solicitar a nuestra empresa que complete la información que cree que está incompleta.",
+            "r4": "El derecho a borrar: tiene derecho a solicitar que nuestra empresa borre sus datos personales, bajo ciertas condiciones.",
+            "r5": "El derecho a restringir el procesamiento: tiene derecho a solicitar que nuestra empresa restrinja el procesamiento de sus datos personales, bajo ciertas condiciones.",
+            "r6": "El derecho a la portabilidad de datos: tiene derecho a solicitar que nuestra empresa transfiera los datos que hemos recopilado a otra organización, o directamente a usted, bajo ciertas condiciones."
+        },
+        "rightsContact": "Si realiza una solicitud, tenemos un mes para responderle. Si desea ejercer alguno de estos derechos, comuníquese con nosotros a nuestro correo electrónico: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a><br/><br/> Todas las solicitudes relativas a los datos transmitidos como se describe en los números 6-9 deben dirigirse directamente a los destinatarios.",
+        "otherSitesHeading": "Políticas de privacidad de otros sitios web",
+        "otherSitesText": "Nuestra aplicación contiene enlaces a otros sitios web. Nuestra política de privacidad se aplica solo a nuestro sitio web, por lo que si hace clic en un enlace a otro sitio web, debe leer su política de privacidad.",
+        "changesHeading": "Cambios en nuestra política de privacidad",
+        "changesText": "Nuestra empresa mantiene su política de privacidad bajo revisión periódica y coloca cualquier actualización en esta página web. Esta política de privacidad se actualizó por última vez el 10 de julio de 2021.",
+        "contactHeading": "Cómo contactarnos",
+        "contactText": "Si tiene alguna pregunta sobre la política de privacidad de nuestra empresa, los datos que tenemos sobre usted o si desea ejercer uno de sus derechos de protección de datos, no dude en ponerse en contacto con nosotros. Envíenos un correo electrónico a: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
+        "authorityHeading": "Cómo contactar a la autoridad apropiada",
+        "authorityText": "Si desea denunciar una queja o si cree que nuestra empresa no ha abordado su inquietud de manera satisfactoria, puede comunicarse con la Oficina del Comisionado de Información.<br/><br/> Correo electrónico: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Habla a:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Alemania"
     }
 }

@@ -79,5 +79,57 @@
         "keywords": "Erstellen, Teilen, interaktive Inhalte, interaktive Übungen, H5P, E-Learning, Lernen, SCORM, xAPI, Authoring-Tool, Offline, Standalone, HTML5",
         "pageTopic": "Bildung",
         "pageType": "Software Download"
+    },
+    "appPrivacyPolicy": {
+        "title": "Lumi H5P Desktop-Editor – Datenschutzerklärung",
+        "definitions": "Der Lumi H5P Desktop Editor ist eine Anwendung, die von „Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig“ (im Folgenden „Lumi Education GbR“, „wir“ und „unser Unternehmen“) entwickelt und vertrieben wird. In dieser Datenschutzerklärung wird erläutert, wie unser Unternehmen die personenbezogenen Daten verwendet, die wir während der Nutzung der App von Ihnen erheben.",
+        "scope": "Diese Datenschutzerklärung gilt nur für Kopien der App, die Sie direkt von Lumi Education GbR erhalten haben, entweder durch Herunterladen von der Website lumi.education, dem GitHub-Repository unter https://github.com/lumieducation/lumi oder aus einem App Store. Wenn Sie sie aus einem App Store heruntergeladen haben, gilt diese Datenschutzerklärung nur, wenn Sie sie von einem offiziellen Store-Eintrag der Lumi Education GbR heruntergeladen haben, der einen dieser Herausgeber (oder eine Abkürzung davon) haben kann:<ul><li> Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
+        "warningGPL": "Da die Lumi-App unter der AGPL-3.0-Lizenz lizenziert ist, kann jeder die App ändern und verteilen. Diese Datenschutzrichtlinie gilt nicht für Versionen der Lumi-App, die von anderen geändert und veröffentlicht wurden.",
+        "controllerHeading": "Wer ist für die Datenverarbeitung im Lumi H5P Desktop Editor verantwortlich?",
+        "controllerText": "Verantwortlicher (gemäß Art. 4 Abs. 7 DSGVO die juristische Person, die den Zweck und die Mittel der Verarbeitung von personenbezogenen Daten bestimmt) ist die Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig , Deutschland.",
+        "dataHeading": "Welche Daten werden erhoben? Wie werden sie gesammelt?",
+        "dataText": "Folgende Daten werden bei der Nutzung der App an unsere Organisation oder Dritte übermittelt:",
+        "dataTable": {
+            "header": "<th>Nummer</th><th>Daten</th><th>Wann?</th><th>An wen wird es übermittelt?</th>",
+            "row1": "<td>1</td><td>Eine eindeutige Kennung Ihrer Installation und Ihre IP-Adresse</td><td>Wenn Sie die App starten</td><td rowspan=\"5\">Lumi Education GbR</td>",
+            "row2": "<td>2</td><td>Wie oft die App genutzt wird</td><td>Wenn Sie die App starten und die Nutzungsstatistik aktiviert haben</td>",
+            "row3": "<td>3</td><td>Informationen zu Ihrem Computer (Betriebssystem) und Ihrem Standort</td><td>Wenn Sie die App starten und die Nutzungsstatistik aktiviert haben</td>",
+            "row4": "<td>4</td><td>Welche Teile der App verwenden werden</td><td>Während Sie die App verwenden und Nutzungsstatistiken aktiviert haben</td>",
+            "row5": "<td>5</td><td>Fehler, die während der Nutzung der App auftreten</td><td>Wenn in Ihrer App ein Fehler auftritt und Sie die Fehlerberichterstattung aktiviert haben</td>",
+            "row6": "<td>6</td><td>Ihre IP-Adresse, eine (stabile) eindeutige Kennung Ihres Geräts und Informationen zur Installation von Lumi H5P Editor (Version etc.)</td><td>Beim Herunterladen von Inhaltstypen vom H5P Hub (beim App-Start und wenn Sie in der Inhaltstypliste auf Installieren oder Aktualisieren klicken)</td><td>Joubel AS, c/o Flow Coworking AS Strandgata 9, 9008 Tromsø, Norwegen (siehe deren Datenschutzerklärung hier: https://h5p.org/privacy)</td>",
+            "row7": "<td>7</td><td>Ihre IP-Adresse</td><td>Wenn Sie nach neuen App-Updates suchen und diese herunterladen</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA (siehe deren Datenschutzerklärung hier: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement)</td>",
+            "row8": "<td>8</td><td>Ihre IP-Adresse</td><td>Bei Verwendung der App (zum Herunterladen von Schriftarten)</td><td>Google, Gordon House, Barrow Street, Dublin 4, Irland (siehe deren Datenschutzerklärung hier: https://policies.google.com/privacy?hl=de)</td>",
+            "row9": "<td>9</td><td>Ihre IP-Adresse und ggf. weitere Daten</td><td>Wenn Sie Inhaltstypen verwenden, die Daten an Dritte übermitteln (z.B. Speak the Answer überträgt Ihre Sprachaufzeichnung an Google, um sie zu transkribieren)</td><td>hängt vom verwendeten Inhaltstyp ab</td>",
+            "row10": "<td>10</td><td>Dein hochgeladenes H5P</td><td>Wenn Sie sich entscheiden, ein H5P über die Lumi Run App auf Lumi.run hochzuladen</td><td>Lumi Education GbR</td>"
+        },
+        "basisHeading": "Auf welcher Grundlage erheben wir Ihre Daten?",
+        "basisText": "Wir erheben oder übermitteln Ihre Daten mit Ihrer ausdrücklichen Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) für die Nummern 1-9 durch den Einwilligungsdialog beim ersten Start von Lumi. Die Datenübertragung in den Nummern 6-9 ist für die Funktion des H5P-Editors und -Players erforderlich. Wenn Sie dem widersprechen, ist die Nutzung der App technisch nicht möglich. Die Datenübertragung von Nr. 10 erfolgt aufgrund Ihrer Einwilligung vor der Nutzung von Lumi Run.",
+        "usageHeading": "Wie werden wir Ihre Daten verwenden?",
+        "usageText": "Unser Unternehmen sammelt Ihre Daten (Nummern 1-5), damit wir:<ul><li> entscheiden, welche Teile der App weiterentwickelt werden sollen (z.B. Wahl der zu lokalisierenden Sprachen)</li><li>um die Benutzeroberfläche zu optimieren</li><li>Fehler zu finden und zu beheben</li><li>Sie bei Folgefragen zu einem von Ihnen gemeldeten Fehler kontaktieren</li></ul> Ihre Daten werden nicht für individuelle Entscheidungsfindungen, einschließlich Profiling, verwendet.<br/><br/> Daten, die wir über Sie erhalten, werden nicht an andere Unternehmen oder Organisationen weitergegeben, es sei denn, wir sind gesetzlich (z.B. zur Strafverfolgung) dazu verpflichtet oder zu Zwecken der Auftragsverarbeitung (siehe unten). Es liegt außerhalb unserer Kontrolle, wie Daten, die direkt an Dritte übermittelt werden (Ziffer 6-9), von diesen verwendet werden.",
+        "storageHeading": "Wie speichern wir Ihre Daten?",
+        "storageText": {
+            "sentence1": "Unser Unternehmen verwendet einen Auftragsverarbeiter, um die Daten über Ihre App-Nutzung (Nummern 1-5 und 10) auf Systemen von Hetzner Online GmbH, Industriestr. 25 , D-91710 Gunzenhausen, Deutschland, sicher zu speichern",
+            "sentence2": "Unser Unternehmen bewahrt Ihre Daten nach der Erhebung zwei Jahre lang auf. Nach Ablauf dieser Frist löschen wir Ihre Daten.",
+            "sentence3": "Wie und wie lange Daten, die direkt an Dritte übermittelt werden (Nummern 6-9) von diesen gespeichert werden, können wir nicht beeinflussen. Da einige der Empfänger in den USA ansässig sind, ist es wahrscheinlich, dass Ihre Daten in die USA übermittelt und dort gespeichert werden."
+        },
+        "rightsHeading": "Welche Datenschutzrechte haben Sie?",
+        "rightsText": "Unser Unternehmen möchte sicherstellen, dass Sie alle Ihre Datenschutzrechte kennen. Jeder Benutzer hat Anspruch auf Folgendes:",
+        "rightsList": {
+            "r1": "Recht auf Widerspruch gegen die Verarbeitung – Sie haben unter bestimmten Voraussetzungen das Recht, der Verarbeitung Ihrer personenbezogenen Daten durch unser Unternehmen zu widersprechen.",
+            "r2": "Auskunftsrecht – Sie haben das Recht, von unserem Unternehmen Kopien Ihrer personenbezogenen Daten anzufordern. Für diesen Service können wir Ihnen eine geringe Gebühr in Rechnung stellen.",
+            "r3": "Das Recht auf Berichtigung – Sie haben das Recht, von unserem Unternehmen die Berichtigung von Informationen zu verlangen, die Sie für unrichtig halten. Sie haben auch das Recht, unser Unternehmen aufzufordern, die Informationen zu vervollständigen, die Sie für unvollständig halten.",
+            "r4": "Das Recht auf Löschung – Sie haben unter bestimmten Voraussetzungen das Recht, von unserem Unternehmen die Löschung Ihrer personenbezogenen Daten zu verlangen.",
+            "r5": "Recht auf Einschränkung der Verarbeitung – Sie haben das Recht, unter bestimmten Voraussetzungen von unserem Unternehmen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.",
+            "r6": "Das Recht auf Datenübertragbarkeit – Sie haben das Recht zu verlangen, dass unser Unternehmen die von uns erhobenen Daten unter bestimmten Voraussetzungen an eine andere Organisation oder direkt an Sie übermittelt."
+        },
+        "rightsContact": "Wenn Sie eine Anfrage stellen, haben wir einen Monat Zeit, um Ihnen zu antworten. Wenn Sie eines dieser Rechte ausüben möchten, kontaktieren Sie uns bitte unter unserer E-Mail: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a><br/><br/> Alle Anfragen zu übermittelten Daten nach den Ziffern 6-9 sind direkt an die Empfänger zu richten.",
+        "otherSitesHeading": "Datenschutzrichtlinien anderer Websites",
+        "otherSitesText": "Unsere App enthält Links zu anderen Websites. Unsere Datenschutzrichtlinie gilt nur für unsere Website. Wenn Sie also auf einen Link zu einer anderen Website klicken, sollten Sie deren Datenschutzrichtlinie lesen.",
+        "changesHeading": "Änderungen unserer Datenschutzerklärung",
+        "changesText": "Unser Unternehmen überprüft seine Datenschutzerklärung regelmäßig und veröffentlicht alle Aktualisierungen auf dieser Webseite. Diese Datenschutzerklärung wurde zuletzt am 10. Juli 2021 aktualisiert.",
+        "contactHeading": "Wie man uns kontaktiert",
+        "contactText": "Wenn Sie Fragen zum Datenschutz unseres Unternehmens, zu den von uns gespeicherten Daten haben oder eines Ihrer Datenschutzrechte ausüben möchten, können Sie sich gerne an uns wenden. <a href=\"mailto:c@Lumi.education\">Senden Sie</a> uns eine E-Mail an: c@Lumi.education",
+        "authorityHeading": "So erreichen Sie die zuständige Aufsichtsbehörde",
+        "authorityText": "Wenn Sie eine Beschwerde melden möchten oder der Meinung sind, dass unser Unternehmen Ihr Anliegen nicht zufriedenstellend behandelt hat, können Sie sich an die zuständige Aufsichtsbehörde wenden.<br/><br/> E-Mail: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Adresse:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br/> Deutschland<br/><br/>"
     }
 }

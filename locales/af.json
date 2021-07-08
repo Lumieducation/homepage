@@ -79,5 +79,57 @@
         "pageTopic": "onderwys",
         "pageType": "sagteware aflaai",
         "description": "Lumi is 'n oopbron-lessenaarprogram waarmee u interaktiewe inhoud kan skep, wysig, sien en deel met tientalle verskillende inhoudstipes."
+    },
+    "appPrivacyPolicy": {
+        "title": "Lumi H5P Desktop Editor - privaatheidsbeleid",
+        "definitions": "Om u te help om ons privaatheidsbeleid te verstaan, is dit outomaties vertaal <a href=\"/en/app/privacy-policy\">uit die Engelse oorspronklike</a> , wat die wetlik bindende dokument is. As u nie dele van hierdie dokument verstaan nie, kontak ons soos hieronder beskryf.<br/><br/> Die Lumi H5P Desktop Editor is 'n toepassing wat ontwikkel en versprei word deur \"Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig\" (\"Lumi Education GbR\", \"we\" en \"our company\" in die volgende). Hierdie privaatheidsbeleid sal verduidelik hoe ons maatskappy die persoonlike data wat ons van u versamel, gebruik terwyl u die app gebruik.",
+        "scope": "Hierdie privaatheidsbeleid is slegs van toepassing op afskrifte van die app wat u direk van Lumi Education GbR ontvang het, deur dit af te laai vanaf die webwerf lumi.education, die GitHub-bewaarplek by https://github.com/lumieducation/lumi of uit 'n toepassingswinkel. As u dit van 'n toepassingswinkel afgelaai het, is hierdie privaatheidsbeleid slegs van toepassing as u dit van 'n amptelike winkelinskrywing van Lumi Education GbR afgelaai het, wat een van hierdie uitgewers (of 'n afkorting hiervan) kan hê:<ul><li> Lumi Education GbR Jan Philip Schellenberg en Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
+        "warningGPL": "Aangesien die Lumi-app onder die AGPL-3.0-lisensie gelisensieer is, kan enigiemand die app verander en versprei. Hierdie privaatheidsbeleid is nie van toepassing op weergawes van die Lumi-app wat deur enigiemand anders aangepas en gepubliseer is nie.",
+        "controllerHeading": "Wie is verantwoordelik vir die insameling van data in Lumi H5P Desktop Editor?",
+        "controllerText": "Die beheerder (volgens art. 4 (7) AVG, die regspersoon wat die doel en middele vir die verwerking van persoonlike data bepaal) is Lumi Education GBR Jan Philip Schellenberg en Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig , Duitsland.",
+        "dataHeading": "Watter data word versamel? Hoe word dit versamel?",
+        "dataText": "Die volgende inligting word aan ons organisasie of derde partye oorgedra terwyl u die app gebruik:",
+        "dataTable": {
+            "header": "<th>Nommer</th><th>Data</th><th>Wanneer?</th><th>Aan wie word dit oorgedra?</th>",
+            "row1": "<td>1</td><td>'N Unieke identifiseerder van u installasie en u IP-adres</td><td>As u die program begin</td><td rowspan=\"5\">Lumi Onderwys GbR</td>",
+            "row2": "<td>2</td><td>Hoe gereeld u die app gebruik</td><td>As u die program begin en gebruikstatistieke aangeskakel het</td>",
+            "row3": "<td>3</td><td>Inligting oor u rekenaar (bedryfstelsel) en u ligging</td><td>As u die program begin en gebruikstatistieke aangeskakel het</td>",
+            "row4": "<td>4</td><td>Watter dele van die app jy gebruik</td><td>Terwyl u die app gebruik en gebruikstatistieke aangeskakel het</td>",
+            "row5": "<td>5</td><td>Foute wat voorkom terwyl u die program gebruik</td><td>As u app 'n fout ondervind en u foutrapportering is geaktiveer</td>",
+            "row6": "<td>6</td><td>U IP-adres, 'n (stabiele) unieke identifiseerder van u masjien en inligting oor die installering van Lumi H5P Editor (weergawe ens.)</td><td>Wanneer u inhoudsoorte van die H5P Hub aflaai (by die opstart van die app en as u op die installasie of opdatering van die inhoudsopgaanslys klik)</td><td>Joubel AS, h / v Flow Coworking AS Strandgata 9, 9008 Tromsø, Noorweë (sien hul privaatheidsbeleid hier: https://h5p.org/privacy)</td>",
+            "row7": "<td>7</td><td>U IP-adres</td><td>As u na nuwe programopdaterings soek en dit aflaai</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, Verenigde State (sien hul privaatheidsbeleid hier: https://docs.github.com/en/free-pro-team@latest/github/site- beleid / github-privaatheidsverklaring)</td>",
+            "row8": "<td>8</td><td>U IP-adres</td><td>Wanneer u die app gebruik (om lettertipes af te laai)</td><td>Google, Gordon House, Barrow Street, Dublin 4, Ierland (sien hul privaatheidsbeleid hier: https://policies.google.com/privacy?hl=af)</td>",
+            "row9": "<td>9</td><td>U IP-adres en moontlik ander data</td><td>As u inhoudstipes gebruik wat data aan derde partye oordra (bv. Spreek die antwoord, stuur u stemopname aan Google om dit te transkribeer)</td><td>hang af van die inhoudstipe wat gebruik word</td>",
+            "row10": "<td>10</td><td>Jou opgelaaide H5P</td><td>As u kies om 'n H5P op te laai na Lumi.run via die Lumi Run-app</td><td>Lumi Onderwys GbR</td>"
+        },
+        "basisHeading": "Op grond waarvan versamel ons u data?",
+        "basisText": "Ons versamel of versend u data met u uitdruklike toestemming (art. 6 (1) van die AVG) vir nommer 1-9 deur middel van die toestemmingsdialoog by die eerste begin van Lumi. Die data-oordrag in nommer 6-9 is nodig om die H5P-redakteur en -speler te laat werk. As u daarteen beswaar het, is dit nie tegnies moontlik om die app te gebruik nie. Gegewens volgens nommer 10 word versamel met u uitdruklike toestemming voordat u Lumi Run gebruik.",
+        "usageHeading": "Hoe sal ons u data gebruik?",
+        "usageText": "Ons maatskappy versamel u data (nommers 1-5) sodat ons:<ul><li> besluit watter dele van die app verder ontwikkel moet word (bv. die keuse van tale om te lokaliseer)</li><li>om die gebruikerskoppelvlak te optimaliseer</li><li>foute vind en regmaak</li><li>kontak u met opvolgvrae oor 'n fout wat u aangemeld het</li></ul> U data word nie gebruik vir individuele besluitneming nie, insluitend profilering.<br/><br/> Data wat ons oor u ontvang, word nie met ander maatskappye of organisasies gedeel nie, behalwe as ons deur die wet (bv. Vir wetstoepassing) en vir verwerkingsdoeleindes verplig word (sien hieronder). Dit is buite ons beheer hoe data wat direk aan derde partye oorgedra word (nommer 6-9) deur hulle gebruik word.",
+        "storageHeading": "Hoe stoor ons u data?",
+        "storageText": {
+            "sentence1": "Ons maatskappy gebruik 'n dataverwerker om die data oor u toepassings (nommer 1-5 en 10) veilig op te stoor op stelsels wat deur Hetzner Online GmbH, Industriestr, bestuur word. 25, D-91710 Gunzenhausen, Duitsland.",
+            "sentence2": "Ons maatskappy bewaar u data twee jaar nadat dit versamel is. Sodra hierdie tydperk verstryk het, sal ons u data verwyder.",
+            "sentence3": "Dit is buite ons beheer hoe data wat direk aan derde partye oorgedra word (nommer 6-9) deur hulle gestoor word en vir hoe lank. Aangesien sommige van die ontvangers in die VSA woonagtig is, is dit waarskynlik dat u data na die VSA oorgedra en gestoor word."
+        },
+        "rightsHeading": "Wat is u databeskermingsregte?",
+        "rightsText": "Ons maatskappy wil seker maak dat u ten volle bewus is van al u regte op databeskerming. Elke gebruiker is geregtig op die volgende:",
+        "rightsList": {
+            "r1": "Die reg om beswaar aan te teken teen verwerking - U het die reg om onder sekere voorwaardes beswaar te maak teen die verwerking van u persoonlike data van ons maatskappy.",
+            "r2": "Die reg op toegang - U het die reg om ons maatskappy om afskrifte van u persoonlike data te versoek. Ons vra u dalk 'n klein fooi vir hierdie diens.",
+            "r3": "Die reg tot regstelling - U het die reg om te vra dat ons maatskappy enige inligting wat u meen verkeerd is, regstel. U het ook die reg om ons maatskappy te versoek om die inligting wat u meen onvolledig is, in te vul.",
+            "r4": "Die reg om uit te wis - U het die reg om te versoek dat ons maatskappy u persoonlike data onder sekere voorwaardes uitvee.",
+            "r5": "Die reg om verwerking te beperk - U het die reg om te versoek dat ons maatskappy die verwerking van u persoonlike inligting onder sekere voorwaardes beperk.",
+            "r6": "Die reg op data-oordraagbaarheid - U het die reg om te versoek dat ons maatskappy die gegewens wat ons versamel het aan 'n ander organisasie, of direk aan u, onder sekere voorwaardes oordra."
+        },
+        "rightsContact": "As u 'n versoek rig, het ons een maand om op u te reageer. As u enige van hierdie regte wil uitoefen, kontak ons gerus op ons e-pos: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a><br/><br/> Alle versoeke rakende gegewens wat in nommer 6-9 beskryf word, moet direk aan die ontvangers gerig word.",
+        "otherSitesHeading": "Privaatheidsbeleid van ander webwerwe",
+        "otherSitesText": "Ons app bevat skakels na ander webwerwe. Ons privaatheidsbeleid is slegs van toepassing op ons webwerf, dus as u op 'n skakel na 'n ander webwerf klik, moet u hul privaatheidsbeleid lees.",
+        "changesHeading": "Veranderings aan ons privaatheidsbeleid",
+        "changesText": "Ons maatskappy hou sy privaatheidsbeleid gereeld onder oë en plaas enige opdaterings op hierdie webblad. Hierdie privaatheidsbeleid is laas op 10 Julie 2021 opgedateer.",
+        "contactHeading": "Hoe om ons te kontak",
+        "contactText": "As u enige vrae het oor ons maatskappy se privaatheidsbeleid, die data wat ons op u het, of as u een van u regte vir databeskerming wil uitoefen, moet u asseblief nie kontak met ons maak nie. Stuur vir ons 'n e-pos aan: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
+        "authorityHeading": "Hoe om die toepaslike owerheid te kontak",
+        "authorityText": "As u 'n klag wil aanmeld, of as u van mening is dat ons maatskappy u besorgdheid nie bevredigend aangespreek het nie, kan u die kantoor van die inligtingskommissaris kontak.<br/><br/> E-pos: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Adres:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Duitsland"
     }
 }
