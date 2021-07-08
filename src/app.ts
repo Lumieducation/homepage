@@ -49,7 +49,7 @@ i18next
         lowerCaseLng: true,
         preload: languages,
         detection: {
-            order: ['path', 'header'],
+            order: ['querystring', 'path', 'header'],
             lookupPath: 'lng',
             lookupFromPathIndex: 0
         }
