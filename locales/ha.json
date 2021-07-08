@@ -79,5 +79,57 @@
         "newsletter": "Newsletter",
         "newsletter_description": "Samu sabon labari daga Lumi.",
         "sourceCode": "Lambar tushe"
+    },
+    "appPrivacyPolicy": {
+        "title": "Editan Desktop na Lumi H5P - Manufar Sirri",
+        "definitions": "Don taimaka maka fahimtar manufar sirrinmu an fassara ta atomatik <a href=\"/en/app/privacy-policy\">daga asalin Ingilishi</a> , wanda shine takaddar doka. Idan baku fahimci sassan wannan takaddar ba, tuntube mu kamar yadda aka bayyana a ƙasa.<br/><br/> Editan Lantarki na Lumi H5P shine aikace-aikacen da \"Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig\" (\"Lumi Education GbR\", \"mu\" da \"kamfaninmu\" ke koyarwa). Wannan dokar kare sirrin zata bayyana yadda kamfanin mu ke amfani da bayanan sirri da muke karba daga gare ku yayin da kuke amfani da manhajar.",
+        "scope": "Wannan dokar ta sirri tana aiki ne kawai ga kwafin manhajar da kuka karba kai tsaye daga Lumi Education GbR, ko dai ta hanyar saukar da shi daga gidan yanar gizon lumi.education, ma'ajin GitHub a https://github.com/lumieducation/lumi ko daga shagon aikace-aikacen. Idan kun zazzage shi daga shagon aikace-aikacen, wannan dokar ta sirri tana aiki ne kawai idan kun saukar da shi daga shigarwar shagon hukuma na Lumi Education GbR, wanda zai iya samun ɗayan waɗannan masu bugawar (ko taƙaita waɗannan):<ul><li> Ilimin Lumi GbR Jan Philip Schellenberg da Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
+        "warningGPL": "Kamar yadda aikin Lumi ke da lasisi a ƙarƙashin Lasisin AGPL-3.0, kowa na iya canzawa da rarraba aikin. Wannan dokar ta sirri ba ta shafi nau'ikan aikace-aikacen Lumi waɗanda kowa ya gyara kuma ya buga su.",
+        "controllerHeading": "Wanene ke da alhakin tara bayanai a cikin Editan Desktop na Lumi H5P?",
+        "controllerText": "Mai sarrafawa (bisa ga Art 4 (7) GDPR mutumin da ke doka wanda ke ƙayyade dalili da hanyar aiwatar da bayanan sirri) shine Lumi Education GbR Jan Philip Schellenberg da Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig , Jamus.",
+        "dataHeading": "Wani bayanai aka tattara? Yaya ake tattara shi?",
+        "dataText": "Ana watsa waɗannan bayanan zuwa ga ƙungiyarmu ko wasu kamfanoni yayin da kuke amfani da ka'idar:",
+        "dataTable": {
+            "header": "<th>Lamba</th><th>Bayanai</th><th>Yaushe?</th><th>Wa ake watsawa?</th>",
+            "row1": "<td>1</td><td>Musamman ganowa na shigarwar ku da adireshin IP ɗin ku</td><td>Lokacin da ka fara aikace-aikacen</td><td rowspan=\"5\">Ilimin Lumi GbR</td>",
+            "row2": "<td>2</td><td>Sau nawa kuke amfani da app</td><td>Lokacin da kuka fara aikace-aikacen & kun sami ƙididdigar amfani</td>",
+            "row3": "<td>3</td><td>Bayani game da kwamfutarka (tsarin aiki) da wurinka</td><td>Lokacin da kuka fara aikace-aikacen & kun sami ƙididdigar amfani</td>",
+            "row4": "<td>4</td><td>Waɗanne ɓangarorin aikace-aikacen da kuke amfani da su</td><td>Duk da yake kuna amfani da app ɗin kuma kuna da ƙididdigar amfani</td>",
+            "row5": "<td>5</td><td>Kurakurai da ke faruwa yayin amfani da app</td><td>Idan ka'idarku ta sami matsala & kuna da rahoton bug</td>",
+            "row6": "<td>6</td><td>Adireshin IP ɗinka, mai tabbatar da ingancin mashin dinka da bayani game da girka Editan Lumi H5P (sigar dasauransu)</td><td>Lokacin saukar da nau'ikan abun ciki daga Hub H5P (akan farawa app da lokacin da kuka danna shigarwa ko sabuntawa a cikin nau'in nau'in abun ciki)</td><td>Joubel AS, c / o Flow Coworking AS Strandgata 9, 9008 Tromsø, Norway (duba manufofin sirrinsu anan: https://h5p.org/privacy)</td>",
+            "row7": "<td>7</td><td>Adireshin IP naka</td><td>Lokacin duba sabbin abubuwan sabuntawa da saukar dasu</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, Amurka (duba manufofin sirrinsu a nan: https://docs.github.com/en/free-pro-team@latest/github/site- siyasa / github-bayanin-sirri)</td>",
+            "row8": "<td>8</td><td>Adireshin IP naka</td><td>Lokacin amfani da app (don saukar da rubutu)</td><td>Google, Gordon House, Barrow Street, Dublin 4, Ireland (duba manufofin sirrinsu anan: https://policies.google.com/privacy?hl=en)</td>",
+            "row9": "<td>9</td><td>Adireshin IP naka da wataƙila wasu bayanan</td><td>Idan kayi amfani da nau'ikan abun ciki wanda ke watsa bayanai zuwa wasu kamfanoni (misali kayi Magana akan Amsar tana watsa rikodin muryarka zuwa Google don kwafa shi)</td><td>ya dogara da nau'in abun ciki da aka yi amfani da shi</td>",
+            "row10": "<td>10</td><td>H5P da kuka loda</td><td>Idan ka zabi ka loda H5P zuwa Lumi.run ta hanyar Lumi Run App</td><td>Ilimin Lumi GbR</td>"
+        },
+        "basisHeading": "A kan me muke tattara bayananku?",
+        "basisText": "Muna tattara ko watsa bayananku tare da yardar ku (Art. 6 (1) a GDPR) don lambobi 1-9 ta hanyar maganganun yarda a farkon farkon Lumi. Ana buƙatar watsa bayanai a cikin lambobi 6-9 don editan H5P da mai kunnawa suyi aiki. Idan kun ƙi shi, to ba zai yiwu a zahiri ku yi amfani da ka'idar ba. Ana tattara bayanai bisa ga lamba 10 tare da bayyananniyar yarda da aka bayar kafin amfani da Lumi Run.",
+        "usageHeading": "Ta yaya za mu yi amfani da bayananka?",
+        "usageText": "Kamfaninmu yana tattara bayananku (lambobi 1-5) don haka zamu iya:<ul><li> yanke shawarar waɗanne ɓangarorin aikace-aikacen ya kamata a haɓaka gaba (misali zaɓin yarukan da za a iya amfani da su)</li><li>don inganta ƙirar mai amfani</li><li>nemo kuma gyara kwari</li><li>tuntuɓar ku tare da tambayoyin da suka biyo baya game da bug ɗin da kuka ruwaito</li></ul> Ba a amfani da bayananku don yanke shawara na mutum, gami da yin bayanan.<br/><br/> Ba za a raba bayanan da muka samu game da kai ba ga wasu kamfanoni ko kungiyoyi, sai dai idan doka ta bukaci mu yi hakan (misali don aiwatar da doka) da kuma dalilan sarrafawa (duba kasa). Ya fi ƙarfinmu yadda ake amfani da bayanan da ake watsawa kai tsaye zuwa wasu kamfanoni (lambobi 6-9) da su.",
+        "storageHeading": "Ta yaya za mu adana bayananka?",
+        "storageText": {
+            "sentence1": "Kamfaninmu yana amfani da mai sarrafa bayanai don adana bayanan game da amfanin aikace-aikacenku (lambobi 1-5 da 10) akan tsarin da Hetzner Online GmbH, Industriestr ke gudanarwa. 25, D-91710 Gunzenhausen, Jamus.",
+            "sentence2": "Kamfaninmu zai adana bayananka har tsawon shekaru biyu bayan an tattara shi. Da zarar wannan lokacin ya ƙare, za mu share bayananku.",
+            "sentence3": "Ya fi ƙarfinmu yadda za a adana bayanan da ke kai tsaye zuwa ɓangare na uku (lambobi 6-9) da su da kuma tsawon lokacin da suke. Kamar yadda wasu masu karɓa ke zaune a cikin Amurka, da alama ana watsa bayananku zuwa kuma adana su a cikin Amurka."
+        },
+        "rightsHeading": "Menene haƙƙin kariyar bayananku?",
+        "rightsText": "Kamfaninmu zai so tabbatar da cewa kuna da cikakkiyar masaniya game da duk haƙƙin kariyar bayananku. Kowane mai amfani yana da haƙƙin mai zuwa:",
+        "rightsList": {
+            "r1": "'Yancin kin amincewa da aiki - Kana da damar kin kamfanin mu na sarrafa bayanan ka, a karkashin wasu halaye.",
+            "r2": "'Yancin samun dama - Kana da damar neman kamfanin mu don kwafin bayanan ka. Weila mu biya ku aan kuɗi kaɗan don wannan sabis ɗin.",
+            "r3": "'Yancin gyarawa - Kuna da' yancin neman kamfanin mu ya gyara duk wani bayanin da kuka yi imani da shi ba daidai bane. Hakanan kuna da damar neman kamfaninmu don kammala bayanan da kuka yi imanin bai cika ba.",
+            "r4": "'Yancin gogewa - Kana da' yancin neman kamfaninmu ya goge bayananka, a karkashin wasu halaye.",
+            "r5": "Hakki na ƙuntata aiki - Kana da damar neman kamfaninmu ya taƙaita sarrafa bayanan ka, a ƙarƙashin wasu sharuɗɗa.",
+            "r6": "'Yancin damar daukar bayanai - Kana da damar neman kamfaninmu ya mika bayanan da muka tattara zuwa ga wata kungiya, ko kuma kai tsaye gare ka, a karkashin wasu halaye."
+        },
+        "rightsContact": "Idan kayi nema, muna da wata daya don amsa maka. <a href=\"mailto:c@Lumi.education\">Idan kanaso kayi</a> amfani da kowane irin wadannan hakkoki, sai ka tuntube mu ta email dinmu: c@Lumi.education<br/><br/> Duk buƙatun game da bayanan da aka watsa kamar yadda aka bayyana a lambobi 6-9 dole ne a miƙa su kai tsaye zuwa ga masu karɓa.",
+        "otherSitesHeading": "Manufofin sirrin wasu shafukan yanar gizo",
+        "otherSitesText": "Manhajarmu ta ƙunshi hanyoyin haɗi zuwa wasu rukunin yanar gizo. Dokar sirrinmu tana aiki ne kawai ga rukunin yanar gizon mu, don haka idan ka latsa hanyar haɗi zuwa wani gidan yanar gizon, ya kamata ku karanta manufofin su na sirri.",
+        "changesHeading": "Canje-canje ga manufofinmu na tsare sirri",
+        "changesText": "Kamfaninmu yana kiyaye manufofinsa na sirri a ƙarƙashin nazari na yau da kullun kuma yana sanya kowane sabuntawa akan wannan shafin yanar gizon. Wannan sabunta sirrin an sabunta ta a ranar 10 ga Yuli 2021.",
+        "contactHeading": "Yadda zaka tuntube mu",
+        "contactText": "Idan kuna da wasu tambayoyi game da tsarin sirrin kamfaninmu, bayanan da muke riƙe a kanku, ko kuma kuna so kuyi amfani da ɗaya daga cikin haƙƙin kariyar bayananku, da fatan za ku yi jinkirin tuntuɓar mu. Email da mu a: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
+        "authorityHeading": "Yadda zaka tuntubi hukumar da ta dace",
+        "authorityText": "Idan kuna son yin rahoton ƙarar ko kuma kuna jin cewa kamfaninmu bai magance damuwar ku ta hanyar da ta dace ba, kuna iya tuntuɓar Ofishin Kwamishinan Bayanai.<br/><br/> Imel: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Adireshin:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Bugawa 5<br /> D-30159 Hannover<br /> Jamus"
     }
 }

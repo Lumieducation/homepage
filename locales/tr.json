@@ -79,5 +79,57 @@
         "pageTopic": "Eğitim",
         "pageType": "yazılım indir",
         "description": "Lumi, düzinelerce farklı içerik türüyle etkileşimli içerik oluşturmanıza, düzenlemenize, görüntülemenize ve paylaşmanıza olanak tanıyan açık kaynaklı bir masaüstü uygulamasıdır."
+    },
+    "appPrivacyPolicy": {
+        "title": "Lumi H5P Masaüstü Düzenleyici – Gizlilik Politikası",
+        "definitions": "Gizlilik politikamızı anlamanıza yardımcı olmak için, yasal olarak bağlayıcı belge olan <a href=\"/en/app/privacy-policy\">İngilizce orijinalinden otomatik olarak çevrilmiştir.</a> Bu belgenin bazı kısımlarını anlamadıysanız, aşağıda açıklandığı şekilde bizimle iletişime geçin.<br/><br/> Lumi H5P Desktop Editor, “Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig” (“Lumi Education GbR”, “biz” ve “şirketimiz”) tarafından geliştirilen ve dağıtılan bir uygulamadır. Bu gizlilik politikası, siz uygulamayı kullanırken şirketimizin sizden topladığımız kişisel verileri nasıl kullandığını açıklayacaktır.",
+        "scope": "Bu gizlilik politikası, yalnızca lumi.education web sitesinden, https://github.com/lumieducation/lumi adresindeki GitHub deposundan veya bir uygulama mağazasından indirerek doğrudan Lumi Education GbR'den aldığınız uygulamanın kopyaları için geçerlidir. Bir uygulama mağazasından indirdiyseniz, bu gizlilik politikası yalnızca, aşağıdaki yayıncılardan birine (veya bunların bir kısaltmasına) sahip olabilecek resmi bir Lumi Education GbR mağaza girişinden indirdiyseniz geçerlidir:<ul><li> Lumi Education GbR Jan Philip Schellenberg ve Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
+        "warningGPL": "Lumi uygulaması AGPL-3.0 Lisansı kapsamında lisanslandığından, herkes uygulamayı değiştirebilir ve dağıtabilir. Bu gizlilik politikası, Lumi uygulamasının başkaları tarafından değiştirilen ve yayınlanan sürümleri için geçerli değildir.",
+        "controllerHeading": "Lumi H5P Desktop Editor'da veri toplamadan kim sorumludur?",
+        "controllerText": "Denetleyici (Madde 4 (7) GDPR'ye göre, kişisel verilerin işlenmesinin amacını ve araçlarını belirleyen tüzel kişi) Lumi Education GbR Jan Philip Schellenberg ve Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig'dir. , Almanya.",
+        "dataHeading": "Hangi veriler toplanır? Nasıl toplanır?",
+        "dataText": "Uygulamayı kullanırken aşağıdaki veriler kuruluşumuza veya üçüncü taraflara iletilir:",
+        "dataTable": {
+            "header": "<th>Numara</th><th>Veri</th><th>Ne zaman?</th><th>Kime bulaşıyor?</th>",
+            "row1": "<td>1</td><td>Kurulumunuzun benzersiz bir tanımlayıcısı ve IP adresiniz</td><td>Uygulamayı başlattığınızda</td><td rowspan=\"5\">Lumi Eğitim GbR</td>",
+            "row2": "<td>2</td><td>Uygulamayı ne sıklıkla kullanıyorsunuz?</td><td>Uygulamayı başlattığınızda ve kullanım istatistiklerini etkinleştirdiğinizde</td>",
+            "row3": "<td>3</td><td>Bilgisayarınız (işletim sistemi) ve konumunuz hakkında bilgiler</td><td>Uygulamayı başlattığınızda ve kullanım istatistiklerini etkinleştirdiğinizde</td>",
+            "row4": "<td>4</td><td>Uygulamanın hangi kısımlarını kullanıyorsun</td><td>Uygulamayı kullanırken ve kullanım istatistiklerini etkinleştirirken</td>",
+            "row5": "<td>5</td><td>Uygulamayı kullanırken oluşan hatalar</td><td>Uygulamanız bir hatayla karşılaşırsa ve hata raporlamayı etkinleştirdiyseniz</td>",
+            "row6": "<td>6</td><td>IP adresiniz, makinenizin (kararlı) benzersiz tanımlayıcısı ve Lumi H5P Editor (sürüm vb.)</td><td>H5P Hub'dan içerik türleri indirirken (uygulama başlangıcında ve içerik türü listesinde yükle veya güncelle'yi tıkladığınızda)</td><td>Joubel AS, c/o Flow Coworking AS Strandgata 9, 9008 Tromsø, Norveç (gizlilik politikalarına buradan bakın: https://h5p.org/privacy)</td>",
+            "row7": "<td>7</td><td>IP adresiniz</td><td>Yeni uygulama güncellemelerini kontrol ederken ve indirirken</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, Amerika Birleşik Devletleri (buradan gizlilik politikalarına bakın: https://docs.github.com/en/free-pro-team@latest/github/site- politika/github-gizlilik bildirimi)</td>",
+            "row8": "<td>8</td><td>IP adresiniz</td><td>Uygulamayı kullanırken (yazı tiplerini indirmek için)</td><td>Google, Gordon House, Barrow Street, Dublin 4, İrlanda (buradan gizlilik politikalarına bakın: https://policies.google.com/privacy?hl=en)</td>",
+            "row9": "<td>9</td><td>IP adresiniz ve muhtemelen diğer verileriniz</td><td>Üçüncü taraflara veri aktaran içerik türleri kullanıyorsanız (örn. Yanıtı Söyleyin, ses kaydınızı yazıya dönüştürmek için Google'a iletir)</td><td>kullanılan içerik türüne bağlıdır</td>",
+            "row10": "<td>10</td><td>Yüklediğiniz H5P</td><td>Lumi Run Uygulaması aracılığıyla Lumi.run'a bir H5P yüklemeyi seçerseniz</td><td>Lumi Eğitim GbR</td>"
+        },
+        "basisHeading": "Verilerinizi hangi temelde topluyoruz?",
+        "basisText": "Verilerinizi, Lumi'nin ilk başlangıcındaki onay iletişim kutusu aracılığıyla 1-9 sayıları için açık rızanızla (Madde 6 (1) a GDPR) toplar veya iletiriz. H5P editörünün ve oynatıcının çalışması için 6-9 numaralarındaki veri iletimi gereklidir. İtiraz ederseniz, uygulamayı kullanmanız teknik olarak mümkün değildir. 10 numaraya göre veriler, Lumi Run'ı kullanmadan önce verdiğiniz açık rızanız ile toplanır.",
+        "usageHeading": "Verilerinizi nasıl kullanacağız?",
+        "usageText": "Şirketimiz verilerinizi (1-5 arası sayılar) toplayarak şunları yapabiliriz:<ul><li> uygulamanın hangi bölümlerinin daha fazla geliştirilmesi gerektiğine karar verin (örneğin, yerelleştirilecek dillerin seçimi)</li><li>kullanıcı arayüzünü optimize etmek için</li><li>hataları bul ve düzelt</li><li>sizin tarafınızdan bildirilen bir hatayla ilgili takip soruları için sizinle iletişim kurun</li></ul> Verileriniz, profil oluşturma da dahil olmak üzere bireysel karar verme için kullanılmaz.<br/><br/> Hakkınızda aldığımız veriler, yasalarca (örn. kolluk kuvvetleri için) ve işleme amaçları için (aşağıya bakınız) yapmamız gerekmedikçe, diğer şirketler veya kuruluşlarla paylaşılmaz. Doğrudan üçüncü taraflara (6-9 numaralar) aktarılan verilerin onlar tarafından nasıl kullanıldığı bizim kontrolümüz dışındadır.",
+        "storageHeading": "Verilerinizi nasıl saklarız?",
+        "storageText": {
+            "sentence1": "Şirketimiz, uygulama kullanımınızla ilgili verileri (1-5 ve 10 numaraları) Hetzner Online GmbH, Industriestr tarafından işletilen sistemlerde güvenli bir şekilde depolamak için bir veri işlemcisi kullanır. 25 , D-91710 Gunzenhausen, Almanya.",
+            "sentence2": "Şirketimiz, verilerinizi toplandıktan sonra iki yıl süreyle saklayacaktır. Bu süre sona erdiğinde verilerinizi sileriz.",
+            "sentence3": "Doğrudan üçüncü taraflara (6-9 numaralar) aktarılan verilerin onlar tarafından nasıl ve ne kadar süreyle saklanacağı bizim kontrolümüz dışındadır. Bazı alıcılar ABD'de ikamet ettiğinden, verilerinizin ABD'ye iletilmesi ve ABD'de saklanması muhtemeldir."
+        },
+        "rightsHeading": "Veri koruma haklarınız nelerdir?",
+        "rightsText": "Şirketimiz, tüm veri koruma haklarınızdan tamamen haberdar olduğunuzdan emin olmak ister. Her kullanıcı aşağıdaki haklara sahiptir:",
+        "rightsList": {
+            "r1": "İşlenmeye itiraz etme hakkı – Şirketimizin kişisel verilerinizi işlemesine belirli koşullar altında itiraz etme hakkınız vardır.",
+            "r2": "Erişim hakkı – Şirketimizden kişisel verilerinizin kopyalarını talep etme hakkına sahipsiniz. Bu hizmet için sizden küçük bir ücret talep edebiliriz.",
+            "r3": "Düzeltme hakkı – Şirketimizin yanlış olduğuna inandığınız herhangi bir bilgiyi düzeltmesini talep etme hakkınız vardır. Ayrıca eksik olduğunu düşündüğünüz bilgileri şirketimizden tamamlamasını talep etme hakkınız da bulunmaktadır.",
+            "r4": "Silme hakkı – Belirli koşullar altında şirketimizden kişisel verilerinizi silmesini talep etme hakkına sahipsiniz.",
+            "r5": "İşlemeyi kısıtlama hakkı – Şirketimizden belirli koşullar altında kişisel verilerinizin işlenmesini kısıtlamasını talep etme hakkına sahipsiniz.",
+            "r6": "Veri taşınabilirliği hakkı – Şirketimizden topladığımız verileri belirli koşullar altında başka bir kuruluşa veya doğrudan size aktarmasını talep etme hakkınız vardır."
+        },
+        "rightsContact": "Bir istekte bulunursanız, size yanıt vermek için bir ayımız var. Bu haklardan herhangi birini kullanmak isterseniz, lütfen e-posta <a href=\"mailto:c@Lumi.education\">adresimizden bizimle iletişime geçin: c@Lumi.education</a><br/><br/> 6-9 numaralarında açıklandığı gibi iletilen verilerle ilgili tüm talepler doğrudan alıcılara yönlendirilmelidir.",
+        "otherSitesHeading": "Diğer web sitelerinin gizlilik politikaları",
+        "otherSitesText": "Uygulamamız diğer web sitelerine bağlantılar içerir. Gizlilik politikamız yalnızca web sitemiz için geçerlidir, bu nedenle başka bir web sitesine giden bir bağlantıya tıklarsanız onların gizlilik politikalarını okumalısınız.",
+        "changesHeading": "Gizlilik politikamızdaki değişiklikler",
+        "changesText": "Şirketimiz gizlilik politikasını düzenli olarak gözden geçirmekte ve her türlü güncellemeyi bu web sayfasına yerleştirmektedir. Bu gizlilik politikası en son 10 Temmuz 2021'de güncellenmiştir.",
+        "contactHeading": "bizimle nasıl iletişime geçilir",
+        "contactText": "Şirketimizin gizlilik politikası, sizin hakkınızda tuttuğumuz veriler hakkında herhangi bir sorunuz varsa veya veri koruma haklarınızdan birini kullanmak istiyorsanız, lütfen bizimle iletişime geçmekten çekinmeyin. Bize e-posta gönderin: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
+        "authorityHeading": "Uygun makamla nasıl iletişime geçilir",
+        "authorityText": "Bir şikayeti bildirmek isterseniz veya şirketimizin endişenizi tatmin edici bir şekilde ele almadığını düşünüyorsanız, Bilgi Komiserliği ile iletişime geçebilirsiniz.<br/><br/> E-posta: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Adres:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstrasse 5<br /> D-30159 Hannover<br /> Almanya"
     }
 }
