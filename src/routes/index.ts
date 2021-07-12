@@ -29,6 +29,25 @@ router.use(
 );
 
 router.use(
+    '/app-player/privacy-policy',
+    async (
+        req: express.Request,
+        res: express.Response,
+        next: express.NextFunction
+    ) => {
+        try {
+            res.render('app-player/privacy-policy', {
+                languages: getListWithNativeNames(),
+                currentLanguage: getNativeName(req.language),
+                currentLanguageCode: getCurrentLanguageCode(req.language)
+            });
+        } catch (error) {
+            res.redirect('/');
+        }
+    }
+);
+
+router.use(
     '/privacy-policy',
     async (
         req: express.Request,
