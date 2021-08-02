@@ -10,7 +10,7 @@
         "welcome": "Lumi è un'app desktop che consente di creare, modificare, visualizzare e condividere contenuti interattivi con dozzine di diversi tipi di contenuto. È gratuito e open source."
     },
     "navigation": {
-        "home": "Casa",
+        "home": "Home",
         "menu": "Menù",
         "newsletter": "Newsletter",
         "download": "Scarica"
@@ -131,5 +131,12 @@
         "contactText": "Se hai domande sulla politica sulla privacy della nostra azienda, sui dati che conserviamo su di te o se desideri esercitare uno dei tuoi diritti di protezione dei dati, non esitare a contattarci. Scrivici a: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "Come contattare l'autorità competente?",
         "authorityText": "Se desideri segnalare un reclamo o se ritieni che la nostra azienda non abbia affrontato la tua preoccupazione in modo soddisfacente, puoi contattare l'Ufficio del Commissario per le informazioni.<br/><br/> E-mail: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Indirizzo:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstrasse 5<br /> D-30159 Hannover<br /> Germania"
+    },
+    "appPlayerPrivacyPolicy": {
+        "storageHeading": "Come archiviamo i tuoi dati?",
+        "basisHeading": "Su quale base raccogliamo i tuoi dati?",
+        "dataText": "I seguenti dati sono trasmessi alla nostra organizzazione o a terze parti mentre usi la app:",
+        "controllerHeading": "Chi è responsabile per la raccolta dei dati in Lumi H5P Player?",
+        "warningGPL": "Poiché l'app Lumi H5P Player è distribuita con la licenza AGPL-3.0, chiunque può modificare e distribuire l'app. Questa politica sulla privacy non si applica alle versioni dell'app Lumi Player che sono state modificate e pubblicate da qualcun altro."
     }
 }
