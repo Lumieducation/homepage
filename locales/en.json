@@ -11,6 +11,22 @@
         "individual": "individual.",
         "exciting": "exciting."
     },
+    "support": {
+        "header": "Support or sponsor Lumi",
+        "description": "Lumi is developed and maintained by a small team of two teachers in their freetime with the goal to make education more accessible, individual and exciting. You can help us to improve and keep Lumi free by donating or sponsoring.",
+        "donateVia": "Donate via",
+        "seeSupporters": "See supporters & sponsors",
+        "thanks": {
+            "subheading": "Lumi supporters",
+            "platinum": "Platinum Sponsors",
+            "gold": "Gold Sponsors",
+            "silver": "Silver Sponsors",
+            "bronze": "Bronze Sponsors",
+            "supporters": "Supporters",
+            "backers": "Backers",
+            "generousBackers": "Generous Backers"
+        }
+    },
     "home": {
         "welcome": "Lumi is a desktop app that allows you to create, edit, view and share interactive content with dozens of different content types. It's free and open source.",
         "get_started": "Get Started"
@@ -19,7 +35,8 @@
         "home": "Home",
         "menu": "Menu",
         "newsletter": "Newsletter",
-        "download": "Download"
+        "download": "Download",
+        "support": "Support & Sponsoring"
     },
     "newsletter": {
         "placeholder": "enter your email address to receive our newsletter",

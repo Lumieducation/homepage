@@ -86,6 +86,21 @@ router.use(
 );
 
 router.use(
+    '/support',
+    async (
+        req: express.Request,
+        res: express.Response,
+        next: express.NextFunction
+    ) => {
+        try {
+            res.render('support');
+        } catch (error) {
+            res.redirect('/');
+        }
+    }
+);
+
+router.use(
     '/run/privacy-policy',
     async (
         req: express.Request,
