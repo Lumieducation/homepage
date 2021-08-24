@@ -16,12 +16,12 @@
                         </button>
                         <div class="dropdown-menu" aria-labelledby="windowsDownloadButton">
                             <a 
-                            onclick="_paq.push(['trackEvent', 'Download', 'Windows (MS Store)', 'Windows (MS Store)', 'Windows (MS Store)']);"
-                            class="dropdown-item" href="https://www.microsoft.com/store/apps/9PD83XFV86J4"><img
+                            onclick="_paq.push(['trackEvent', 'Download', 'Windows (MS Store)', 'Windows (MS Store)', 'Windows (MS Store)']); setTimeout(function() { window.location.href = '/support' }, 1000)"
+                            class="dropdown-item" href="https://www.microsoft.com/store/apps/9PD83XFV86J4" target="_blank"><img
                                     src="/images/microsoft_store.svg" width="24" class="mr-1"></img> {{i18n "download.windows_download_store"}}</a>
                             <div class="dropdown-divider"></div>
                             <a 
-                            onclick="_paq.push(['trackEvent', 'Download', 'Windows', 'Windows', 'Windows']);"
+                            onclick="_paq.push(['trackEvent', 'Download', 'Windows', 'Windows', 'Windows']); setTimeout(function() { window.location.href = '/support' }, 1000)"
                             class="dropdown-item"
                                 href="https://github.com/Lumieducation/Lumi/releases/download/v{{release}}/Lumi-Setup-{{release}}.exe">
                                 <i class="fa fa-file" style="font-size:20px; margin-right:10px;" aria-hidden="true"></i>
@@ -38,7 +38,7 @@
                 <div class="block-18 text-center">
                     <div class="text">
                         <a
-                        onclick="_paq.push(['trackEvent', 'Download', 'macOS', 'macOS', 'macOS']);"
+                        onclick="_paq.push(['trackEvent', 'Download', 'macOS', 'macOS', 'macOS']); setTimeout(function() { window.location.href = '/support' }, 1000)"
                         href="https://github.com/Lumieducation/Lumi/releases/download/v{{release}}/Lumi-{{release}}.dmg"
                             class="btn btn-primary btn-outline-white mb-md-3 px-4 py-3 cloud-download">
                             <strong class="number"><i class="fa fa-apple"></i> macOS</strong></a>
@@ -54,10 +54,12 @@
                             <strong class="number"><i class="fa fa-linux"></i> Linux</strong>
                         </button>
                         <div class="dropdown-menu" aria-labelledby="linuxDownloadButton">
-                            <a class="dropdown-item" href="https://snapcraft.io/lumi">{{i18n "download.download"}} Snap Store</a>
+                            <a 
+                             onclick="_paq.push(['trackEvent', 'Download', 'Linux (SnapStore)', 'Linux (AppImage)', 'Linux (SnapStore)']); setTimeout(function() { window.location.href = '/support' }, 1000)"
+                            target="_blank" class="dropdown-item" href="https://snapcraft.io/lumi">{{i18n "download.download"}} Snap Store</a>
                             <div class="dropdown-divider"></div>
                             <a
-                            onclick="_paq.push(['trackEvent', 'Download', 'Linux (AppImage)', 'Linux (AppImage)', 'Linux (AppImage)']);"
+                            onclick="_paq.push(['trackEvent', 'Download', 'Linux (AppImage)', 'Linux (AppImage)', 'Linux (AppImage)']); setTimeout(function() { window.location.href = '/support' }, 1000)"
                              class="dropdown-item"
                                 href="https://github.com/Lumieducation/Lumi/releases/download/v{{release}}/Lumi-{{release}}.AppImage">
                                 {{i18n "download.download"}} AppImage</a>                            
