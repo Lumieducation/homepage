@@ -12,9 +12,11 @@
         "exciting": "exciting."
     },
     "support": {
-        "header": "Support or sponsor Lumi",
-        "description": "Lumi is developed and maintained by a small team of two teachers in their freetime with the goal to make education more accessible, individual and exciting. You can help us to improve and keep Lumi free by donating or sponsoring.",
+        "header": "Support Lumi by sponsoring us",
+        "description": "Even a free and open source product isn't free to make. Lumi is developed, maintained and supported by two teachers in their free time with the goal to make digital education more accessible, individual and exciting for everyone. You can help us improve Lumi by donating or sponsoring.",
         "donateVia": "Donate via",
+        "whatWeDoIntro": "Due to the increasing number of support and feature requests one of the developers has decided to reduce time from his day job to spend more time on Lumi. Your donations make this effort viable. Also, utilizing in a modern workflow means we have bills to pay. Here is a list of things that we would use your donations for (already in use or on the horizon):",
+        "whatWeDoList": "<li>improve the quality of the app by hosting telemetry and debugging systems</li><li>spread Lumi by hosting the homepage and using Search Engine Optimization tools</li><li>make installations easy and secure through buying digital certificates to sign the installers for macOS and Windows</li><li>translate future releases into many languages with machine translation services</li><li>keep up software quality by maintaining high-speed continuous integration and delivery pipelines</li><li>improve software quality with paid software developer services and tools</li><li>improve the UI through paid templates and designs</li><li>offer an easy way to distribute content with Lumi Run</li>",
         "seeSupporters": "See supporters & sponsors",
         "thanks": {
             "subheading": "Lumi supporters",
@@ -36,7 +38,7 @@
         "menu": "Menu",
         "newsletter": "Newsletter",
         "download": "Download",
-        "support": "Support & Sponsoring"
+        "support": "Support us"
     },
     "newsletter": {
         "placeholder": "enter your email address to receive our newsletter",
