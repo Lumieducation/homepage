@@ -93,7 +93,11 @@ router.use(
         next: express.NextFunction
     ) => {
         try {
-            res.render('support');
+            res.render('support', {
+                languages: getListWithNativeNames(),
+                currentLanguage: getNativeName(req.language),
+                currentLanguageCode: getCurrentLanguageCode(req.language)
+            });
         } catch (error) {
             res.redirect('/');
         }
