@@ -15,9 +15,43 @@
         "header": "Support Lumi by sponsoring us",
         "description": "Even a free and open source product isn't free to make. Lumi is developed, maintained and supported by two teachers in their free time with the goal to make digital education more accessible, individual and exciting for everyone. You can help us improve Lumi by donating or sponsoring.",
         "donateVia": "Donate via",
-        "whatWeDoIntro": "Due to the increasing number of support and feature requests one of the developers has decided to reduce time from his day job to spend more time on Lumi. Your donations make this effort viable. Also, utilizing in a modern workflow means we have bills to pay. Here is a list of things that we would use your donations for (already in use or on the horizon):",
-        "whatWeDoList": "<li>improve the quality of the app by hosting telemetry and debugging systems</li><li>spread Lumi by hosting the homepage and using Search Engine Optimization tools</li><li>make installations easy and secure through buying digital certificates to sign the installers for macOS and Windows</li><li>translate future releases into many languages with machine translation services</li><li>keep up software quality by maintaining high-speed continuous integration and delivery pipelines</li><li>improve software quality with paid software developer services and tools</li><li>improve the UI through paid templates and designs</li><li>offer an easy way to distribute content with Lumi Run</li>",
+        "whatWeDoIntro": "Due to the increasing number of users and services we need to handle support and feature requests our costs are incresing too. Your donations help us to keep Lumi free.",
+        "whatWeDoHeader": "What your donation helps us to do",
         "seeSupporters": "See supporters & sponsors",
+        "whatWeDo": {
+            "bugFixes": {
+                "header": "Bug Fixes",
+                "description": "Fixing bugs and improving the quality of the app by hosting telemetry and debugging systems."
+            },
+            "hosting": {
+                "header": "Hosting",
+                "description": "Spread Lumi by hosting the homepage and using Search Engine Optimization tools."
+            },
+            "security": {
+                "header": "Security",
+                "description": "Make installations easy and secure through buying digital certificates to sign the installers for macOS and Windows."
+            },
+            "translation": {
+                "header": "Translations",
+                "description": "Translate future releases into many languages with machine translation services."
+            },
+            "features": {
+                "header": "New Features",
+                "description": "Introduce new features and functionality."
+            },
+            "community": {
+                "header": "Maintain the community",
+                "description": "Reply to messages and requests. Write newsletters."
+            },
+            "free": {
+                "header": "Keep Lumi free",
+                "description": "Make Lumi universally available. Even in regions with bad infrastructure."
+            },
+            "tools": {
+                "header": "Develop tools",
+                "description": "We also develop the H5P Nodejs Library, which is used by various companies and institutions."
+            }
+        },
         "thanks": {
             "subheading": "Lumi supporters",
             "platinum": "Platinum Sponsors",

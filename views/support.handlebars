@@ -22,14 +22,23 @@
                         <a href="https://github.com/sponsors/JPSchellenberg" class="btn btn-primary btn-outline-white px-4 py-3 cloud-download">
                             <i class="fa fa-github"> </i> {{i18n "support.donateVia"}} GitHub</a>
                     </p>
-                    <p>
-                        {{i18n "support.whatWeDoIntro"}}
-                        <div class="text-left">
-                            <ul>
-                                {{{i18n "support.whatWeDoList"}}}
-                            </ul>
-                        </div>                        
-                    </p>
+                       <ul class="list-inline list-social">
+                         <li class="list-inline-item">
+                             <a href="https://www.paypal.com/donate?hosted_button_id=RGP9MBG2GMWC6">
+                                 <i class="fa fa-paypal"></i>
+                             </a>
+                         </li>
+                         <li class="list-inline-item">
+                             <a href="https://www.patreon.com/Lumieducation">
+                                 <i class="fab fa-patreon"></i>
+                             </a>
+                         </li>
+                         <li class="list-inline-item">
+                             <a href="https://github.com/sponsors/JPSchellenberg" target="_blank ">
+                                 <i class="fa fa-github"></i>
+                             </a>
+                         </li>
+                     </ul>
                     <!--<p>                        
                         <a href="#thanks" class="btn btn-primary btn-outline-white px-4 py-3 cloud-download">
                             <i class="fa fa-donate"> </i> {{i18n "support.seeSupporters"}}</a>
@@ -40,9 +49,8 @@
     </div>
 </section>
 <!-- END slider -->
-<!--
-{{> thanks}}-->
-
+{{> whatWeDo}}
+{{!-- {{> thanks}} --}}
 {{> social}}
 
 
