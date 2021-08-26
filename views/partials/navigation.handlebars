@@ -12,10 +12,13 @@
                     <a href="./" class="nav-link">{{i18n "navigation.home"}}</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#newsletter" class="nav-link">{{i18n "navigation.newsletter"}}</a>
+                    <a href="/#download" class="nav-link">{{i18n "navigation.download"}}</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#download" class="nav-link">{{i18n "navigation.download"}}</a>
+                    <a href="/{{currentLanguageCode}}/support" class="nav-link">{{i18n "navigation.support"}}</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/#newsletter" class="nav-link">{{i18n "navigation.newsletter"}}</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="" role="button" id="languageMenuLink"
@@ -24,10 +27,10 @@
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="languageMenuLink"
                      style="max-height:30rem; overflow-y: scroll;">
-                        <a class="dropdown-item" href="/en">English</a>
+                        <a class="dropdown-item" href="/en/{{currentWindowLocation}}">English</a>
                         <div class="dropdown-divider"></div>
-                        {{#each languages}}
-                        <a class="dropdown-item" href="/{{this.code}}">{{this.native}}</a>
+                        {{#each languages}}            
+                        <a class="dropdown-item" href="/{{this.code}}{{@root.currentWindowLocation}}">{{this.native}}</a>
                         {{/each}}
                     </div>
                 </li>

@@ -13,7 +13,8 @@
         "home": "Huis",
         "menu": "Menu",
         "newsletter": "Nieuwsbrief",
-        "download": "Downloaden"
+        "download": "Downloaden",
+        "support": "Steun ons"
     },
     "newsletter": {
         "placeholder": "vul uw e-mailadres in om onze nieuwsbrief te ontvangen",
@@ -127,6 +128,100 @@
         "otherSitesText": "Onze app bevat links naar andere websites. Ons privacybeleid is alleen van toepassing op onze website, dus als u op een link naar een andere website klikt, dient u hun privacybeleid te lezen.",
         "changesHeading": "Wijzigingen in ons privacybeleid",
         "changesText": "Ons bedrijf houdt zijn privacybeleid regelmatig bij en plaatst eventuele updates op deze webpagina. Dit privacybeleid is voor het laatst bijgewerkt op 10 juli 2021.",
+        "contactHeading": "Hoe kunt u contact met ons opnemen?",
+        "contactText": "Als u vragen heeft over het privacybeleid van ons bedrijf, de gegevens die we over u hebben, of als u een van uw gegevensbeschermingsrechten wilt uitoefenen, neem dan gerust contact met ons op. E-mail ons op: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
+        "authorityHeading": "Contact opnemen met de juiste autoriteit?",
+        "authorityText": "Als u een klacht wilt melden of als u van mening bent dat ons bedrijf uw probleem niet op een bevredigende manier heeft opgelost, kunt u contact opnemen met de Information Commissioner's Office.<br/><br/> E-mail: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Adres:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinsenstrae 5<br /> D-30159 Hannover<br /> Duitsland"
+    },
+    "support": {
+        "header": "Steun Lumi door ons te sponsoren",
+        "description": "Zelfs een gratis en open source product is niet gratis te maken. Lumi is ontwikkeld, onderhouden en ondersteund door twee docenten in hun vrije tijd met als doel digitaal onderwijs toegankelijker, individueler en spannender te maken voor iedereen. U kunt ons helpen Lumi te verbeteren door te doneren of te sponsoren.",
+        "donateVia": "Doneer via",
+        "whatWeDoIntro": "Vanwege het toenemende aantal gebruikers en services die we nodig hebben om ondersteuning en functieverzoeken af te handelen, nemen ook onze kosten toe.",
+        "whatWeDoHeader": "Waar helpt jouw donatie ons bij",
+        "seeSupporters": "Zie supporters & sponsors",
+        "whatWeDo": {
+            "bugFixes": {
+                "header": "Bugfixes",
+                "description": "Bugs oplossen en de kwaliteit van de app verbeteren door telemetrie- en foutopsporingssystemen te hosten."
+            },
+            "hosting": {
+                "header": "Hosting",
+                "description": "Verspreid Lumi door de startpagina te hosten en tools voor zoekmachineoptimalisatie te gebruiken."
+            },
+            "security": {
+                "header": "Veiligheid",
+                "description": "Maak installaties eenvoudig en veilig door digitale certificaten te kopen om de installatieprogramma's voor macOS en Windows te ondertekenen."
+            },
+            "translation": {
+                "header": "Vertalingen",
+                "description": "Vertaal toekomstige releases in vele talen met machinevertalingsservices."
+            },
+            "features": {
+                "header": "Nieuwe functies",
+                "description": "Ontwikkelen en introduceren van nieuwe features en functionaliteit."
+            },
+            "tools": {
+                "header": "Hulpmiddelen ontwikkelen",
+                "description": "Ook ontwikkelen we de H5P Nodejs Library, die door verschillende bedrijven en instellingen wordt gebruikt."
+            }
+        },
+        "thanks": {
+            "subheading": "Lumi-aanhangers",
+            "platinum": "Platina sponsors",
+            "gold": "Gouden sponsors",
+            "silver": "Zilveren sponsors",
+            "bronze": "Bronzen sponsors",
+            "supporters": "Supporters",
+            "backers": "donateurs",
+            "generousBackers": "Royale donateurs"
+        }
+    },
+    "appPlayerPrivacyPolicy": {
+        "title": "Lumi H5P Player – Privacybeleid",
+        "definitions": "Om u te helpen ons privacybeleid te begrijpen, is het automatisch vertaald <a href=\"/en/app-player/privacy-policy\">uit het Engelse origineel</a> , het juridisch bindende document. Als u delen van dit document niet begrijpt, neem dan contact met ons op zoals hieronder beschreven.<br/><br/> De Lumi H5P Desktop Editor is een applicatie ontwikkeld en gedistribueerd door \"Lumi Education GbR Jan Philip Schellenberg en Sebastian Rettig\" (\"Lumi Education GbR\", \"wij\" en \"ons bedrijf\" in het volgende). In dit privacybeleid wordt uitgelegd hoe ons bedrijf de persoonlijke gegevens gebruikt die we van u verzamelen terwijl u de app gebruikt.",
+        "scope": "Dit privacybeleid is alleen van toepassing op kopieën van de app die u rechtstreeks van Lumi Education GbR hebt ontvangen, hetzij door deze te downloaden van de website lumi.education, de GitHub-repository op https://github.com/lumieducation/LumiPlayer of uit een applicatiewinkel. Als je het hebt gedownload van een applicatiewinkel, is dit privacybeleid alleen van toepassing als je het hebt gedownload van een officiële winkelvermelding van Lumi Education GbR, die een van deze uitgevers kan hebben (of een afkorting hiervan):<ul><li> Lumi Education GbR Jan Philip Schellenberg en Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Retti</li></ul>",
+        "warningGPL": "Aangezien de Lumi H5P Player-app is gelicentieerd onder de AGPL-3.0-licentie, kan iedereen de app wijzigen en distribueren. Dit privacybeleid is niet van toepassing op versies van de Lumi Player-app die door iemand anders zijn gewijzigd en gepubliceerd.",
+        "controllerHeading": "Wie is verantwoordelijk voor het verzamelen van gegevens in Lumi H5P Player?",
+        "controllerText": "De verwerkingsverantwoordelijke (volgens artikel 4 (7) AVG de rechtspersoon die het doel en de middelen voor de verwerking van persoonsgegevens bepaalt) is Lumi Education GbR Jan Philip Schellenberg en Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig , Duitsland.",
+        "dataHeading": "Welke gegevens worden verzameld? Hoe wordt het verzameld?",
+        "dataText": "Tijdens het gebruik van de app worden de volgende gegevens aan onze organisatie of aan derden doorgegeven:",
+        "dataTable": {
+            "header": "<th>Nummer</th><th>Gegevens</th><th>Wanneer?</th><th>Aan wie wordt het doorgegeven?</th>",
+            "row1": "<td>1</td><td>Een unieke identificatie van uw installatie en uw IP-adres</td><td>Wanneer u de app start</td><td rowspan=\"5\">Lumi Education GbR</td>",
+            "row2": "<td>2</td><td>Hoe vaak gebruik je de app</td><td>Wanneer je de app start en gebruiksstatistieken hebt ingeschakeld</td>",
+            "row3": "<td>3</td><td>Informatie over uw computer (besturingssysteem) en uw locatie</td><td>Wanneer je de app start en gebruiksstatistieken hebt ingeschakeld</td>",
+            "row4": "<td>4</td><td>Welke delen van de app je gebruikt</td><td>Terwijl je de app gebruikt en gebruiksstatistieken hebt ingeschakeld</td>",
+            "row5": "<td>5</td><td>Fouten die optreden terwijl u de app gebruikt</td><td>Als je app een fout tegenkomt en je hebt bugrapportage ingeschakeld</td>",
+            "row6": "<td>6</td><td>Uw IP-adres</td><td>Bij het controleren op nieuwe app-updates en het downloaden ervan</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, Verenigde Staten (zie hun privacybeleid hier: https://docs.github.com/en/free-pro-team@latest/github/site- beleid/github-privacyverklaring)</td>",
+            "row7": "<td>7</td><td>Uw IP-adres</td><td>Bij gebruik van de app (om lettertypen te downloaden)</td><td>Google, Gordon House, Barrow Street, Dublin 4, Ierland (zie hun privacybeleid hier: https://policies.google.com/privacy?hl=en)</td>",
+            "row8": "<td>8</td><td>Uw IP-adres en eventueel andere gegevens</td><td>Als u inhoudstypen gebruikt die gegevens naar derden verzenden (bijvoorbeeld Speak the Answer verzendt uw spraakopname naar Google om deze te transcriberen)</td><td>hangt af van het gebruikte inhoudstype</td>"
+        },
+        "basisHeading": "Op welke basis verzamelen wij uw gegevens?",
+        "basisText": "We verzamelen of verzenden uw gegevens met uw uitdrukkelijke toestemming (Art. 6 (1) a AVG) voor de nummers 1-8 via het toestemmingsvenster bij de eerste start van de Lumi Player. De gegevensoverdracht in de nummers 7-8 is vereist om de H5P-speler te laten werken. Als je hier bezwaar tegen hebt, is het technisch niet mogelijk om de app te gebruiken.",
+        "usageHeading": "Hoe gaan we uw gegevens gebruiken?",
+        "usageText": "Ons bedrijf verzamelt uw gegevens (nummers 1-5) zodat we:<ul><li> beslissen welke delen van de app verder ontwikkeld moeten worden (bv. taalkeuze om te lokaliseren)</li><li>om de gebruikersinterface te optimaliseren</li><li>bugs vinden en oplossen</li><li>contact met u opnemen met vervolgvragen over een door u gemelde bug</li></ul> Uw gegevens worden niet gebruikt voor individuele besluitvorming, inclusief profilering.<br/><br/> Gegevens die we over u ontvangen, worden niet gedeeld met andere bedrijven of organisaties, behalve als we dit wettelijk verplicht zijn (bijvoorbeeld voor wetshandhaving) en voor verwerkingsdoeleinden (zie hieronder). Het valt buiten onze controle hoe gegevens die rechtstreeks aan derden worden doorgegeven (nummers 6-8) door hen worden gebruikt.",
+        "storageHeading": "Hoe slaan we uw gegevens op?",
+        "storageText": {
+            "sentence1": "Ons bedrijf gebruikt een gegevensverwerker om de gegevens over uw app-gebruik (nummers 1-5) veilig op te slaan op systemen die worden beheerd door Hetzner Online GmbH, Industriestr. 25, D-91710 Gunzenhausen, Duitsland.",
+            "sentence2": "Ons bedrijf bewaart uw gegevens tot twee jaar nadat deze zijn verzameld. Na het verstrijken van deze termijn zullen wij uw gegevens verwijderen.",
+            "sentence3": "Het ligt buiten onze controle hoe gegevens die rechtstreeks aan derden (nummers 6-8) worden doorgegeven, door hen worden opgeslagen en voor hoe lang. Aangezien sommige van de ontvangers in de VS wonen, is het waarschijnlijk dat uw gegevens worden verzonden naar en opgeslagen in de VS."
+        },
+        "rightsHeading": "Wat zijn uw gegevensbeschermingsrechten?",
+        "rightsText": "Ons bedrijf wil er zeker van zijn dat u volledig op de hoogte bent van al uw gegevensbeschermingsrechten. Elke gebruiker heeft recht op het volgende:",
+        "rightsList": {
+            "r1": "Het recht om bezwaar te maken tegen verwerking – U hebt het recht om onder bepaalde voorwaarden bezwaar te maken tegen de verwerking van uw persoonlijke gegevens door ons bedrijf.",
+            "r2": "Het recht op toegang – U hebt het recht om ons bedrijf om kopieën van uw persoonlijke gegevens te vragen. Voor deze service kunnen wij u een kleine vergoeding vragen.",
+            "r3": "Het recht op rectificatie – U hebt het recht om ons bedrijf te verzoeken alle informatie te corrigeren waarvan u denkt dat deze onjuist is. U hebt ook het recht om ons bedrijf te verzoeken de informatie aan te vullen waarvan u denkt dat deze onvolledig is.",
+            "r4": "Het recht op gegevenswissing – U hebt het recht om onder bepaalde voorwaarden ons bedrijf te verzoeken uw persoonsgegevens te wissen.",
+            "r5": "Het recht om de verwerking te beperken – U hebt het recht om ons bedrijf te verzoeken de verwerking van uw persoonlijke gegevens onder bepaalde voorwaarden te beperken.",
+            "r6": "Het recht op gegevensoverdraagbaarheid – U hebt het recht om ons bedrijf te verzoeken de door ons verzamelde gegevens onder bepaalde voorwaarden over te dragen aan een andere organisatie of rechtstreeks aan u."
+        },
+        "rightsContact": "Als u een verzoek doet, hebben we een maand om op u te reageren. Als u een van deze rechten wilt uitoefenen, neem dan contact met ons op via onze e-mail: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a><br/><br/> Alle verzoeken met betrekking tot verzonden gegevens zoals beschreven in nummers 6-8 moeten rechtstreeks aan de ontvangers worden gericht.",
+        "otherSitesHeading": "Privacybeleid van andere websites",
+        "otherSitesText": "Onze app bevat links naar andere websites. Ons privacybeleid is alleen van toepassing op onze website, dus als u op een link naar een andere website klikt, dient u hun privacybeleid te lezen.",
+        "changesHeading": "Wijzigingen in ons privacybeleid",
+        "changesText": "Ons bedrijf houdt zijn privacybeleid regelmatig bij en plaatst eventuele updates op deze webpagina. Dit privacybeleid is voor het laatst bijgewerkt op 12 juli 2021.",
         "contactHeading": "Hoe kunt u contact met ons opnemen?",
         "contactText": "Als u vragen heeft over het privacybeleid van ons bedrijf, de gegevens die we over u hebben, of als u een van uw gegevensbeschermingsrechten wilt uitoefenen, neem dan gerust contact met ons op. E-mail ons op: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "Contact opnemen met de juiste autoriteit?",

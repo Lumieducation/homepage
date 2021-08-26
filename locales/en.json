@@ -11,6 +11,50 @@
         "individual": "individual.",
         "exciting": "exciting."
     },
+    "support": {
+        "header": "Support Lumi by sponsoring us",
+        "description": "Even a free and open source product isn't free to make. Lumi is developed, maintained and supported by two teachers in their free time with the goal to make digital education more accessible, individual and exciting for everyone. You can help us improve Lumi by donating or sponsoring.",
+        "donateVia": "Donate via",
+        "whatWeDoIntro": "Due to the increasing number of users and services we need to handle support and feature requests our costs are incresing too.",
+        "whatWeDoHeader": "What your donation helps us to do",
+        "seeSupporters": "See supporters & sponsors",
+        "whatWeDo": {
+            "bugFixes": {
+                "header": "Bug Fixes",
+                "description": "Fixing bugs and improving the quality of the app by hosting telemetry and debugging systems."
+            },
+            "hosting": {
+                "header": "Hosting",
+                "description": "Spread Lumi by hosting the homepage and using Search Engine Optimization tools."
+            },
+            "security": {
+                "header": "Security",
+                "description": "Make installations easy and secure through buying digital certificates to sign the installers for macOS and Windows."
+            },
+            "translation": {
+                "header": "Translations",
+                "description": "Translate future releases into many languages with machine translation services."
+            },
+            "features": {
+                "header": "New Features",
+                "description": "Develop and introduce new features and functionality."
+            },
+            "tools": {
+                "header": "Develop tools",
+                "description": "We also develop the H5P Nodejs Library, which is used by various companies and institutions."
+            }
+        },
+        "thanks": {
+            "subheading": "Lumi supporters",
+            "platinum": "Platinum Sponsors",
+            "gold": "Gold Sponsors",
+            "silver": "Silver Sponsors",
+            "bronze": "Bronze Sponsors",
+            "supporters": "Supporters",
+            "backers": "Backers",
+            "generousBackers": "Generous Backers"
+        }
+    },
     "home": {
         "welcome": "Lumi is a desktop app that allows you to create, edit, view and share interactive content with dozens of different content types. It's free and open source.",
         "get_started": "Get Started"
@@ -19,7 +63,8 @@
         "home": "Home",
         "menu": "Menu",
         "newsletter": "Newsletter",
-        "download": "Download"
+        "download": "Download",
+        "support": "Support us"
     },
     "newsletter": {
         "placeholder": "enter your email address to receive our newsletter",

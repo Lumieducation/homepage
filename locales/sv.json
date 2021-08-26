@@ -13,7 +13,8 @@
         "home": "Hem",
         "menu": "Meny",
         "newsletter": "Nyhetsbrev",
-        "download": "Ladda ner"
+        "download": "Ladda ner",
+        "support": "Stöd oss"
     },
     "newsletter": {
         "placeholder": "ange din e-postadress för att få vårt nyhetsbrev",
@@ -131,5 +132,99 @@
         "contactText": "Om du har några frågor om vårt företags sekretesspolicy, de uppgifter vi har om dig eller om du vill utöva en av dina dataskyddsrättigheter, tveka inte att kontakta oss. Mejla oss på: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "Hur man kontaktar lämplig myndighet",
         "authorityText": "Om du vill anmäla ett klagomål eller om du anser att vårt företag inte har behandlat din oro på ett tillfredsställande sätt kan du kontakta informationskommissionärens kontor.<br/><br/> E-post: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Adress:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Tyskland"
+    },
+    "support": {
+        "header": "Stöd Lumi genom att sponsra oss",
+        "description": "Även en gratis och öppen källkodsprodukt är inte gratis att göra. Lumi utvecklas, underhålls och stöds av två lärare på fritiden med målet att göra digital utbildning mer tillgänglig, individuell och spännande för alla. Du kan hjälpa oss att förbättra Lumi genom att donera eller sponsra.",
+        "donateVia": "Donera via",
+        "whatWeDoIntro": "På grund av det ökande antalet användare och tjänster som vi behöver för att hantera support och begäran om funktioner ökar våra kostnader också.",
+        "whatWeDoHeader": "Vad din donation hjälper oss att göra",
+        "seeSupporters": "Se supportrar och sponsorer",
+        "whatWeDo": {
+            "bugFixes": {
+                "header": "Bug fixar",
+                "description": "Åtgärda buggar och förbättra appens kvalitet genom att vara värd för telemetri och felsökningssystem."
+            },
+            "hosting": {
+                "header": "Hosting",
+                "description": "Sprid Lumi genom att vara värd för hemsidan och använda sökmotoroptimeringsverktyg."
+            },
+            "security": {
+                "header": "säkerhet",
+                "description": "Gör installationen enkel och säker genom att köpa digitala certifikat för att signera installationsprogrammen för macOS och Windows."
+            },
+            "translation": {
+                "header": "Översättningar",
+                "description": "Översätt framtida utgåvor till många språk med maskinöversättningstjänster."
+            },
+            "features": {
+                "header": "Nya egenskaper",
+                "description": "Utveckla och introducera nya funktioner och funktioner."
+            },
+            "tools": {
+                "header": "Utveckla verktyg",
+                "description": "Vi utvecklar också H5P Nodejs -biblioteket, som används av olika företag och institutioner."
+            }
+        },
+        "thanks": {
+            "subheading": "Lumis supportrar",
+            "platinum": "Platinum sponsorer",
+            "gold": "Guldsponsorer",
+            "silver": "Silver sponsorer",
+            "bronze": "Brons sponsorer",
+            "supporters": "Anhängare",
+            "backers": "Backers",
+            "generousBackers": "Generösa backers"
+        }
+    },
+    "appPlayerPrivacyPolicy": {
+        "title": "Lumi H5P Player - Sekretesspolicy",
+        "definitions": "För att hjälpa dig att förstå vår integritetspolicy översattes <a href=\"/en/app-player/privacy-policy\">den automatiskt från det engelska originalet</a> , vilket är det juridiskt bindande dokumentet. Om du inte förstår delar av detta dokument, kontakta oss enligt beskrivningen nedan.<br/><br/> Lumi H5P Desktop Editor är en applikation utvecklad och distribuerad av \"Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig\" (\"Lumi Education GbR\", \"vi\" och \"vårt företag\" i det följande). Denna sekretesspolicy kommer att förklara hur vårt företag använder de personuppgifter vi samlar in från dig medan du använder appen.",
+        "scope": "Denna sekretesspolicy gäller endast kopior av appen du fick direkt från Lumi Education GbR, antingen genom att ladda ner den från webbplatsen lumi.education, GitHub -förvaret på https://github.com/lumieducation/LumiPlayer eller från en applikationsbutik. Om du laddade ner den från en applikationsbutik gäller denna sekretesspolicy bara om du laddade ner den från en officiell butikspost i Lumi Education GbR, som kan ha en av dessa utgivare (eller en förkortning av dessa):<ul><li> Lumi Education GbR Jan Philip Schellenberg och Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
+        "warningGPL": "Eftersom Lumi H5P Player-appen är licensierad enligt AGPL-3.0-licensen kan vem som helst ändra och distribuera appen. Denna sekretesspolicy gäller inte versioner av Lumi Player -appen som har ändrats och publicerats av någon annan.",
+        "controllerHeading": "Vem är ansvarig för datainsamling i Lumi H5P Player?",
+        "controllerText": "Den personuppgiftsansvarige (enligt artikel 4 (7) i GDPR den juridiska personen som bestämmer syftet och sättet för behandlingen av personuppgifter) är Lumi Education GbR Jan Philip Schellenberg och Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig , Tyskland.",
+        "dataHeading": "Vilken data samlas in? Hur samlas det in?",
+        "dataText": "Följande data överförs till vår organisation eller tredje part medan du använder appen:",
+        "dataTable": {
+            "header": "<th>siffra</th><th>Data</th><th>När?</th><th>Till vem överförs det?</th>",
+            "row1": "<td>1</td><td>En unik identifierare för din installation och din IP -adress</td><td>När du startar appen</td><td rowspan=\"5\">Lumi Education GbR</td>",
+            "row2": "<td>2</td><td>Hur ofta använder du appen</td><td>När du startar appen och har användningsstatistik aktiverad</td>",
+            "row3": "<td>3</td><td>Information om din dator (operativsystem) och din plats</td><td>När du startar appen och har användningsstatistik aktiverad</td>",
+            "row4": "<td>4</td><td>Vilka delar av appen du använder</td><td>Medan du använder appen och har användningsstatistik aktiverad</td>",
+            "row5": "<td>5</td><td>Fel som uppstår när du använder appen</td><td>Om din app stöter på ett fel och du har felrapportering aktiverad</td>",
+            "row6": "<td>6</td><td>Din IP -adress</td><td>När du söker efter nya appuppdateringar och laddar ner dem</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA (se deras sekretesspolicy här: https://docs.github.com/en/free-pro-team@latest/github/site- policy/github-privacy-statement)</td>",
+            "row7": "<td>7</td><td>Din IP -adress</td><td>När du använder appen (för att ladda ner teckensnitt)</td><td>Google, Gordon House, Barrow Street, Dublin 4, Irland (se deras sekretesspolicy här: https://policies.google.com/privacy?hl=sv)</td>",
+            "row8": "<td>8</td><td>Din IP -adress och eventuellt annan data</td><td>Om du använder innehållstyper som överför data till tredje part (t.ex.Tala svaret överför din röstinspelning till Google för att transkribera den)</td><td>beror på vilken innehållstyp som används</td>"
+        },
+        "basisHeading": "På vilken grund samlar vi in dina uppgifter?",
+        "basisText": "Vi samlar in eller överför dina uppgifter med ditt uttryckliga samtycke (art. 6 (1) a GDPR) för nummer 1-8 genom samtyckedialogen vid första starten av Lumi Player. Dataöverföringen i nummer 7-8 krävs för att H5P-spelaren ska fungera. Om du invänder mot det är det inte tekniskt möjligt att använda appen.",
+        "usageHeading": "Hur använder vi dina uppgifter?",
+        "usageText": "Vårt företag samlar in dina uppgifter (nummer 1-5) så att vi kan:<ul><li> bestäm vilka delar av appen som ska utvecklas ytterligare (t.ex. val av språk att lokalisera)</li><li>för att optimera användargränssnittet</li><li>hitta och åtgärda buggar</li><li>kontakta dig med uppföljningsfrågor om ett fel som rapporterats av dig</li></ul> Dina uppgifter används inte för individuellt beslutsfattande, inklusive profilering.<br/><br/> Uppgifter som vi får om dig delas inte med andra företag eller organisationer, förutom om vi är skyldiga att göra det enligt lag (t.ex. för brottsbekämpning) och för bearbetning (se nedan). Det ligger utanför vår kontroll hur data som överförs direkt till tredje part (nummer 6-8) används av dem.",
+        "storageHeading": "Hur lagrar vi dina uppgifter?",
+        "storageText": {
+            "sentence1": "Vårt företag använder en databehandlare för att säkert lagra data om din appanvändning (nummer 1-5) på system som drivs av Hetzner Online GmbH, Industriestr. 25, D-91710 Gunzenhausen, Tyskland.",
+            "sentence2": "Vårt företag kommer att behålla dina uppgifter i två år efter det att de samlades in. När denna tidsperiod har löpt ut kommer vi att radera dina uppgifter.",
+            "sentence3": "Det ligger utanför vår kontroll hur data som överförs direkt till tredje part (nummer 6-8) lagras av dem och hur länge. Eftersom några av mottagarna är bosatta i USA är det troligt att dina data överförs till och lagras i USA."
+        },
+        "rightsHeading": "Vilka är dina dataskyddsrättigheter?",
+        "rightsText": "Vårt företag vill se till att du är fullt medveten om alla dina dataskyddsrättigheter. Varje användare har rätt till följande:",
+        "rightsList": {
+            "r1": "Rätt att invända mot behandling - Du har rätt att invända mot vårt företags behandling av dina personuppgifter, under vissa förutsättningar.",
+            "r2": "Rätt till tillgång - Du har rätt att begära kopiering av dina personuppgifter till vårt företag. Vi kan ta ut en liten avgift för denna tjänst.",
+            "r3": "Rätt till rättelse - Du har rätt att begära att vårt företag rättar information som du anser är felaktig. Du har också rätt att begära att vårt företag fyller i den information som du anser är ofullständig.",
+            "r4": "Rätten att radera - Du har rätt att begära att vårt företag raderar dina personuppgifter, under vissa förutsättningar.",
+            "r5": "Rätten att begränsa behandlingen - Du har rätt att begära att vårt företag begränsar behandlingen av dina personuppgifter, under vissa förutsättningar.",
+            "r6": "Rätten till dataportabilitet - Du har rätt att begära att vårt företag överför de uppgifter som vi har samlat in till en annan organisation, eller direkt till dig, under vissa förutsättningar."
+        },
+        "rightsContact": "Om du gör en förfrågan har vi en månad på oss att svara dig. Om du vill utöva någon av dessa rättigheter, vänligen kontakta oss på vårt e <a href=\"mailto:c@Lumi.education\">-postmeddelande: c@Lumi.education</a><br/><br/> Alla förfrågningar om data som överförs enligt beskrivningen i nummer 6-8 måste riktas direkt till mottagarna.",
+        "otherSitesHeading": "Sekretesspolicy för andra webbplatser",
+        "otherSitesText": "Vår app innehåller länkar till andra webbplatser. Vår sekretesspolicy gäller endast vår webbplats, så om du klickar på en länk till en annan webbplats bör du läsa deras integritetspolicy.",
+        "changesHeading": "Ändringar av vår integritetspolicy",
+        "changesText": "Vårt företag håller sin sekretesspolicy under regelbunden granskning och lägger alla uppdateringar på denna webbsida. Denna integritetspolicy uppdaterades senast den 12 juli 2021.",
+        "contactHeading": "Hur du kontaktar oss",
+        "contactText": "Om du har några frågor om vårt företags integritetspolicy, de uppgifter vi har om dig eller om du vill utöva en av dina dataskyddsrättigheter, tveka inte att kontakta oss. Maila oss på: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
+        "authorityHeading": "Hur man kontaktar lämplig myndighet",
+        "authorityText": "Om du vill anmäla ett klagomål eller om du anser att vårt företag inte har behandlat din oro på ett tillfredsställande sätt kan du kontakta informationskommissionären.<br/><br/> E <a href=\"mailto:poststelle@lfd.niedersachsen.de\">-post: poststelle@lfd.niedersachsen.de</a><br /> Adress:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Tyskland"
     }
 }

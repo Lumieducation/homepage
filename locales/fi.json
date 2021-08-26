@@ -13,7 +13,8 @@
         "home": "Koti",
         "menu": "Valikko",
         "newsletter": "Uutiskirje",
-        "download": "ladata"
+        "download": "ladata",
+        "support": "Tue meitä"
     },
     "newsletter": {
         "placeholder": "kirjoita sähköpostiosoitteesi saadaksesi uutiskirjeemme",
@@ -131,5 +132,99 @@
         "contactText": "Jos sinulla on kysyttävää yrityksemme tietosuojakäytännöstä, sinusta käsittelemistämme tiedoista tai haluat käyttää jotakin tietosuojaoikeudestasi, älä epäröi ottaa yhteyttä meihin. Lähetä meille sähköpostia osoitteeseen: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "Kuinka ottaa yhteyttä asianmukaiseen viranomaiseen",
         "authorityText": "Jos haluat ilmoittaa valituksesta tai jos sinusta tuntuu, että yrityksemme ei ole käsitellyt huolesi tyydyttävällä tavalla, voit ottaa yhteyttä tietokomissaarin toimistoon.<br/><br/> Sähköposti: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Osoite:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Saksa"
+    },
+    "support": {
+        "header": "Tue Lumia sponsoroimalla meitä",
+        "description": "Jopa ilmainen ja avoimen lähdekoodin tuote ei ole ilmainen. Lumia kehittää, ylläpitää ja tukee kaksi opettajaa vapaa -ajallaan, jotta digitaalinen koulutus olisi helpompaa, yksilöllisempää ja jännittävämpää kaikille. Voit auttaa meitä parantamaan Lumia lahjoittamalla tai sponsoroimalla.",
+        "donateVia": "Lahjoita kautta",
+        "whatWeDoIntro": "Koska käyttäjien ja palveluiden määrä kasvaa, meidän on käsiteltävä tuki- ja ominaisuuspyyntöjä, myös kustannuksemme ovat korkeat.",
+        "whatWeDoHeader": "Mitä lahjoituksesi auttaa meitä tekemään",
+        "seeSupporters": "Katso tukijat ja sponsorit",
+        "whatWeDo": {
+            "bugFixes": {
+                "header": "Virheenkorjauksia",
+                "description": "Virheiden korjaaminen ja sovelluksen laadun parantaminen isännöimällä telemetria- ja virheenkorjausjärjestelmiä."
+            },
+            "hosting": {
+                "header": "Isännöinti",
+                "description": "Levitä Lumia isännöimällä kotisivua ja käyttämällä hakukoneoptimointityökaluja."
+            },
+            "security": {
+                "header": "Turvallisuus",
+                "description": "Tee asennuksista helppoa ja turvallista ostamalla digitaalisia varmenteita allekirjoittaaksesi MacOS- ja Windows -asennusohjelmat."
+            },
+            "translation": {
+                "header": "Käännökset",
+                "description": "Käännä tulevat julkaisut monille kielille konekäännöspalveluilla."
+            },
+            "features": {
+                "header": "Uudet ominaisuudet",
+                "description": "Kehitä ja esittele uusia ominaisuuksia ja toimintoja."
+            },
+            "tools": {
+                "header": "Kehitä työkaluja",
+                "description": "Kehitämme myös H5P Nodejs -kirjastoa, jota eri yritykset ja laitokset käyttävät."
+            }
+        },
+        "thanks": {
+            "subheading": "Lumin kannattajia",
+            "platinum": "Platinasponsorit",
+            "gold": "Kultaiset sponsorit",
+            "silver": "Hopeiset sponsorit",
+            "bronze": "Pronssi -sponsorit",
+            "supporters": "Kannattajia",
+            "backers": "Tukijat",
+            "generousBackers": "Anteliaita tukijoita"
+        }
+    },
+    "appPlayerPrivacyPolicy": {
+        "title": "Lumi H5P Player - tietosuojakäytäntö",
+        "definitions": "Tietosuojakäytäntömme ymmärtämiseksi se on käännetty automaattisesti <a href=\"/en/app-player/privacy-policy\">englanninkielisestä alkuperäiskappaleesta</a> , joka on oikeudellisesti sitova asiakirja. Jos et ymmärrä tämän asiakirjan osia, ota meihin yhteyttä alla kuvatulla tavalla.<br/><br/> Lumi H5P Desktop Editor on sovellus, jonka on kehittänyt ja jakanut ”Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig” (”Lumi Education GbR”, ”me” ja ”yrityksemme” seuraavassa). Tämä tietosuojakäytäntö selittää, kuinka yrityksemme käyttää sinulta keräämiämme henkilötietoja sovelluksen käytön aikana.",
+        "scope": "Tämä tietosuojakäytäntö koskee vain kopioita sovelluksesta, jonka sait suoraan Lumi Education GbR: ltä joko lataamalla sen verkkosivustolta lumi.education, GitHub -arkistosta osoitteessa https://github.com/lumieducation/LumiPlayer tai sovelluskaupasta. Jos latasit sen sovelluskaupasta, tätä tietosuojakäytäntöä sovelletaan vain, jos latasit sen Lumi Education GbR: n virallisesta kaupasta, jolla voi olla jokin seuraavista julkaisijoista (tai lyhenne näistä):<ul><li> Lumi Education GbR Jan Philip Schellenberg ja Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
+        "warningGPL": "Koska Lumi H5P Player -sovellus on lisensoitu AGPL-3.0-lisenssillä, kuka tahansa voi muuttaa ja jakaa sovelluksen. Tämä tietosuojakäytäntö ei koske Lumi Player -sovelluksen versioita, joita muut ovat muokanneet ja julkaisseet.",
+        "controllerHeading": "Kuka vastaa tietojen keräämisestä Lumi H5P Playerissa?",
+        "controllerText": "Rekisterinpitäjä (GDPR: n 4 artiklan 7 kohdan mukaan oikeushenkilö, joka määrittää henkilötietojen käsittelyn tarkoituksen ja keinot) on Lumi Education GbR Jan Philip Schellenberg ja Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig , Saksa.",
+        "dataHeading": "Mitä tietoja kerätään? Miten se kerätään?",
+        "dataText": "Seuraavat tiedot välitetään organisaatiollemme tai kolmansille osapuolille, kun käytät sovellusta:",
+        "dataTable": {
+            "header": "<th>Määrä</th><th>Tiedot</th><th>Kun?</th><th>Kenelle se välitetään?</th>",
+            "row1": "<td>1</td><td>Asennuksesi yksilöllinen tunniste ja IP -osoitteesi</td><td>Kun käynnistät sovelluksen</td><td rowspan=\"5\">Lumi Education GbR</td>",
+            "row2": "<td>2</td><td>Kuinka usein käytät sovellusta</td><td>Kun käynnistät sovelluksen ja käyttötilastot ovat käytössä</td>",
+            "row3": "<td>3</td><td>Tietokoneesi (käyttöjärjestelmä) ja sijaintisi tiedot</td><td>Kun käynnistät sovelluksen ja käyttötilastot ovat käytössä</td>",
+            "row4": "<td>4</td><td>Mitä sovelluksen osia käytät</td><td>Kun käytät sovellusta ja käyttötilastot ovat käytössä</td>",
+            "row5": "<td>5</td><td>Sovelluksen käytön aikana ilmeneviä virheitä</td><td>Jos sovelluksesi havaitsee virheen ja olet ottanut virheraportoinnin käyttöön</td>",
+            "row6": "<td>6</td><td>IP -osoitteesi</td><td>Kun etsit uusia sovelluspäivityksiä ja lataat niitä</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, Yhdysvallat (katso heidän tietosuojakäytäntönsä täältä: https://docs.github.com/en/free-pro-team@latest/github/site- policy/github-privacy-Statement)</td>",
+            "row7": "<td>7</td><td>IP -osoitteesi</td><td>Kun käytät sovellusta (fonttien lataamiseen)</td><td>Google, Gordon House, Barrow Street, Dublin 4, Irlanti (katso heidän tietosuojakäytäntönsä täältä: https://policies.google.com/privacy?hl=fi)</td>",
+            "row8": "<td>8</td><td>IP -osoitteesi ja mahdollisesti muut tiedot</td><td>Jos käytät sisältötyyppejä, jotka välittävät tietoja kolmansille osapuolille (esim. Puhu vastaus lähettää äänitallennuksesi Googlelle sen transkriptioon)</td><td>riippuu käytetystä sisältötyypistä</td>"
+        },
+        "basisHeading": "Millä perusteella keräämme tietojasi?",
+        "basisText": "Keräämme tai välitämme tietojasi nimenomaisella suostumuksellasi (GDPR: n 6 artiklan 1 kohta) numeroille 1-8 Lumi Playerin ensimmäisen käynnistyksen suostumusikkunan kautta. Tiedonsiirto numeroilla 7-8 vaaditaan, jotta H5P-soitin toimisi. Jos vastustat sitä, sovelluksen käyttö ei ole teknisesti mahdollista.",
+        "usageHeading": "Miten käytämme tietojasi?",
+        "usageText": "Yrityksemme kerää tietojasi (numerot 1-5), jotta voimme:<ul><li> päättää, mitä sovelluksen osia pitäisi kehittää edelleen (esim. lokalisoitavat kielet)</li><li>käyttöliittymän optimoimiseksi</li><li>etsiä ja korjata vikoja</li><li>ottaa sinuun yhteyttä seurantakysymyksiin liittyen ilmoittamaasi vikaan</li></ul> Tietojasi ei käytetä henkilökohtaiseen päätöksentekoon, mukaan lukien profilointi.<br/><br/> Tietoja, joita saamme sinusta, ei jaeta muiden yritysten tai organisaatioiden kanssa, paitsi jos laki velvoittaa meidät (esim. Lainvalvontaviranomaiset) ja käsittelyä varten (katso alla). Emme voi vaikuttaa siihen, miten he käyttävät suoraan kolmansille osapuolille lähetettyjä tietoja (numerot 6-8).",
+        "storageHeading": "Miten tallennamme tietosi?",
+        "storageText": {
+            "sentence1": "Yrityksemme käyttää tietojenkäsittelijää tallentaakseen turvallisesti sovelluksesi käyttöä koskevat tiedot (numerot 1-5) järjestelmiin, joita ylläpitää Hetzner Online GmbH, Industriestr. 25, D-91710 Gunzenhausen, Saksa.",
+            "sentence2": "Yrityksemme säilyttää tietojasi kaksi vuotta keräämisen jälkeen. Kun tämä aika on kulunut umpeen, poistamme tietosi.",
+            "sentence3": "Emme voi hallita sitä, miten he säilyttävät suoraan kolmansille osapuolille lähetetyt tiedot (numerot 6-8) ja kuinka kauan. Koska jotkut vastaanottajista asuvat Yhdysvalloissa, on todennäköistä, että tietosi siirretään ja säilytetään Yhdysvalloissa."
+        },
+        "rightsHeading": "Mitkä ovat tietosuojaoikeutesi?",
+        "rightsText": "Yrityksemme haluaa varmistaa, että olet täysin tietoinen kaikista tietosuojaoikeuksistasi. Jokaisella käyttäjällä on oikeus seuraaviin:",
+        "rightsList": {
+            "r1": "Oikeus vastustaa käsittelyä - Sinulla on oikeus tietyin ehdoin vastustaa yhtiömme henkilötietojen käsittelyä.",
+            "r2": "Oikeus tutustua - Sinulla on oikeus pyytää yhtiöltämme kopioita henkilötiedoistasi. Voimme veloittaa sinulta pienen maksun tästä palvelusta.",
+            "r3": "Oikeus oikaisuun - Sinulla on oikeus pyytää yritystämme korjaamaan kaikki tiedot, joiden uskot olevan epätarkkoja. Sinulla on myös oikeus pyytää yritystämme täydentämään tiedot, joiden uskot olevan puutteellisia.",
+            "r4": "Oikeus tietojen poistamiseen - Sinulla on tietyin edellytyksin oikeus pyytää yritystämme poistamaan henkilötietosi.",
+            "r5": "Oikeus rajoittaa käsittelyä - Sinulla on oikeus pyytää yritystämme rajoittamaan henkilötietojesi käsittelyä tietyin ehdoin.",
+            "r6": "Oikeus tietojen siirrettävyyteen - Sinulla on oikeus pyytää yritystämme siirtämään keräämämme tiedot toiselle organisaatiolle tai suoraan sinulle tietyin ehdoin."
+        },
+        "rightsContact": "Jos teet pyynnön, meillä on kuukausi aikaa vastata sinulle. Jos haluat käyttää jotakin näistä oikeuksista, ota meihin yhteyttä sähköpostitse: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a><br/><br/> Kaikki numerot 6-8 kuvattuja tietoja koskevat pyynnöt on osoitettava suoraan vastaanottajille.",
+        "otherSitesHeading": "Muiden verkkosivustojen tietosuojakäytännöt",
+        "otherSitesText": "Sovelluksemme sisältää linkkejä muille verkkosivustoille. Tietosuojakäytäntömme koskee vain verkkosivustoamme, joten jos napsautat linkkiä toiselle verkkosivustolle, lue sen tietosuojakäytäntö.",
+        "changesHeading": "Muutokset tietosuojakäytäntömme",
+        "changesText": "Yrityksemme seuraa tietosuojakäytäntöään säännöllisesti ja päivittää kaikki tälle verkkosivulle. Tämä tietosuojakäytäntö päivitettiin viimeksi 12. heinäkuuta 2021.",
+        "contactHeading": "Kuinka ottaa meihin yhteyttä",
+        "contactText": "Jos sinulla on kysyttävää yrityksemme tietosuojakäytännöstä, hallussamme olevista tiedoista tai haluat käyttää tietosuojaoikeuksiasi, älä epäröi ottaa meihin yhteyttä. Lähetä meille sähköpostia osoitteeseen: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
+        "authorityHeading": "Kuinka ottaa yhteyttä asianomaiseen viranomaiseen",
+        "authorityText": "Jos haluat tehdä valituksen tai jos sinusta tuntuu, että yrityksemme ei ole käsitellyt huolesi tyydyttävällä tavalla, voit ottaa yhteyttä tietosuojavaltuutetun toimistoon.<br/><br/> Sähköposti: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Osoite:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Saksa"
     }
 }

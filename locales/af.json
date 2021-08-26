@@ -62,7 +62,8 @@
         "download": "Laai af",
         "newsletter": "Nuusbrief",
         "menu": "Menu",
-        "home": "Tuis"
+        "home": "Tuis",
+        "support": "Ondersteun ons"
     },
     "home": {
         "get_started": "Begin",
@@ -131,5 +132,99 @@
         "contactText": "As u enige vrae het oor ons maatskappy se privaatheidsbeleid, die data wat ons op u het, of as u een van u regte vir databeskerming wil uitoefen, moet u asseblief nie kontak met ons maak nie. Stuur vir ons 'n e-pos aan: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "Hoe om die toepaslike owerheid te kontak",
         "authorityText": "As u 'n klag wil aanmeld, of as u van mening is dat ons maatskappy u besorgdheid nie bevredigend aangespreek het nie, kan u die kantoor van die inligtingskommissaris kontak.<br/><br/> E-pos: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Adres:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Duitsland"
+    },
+    "support": {
+        "header": "Ondersteun Lumi deur ons te borg",
+        "description": "Selfs 'n gratis en open source produk is nie gratis om te maak nie. Lumi word in hul vrye tyd deur twee onderwysers ontwikkel, onderhou en ondersteun, met die doel om digitale onderwys toegankliker, individueel en opwindender vir almal te maak. U kan ons help om Lumi te verbeter deur te skenk of te borg.",
+        "donateVia": "Skenk via",
+        "whatWeDoIntro": "Weens die toenemende aantal gebruikers en dienste wat ons nodig het om ondersteuning en funksieversoeke te hanteer, neem ons koste ook toe.",
+        "whatWeDoHeader": "Wat u skenking ons help om te doen",
+        "seeSupporters": "Sien ondersteuners en borge",
+        "whatWeDo": {
+            "bugFixes": {
+                "header": "Foutoplossings",
+                "description": "Bugs regmaak en die kwaliteit van die app verbeter deur telemetrie- en ontfoutingstelsels aan te bied."
+            },
+            "hosting": {
+                "header": "Gasheer",
+                "description": "Versprei Lumi deur die tuisblad te huisves en hulpmiddels vir die optimalisering van soekenjins te gebruik."
+            },
+            "security": {
+                "header": "Sekuriteit",
+                "description": "Maak installasies maklik en veilig deur digitale sertifikate te koop om die installeerders vir macOS en Windows te onderteken."
+            },
+            "translation": {
+                "header": "Vertalings",
+                "description": "Vertaal toekomstige uitgawes in baie tale met masjienvertaaldienste."
+            },
+            "features": {
+                "header": "Nuwe kenmerke",
+                "description": "Ontwikkel en stel nuwe funksies en funksies bekend."
+            },
+            "tools": {
+                "header": "Ontwikkel gereedskap",
+                "description": "Ons ontwikkel ook die H5P Nodejs -biblioteek, wat deur verskillende ondernemings en instansies gebruik word."
+            }
+        },
+        "thanks": {
+            "subheading": "Lumi ondersteuners",
+            "platinum": "Platinum borge",
+            "gold": "Goue borge",
+            "silver": "Silwer borge",
+            "bronze": "Bronsborge",
+            "supporters": "Ondersteuners",
+            "backers": "Ondersteuners",
+            "generousBackers": "Vrygewige ondersteuners"
+        }
+    },
+    "appPlayerPrivacyPolicy": {
+        "title": "Lumi H5P Player - Privaatheidsbeleid",
+        "definitions": "Om u te help om ons privaatheidsbeleid te verstaan, is dit outomaties vertaal <a href=\"/en/app-player/privacy-policy\">uit die Engelse oorspronklike</a> , wat die wetlik bindende dokument is. As u dele van hierdie dokument nie verstaan nie, kontak ons soos hieronder beskryf.<br/><br/> Die Lumi H5P Desktop Editor is 'n toepassing wat ontwikkel en versprei is deur 'Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig' ('Lumi Education GbR', 'ons' en 'ons onderneming' in die volgende). Hierdie privaatheidsbeleid sal verduidelik hoe ons onderneming die persoonlike data gebruik wat ons van u versamel terwyl u die app gebruik.",
+        "scope": "Hierdie privaatheidsbeleid is slegs van toepassing op afskrifte van die app wat u direk van Lumi Education GbR ontvang het, óf deur dit af te laai van die webwerf lumi.education, die GitHub -bewaarplek op https://github.com/lumieducation/LumiPlayer of van 'n toepassingswinkel. As u dit van 'n toepassingswinkel afgelaai het, is hierdie privaatheidsbeleid slegs van toepassing as u dit afgelaai het van 'n amptelike winkelinskrywing van Lumi Education GbR, wat een van hierdie uitgewers kan hê (of 'n afkorting hiervan):<ul><li> Lumi Education GbR Jan Philip Schellenberg en Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
+        "warningGPL": "Aangesien die Lumi H5P Player-app onder die AGPL-3.0-lisensie gelisensieer is, kan enigiemand die app verander en versprei. Hierdie privaatheidsbeleid is nie van toepassing op weergawes van die Lumi Player -app wat deur iemand anders gewysig en gepubliseer is nie.",
+        "controllerHeading": "Wie is verantwoordelik vir die insameling van data in Lumi H5P Player?",
+        "controllerText": "Die beheerder (volgens art. 4 (7) AVG die regspersoon wat die doel en middele van die verwerking van persoonlike data bepaal) is Lumi Education GbR Jan Philip Schellenberg en Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig , Duitsland.",
+        "dataHeading": "Watter data word ingesamel? Hoe word dit ingesamel?",
+        "dataText": "Die volgende data word aan ons organisasie of derde partye oorgedra terwyl u die app gebruik:",
+        "dataTable": {
+            "header": "<th>Nommer</th><th>Data</th><th>Wanneer?</th><th>Na wie word dit oorgedra?</th>",
+            "row1": "<td>1</td><td>'N Unieke identifiseerder van u installasie en u IP -adres</td><td>As u die app begin</td><td rowspan=\"5\">Lumi Education GbR</td>",
+            "row2": "<td>2</td><td>Hoe gereeld gebruik u die app</td><td>As u die app begin en gebruikstatistieke geaktiveer is</td>",
+            "row3": "<td>3</td><td>Inligting oor u rekenaar (bedryfstelsel) en u ligging</td><td>As u die app begin en gebruikstatistieke geaktiveer is</td>",
+            "row4": "<td>4</td><td>Watter dele van die app gebruik u</td><td>Terwyl u die app gebruik en gebruikstatistieke geaktiveer is</td>",
+            "row5": "<td>5</td><td>Foute wat voorkom terwyl u die app gebruik</td><td>As u app 'n fout ondervind en foutrapportering geaktiveer is</td>",
+            "row6": "<td>6</td><td>Jou IP -adres</td><td>As u kyk na nuwe programopdaterings en dit aflaai</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, Verenigde State (sien hul privaatheidsbeleid hier: https://docs.github.com/en/free-pro-team@latest/github/site- beleid/github-privaatheid-verklaring)</td>",
+            "row7": "<td>7</td><td>Jou IP -adres</td><td>As u die app gebruik (om lettertipes af te laai)</td><td>Google, Gordon House, Barrow Street, Dublin 4, Ierland (sien hul privaatheidsbeleid hier: https://policies.google.com/privacy?hl=af)</td>",
+            "row8": "<td>8</td><td>U IP -adres en moontlik ander data</td><td>As u inhoudstipes gebruik wat data na derde partye oordra (bv. Spreek die antwoord stuur u stemopname na Google om dit oor te skryf)</td><td>hang af van die tipe inhoud wat gebruik word</td>"
+        },
+        "basisHeading": "Op watter basis versamel ons u data?",
+        "basisText": "Ons versamel of stuur u data met u uitdruklike toestemming (art. 6 (1) a AVG) vir die nommers 1-8 deur die toestemmingsdialoogvenster op die eerste begin van die Lumi Player. Die data-oordrag in getalle 7-8 is nodig om die H5P-speler te laat werk. As u daarteen beswaar maak, is dit nie tegnies moontlik om die app te gebruik nie.",
+        "usageHeading": "Hoe sal ons u data gebruik?",
+        "usageText": "Ons onderneming versamel u data (nommers 1-5) sodat ons:<ul><li> besluit watter dele van die app verder ontwikkel moet word (bv. keuse van tale om te lokaliseer)</li><li>om die gebruikerskoppelvlak te optimaliseer</li><li>vind en herstel foute</li><li>kontak u met opvolgvrae oor 'n fout wat u aangemeld het</li></ul> U data word nie gebruik vir individuele besluitneming nie, insluitend profilering.<br/><br/> Gegewens wat ons oor u ontvang, word nie met ander maatskappye of organisasies gedeel nie, behalwe as dit deur die wet vereis word (bv. Vir wetstoepassing) en vir verwerkingsdoeleindes (sien hieronder). Dit is buite ons beheer hoe data wat direk aan derde partye (nommers 6-8) oorgedra word, deur hulle gebruik word.",
+        "storageHeading": "Hoe stoor ons u data?",
+        "storageText": {
+            "sentence1": "Ons onderneming gebruik 'n dataverwerker om die data oor u gebruik van u app (nommers 1-5) veilig te stoor op stelsels wat deur Hetzner Online GmbH, Industriestr. 25, D-91710 Gunzenhausen, Duitsland.",
+            "sentence2": "Ons onderneming bewaar u data vir twee jaar nadat dit ingesamel is. Sodra hierdie tydperk verstryk het, sal ons u data uitvee.",
+            "sentence3": "Dit is buite ons beheer hoe data wat direk aan derde partye (nommers 6-8) oorgedra word, deur hulle gestoor word en vir hoe lank. Aangesien sommige ontvangers in die VSA woonagtig is, is dit waarskynlik dat u data na die VSA gestuur en geberg word."
+        },
+        "rightsHeading": "Wat is u databeskermingsregte?",
+        "rightsText": "Ons onderneming wil seker maak dat u ten volle bewus is van al u databeskermingsregte. Elke gebruiker is geregtig op die volgende:",
+        "rightsList": {
+            "r1": "Die reg om beswaar te maak teen verwerking - U het die reg om onder sekere voorwaardes beswaar te maak teen die verwerking van u persoonlike data deur ons onderneming.",
+            "r2": "Die reg op toegang - U het die reg om kopieë van u persoonlike data by ons onderneming aan te vra. Ons kan u 'n klein fooi vir hierdie diens hef.",
+            "r3": "Die reg op regstelling - U het die reg om te versoek dat ons onderneming die inligting wat u meen, onakkuraat is, regstel. U het ook die reg om ons onderneming te versoek om die inligting wat u meen onvolledig is, te voltooi.",
+            "r4": "Die reg om uit te vee - U het die reg om onder sekere voorwaardes te versoek dat ons onderneming u persoonlike data uitvee.",
+            "r5": "Die reg om verwerking te beperk - U het die reg om onder sekere voorwaardes te versoek dat ons onderneming die verwerking van u persoonlike data beperk.",
+            "r6": "Die reg op dataportasie - U het die reg om onder sekere voorwaardes aan ons maatskappy te versoek om die data wat ons versamel het, aan 'n ander organisasie of direk aan u oor te dra."
+        },
+        "rightsContact": "As u 'n versoek rig, het ons 'n maand om op u te reageer. As u enige van hierdie regte wil uitoefen, kontak ons asseblief op ons e <a href=\"mailto:c@Lumi.education\">-posadres: c@Lumi.education</a><br/><br/> Alle versoeke rakende data wat oorgedra word, soos beskryf in getalle 6-8, moet direk aan die ontvangers gerig word.",
+        "otherSitesHeading": "Privaatheidsbeleid van ander webwerwe",
+        "otherSitesText": "Ons app bevat skakels na ander webwerwe. Ons privaatheidsbeleid is slegs van toepassing op ons webwerf, dus as u op 'n skakel na 'n ander webwerf klik, moet u hul privaatheidsbeleid lees.",
+        "changesHeading": "Veranderinge aan ons privaatheidsbeleid",
+        "changesText": "Ons onderneming hou sy privaatheidsbeleid gereeld onder die loep en plaas opdaterings op hierdie webwerf. Hierdie privaatheidsbeleid is laas op 12 Julie 2021 opgedateer.",
+        "contactHeading": "Hoe om ons te kontak",
+        "contactText": "As u enige vrae het oor die privaatheidsbeleid van ons onderneming, die gegewens wat ons oor u het, of u wil een van u databeskermingsregte uitoefen, moet asseblief nie huiwer om ons te kontak nie. Stuur 'n e <a href=\"mailto:c@Lumi.education\">-pos aan ons by: c@Lumi.education</a>",
+        "authorityHeading": "Hoe om die toepaslike owerheid te kontak",
+        "authorityText": "As u 'n klagte wil aanmeld of as u meen dat ons onderneming u probleem nie bevredigend aangespreek het nie, kan u die kantoor van die Inligtingskommissaris kontak.<br/><br/> E <a href=\"mailto:poststelle@lfd.niedersachsen.de\">-pos: poststelle@lfd.niedersachsen.de</a><br /> Adres:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraat 5<br /> D-30159 Hannover<br /> Duitsland"
     }
 }
