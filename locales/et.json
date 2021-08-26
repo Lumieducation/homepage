@@ -13,7 +13,8 @@
         "home": "Kodu",
         "menu": "Menüü",
         "newsletter": "Infoleht",
-        "download": "Lae alla"
+        "download": "Lae alla",
+        "support": "Toetage meid"
     },
     "newsletter": {
         "placeholder": "meie uudiskirja saamiseks sisestage oma e-posti aadress",
@@ -131,5 +132,107 @@
         "contactText": "Kui teil on küsimusi meie ettevõtte privaatsuseeskirjade, andmete kohta, mida me teie kohta hoiame, või soovite kasutada mõnda oma andmekaitsealast õigust, võtke meiega kindlasti ühendust. Saatke meile e-kiri: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "Kuidas pöörduda vastava asutuse poole",
         "authorityText": "Kui soovite kaebusest teatada või kui arvate, et meie ettevõte ei ole teie muret rahuldavalt lahendanud, võite pöörduda teabevoliniku büroo poole.<br/><br/> E-post: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Aadress:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Saksamaa"
+    },
+    "support": {
+        "header": "Toetage Lumit, sponsoreerides meid",
+        "description": "Isegi tasuta ja avatud lähtekoodiga toodet pole tasuta teha. Lumit arendavad, hooldavad ja toetavad vabal ajal kaks õpetajat eesmärgiga muuta digiharidus kõigile kättesaadavamaks, individuaalsemaks ja põnevamaks. Saate aidata meil Lumit täiustada, annetades või sponsoreerides.",
+        "donateVia": "Annetage kaudu",
+        "whatWeDoIntro": "Kuna meil on üha rohkem kasutajaid ja teenuseid, peame hakkama saama toe- ja funktsioonitaotlustega, ka meie kulud kasvavad. Teie annetused aitavad meil Lumi vaba hoida.",
+        "whatWeDoHeader": "Mida teie annetus aitab meil teha",
+        "seeSupporters": "Vaadake toetajaid ja sponsoreid",
+        "whatWeDo": {
+            "bugFixes": {
+                "header": "Veaparandused",
+                "description": "Vigade parandamine ja rakenduse kvaliteedi parandamine telemeetria- ja silumissüsteemide hostimise kaudu."
+            },
+            "hosting": {
+                "header": "Hostimine",
+                "description": "Levitage Lumi kodulehte majutades ja otsingumootori optimeerimise tööriistu kasutades."
+            },
+            "security": {
+                "header": "Turvalisus",
+                "description": "Muutke installimine lihtsaks ja turvaliseks, ostes digisertifikaate, et allkirjastada macOS -i ja Windowsi installijad."
+            },
+            "translation": {
+                "header": "Tõlked",
+                "description": "Tõlkige masintõlketeenuste abil tulevased väljaanded paljudesse keeltesse."
+            },
+            "features": {
+                "header": "Uued omadused",
+                "description": "Arendage ja tutvustage uusi funktsioone ja funktsioone."
+            },
+            "community": {
+                "header": "Hoidke kogukonda",
+                "description": "Sõnumitele ja taotlustele vastamine. Kirjutage uudiskirju."
+            },
+            "free": {
+                "header": "Hoidke Lumi vaba",
+                "description": "Tehke Lumi universaalselt kättesaadavaks. Isegi halva infrastruktuuriga piirkondades."
+            },
+            "tools": {
+                "header": "Töötage välja tööriistad",
+                "description": "Arendame ka H5P Nodejs raamatukogu, mida kasutavad erinevad ettevõtted ja asutused."
+            }
+        },
+        "thanks": {
+            "subheading": "Lumi toetajad",
+            "platinum": "Plaatina sponsorid",
+            "gold": "Kuldsed sponsorid",
+            "silver": "Hõbedased sponsorid",
+            "bronze": "Pronksist sponsorid",
+            "supporters": "Toetajad",
+            "backers": "Toetajad",
+            "generousBackers": "Suuremeelsed toetajad"
+        }
+    },
+    "appPlayerPrivacyPolicy": {
+        "title": "Lumi H5P Player - privaatsuspoliitika",
+        "definitions": "Meie privaatsuspoliitika mõistmiseks tõlgiti see automaatselt <a href=\"/en/app-player/privacy-policy\">ingliskeelsest originaalist</a> , mis on õiguslikult siduv dokument. Kui te ei saa selle dokumendi osadest aru, võtke meiega ühendust, nagu allpool kirjeldatud.<br/><br/> Lumi H5P töölauaredaktor on rakendus, mille on välja töötanud ja levitanud „Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig” (edaspidi „Lumi Education GbR”, „meie” ja „meie ettevõte”). See privaatsuspoliitika selgitab, kuidas meie ettevõte kasutab isikuandmeid, mida me teilt rakenduse kasutamise ajal kogume.",
+        "scope": "See privaatsuspoliitika kehtib ainult rakenduse koopiate kohta, mille saite otse saidilt Lumi Education GbR, laadides selle alla veebisaidilt lumi.education, GitHubi hoidlast aadressil https://github.com/lumieducation/LumiPlayer või rakenduste poest. Kui laadisite selle rakenduste poest alla, kehtib see privaatsuspoliitika ainult siis, kui laadisite selle alla Lumi Education GbR ametlikust poekirjest, millel võib olla üks järgmistest väljaandjatest (või nende lühend):<ul><li> Lumi Education GbR Jan Philip Schellenberg ja Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
+        "warningGPL": "Kuna Lumi H5P Player rakendus on litsentsitud AGPL-3.0 litsentsi alusel, saavad kõik seda rakendust muuta ja levitada. See privaatsuspoliitika ei kehti rakenduse Lumi Player versioonide kohta, mida on keegi teine muutnud ja avaldanud.",
+        "controllerHeading": "Kes vastutab andmete kogumise eest Lumi H5P Playeris?",
+        "controllerText": "Vastutav töötleja (vastavalt GDPR artikli 4 lõikele 7 on juriidiline isik, kes määrab isikuandmete töötlemise eesmärgi ja vahendid) Lumi Education GbR Jan Philip Schellenberg ja Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig , Saksamaa.",
+        "dataHeading": "Milliseid andmeid kogutakse? Kuidas seda kogutakse?",
+        "dataText": "Rakenduse kasutamise ajal edastatakse meie organisatsioonile või kolmandatele isikutele järgmised andmed:",
+        "dataTable": {
+            "header": "<th>Number</th><th>Andmed</th><th>Millal?</th><th>Kellele see edastatakse?</th>",
+            "row1": "<td>1</td><td>Teie paigalduse unikaalne identifikaator ja teie IP -aadress</td><td>Kui käivitate rakenduse</td><td rowspan=\"5\">Lumi Haridus GbR</td>",
+            "row2": "<td>2</td><td>Kui tihti te rakendust kasutate</td><td>Rakenduse käivitamisel ja kasutusstatistika lubamisel</td>",
+            "row3": "<td>3</td><td>Teave arvuti (operatsioonisüsteemi) ja asukoha kohta</td><td>Rakenduse käivitamisel ja kasutusstatistika lubamisel</td>",
+            "row4": "<td>4</td><td>Milliseid rakenduse osi kasutate</td><td>Kui kasutate rakendust ja teil on kasutusstatistika lubatud</td>",
+            "row5": "<td>5</td><td>Rakenduse kasutamisel ilmnevad vead</td><td>Kui teie rakenduses ilmneb tõrge ja teil on veaaruandlus lubatud</td>",
+            "row6": "<td>6</td><td>Teie IP -aadress</td><td>Uute rakenduste värskenduste kontrollimisel ja nende allalaadimisel</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, Ameerika Ühendriigid (vaadake nende privaatsuspoliitikat siit: https://docs.github.com/en/free-pro-team@latest/github/site- poliitika/github-privaatsusavaldus)</td>",
+            "row7": "<td>7</td><td>Teie IP -aadress</td><td>Rakenduse kasutamisel (fontide allalaadimiseks)</td><td>Google, Gordon House, Barrow Street, Dublin 4, Iirimaa (vaadake nende privaatsuspoliitikat siit: https://policies.google.com/privacy?hl=et)</td>",
+            "row8": "<td>8</td><td>Teie IP -aadress ja võib -olla ka muud andmed</td><td>Kui kasutate sisutüüpe, mis edastavad andmeid kolmandatele osapooltele (nt Räägi vastus edastab teie helisalvestise Google'ile selle transkribeerimiseks)</td><td>oleneb kasutatavast sisutüübist</td>"
+        },
+        "basisHeading": "Mille alusel me teie andmeid kogume?",
+        "basisText": "Kogume või edastame teie andmeid teie selgesõnalisel nõusolekul (GDPR artikli 6 lõige 1) numbrite 1–8 jaoks Lumi Playeri esimesel käivitamisel nõusoleku dialoogi kaudu. Andmete edastamine numbritega 7-8 on vajalik, et H5P mängija töötaks. Kui te sellele vastuväiteid esitate, pole rakendust tehniliselt võimalik kasutada.",
+        "usageHeading": "Kuidas me teie andmeid kasutame?",
+        "usageText": "Meie ettevõte kogub teie andmeid (numbrid 1–5), et saaksime:<ul><li> otsustada, milliseid rakenduse osi tuleks edasi arendada (nt lokaliseeritavate keelte valik)</li><li>kasutajaliidese optimeerimiseks</li><li>leidke ja parandage vigu</li><li>võtke teiega ühendust edasiste küsimuste korral teie teatatud vea kohta</li></ul> Teie andmeid ei kasutata üksikute otsuste tegemiseks, sealhulgas profileerimiseks.<br/><br/> Andmeid, mida me teie kohta saame, ei jagata teiste ettevõtete või organisatsioonidega, välja arvatud juhul, kui see on seadusega nõutud (nt õiguskaitseks) ja töötlemiseks (vt allpool). Me ei saa kontrollida, kuidas nad kasutavad otse kolmandatele osapooltele edastatud andmeid (numbrid 6–8).",
+        "storageHeading": "Kuidas me teie andmeid salvestame?",
+        "storageText": {
+            "sentence1": "Meie ettevõte kasutab andmetöötlejat, et turvaliselt salvestada teie rakenduste kasutamise andmed (numbrid 1–5) süsteemides, mida haldab Hetzner Online GmbH, Industriestr. 25, D-91710 Gunzenhausen, Saksamaa.",
+            "sentence2": "Meie ettevõte säilitab teie andmeid kaks aastat pärast nende kogumist. Kui see ajavahemik on möödas, kustutame teie andmed.",
+            "sentence3": "Me ei saa kontrollida, kuidas ja kui kaua kolmandatele isikutele (numbrid 6–8) edastatavaid andmeid säilitatakse. Kuna mõned vastuvõtjad elavad USA -s, on tõenäoline, et teie andmed edastatakse ja säilitatakse USA -s."
+        },
+        "rightsHeading": "Millised on teie andmekaitseõigused?",
+        "rightsText": "Meie ettevõte soovib veenduda, et olete täielikult teadlik kõigist oma andmekaitseõigustest. Igal kasutajal on õigus järgmisele:",
+        "rightsList": {
+            "r1": "Õigus töötlemisele vastuväiteid esitada - Teil on teatud tingimustel õigus esitada vastuväiteid meie ettevõtte andmetöötlusele.",
+            "r2": "Juurdepääsuõigus - teil on õigus nõuda meie ettevõttelt teie isikuandmete koopiaid. Selle teenuse eest võime küsida väikest tasu.",
+            "r3": "Õigus parandada - Teil on õigus nõuda, et meie ettevõte parandaks teie arvates ebatäpset teavet. Samuti on teil õigus nõuda meie ettevõttelt teie arvates puuduliku teabe täiendamist.",
+            "r4": "Õigus kustutamisele - Teil on teatud tingimustel õigus nõuda, et meie ettevõte kustutaks teie isikuandmed.",
+            "r5": "Õigus töötlemist piirata - Teil on õigus teatud tingimustel nõuda, et meie ettevõte piiraks teie isikuandmete töötlemist.",
+            "r6": "Õigus andmete teisaldatavusele - teil on õigus teatud tingimustel nõuda, et meie ettevõte edastaks kogutud andmed teisele organisatsioonile või otse teile."
+        },
+        "rightsContact": "Kui esitate taotluse, on meil teile vastamiseks aega üks kuu. Kui soovite mõnda neist õigustest kasutada, võtke meiega ühendust meie e <a href=\"mailto:c@Lumi.education\">-posti aadressil: c@Lumi.education</a><br/><br/> Kõik numbrites 6–8 kirjeldatud andmeid edastavad taotlused tuleb suunata otse adressaatidele.",
+        "otherSitesHeading": "Teiste veebisaitide privaatsuspoliitika",
+        "otherSitesText": "Meie rakendus sisaldab linke teistele veebisaitidele. Meie privaatsuspoliitika kehtib ainult meie veebisaidi kohta, nii et kui klõpsate mõne teise veebisaidi lingil, peaksite lugema selle privaatsuspoliitikat.",
+        "changesHeading": "Muudatused meie privaatsuspoliitikas",
+        "changesText": "Meie ettevõte jälgib regulaarselt oma privaatsuspoliitikat ja paigutab sellele veebisaidile kõik värskendused. Seda privaatsuspoliitikat uuendati viimati 12. juulil 2021.",
+        "contactHeading": "Kuidas meiega ühendust võtta",
+        "contactText": "Kui teil on küsimusi meie ettevõtte privaatsuspoliitika, teie valduses olevate andmete kohta või soovite kasutada mõnda oma andmekaitseõigust, võtke meiega julgelt ühendust. Saatke meile e <a href=\"mailto:c@Lumi.education\">-kiri: c@Lumi.education</a>",
+        "authorityHeading": "Kuidas pöörduda vastava asutuse poole",
+        "authorityText": "Kui soovite kaebusest teatada või kui arvate, et meie ettevõte ei ole teie murega rahuldavalt tegelenud, võite võtta ühendust teabevoliniku bürooga.<br/><br/> E <a href=\"mailto:poststelle@lfd.niedersachsen.de\">-post: poststelle@lfd.niedersachsen.de</a><br /> Aadress:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Saksamaa"
     }
 }

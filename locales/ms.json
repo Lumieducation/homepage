@@ -19,7 +19,8 @@
         "home": "Rumah",
         "menu": "Menu",
         "newsletter": "Surat berita",
-        "download": "Muat turun"
+        "download": "Muat turun",
+        "support": "Sokong kami"
     },
     "newsletter": {
         "placeholder": "masukkan alamat e-mel anda untuk menerima buletin kami",
@@ -129,6 +130,108 @@
         "changesText": "Syarikat kami memastikan dasar privasinya dalam semakan berkala dan membuat sebarang kemas kini di laman web ini. Dasar privasi ini terakhir dikemas kini pada 10 Julai 2021.",
         "contactHeading": "Cara menghubungi kami",
         "contactText": "Sekiranya anda mempunyai pertanyaan mengenai dasar privasi syarikat kami, data yang kami simpan, atau anda ingin menggunakan salah satu hak perlindungan data anda, jangan ragu untuk menghubungi kami. <a href=\"mailto:c@Lumi.education\">Hantarkan</a> e-mel kepada kami di: c@Lumi.education",
+        "authorityHeading": "Cara menghubungi pihak berkuasa yang sesuai",
+        "authorityText": "Sekiranya anda ingin melaporkan aduan atau jika anda merasakan bahawa syarikat kami tidak menangani masalah anda dengan cara yang memuaskan, anda boleh menghubungi Pejabat Pesuruhjaya Maklumat.<br/><br/> E-mel: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Alamat:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Jerman"
+    },
+    "support": {
+        "header": "Sokong Lumi dengan menaja kami",
+        "description": "Malah produk sumber percuma dan terbuka tidak boleh dibuat secara percuma. Lumi dikembangkan, dikekalkan dan disokong oleh dua orang guru pada masa lapang mereka dengan tujuan untuk menjadikan pendidikan digital lebih mudah diakses, individu dan menarik untuk semua orang. Anda boleh membantu kami meningkatkan Lumi dengan menderma atau menaja.",
+        "donateVia": "Sumbang melalui",
+        "whatWeDoIntro": "Oleh kerana jumlah pengguna dan perkhidmatan yang semakin meningkat, kami perlu menangani permintaan sokongan dan ciri, kos kami juga akan meningkat. Derma anda membantu kami untuk membebaskan Lumi.",
+        "whatWeDoHeader": "Apa sumbangan anda membantu kami lakukan",
+        "seeSupporters": "Lihat penyokong & penaja",
+        "whatWeDo": {
+            "bugFixes": {
+                "header": "Pembetulan Bug",
+                "description": "Memperbaiki pepijat dan meningkatkan kualiti aplikasi dengan mengadakan sistem telemetri dan debug."
+            },
+            "hosting": {
+                "header": "Hosting",
+                "description": "Sebarkan Lumi dengan menghoskan halaman utama dan menggunakan alat Search Engine Optimization."
+            },
+            "security": {
+                "header": "Keselamatan",
+                "description": "Jadikan pemasangan mudah dan selamat dengan membeli sijil digital untuk menandatangani pemasang untuk macOS dan Windows."
+            },
+            "translation": {
+                "header": "Terjemahan",
+                "description": "Terjemahkan siaran masa depan ke dalam banyak bahasa dengan perkhidmatan terjemahan mesin."
+            },
+            "features": {
+                "header": "Ciri Baru",
+                "description": "Kembangkan dan perkenalkan ciri dan fungsi baru."
+            },
+            "community": {
+                "header": "Pelihara komuniti",
+                "description": "Balas mesej dan permintaan. Tulis buletin."
+            },
+            "free": {
+                "header": "Pastikan Lumi bebas",
+                "description": "Jadikan Lumi tersedia secara universal. Walaupun di kawasan yang mempunyai infrastruktur yang buruk."
+            },
+            "tools": {
+                "header": "Kembangkan alat",
+                "description": "Kami juga mengembangkan Perpustakaan Nodejs H5P, yang digunakan oleh pelbagai syarikat dan institusi."
+            }
+        },
+        "thanks": {
+            "subheading": "Penyokong Lumi",
+            "platinum": "Penaja Platinum",
+            "gold": "Penaja Emas",
+            "silver": "Penaja Perak",
+            "bronze": "Penaja Gangsa",
+            "supporters": "Penyokong",
+            "backers": "Penyokong",
+            "generousBackers": "Penyokong yang murah hati"
+        }
+    },
+    "appPlayerPrivacyPolicy": {
+        "title": "Lumi H5P Player - Dasar Privasi",
+        "definitions": "Untuk membantu anda memahami dasar privasi kami, ia secara automatik diterjemahkan <a href=\"/en/app-player/privacy-policy\">dari bahasa Inggeris yang asli</a> , yang merupakan dokumen yang mengikat secara sah. Sekiranya anda tidak memahami bahagian dokumen ini, hubungi kami seperti yang dijelaskan di bawah.<br/><br/> Editor Lumi H5P Desktop adalah aplikasi yang dikembangkan dan diedarkan oleh \"Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig\" (\"Lumi Education GbR\", \"kami\" dan \"syarikat kami\" berikut). Dasar privasi ini akan menerangkan bagaimana syarikat kami menggunakan data peribadi yang kami kumpulkan dari anda semasa anda menggunakan aplikasi.",
+        "scope": "Dasar privasi ini hanya berlaku untuk salinan aplikasi yang anda terima secara langsung dari Lumi Education GbR, sama ada dengan memuat turunnya dari laman web lumi.education, repositori GitHub di https://github.com/lumieducation/LumiPlayer atau dari kedai aplikasi. Sekiranya anda memuat turunnya dari gedung aplikasi, dasar privasi ini hanya berlaku jika anda memuat turunnya dari entri kedai rasmi Lumi Education GbR, yang boleh mempunyai salah satu penerbit ini (atau singkatan dari ini):<ul><li> Lumi Education GbR Jan Philip Schellenberg dan Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
+        "warningGPL": "Oleh kerana aplikasi Lumi H5P Player dilesenkan di bawah Lesen AGPL-3.0, sesiapa sahaja boleh menukar dan menyebarkan aplikasinya. Dasar privasi ini tidak berlaku untuk versi aplikasi Lumi Player yang diubah dan diterbitkan oleh orang lain.",
+        "controllerHeading": "Siapa yang bertanggungjawab untuk pengumpulan data dalam Lumi H5P Player?",
+        "controllerText": "Pengawal (menurut Artikel 4 (7) GDPR orang sah yang menentukan tujuan dan cara pemprosesan data peribadi) adalah Lumi Education GbR Jan Philip Schellenberg dan Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig , Jerman.",
+        "dataHeading": "Data apa yang dikumpulkan? Bagaimana ia dikumpulkan?",
+        "dataText": "Data berikut dihantar ke organisasi kami atau pihak ketiga semasa anda menggunakan aplikasi:",
+        "dataTable": {
+            "header": "<th>Nombor</th><th>Data</th><th>Bila?</th><th>Kepada siapa ia dihantar?</th>",
+            "row1": "<td>1</td><td>Pengecam unik pemasangan dan alamat IP anda</td><td>Semasa anda memulakan aplikasi</td><td rowspan=\"5\">Pendidikan Lumi GbR</td>",
+            "row2": "<td>2</td><td>Berapa kerap anda menggunakan aplikasi</td><td>Apabila anda memulakan aplikasi & statistik penggunaan diaktifkan</td>",
+            "row3": "<td>3</td><td>Maklumat mengenai komputer anda (sistem operasi) dan lokasi anda</td><td>Apabila anda memulakan aplikasi & statistik penggunaan diaktifkan</td>",
+            "row4": "<td>4</td><td>Bahagian aplikasi apa yang anda gunakan</td><td>Semasa anda menggunakan aplikasi & mengaktifkan statistik penggunaan</td>",
+            "row5": "<td>5</td><td>Kesalahan yang berlaku semasa anda menggunakan aplikasi</td><td>Sekiranya aplikasi anda menghadapi ralat & pelaporan bug anda diaktifkan</td>",
+            "row6": "<td>6</td><td>Alamat IP anda</td><td>Semasa memeriksa kemas kini aplikasi baru dan memuat turunnya</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, Amerika Syarikat (lihat dasar privasi mereka di sini: https://docs.github.com/en/free-pro-team@latest/github/site- polisi / pernyataan privasi github)</td>",
+            "row7": "<td>7</td><td>Alamat IP anda</td><td>Semasa menggunakan aplikasi (untuk memuat turun fon)</td><td>Google, Gordon House, Barrow Street, Dublin 4, Ireland (lihat dasar privasi mereka di sini: https://policies.google.com/privacy?hl=en)</td>",
+            "row8": "<td>8</td><td>Alamat IP anda dan mungkin data lain</td><td>Sekiranya anda menggunakan jenis kandungan yang menghantar data kepada pihak ketiga (mis. Ucapkan Jawapan menghantar rakaman suara anda ke Google untuk menyalinnya)</td><td>bergantung pada jenis kandungan yang digunakan</td>"
+        },
+        "basisHeading": "Atas dasar apa kami mengumpulkan data anda?",
+        "basisText": "Kami mengumpulkan atau mengirimkan data anda dengan persetujuan eksplisit anda (Art. 6 (1) GDPR) untuk nombor 1-8 melalui dialog persetujuan pada permulaan pertama Pemain Lumi. Penghantaran data dalam nombor 7-8 diperlukan agar pemain H5P dapat berfungsi. Sekiranya anda membantahnya, secara teknikal tidak mungkin menggunakan aplikasi tersebut.",
+        "usageHeading": "Bagaimana kami akan menggunakan data anda?",
+        "usageText": "Syarikat kami mengumpulkan data anda (nombor 1-5) sehingga kami dapat:<ul><li> tentukan bahagian aplikasi mana yang harus dikembangkan lebih lanjut (mis. pilihan bahasa untuk dilokalkan)</li><li>untuk mengoptimumkan antara muka pengguna</li><li>cari dan perbaiki pepijat</li><li>hubungi anda dengan pertanyaan susulan mengenai bug yang dilaporkan oleh anda</li></ul> Data anda tidak digunakan untuk membuat keputusan secara individu, termasuk pembuatan profil.<br/><br/> Data yang kami terima mengenai anda tidak dibagikan dengan syarikat atau organisasi lain, kecuali jika kami diminta untuk melakukannya oleh undang-undang (misalnya untuk penguatkuasaan undang-undang) dan untuk tujuan pemprosesan (lihat di bawah). Di luar kawalan kita bagaimana data yang dihantar terus ke pihak ketiga (nombor 6-8) digunakan oleh mereka.",
+        "storageHeading": "Bagaimana kami menyimpan data anda?",
+        "storageText": {
+            "sentence1": "Syarikat kami menggunakan pemproses data untuk menyimpan data mengenai penggunaan aplikasi anda (nombor 1-5) dengan selamat pada sistem yang dikendalikan oleh Hetzner Online GmbH, Industriestr. 25, D-91710 Gunzenhausen, Jerman.",
+            "sentence2": "Syarikat kami akan menyimpan data anda selama dua tahun setelah dikumpulkan. Setelah jangka masa ini tamat, kami akan menghapus data anda.",
+            "sentence3": "Di luar kawalan kita bagaimana data yang dihantar terus ke pihak ketiga (nombor 6-8) disimpan oleh mereka dan berapa lama. Oleh kerana sebilangan penerima tinggal di AS, kemungkinan data anda dihantar ke dan disimpan di Amerika Syarikat."
+        },
+        "rightsHeading": "Apa hak perlindungan data anda?",
+        "rightsText": "Syarikat kami ingin memastikan anda mengetahui sepenuhnya semua hak perlindungan data anda. Setiap pengguna berhak mendapat yang berikut:",
+        "rightsList": {
+            "r1": "Hak untuk memproses - Anda berhak untuk membantah pemprosesan data peribadi anda oleh syarikat kami, dalam keadaan tertentu.",
+            "r2": "Hak untuk mengakses - Anda berhak meminta salinan data peribadi anda dari syarikat kami. Kami mungkin mengenakan sedikit bayaran untuk perkhidmatan ini.",
+            "r3": "Hak untuk pembetulan - Anda berhak meminta syarikat kami membetulkan segala maklumat yang anda percayai tidak tepat. Anda juga berhak meminta syarikat kami melengkapkan maklumat yang anda percaya tidak lengkap.",
+            "r4": "Hak penghapusan - Anda berhak meminta syarikat kami menghapus data peribadi anda, dalam keadaan tertentu.",
+            "r5": "Hak untuk menyekat pemprosesan - Anda berhak untuk meminta syarikat kami menyekat pemprosesan data peribadi anda, dalam keadaan tertentu.",
+            "r6": "Hak untuk mudah alih data - Anda berhak meminta syarikat kami memindahkan data yang telah kami kumpulkan ke organisasi lain, atau langsung kepada anda, dalam keadaan tertentu."
+        },
+        "rightsContact": "Sekiranya anda membuat permintaan, kami mempunyai satu bulan untuk menjawab anda. Sekiranya anda ingin menggunakan mana-mana hak ini, sila hubungi kami di e-mel kami: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a><br/><br/> Semua permintaan mengenai data yang dikirimkan seperti yang dijelaskan dalam angka 6-8 harus diarahkan langsung kepada penerima.",
+        "otherSitesHeading": "Dasar privasi laman web lain",
+        "otherSitesText": "Aplikasi kami mengandungi pautan ke laman web lain. Dasar privasi kami hanya berlaku untuk laman web kami, jadi jika anda mengklik pautan ke laman web lain, anda harus membaca kebijakan privasi mereka.",
+        "changesHeading": "Perubahan pada dasar privasi kami",
+        "changesText": "Syarikat kami memastikan dasar privasinya dalam semakan berkala dan membuat kemas kini di laman web ini. Dasar privasi ini terakhir dikemas kini pada 12 Julai 2021.",
+        "contactHeading": "Cara menghubungi kami",
+        "contactText": "Sekiranya anda mempunyai pertanyaan mengenai dasar privasi syarikat kami, data yang kami simpan kepada anda, atau anda ingin menggunakan salah satu hak perlindungan data anda, jangan ragu untuk menghubungi kami. <a href=\"mailto:c@Lumi.education\">Hantarkan</a> e-mel kepada kami di: c@Lumi.education",
         "authorityHeading": "Cara menghubungi pihak berkuasa yang sesuai",
         "authorityText": "Sekiranya anda ingin melaporkan aduan atau jika anda merasakan bahawa syarikat kami tidak menangani masalah anda dengan cara yang memuaskan, anda boleh menghubungi Pejabat Pesuruhjaya Maklumat.<br/><br/> E-mel: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Alamat:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Jerman"
     }

@@ -13,7 +13,8 @@
         "home": "Etxea",
         "menu": "Menua",
         "newsletter": "Buletina",
-        "download": "Deskargatu"
+        "download": "Deskargatu",
+        "support": "Lagundu iezaguzu"
     },
     "newsletter": {
         "placeholder": "idatzi zure helbide elektronikoa gure buletina jasotzeko",
@@ -127,6 +128,108 @@
         "otherSitesText": "Gure aplikazioak beste webgune batzuetarako estekak ditu. Gure pribatutasun politika gure webgunean soilik aplikatzen da, beraz, beste webgune baterako esteka batean klik egiten baduzu, haien pribatutasun politika irakurri beharko zenuke.",
         "changesHeading": "Gure pribatutasun politikan egindako aldaketak",
         "changesText": "Gure enpresak bere pribatutasun politika aldian aldian berrikusten du eta web orrialde honetan eguneratzeak jartzen ditu. Pribatutasun politika hau 2021eko uztailaren 10ean eguneratu zen azkenekoz.",
+        "contactHeading": "Nola jarri harremanetan gurekin",
+        "contactText": "Gure konpainiaren pribatutasun politikari, guk dauzkagun datuei edo zure datuak babesteko eskubideren bat baliatu nahi baduzu, zalantzarik baduzu, jar zaitez gurekin harremanetan. Bidali posta elektroniko bidez: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
+        "authorityHeading": "Nola jarri harremanetan dagokion agintaritzarekin",
+        "authorityText": "Kexaren berri eman nahi baduzu edo gure enpresak zure kezka modu egokian zuzendu ez duela uste baduzu, Informazio Batzordearen Bulegora jo dezakezu.<br/><br/> Posta elektronikoa: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Helbidea:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Alemania"
+    },
+    "support": {
+        "header": "Lagundu Lumi babestuz",
+        "description": "Doako eta irekiko produktu bat ere ez da doakoa. Lumi bi irakasleek beren denbora librean garatu, mantendu eta babesten dute hezkuntza digitala irisgarriagoa, indibiduala eta guztiontzat zirraragarria izan dadin. Lumi hobetzen lagun diezagukezu emanez edo babestuz.",
+        "donateVia": "Eman bidez",
+        "whatWeDoIntro": "Laguntza eta eginbide eskaerak kudeatu behar ditugun erabiltzaile eta zerbitzu kopurua gero eta handiagoa dela eta, gure kostuak ere handitzen ari dira. Zure dohaintzek Lumi doakoa izaten laguntzen digute.",
+        "whatWeDoHeader": "Zure dohaintzak egiten laguntzen diguna",
+        "seeSupporters": "Ikusi aldekoak eta babesleak",
+        "whatWeDo": {
+            "bugFixes": {
+                "header": "Akats zuzenketa",
+                "description": "Akatsak konpontzea eta aplikazioaren kalitatea hobetzea telemetria eta arazketa sistemak ostatatuz."
+            },
+            "hosting": {
+                "header": "Ostatua",
+                "description": "Zabaldu Lumi hasierako orria ostatatuz eta Bilaketa-motorrak optimizatzeko tresnak erabiliz."
+            },
+            "security": {
+                "header": "Segurtasuna",
+                "description": "Instalazioak errazak eta seguruak izan ziurtagiri digitalak erosiz macOS eta Windows instalatzaileak sinatzeko."
+            },
+            "translation": {
+                "header": "Itzulpenak",
+                "description": "Itzuli etorkizuneko oharrak hizkuntza askotara itzulpen automatiko zerbitzuekin."
+            },
+            "features": {
+                "header": "Ezaugarri berriak",
+                "description": "Ezaugarri eta funtzionalitate berriak garatu eta aurkeztu."
+            },
+            "community": {
+                "header": "Komunitatea mantendu",
+                "description": "Erantzun mezu eta eskaerei. Buletinak idatzi."
+            },
+            "free": {
+                "header": "Mantendu Lumi libre",
+                "description": "Jarri Lumi eskuragarri. Azpiegitura txarrak dituzten eskualdeetan ere."
+            },
+            "tools": {
+                "header": "Tresnak garatu",
+                "description": "Hainbat enpresa eta erakundek erabiltzen duten H5P Nodejs Liburutegia ere garatzen dugu."
+            }
+        },
+        "thanks": {
+            "subheading": "Lumiaren aldekoak",
+            "platinum": "Platinozko Babesleak",
+            "gold": "Urrezko Babesleak",
+            "silver": "Zilarrezko Babesleak",
+            "bronze": "Brontzezko Babesleak",
+            "supporters": "Aldekoak",
+            "backers": "Babesleak",
+            "generousBackers": "Babesle eskuzabalak"
+        }
+    },
+    "appPlayerPrivacyPolicy": {
+        "title": "Lumi H5P Player - Pribatutasun politika",
+        "definitions": "Gure pribatutasun politika ulertzen laguntzeko <a href=\"/en/app-player/privacy-policy\">, ingelesezko jatorrizkotik</a> automatikoki itzuli zen, hau da, legez loteslea den dokumentua. Dokumentu honen atalak ulertzen ez badituzu, jarri gurekin harremanetan jarraian azaltzen den moduan.<br/><br/> Lumi H5P Desktop Editor \"Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig\" (\"Lumi Education GbR\", \"we\" eta \"our company\" honako hauek garatu eta banatutako aplikazioa da). Pribatutasun politika honek gure enpresak aplikazioa erabiltzen duzun bitartean zugandik jasotzen ditugun datu pertsonalak nola erabiltzen dituen azalduko du.",
+        "scope": "Pribatutasun politika hau Lumi Education GbR-tik zuzenean jaso duzun aplikazioaren kopiei soilik aplikatzen zaie, lumi.education webgunetik, https://github.com/lumieducation/LumiPlayer helbideko edo GitHub biltegitik deskargatuta edo aplikazio denda batetik. Aplikazio denda batetik deskargatu baduzu, pribatutasun politika hau Lumi Education GbR dendako sarrera ofizial batetik deskargatu baduzu bakarrik argitaratzen da, argitaletxe horietako bat izan dezake (edo horien laburdura):<ul><li> Lumi Education GbR Jan Philip Schellenberg eta Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
+        "warningGPL": "Lumi H5P Player aplikazioa AGPL-3.0 lizentziaren baitan dagoenez, edonork aldatu eta banatu dezake aplikazioa. Pribatutasun politika hau ez zaie aplikatzen beste inork aldatu eta argitaratutako Lumi Player aplikazioaren bertsioei.",
+        "controllerHeading": "Nor da Lumi H5P Player-en datuak biltzeaz arduratzen dena?",
+        "controllerText": "Kontrolatzailea (datu pertsonalen tratamenduaren xedea eta bitartekoak zehazten dituen 4. artikuluaren (7.) GDPRren arabera) Lumi Education GbR da Jan Philip Schellenberg eta Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig , Alemania.",
+        "dataHeading": "Zer datu biltzen dira? Nola biltzen da?",
+        "dataText": "Datu hauek gure erakundeari edo hirugarren batzuei transmititzen zaizkizu aplikazioa erabiltzen duzun bitartean:",
+        "dataTable": {
+            "header": "<th>Zenbakia</th><th>Datuak</th><th>Noiz?</th><th>Nori transmititzen zaio?</th>",
+            "row1": "<td>1</td><td>Zure instalazioaren eta zure IP helbidearen identifikatzaile bakarra</td><td>Aplikazioa abiaraztean</td><td rowspan=\"5\">Lumi Education GbR</td>",
+            "row2": "<td>2</td><td>Aplikazioa zenbat aldiz erabiltzen duzun</td><td>Aplikazioa abiarazi eta erabilera estatistikak gaituta dituzunean</td>",
+            "row3": "<td>3</td><td>Zure ordenagailuari (sistema eragilea) eta zure kokapenari buruzko informazioa</td><td>Aplikazioa abiarazi eta erabilera estatistikak gaituta dituzunean</td>",
+            "row4": "<td>4</td><td>Aplikazioaren zer atal erabiltzen dituzun</td><td>Aplikazioa erabiltzen duzun bitartean eta estatistikak gaituta dituzula</td>",
+            "row5": "<td>5</td><td>Aplikazioa erabiltzen duzunean gertatzen diren akatsak</td><td>Aplikazioak akatsen bat aurkitzen badu eta akatsen berri ematea gaituta baduzu</td>",
+            "row6": "<td>6</td><td>Zure IP helbidea</td><td>Aplikazio berrien eguneratzeak egiaztatzean eta deskargatzean</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, Estatu Batuak (ikusi pribatutasun politika hemen: https://docs.github.com/en/free-pro-team@latest/github/site- politika / github-pribatutasun-adierazpena)</td>",
+            "row7": "<td>7</td><td>Zure IP helbidea</td><td>Aplikazioa erabiltzean (letra tipoak deskargatzeko)</td><td>Google, Gordon House, Barrow Street, Dublin 4, Irlanda (ikusi pribatutasun politika hemen: https://policies.google.com/privacy?hl=eu)</td>",
+            "row8": "<td>8</td><td>Zure IP helbidea eta agian beste datu batzuk</td><td>Hirugarrenei datuak transmititzen dituzten eduki motak erabiltzen badituzu (adibidez, Speak the Answer-ek zure ahotsa grabatzen du Google-ri transkribatzeko)</td><td>erabilitako eduki motaren araberakoa da</td>"
+        },
+        "basisHeading": "Zein oinarritan biltzen ditugu zure datuak?",
+        "basisText": "Zure datuak zure baimen esplizituarekin (GDPR 6 (1) art.) Biltzen edo igortzen ditugu 1-8 zenbakietarako Lumi Player lehen abiaraztearen baimen elkarrizketaren bidez. Datuen transmisioa 7-8 zenbakietan beharrezkoa da H5P erreproduzitzaileak funtziona dezan. Horren aurka egiten baduzu, teknikoki ezin da aplikazioa erabili.",
+        "usageHeading": "Nola erabiliko ditugu zure datuak?",
+        "usageText": "Gure enpresak zure datuak (1-5 zenbakiak) biltzen ditu guk honela egin ahal izateko:<ul><li> erabaki aplikazioaren zer atal gehiago garatu behar diren (adibidez, lokalizatzeko hizkuntzak hautatzea)</li><li>erabiltzailearen interfazea optimizatzeko</li><li>akatsak aurkitu eta konpondu</li><li>zurekin harremanetan jarri zuk salatutako akats bati buruzko jarraipen-galderekin</li></ul> Zure datuak ez dira banakako erabakiak hartzeko erabiltzen, profilak barne.<br/><br/> Zuri buruz jasotzen ditugun datuak ez dira beste enpresa edo erakunde batzuekin partekatzen, salbu eta legeak hala eskatzen badigu (adibidez, legea betearazteko) eta prozesatzeko (ikus beherago). Gure kontroletik kanpo dago hirugarrenei zuzenean transmititzen zaizkien datuak (6-8 zenbakiak) nola erabiltzen dituzten.",
+        "storageHeading": "Nola gordetzen ditugu zure datuak?",
+        "storageText": {
+            "sentence1": "Gure enpresak datu prozesadorea erabiltzen du zure aplikazioaren erabilerari buruzko datuak (1-5 zenbakiak) modu seguruan gordetzeko Hetzner Online GmbH-k, Industriestr-ek kudeatzen dituen sistemetan. 25, D-91710 Gunzenhausen, Alemania.",
+            "sentence2": "Gure enpresak gorde egingo ditu zure datuak bildu eta bi urtera. Denbora hori igarotakoan, zure datuak ezabatuko ditugu.",
+            "sentence3": "Gure kontroletik kanpo dago hirugarrenei zuzenean transmititzen zaizkien datuak (6-8 zenbakiak) nola gordetzen dituzten eta zenbat denboraz. Hartzaileetako batzuk AEBetan bizi direnez, litekeena da zure datuak AEBetara igortzea eta biltegiratzea."
+        },
+        "rightsHeading": "Zein dira zure datuak babesteko eskubideak?",
+        "rightsText": "Gure enpresak zure datuak babesteko eskubide guztiak ezagutzen dituzula ziurtatu nahi du. Erabiltzaile orok honako hau izateko eskubidea du:",
+        "rightsList": {
+            "r1": "Tratamenduaren aurka egiteko eskubidea - Gure enpresak zure datu pertsonalak tratatzearen aurka egiteko eskubidea duzu, baldintza jakin batzuetan.",
+            "r2": "Sarbide eskubidea - Gure enpresari zure datu pertsonalen kopiak eskatzeko eskubidea duzu. Zerbitzu honengatik kuota txiki bat kobratuko dizugu.",
+            "r3": "Zuzenketarako eskubidea - Gure enpresari zuzena ez den informazioa zuzentzeko eskatzeko eskubidea duzu. Gainera, eskubidea duzu gure konpainiari osatu ez duzula uste duzun informazioa osatzeko eskatzeko.",
+            "r4": "Ezabatzeko eskubidea - Baldintza jakin batzuetan gure enpresari zure datu pertsonalak ezabatzeko eskatzeko eskubidea duzu.",
+            "r5": "Tratamendua mugatzeko eskubidea - Baldintza jakin batzuetan gure enpresari zure datu pertsonalen tratamendua mugatzeko eskatzeko eskubidea duzu.",
+            "r6": "Datuak eramateko eskubidea - Eskubidea duzu gure enpresak bildu ditugun datuak beste erakunde batera edo zuzenean zuri transferitzeko eskatzeko baldintza jakin batzuetan."
+        },
+        "rightsContact": "Eskaera egiten baduzu, hilabeteko epea dugu zuri erantzuteko. Eskubide hauetakoren bat erabili nahi baduzu, jar zaitez gurekin harremanetan gure posta elektronikora: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a><br/><br/> 6-8 zenbakietan deskribatutako datuen inguruko eskaera guztiak hartzaileei zuzendu behar zaizkie.",
+        "otherSitesHeading": "Beste webgune batzuen pribatutasun politikak",
+        "otherSitesText": "Gure aplikazioak beste webgune batzuetarako estekak ditu. Gure pribatutasun politika gure webgunean soilik aplikatzen da, beraz, beste webgune baterako esteka batean klik egiten baduzu, haien pribatutasun politika irakurri beharko zenuke.",
+        "changesHeading": "Gure pribatutasun politikan egindako aldaketak",
+        "changesText": "Gure enpresak bere pribatutasun politika aldian aldian berrikusten du eta web orrialde honetan eguneratzeak jartzen ditu. Pribatutasun politika hau azkeneko aldiz 2021eko uztailaren 12an eguneratu zen.",
         "contactHeading": "Nola jarri harremanetan gurekin",
         "contactText": "Gure konpainiaren pribatutasun politikari, guk dauzkagun datuei edo zure datuak babesteko eskubideren bat baliatu nahi baduzu, zalantzarik baduzu, jar zaitez gurekin harremanetan. Bidali posta elektroniko bidez: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "Nola jarri harremanetan dagokion agintaritzarekin",

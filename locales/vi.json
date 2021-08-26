@@ -19,7 +19,8 @@
         "home": "Trang Chủ",
         "menu": "Thực đơn",
         "newsletter": "Bản tin",
-        "download": "Tải xuống"
+        "download": "Tải xuống",
+        "support": "Ủng hộ chúng tôi"
     },
     "newsletter": {
         "placeholder": "Nhập địa chỉ email của bạn để nhận bản tin của chúng tôi",
@@ -131,5 +132,107 @@
         "contactText": "Nếu bạn có bất kỳ câu hỏi nào về chính sách bảo mật của công ty chúng tôi, dữ liệu mà chúng tôi lưu giữ trên bạn hoặc bạn muốn thực hiện một trong các quyền bảo vệ dữ liệu của mình, vui lòng liên hệ với chúng tôi. Gửi email cho chúng tôi theo địa chỉ: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "Làm thế nào để liên hệ với cơ quan thích hợp",
         "authorityText": "Nếu bạn muốn báo cáo khiếu nại hoặc nếu bạn cảm thấy rằng công ty chúng tôi chưa giải quyết mối quan tâm của bạn một cách thỏa đáng, bạn có thể liên hệ với Văn phòng Ủy viên Thông tin.<br/><br/> Email: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Địa chỉ:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> nước Đức"
+    },
+    "support": {
+        "header": "Hỗ trợ Lumi bằng cách tài trợ cho chúng tôi",
+        "description": "Ngay cả một sản phẩm mã nguồn mở và miễn phí cũng không được tạo ra miễn phí. Lumi được phát triển, duy trì và hỗ trợ bởi hai giáo viên trong thời gian rảnh của họ với mục tiêu làm cho giáo dục kỹ thuật số trở nên dễ tiếp cận, cá nhân và thú vị hơn cho tất cả mọi người. Bạn có thể giúp chúng tôi cải thiện Lumi bằng cách quyên góp hoặc tài trợ.",
+        "donateVia": "Quyên góp qua",
+        "whatWeDoIntro": "Do số lượng người dùng và dịch vụ ngày càng tăng, chúng tôi cần xử lý các yêu cầu hỗ trợ và tính năng, chi phí của chúng tôi cũng tăng lên. Các khoản đóng góp của bạn giúp chúng tôi giữ Lumi miễn phí.",
+        "whatWeDoHeader": "Khoản đóng góp của bạn giúp chúng tôi làm gì",
+        "seeSupporters": "Xem những người ủng hộ và nhà tài trợ",
+        "whatWeDo": {
+            "bugFixes": {
+                "header": "Sửa lỗi",
+                "description": "Sửa lỗi và cải thiện chất lượng của ứng dụng bằng cách lưu trữ hệ thống gỡ lỗi và đo từ xa."
+            },
+            "hosting": {
+                "header": "Lưu trữ",
+                "description": "Truyền bá Lumi bằng cách lưu trữ trang chủ và sử dụng các công cụ Tối ưu hóa Công cụ Tìm kiếm."
+            },
+            "security": {
+                "header": "Bảo vệ",
+                "description": "Giúp cài đặt dễ dàng và an toàn thông qua việc mua chứng chỉ kỹ thuật số để ký các trình cài đặt cho macOS và Windows."
+            },
+            "translation": {
+                "header": "Bản dịch",
+                "description": "Dịch các bản phát hành trong tương lai sang nhiều ngôn ngữ với dịch vụ dịch máy."
+            },
+            "features": {
+                "header": "Các tính năng mới",
+                "description": "Phát triển và giới thiệu các tính năng và chức năng mới."
+            },
+            "community": {
+                "header": "Duy trì cộng đồng",
+                "description": "Trả lời tin nhắn và yêu cầu. Viết bản tin."
+            },
+            "free": {
+                "header": "Giữ cho Lumi tự do",
+                "description": "Cung cấp Lumi trên toàn cầu. Ngay cả ở những vùng có cơ sở hạ tầng không tốt."
+            },
+            "tools": {
+                "header": "Phát triển các công cụ",
+                "description": "Chúng tôi cũng phát triển Thư viện H5P Nodejs, được sử dụng bởi các công ty và tổ chức khác nhau."
+            }
+        },
+        "thanks": {
+            "subheading": "Những người ủng hộ Lumi",
+            "platinum": "Nhà tài trợ bạch kim",
+            "gold": "Nhà tài trợ vàng",
+            "silver": "Nhà tài trợ Bạc",
+            "bronze": "Nhà tài trợ Đồng",
+            "supporters": "Những người ủng hộ",
+            "backers": "Những người ủng hộ",
+            "generousBackers": "Những người ủng hộ hào phóng"
+        }
+    },
+    "appPlayerPrivacyPolicy": {
+        "title": "Lumi H5P Player - Chính sách quyền riêng tư",
+        "definitions": "Để giúp bạn hiểu chính sách bảo mật của chúng tôi, chính sách này đã được dịch tự động <a href=\"/en/app-player/privacy-policy\">từ bản gốc tiếng Anh</a> , là tài liệu ràng buộc về mặt pháp lý. Nếu bạn không hiểu các phần của tài liệu này, hãy liên hệ với chúng tôi theo mô tả bên dưới.<br/><br/> Lumi H5P Desktop Editor là một ứng dụng được phát triển và phân phối bởi “Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig” (“Lumi Education GbR”, “chúng tôi” và “công ty của chúng tôi” trong phần sau). Chính sách bảo mật này sẽ giải thích cách công ty chúng tôi sử dụng dữ liệu cá nhân mà chúng tôi thu thập từ bạn khi bạn sử dụng ứng dụng.",
+        "scope": "Chính sách bảo mật này chỉ áp dụng cho các bản sao của ứng dụng bạn nhận được trực tiếp từ Lumi Education GbR, bằng cách tải xuống từ trang web lumi.education, kho lưu trữ GitHub tại https://github.com/lumieducation/LumiPlayer hoặc từ một cửa hàng ứng dụng. Nếu bạn đã tải xuống từ một cửa hàng ứng dụng, chính sách bảo mật này chỉ áp dụng nếu bạn tải xuống từ một cửa hàng chính thức của Lumi Education GbR, có thể có một trong những nhà xuất bản sau (hoặc tên viết tắt của những nhà xuất bản này):<ul><li> Lumi Education GbR Jan Philip Schellenberg và Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
+        "warningGPL": "Vì ứng dụng Lumi H5P Player được cấp phép theo Giấy phép AGPL-3.0 nên bất kỳ ai cũng có thể thay đổi và phân phối ứng dụng. Chính sách bảo mật này không áp dụng cho các phiên bản của ứng dụng Lumi Player đã được sửa đổi và xuất bản bởi bất kỳ ai khác.",
+        "controllerHeading": "Ai chịu trách nhiệm thu thập dữ liệu trong Lumi H5P Player?",
+        "controllerText": "Người kiểm soát (theo Điều 4 (7) GDPR, pháp nhân xác định mục đích và phương tiện xử lý dữ liệu cá nhân) là Lumi Education GbR Jan Philip Schellenberg và Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig , Nước Đức.",
+        "dataHeading": "Dữ liệu nào được thu thập? Nó được thu thập như thế nào?",
+        "dataText": "Dữ liệu sau được truyền tới tổ chức của chúng tôi hoặc các bên thứ ba trong khi bạn sử dụng ứng dụng:",
+        "dataTable": {
+            "header": "<th>Con số</th><th>Dữ liệu</th><th>Khi nào?</th><th>Nó được truyền cho ai?</th>",
+            "row1": "<td>1</td><td>Số nhận dạng duy nhất của cài đặt và địa chỉ IP của bạn</td><td>Khi bạn khởi động ứng dụng</td><td rowspan=\"5\">Lumi Education GbR</td>",
+            "row2": "<td>2</td><td>Tần suất bạn sử dụng ứng dụng</td><td>Khi bạn khởi động ứng dụng và đã bật thống kê sử dụng</td>",
+            "row3": "<td>3</td><td>Thông tin về máy tính (hệ điều hành) và vị trí của bạn</td><td>Khi bạn khởi động ứng dụng và đã bật thống kê sử dụng</td>",
+            "row4": "<td>4</td><td>Bạn sử dụng phần nào của ứng dụng</td><td>Trong khi bạn sử dụng ứng dụng và đã bật thống kê sử dụng</td>",
+            "row5": "<td>5</td><td>Các lỗi xảy ra khi bạn sử dụng ứng dụng</td><td>Nếu ứng dụng của bạn gặp lỗi và bạn đã bật báo cáo lỗi</td>",
+            "row6": "<td>6</td><td>Địa chỉ IP của bạn</td><td>Khi kiểm tra các bản cập nhật ứng dụng mới và tải chúng xuống</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, Hoa Kỳ (xem chính sách bảo mật của họ tại đây: https://docs.github.com/en/free-pro-team@latest/github/site- chính sách / github-privacy-statement)</td>",
+            "row7": "<td>7</td><td>Địa chỉ IP của bạn</td><td>Khi sử dụng ứng dụng (để tải xuống phông chữ)</td><td>Google, Gordon House, Barrow Street, Dublin 4, Ireland (xem chính sách bảo mật của họ tại đây: https://policies.google.com/privacy?hl=vi)</td>",
+            "row8": "<td>số 8</td><td>Địa chỉ IP của bạn và có thể là dữ liệu khác</td><td>Nếu bạn sử dụng các loại nội dung truyền dữ liệu cho bên thứ ba (ví dụ: Nói câu trả lời sẽ truyền bản ghi âm giọng nói của bạn tới Google để phiên âm)</td><td>phụ thuộc vào loại nội dung được sử dụng</td>"
+        },
+        "basisHeading": "Chúng tôi thu thập dữ liệu của bạn dựa trên cơ sở nào?",
+        "basisText": "Chúng tôi thu thập hoặc truyền dữ liệu của bạn với sự đồng ý rõ ràng của bạn (Điều 6 (1) a GDPR) cho các số từ 1-8 thông qua hộp thoại đồng ý vào lần khởi động đầu tiên của Trình phát Lumi. Việc truyền dữ liệu ở các số 7-8 là bắt buộc để đầu phát H5P hoạt động. Nếu bạn phản đối, về mặt kỹ thuật, bạn không thể sử dụng ứng dụng.",
+        "usageHeading": "Chúng tôi sẽ sử dụng dữ liệu của bạn như thế nào?",
+        "usageText": "Công ty chúng tôi thu thập dữ liệu của bạn (số 1-5) để chúng tôi có thể:<ul><li> quyết định những phần nào của ứng dụng sẽ được phát triển thêm (ví dụ: lựa chọn ngôn ngữ để bản địa hóa)</li><li>để tối ưu hóa giao diện người dùng</li><li>tìm và sửa lỗi</li><li>liên hệ với bạn nếu có các câu hỏi tiếp theo về lỗi do bạn báo cáo</li></ul> Dữ liệu của bạn không được sử dụng cho việc ra quyết định cá nhân, bao gồm cả việc lập hồ sơ.<br/><br/> Dữ liệu mà chúng tôi nhận được về bạn không được chia sẻ với các công ty hoặc tổ chức khác, ngoại trừ trường hợp chúng tôi buộc phải làm như vậy theo luật (ví dụ: để thực thi pháp luật) và cho các mục đích xử lý (xem bên dưới). Việc chúng tôi sử dụng dữ liệu được truyền trực tiếp đến các bên thứ ba (số 6-8) như thế nào nằm ngoài tầm kiểm soát của chúng tôi.",
+        "storageHeading": "Làm cách nào để chúng tôi lưu trữ dữ liệu của bạn?",
+        "storageText": {
+            "sentence1": "Công ty chúng tôi sử dụng bộ xử lý dữ liệu để lưu trữ an toàn dữ liệu về việc sử dụng ứng dụng của bạn (số 1-5) trên các hệ thống do Hetzner Online GmbH, Industriestr điều hành. 25, D-91710 Gunzenhausen, Đức.",
+            "sentence2": "Công ty chúng tôi sẽ giữ dữ liệu của bạn trong hai năm sau khi dữ liệu được thu thập. Khi khoảng thời gian này đã hết, chúng tôi sẽ xóa dữ liệu của bạn.",
+            "sentence3": "Chúng tôi nằm ngoài tầm kiểm soát của chúng tôi về cách thức dữ liệu được truyền trực tiếp cho bên thứ ba (số 6-8) được họ lưu trữ và trong bao lâu. Vì một số người nhận cư trú ở Hoa Kỳ, nên có khả năng dữ liệu của bạn được truyền đến và lưu trữ ở Hoa Kỳ."
+        },
+        "rightsHeading": "Quyền bảo vệ dữ liệu của bạn là gì?",
+        "rightsText": "Công ty chúng tôi muốn đảm bảo rằng bạn nhận thức đầy đủ về tất cả các quyền bảo vệ dữ liệu của mình. Mọi người dùng được hưởng những điều sau đây:",
+        "rightsList": {
+            "r1": "Quyền phản đối việc xử lý - Bạn có quyền phản đối việc công ty chúng tôi xử lý dữ liệu cá nhân của bạn, trong một số điều kiện nhất định.",
+            "r2": "Quyền truy cập - Bạn có quyền yêu cầu công ty chúng tôi cung cấp bản sao dữ liệu cá nhân của bạn. Chúng tôi có thể tính cho bạn một khoản phí nhỏ cho dịch vụ này.",
+            "r3": "Quyền cải chính - Bạn có quyền yêu cầu công ty chúng tôi chỉnh sửa bất kỳ thông tin nào mà bạn cho là không chính xác. Bạn cũng có quyền yêu cầu công ty chúng tôi hoàn thiện những thông tin mà bạn cho là chưa đầy đủ.",
+            "r4": "Quyền xóa - Bạn có quyền yêu cầu công ty chúng tôi xóa dữ liệu cá nhân của bạn, theo một số điều kiện nhất định.",
+            "r5": "Quyền hạn chế xử lý - Bạn có quyền yêu cầu công ty chúng tôi hạn chế việc xử lý dữ liệu cá nhân của bạn, trong một số điều kiện nhất định.",
+            "r6": "Quyền đối với tính khả chuyển của dữ liệu - Bạn có quyền yêu cầu công ty của chúng tôi chuyển dữ liệu mà chúng tôi đã thu thập cho một tổ chức khác hoặc trực tiếp cho bạn, theo một số điều kiện nhất định."
+        },
+        "rightsContact": "Nếu bạn đưa ra yêu cầu, chúng tôi có một tháng để trả lời bạn. Nếu bạn muốn thực hiện bất kỳ quyền nào trong số này, vui lòng liên hệ với chúng tôi theo địa chỉ email: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a><br/><br/> Tất cả các yêu cầu liên quan đến dữ liệu được truyền như mô tả trong số 6-8 phải được chuyển trực tiếp đến người nhận.",
+        "otherSitesHeading": "Chính sách bảo mật của các trang web khác",
+        "otherSitesText": "Ứng dụng của chúng tôi chứa các liên kết đến các trang web khác. Chính sách bảo mật của chúng tôi chỉ áp dụng cho trang web của chúng tôi, vì vậy nếu bạn nhấp vào liên kết đến một trang web khác, bạn nên đọc chính sách bảo mật của họ.",
+        "changesHeading": "Các thay đổi đối với chính sách bảo mật của chúng tôi",
+        "changesText": "Công ty chúng tôi giữ chính sách bảo mật của mình dưới sự xem xét thường xuyên và đặt bất kỳ cập nhật nào trên trang web này. Chính sách bảo mật này được cập nhật lần cuối vào ngày 12 tháng 7 năm 2021.",
+        "contactHeading": "Liên lạc với chúng tôi bằng cách nào",
+        "contactText": "Nếu bạn có bất kỳ câu hỏi nào về chính sách bảo mật của công ty chúng tôi, dữ liệu mà chúng tôi lưu giữ trên bạn hoặc bạn muốn thực hiện một trong các quyền bảo vệ dữ liệu của mình, vui lòng liên hệ với chúng tôi. Gửi email cho chúng tôi theo địa chỉ: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
+        "authorityHeading": "Làm thế nào để liên hệ với cơ quan thích hợp",
+        "authorityText": "Nếu bạn muốn báo cáo khiếu nại hoặc nếu bạn cảm thấy rằng công ty của chúng tôi chưa giải quyết mối quan tâm của bạn một cách thỏa đáng, bạn có thể liên hệ với Văn phòng Ủy viên Thông tin.<br/><br/> Email: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Địa chỉ nhà:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> nước Đức"
     }
 }

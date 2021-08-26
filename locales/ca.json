@@ -13,7 +13,8 @@
         "home": "Inici",
         "menu": "Menú",
         "newsletter": "Butlletí informatiu",
-        "download": "descarregar"
+        "download": "descarregar",
+        "support": "Dóna’ns suport"
     },
     "newsletter": {
         "placeholder": "introduïu la vostra adreça de correu electrònic per rebre el nostre butlletí",
@@ -127,6 +128,108 @@
         "otherSitesText": "La nostra aplicació conté enllaços a altres llocs web. La nostra política de privadesa només s’aplica al nostre lloc web, de manera que si feu clic a un enllaç a un altre lloc web, hauríeu de llegir-ne la política de privadesa.",
         "changesHeading": "Canvis a la nostra política de privadesa",
         "changesText": "La nostra empresa manté la seva política de privadesa sota revisió periòdica i posa actualitzacions en aquesta pàgina web. Aquesta política de privadesa es va actualitzar per última vegada el 10 de juliol de 2021.",
+        "contactHeading": "Com contactar amb nosaltres",
+        "contactText": "Si teniu cap pregunta sobre la política de privadesa de la nostra empresa, sobre les dades que tenim sobre vosaltres o si voleu exercir algun dels vostres drets de protecció de dades, no dubteu en posar-vos en contacte amb nosaltres. Envieu-nos un correu electrònic a: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
+        "authorityHeading": "Com contactar amb l'autoritat corresponent",
+        "authorityText": "Si voleu informar d’una queixa o si creieu que la nostra empresa no ha atès la vostra preocupació de manera satisfactòria, podeu contactar amb l’Oficina del Comissari d’Informació.<br/><br/> Correu electrònic: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Adreça:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Alemanya"
+    },
+    "support": {
+        "header": "Donem suport a Lumi patrocinant-nos",
+        "description": "Fins i tot un producte de codi obert i gratuït no és gratuït. Lumi està desenvolupat, mantingut i recolzat per dos professors en el seu temps lliure amb l'objectiu de fer que l'educació digital sigui més accessible, individual i emocionant per a tothom. Podeu ajudar-nos a millorar Lumi donant o patrocinant.",
+        "donateVia": "Feu una donació mitjançant",
+        "whatWeDoIntro": "A causa del nombre creixent d'usuaris i serveis que necessitem per atendre les sol·licituds d'assistència i funcions, els nostres costos també augmenten. Les vostres donacions ens ajuden a mantenir Lumi lliure.",
+        "whatWeDoHeader": "El que ens ajuda a fer la vostra donació",
+        "seeSupporters": "Consulteu els patrocinadors i els seguidors",
+        "whatWeDo": {
+            "bugFixes": {
+                "header": "Reparació d'errors",
+                "description": "Arreglar errors i millorar la qualitat de l’aplicació mitjançant l’allotjament de sistemes de telemetria i depuració."
+            },
+            "hosting": {
+                "header": "Allotjament",
+                "description": "Distribuïu Lumi allotjant la pàgina d'inici i utilitzant eines d'optimització de motors de cerca."
+            },
+            "security": {
+                "header": "Seguretat",
+                "description": "Feu que les instal·lacions siguin fàcils i segures mitjançant la compra de certificats digitals per signar els instal·ladors de macOS i Windows."
+            },
+            "translation": {
+                "header": "Traduccions",
+                "description": "Traduïu versions futures a molts idiomes amb serveis de traducció automàtica."
+            },
+            "features": {
+                "header": "Noves característiques",
+                "description": "Desenvolupeu i introduïu noves funcions i funcionalitats."
+            },
+            "community": {
+                "header": "Mantenir la comunitat",
+                "description": "Respon a missatges i sol·licituds. Redactar butlletins."
+            },
+            "free": {
+                "header": "Mantén Lumi lliure",
+                "description": "Feu que Lumi estigui disponible universalment. Fins i tot en regions amb mala infraestructura."
+            },
+            "tools": {
+                "header": "Desenvolupar eines",
+                "description": "També desenvolupem la biblioteca H5P Nodejs, que és utilitzada per diverses empreses i institucions."
+            }
+        },
+        "thanks": {
+            "subheading": "Els seguidors de Lumi",
+            "platinum": "Patrocinadors Platinum",
+            "gold": "Patrocinadors d'or",
+            "silver": "Patrocinadors de plata",
+            "bronze": "Patrocinadors de bronze",
+            "supporters": "Simpatitzants",
+            "backers": "Patrocinadors",
+            "generousBackers": "Generosos patrocinadors"
+        }
+    },
+    "appPlayerPrivacyPolicy": {
+        "title": "Lumi H5P Player - Política de privadesa",
+        "definitions": "Per ajudar-vos a entendre la nostra política de privadesa, es va traduir automàticament <a href=\"/en/app-player/privacy-policy\">de l'original en anglès</a> , que és el document legalment vinculant. Si no enteneu parts d’aquest document, poseu-vos en contacte amb nosaltres tal com es descriu a continuació.<br/><br/> Lumi H5P Desktop Editor és una aplicació desenvolupada i distribuïda per \"Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig\" (\"Lumi Education GbR\", \"nosaltres\" i \"la nostra empresa\" a continuació). Aquesta política de privadesa explicarà com la nostra empresa utilitza les dades personals que recopilem mentre utilitzeu l'aplicació.",
+        "scope": "Aquesta política de privadesa només s'aplica a les còpies de l'aplicació que heu rebut directament de Lumi Education GbR, ja sigui descarregant-la des del lloc web lumi.education, el dipòsit de GitHub a https://github.com/lumieducation/LumiPlayer o des d'una botiga d'aplicacions. Si l’heu descarregat des d’una botiga d’aplicacions, aquesta política de privadesa només s’aplica si la descarregueu des d’una entrada oficial de la botiga de Lumi Education GbR, que pot tenir un d’aquests editors (o una abreviatura d’aquests):<ul><li> Lumi Education GbR Jan Philip Schellenberg i Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
+        "warningGPL": "Com que l’aplicació Lumi H5P Player té llicència sota la llicència AGPL-3.0, qualsevol persona pot canviar i distribuir l’aplicació. Aquesta política de privadesa no s'aplica a les versions de l'aplicació Lumi Player que tothom hagi modificat i publicat.",
+        "controllerHeading": "Qui és responsable de la recopilació de dades a Lumi H5P Player?",
+        "controllerText": "El responsable del tractament (segons l'article 4 (7) GDPR, la persona jurídica que determina la finalitat i els mitjans del tractament de dades personals) és Lumi Education GbR Jan Philip Schellenberg i Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig , Alemanya.",
+        "dataHeading": "Quines dades es recullen? Com es recull?",
+        "dataText": "Les dades següents es transmeten a la nostra organització o a tercers mentre utilitzeu l'aplicació:",
+        "dataTable": {
+            "header": "<th>Número</th><th>Dades</th><th>Quan?</th><th>A qui es transmet?</th>",
+            "row1": "<td>1</td><td>Un identificador únic de la vostra instal·lació i la vostra adreça IP</td><td>Quan inicieu l'aplicació</td><td rowspan=\"5\">Lumi Education GbR</td>",
+            "row2": "<td>2</td><td>Freqüència amb què utilitzeu l'aplicació</td><td>Quan inicieu l'aplicació i tingueu activades les estadístiques d'ús</td>",
+            "row3": "<td>3</td><td>Informació sobre el vostre ordinador (sistema operatiu) i la vostra ubicació</td><td>Quan inicieu l'aplicació i tingueu activades les estadístiques d'ús</td>",
+            "row4": "<td>4</td><td>Quines parts de l'aplicació utilitzeu</td><td>Mentre utilitzeu l'aplicació i teniu activades les estadístiques d'ús</td>",
+            "row5": "<td>5</td><td>Errors que es produeixen mentre utilitzeu l'aplicació</td><td>Si l'aplicació detecta un error i teniu activat l'informe d'errors</td>",
+            "row6": "<td>6</td><td>La vostra adreça IP</td><td>Quan cerqueu actualitzacions d’aplicacions noves i les baixeu</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, Estats Units (vegeu la seva política de privadesa aquí: https://docs.github.com/en/free-pro-team@latest/github/site- política / declaració de privadesa de github)</td>",
+            "row7": "<td>7</td><td>La vostra adreça IP</td><td>Quan utilitzeu l'aplicació (per descarregar fonts)</td><td>Google, Gordon House, Barrow Street, Dublín 4, Irlanda (consulteu la seva política de privadesa aquí: https://policies.google.com/privacy?hl=ca)</td>",
+            "row8": "<td>8</td><td>La vostra adreça IP i possiblement altres dades</td><td>Si utilitzeu tipus de contingut que transmeten dades a tercers (per exemple, Speak the Answer transmet la vostra gravació de veu a Google per transcriure-la)</td><td>depèn del tipus de contingut utilitzat</td>"
+        },
+        "basisHeading": "En quina base recopilem les vostres dades?",
+        "basisText": "Recopilem o transmetem les vostres dades amb el vostre consentiment explícit (art. 6 (1) a GDPR) per als números 1-8 a través del quadre de diàleg de consentiment del primer inici de Lumi Player. La transmissió de dades als números 7-8 és necessària perquè el reproductor H5P funcioni. Si hi oponeu, tècnicament no és possible utilitzar l’aplicació.",
+        "usageHeading": "Com utilitzarem les vostres dades?",
+        "usageText": "La nostra empresa recopila les seves dades (números 1-5) perquè puguem:<ul><li> decidir quines parts de l'aplicació s'han de desenvolupar més (per exemple, l'elecció dels idiomes a localitzar)</li><li>per optimitzar la interfície d'usuari</li><li>trobar i corregir errors</li><li>poseu-vos en contacte amb vosaltres per fer preguntes de seguiment sobre un error que hàgiu informat</li></ul> Les vostres dades no s’utilitzen per a la presa de decisions individuals, inclòs el perfilat.<br/><br/> Les dades que rebem sobre vosaltres no es comparteixen amb altres empreses o organitzacions, tret que la llei ens obligui a fer-ho (per exemple, per fer complir la llei) i amb finalitats de processament (vegeu més avall). Està fora del nostre control com les dades que es transmeten directament a tercers (números 6-8) les utilitzen.",
+        "storageHeading": "Com emmagatzemem les vostres dades?",
+        "storageText": {
+            "sentence1": "La nostra empresa utilitza un processador de dades per emmagatzemar de forma segura les dades sobre l’ús de les vostres aplicacions (números 1-5) en sistemes gestionats per Hetzner Online GmbH, Industriestr. 25, D-91710 Gunzenhausen, Alemanya.",
+            "sentence2": "La nostra empresa conservarà les seves dades durant dos anys després de la seva recollida. Un cop expirat aquest període de temps, eliminarem les vostres dades.",
+            "sentence3": "Està fora del nostre control com les dades que es transmeten directament a tercers (números 6-8) les emmagatzemen i durant quant de temps. Com que alguns dels destinataris resideixen als EUA, és probable que les vostres dades es transmetin i s’emmagatzemin als EUA."
+        },
+        "rightsHeading": "Quins són els vostres drets de protecció de dades?",
+        "rightsText": "La nostra empresa vol assegurar-se que està totalment al corrent de tots els seus drets de protecció de dades. Tots els usuaris tenen dret al següent:",
+        "rightsList": {
+            "r1": "Dret d’oposició al tractament: teniu dret a oposar-vos al processament de les vostres dades personals per part de la nostra empresa, en determinades condicions.",
+            "r2": "Dret d’accés: teniu dret a sol·licitar a la nostra empresa còpies de les vostres dades personals. És possible que us cobrem una petita tarifa per aquest servei.",
+            "r3": "Dret a la rectificació: teniu dret a sol·licitar a la nostra empresa que corregeixi qualsevol informació que considereu inexacta. També teniu dret a sol·licitar a la nostra empresa que completi la informació que creieu incompleta.",
+            "r4": "El dret a la supressió: teniu dret a sol·licitar que la nostra empresa esborri les vostres dades personals, en determinades condicions.",
+            "r5": "El dret a restringir el tractament: teniu dret a sol·licitar a la nostra empresa que restringeixi el tractament de les vostres dades personals, en determinades condicions.",
+            "r6": "El dret a la portabilitat de les dades: teniu dret a sol·licitar que la nostra empresa transfereixi les dades que hem recollit a una altra organització o directament a vosaltres, en determinades condicions."
+        },
+        "rightsContact": "Si feu una sol·licitud, tenim un mes per respondre-us. Si voleu exercir algun d’aquests drets, poseu-vos en contacte amb nosaltres al nostre correu electrònic: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a><br/><br/> Totes les sol·licituds relatives a les dades transmeses tal com es descriu als números 6-8 s’han d’adreçar directament als destinataris.",
+        "otherSitesHeading": "Polítiques de privadesa d'altres llocs web",
+        "otherSitesText": "La nostra aplicació conté enllaços a altres llocs web. La nostra política de privadesa només s’aplica al nostre lloc web, de manera que si feu clic a un enllaç a un altre lloc web, hauríeu de llegir-ne la política de privadesa.",
+        "changesHeading": "Canvis a la nostra política de privadesa",
+        "changesText": "La nostra empresa manté la seva política de privadesa sota revisió periòdica i posa actualitzacions en aquesta pàgina web. Aquesta política de privadesa es va actualitzar per última vegada el 12 de juliol de 2021.",
         "contactHeading": "Com contactar amb nosaltres",
         "contactText": "Si teniu cap pregunta sobre la política de privadesa de la nostra empresa, sobre les dades que tenim sobre vosaltres o si voleu exercir algun dels vostres drets de protecció de dades, no dubteu en posar-vos en contacte amb nosaltres. Envieu-nos un correu electrònic a: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "Com contactar amb l'autoritat corresponent",

@@ -13,7 +13,8 @@
         "home": "Home",
         "menu": "Menü",
         "newsletter": "Newsletter",
-        "download": "Herunterladen"
+        "download": "Herunterladen",
+        "support": "Unterstütze uns"
     },
     "newsletter": {
         "placeholder": "Gib deine E-Mail-Adresse ein, um unseren Newsletter zu erhalten",
@@ -181,5 +182,57 @@
         "definitions": "Der Lumi H5P Player ist eine Anwendung, die von „Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig“ (im Folgenden „Lumi Education GbR“, „wir“ und „unser Unternehmen“) entwickelt und vertrieben wird. In dieser Datenschutzerklärung wird erläutert, wie unser Unternehmen die personenbezogenen Daten verwendet, die wir während der Nutzung der App von Ihnen erheben.",
         "scope": "Diese Datenschutzerklärung gilt nur für Kopien der App, die Sie direkt von Lumi Education GbR erhalten haben, entweder durch Herunterladen von der Website lumi.education, dem GitHub-Repository unter https://github.com/lumieducation/LumiPlayer oder aus einem App Store. Wenn Sie sie aus einem App Store heruntergeladen haben, gilt diese Datenschutzerklärung nur, wenn Sie sie von einem offiziellen Store-Eintrag der Lumi Education GbR heruntergeladen haben, der einen dieser Herausgeber (oder eine Abkürzung davon) haben kann:<ul><li> Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
         "title": "Lumi H5P Player - Datenschutzerklärung"
+    },
+    "support": {
+        "header": "Unterstützen Sie Lumi, indem Sie uns sponsern",
+        "description": "Selbst ein kostenloses Open-Source-Produkt ist nicht kostenlos. Lumi wird von zwei Lehrern in ihrer Freizeit entwickelt, gepflegt und unterstützt mit dem Ziel, digitale Bildung für alle zugänglicher, individueller und spannender zu machen. Sie können uns helfen, Lumi zu verbessern, indem Sie spenden oder sponsern.",
+        "donateVia": "Spenden über",
+        "whatWeDoIntro": "Aufgrund der steigenden Anzahl von Benutzern und Diensten, die wir für Support- und Funktionsanfragen benötigen, steigen auch unsere Kosten. Ihre Spenden helfen uns, Lumi frei zu halten.",
+        "whatWeDoHeader": "Wobei uns Ihre Spende hilft",
+        "seeSupporters": "Siehe Unterstützer & Sponsoren",
+        "whatWeDo": {
+            "bugFixes": {
+                "header": "Fehlerbehebung",
+                "description": "Beheben von Fehlern und Verbessern der Qualität der App durch Hosten von Telemetrie- und Debugging-Systemen."
+            },
+            "hosting": {
+                "header": "Hosting",
+                "description": "Verbreiten Sie Lumi, indem Sie die Homepage hosten und Tools zur Suchmaschinenoptimierung verwenden."
+            },
+            "security": {
+                "header": "Sicherheit",
+                "description": "Machen Sie Installationen einfach und sicher, indem Sie digitale Zertifikate kaufen, um die Installationsprogramme für macOS und Windows zu signieren."
+            },
+            "translation": {
+                "header": "Übersetzungen",
+                "description": "Übersetzen Sie zukünftige Versionen mit maschinellen Übersetzungsdiensten in viele Sprachen."
+            },
+            "features": {
+                "header": "Neue Eigenschaften",
+                "description": "Entwickeln und Einführen neuer Features und Funktionen."
+            },
+            "community": {
+                "header": "Pflege die Gemeinschaft",
+                "description": "Antworten Sie auf Nachrichten und Anfragen. Schreiben Sie Newsletter."
+            },
+            "free": {
+                "header": "Halte Lumi frei",
+                "description": "Lumi universell verfügbar machen. Auch in Regionen mit schlechter Infrastruktur."
+            },
+            "tools": {
+                "header": "Tools entwickeln",
+                "description": "Wir entwickeln auch die H5P Nodejs Library, die von verschiedenen Unternehmen und Institutionen genutzt wird."
+            }
+        },
+        "thanks": {
+            "subheading": "Lumi-Anhänger",
+            "platinum": "Platin-Sponsoren",
+            "gold": "Gold-Sponsoren",
+            "silver": "Silber Sponsoren",
+            "bronze": "Bronze-Sponsoren",
+            "supporters": "Unterstützer",
+            "backers": "Unterstützer",
+            "generousBackers": "Großzügige Unterstützer"
+        }
     }
 }

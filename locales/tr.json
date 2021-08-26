@@ -13,7 +13,8 @@
         "home": "Ev",
         "menu": "Menü",
         "newsletter": "Haber bülteni",
-        "download": "İndir"
+        "download": "İndir",
+        "support": "Bizi destekle"
     },
     "newsletter": {
         "placeholder": "bültenimizi almak için e-posta adresinizi girin",
@@ -127,6 +128,108 @@
         "otherSitesText": "Uygulamamız diğer web sitelerine bağlantılar içerir. Gizlilik politikamız yalnızca web sitemiz için geçerlidir, bu nedenle başka bir web sitesine giden bir bağlantıya tıklarsanız onların gizlilik politikalarını okumalısınız.",
         "changesHeading": "Gizlilik politikamızdaki değişiklikler",
         "changesText": "Şirketimiz gizlilik politikasını düzenli olarak gözden geçirmekte ve her türlü güncellemeyi bu web sayfasına yerleştirmektedir. Bu gizlilik politikası en son 10 Temmuz 2021'de güncellenmiştir.",
+        "contactHeading": "bizimle nasıl iletişime geçilir",
+        "contactText": "Şirketimizin gizlilik politikası, sizin hakkınızda tuttuğumuz veriler hakkında herhangi bir sorunuz varsa veya veri koruma haklarınızdan birini kullanmak istiyorsanız, lütfen bizimle iletişime geçmekten çekinmeyin. Bize e-posta gönderin: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
+        "authorityHeading": "Uygun makamla nasıl iletişime geçilir",
+        "authorityText": "Bir şikayeti bildirmek isterseniz veya şirketimizin endişenizi tatmin edici bir şekilde ele almadığını düşünüyorsanız, Bilgi Komiserliği ile iletişime geçebilirsiniz.<br/><br/> E-posta: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Adres:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstrasse 5<br /> D-30159 Hannover<br /> Almanya"
+    },
+    "support": {
+        "header": "Bize sponsor olarak Lumi'yi destekleyin",
+        "description": "Ücretsiz ve açık kaynaklı bir ürün bile yapmakta özgür değildir. Lumi, dijital eğitimi herkes için daha erişilebilir, bireysel ve heyecan verici hale getirmek amacıyla iki öğretmen tarafından boş zamanlarında geliştirilir, sürdürülür ve desteklenir. Bağışta bulunarak veya sponsor olarak Lumi'yi geliştirmemize yardımcı olabilirsiniz.",
+        "donateVia": "aracılığıyla bağış yapın",
+        "whatWeDoIntro": "Artan kullanıcı ve hizmet sayısı nedeniyle, destek ve özellik isteklerini ele almamız gerektiğinden, maliyetlerimiz de artıyor. Bağışlarınız Lumi'yi ücretsiz tutmamıza yardımcı oluyor.",
+        "whatWeDoHeader": "Bağışınız ne yapmamıza yardımcı oluyor",
+        "seeSupporters": "Destekçileri ve sponsorları görün",
+        "whatWeDo": {
+            "bugFixes": {
+                "header": "Hata düzeltmeleri",
+                "description": "Telemetri ve hata ayıklama sistemlerini barındırarak hataları düzeltme ve uygulamanın kalitesini artırma."
+            },
+            "hosting": {
+                "header": "Barındırma",
+                "description": "Ana sayfayı barındırarak ve Arama Motoru Optimizasyonu araçlarını kullanarak Lumi'yi yayın."
+            },
+            "security": {
+                "header": "Güvenlik",
+                "description": "macOS ve Windows yükleyicilerini imzalamak için dijital sertifikalar satın alarak yüklemeleri kolay ve güvenli hale getirin."
+            },
+            "translation": {
+                "header": "Çeviriler",
+                "description": "Makine çevirisi hizmetleriyle gelecekteki sürümleri birçok dile çevirin."
+            },
+            "features": {
+                "header": "Yeni özellikler",
+                "description": "Yeni özellikler ve işlevler geliştirin ve tanıtın."
+            },
+            "community": {
+                "header": "Topluluğu koru",
+                "description": "Mesajları ve istekleri yanıtlayın. Bültenler yazın."
+            },
+            "free": {
+                "header": "Lumi'yi ücretsiz tutun",
+                "description": "Lumi'yi evrensel olarak kullanılabilir hale getirin. Kötü altyapıya sahip bölgelerde bile."
+            },
+            "tools": {
+                "header": "Araçlar geliştirin",
+                "description": "Ayrıca çeşitli şirket ve kurumlar tarafından kullanılan H5P Nodejs Kütüphanesini de geliştiriyoruz."
+            }
+        },
+        "thanks": {
+            "subheading": "Lumi destekçileri",
+            "platinum": "Platin Sponsorlar",
+            "gold": "Altın Sponsorlar",
+            "silver": "Gümüş Sponsorlar",
+            "bronze": "Bronz Sponsorlar",
+            "supporters": "destekçiler",
+            "backers": "Destekçiler",
+            "generousBackers": "Cömert Destekçiler"
+        }
+    },
+    "appPlayerPrivacyPolicy": {
+        "title": "Lumi H5P Oynatıcı – Gizlilik Politikası",
+        "definitions": "Gizlilik politikamızı anlamanıza yardımcı olmak için, yasal olarak bağlayıcı belge olan <a href=\"/en/app-player/privacy-policy\">İngilizce orijinalinden otomatik olarak çevrilmiştir.</a> Bu belgenin bazı kısımlarını anlamadıysanız, aşağıda açıklandığı şekilde bizimle iletişime geçin.<br/><br/> Lumi H5P Desktop Editor, “Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig” (“Lumi Education GbR”, “biz” ve “şirketimiz”) tarafından geliştirilen ve dağıtılan bir uygulamadır. Bu gizlilik politikası, siz uygulamayı kullanırken şirketimizin sizden topladığımız kişisel verileri nasıl kullandığını açıklayacaktır.",
+        "scope": "Bu gizlilik politikası, yalnızca lumi.education web sitesinden, https://github.com/lumieducation/LumiPlayer adresindeki GitHub deposundan veya bir uygulama mağazasından indirerek doğrudan Lumi Education GbR'den aldığınız uygulamanın kopyaları için geçerlidir. Bir uygulama mağazasından indirdiyseniz, bu gizlilik politikası yalnızca, aşağıdaki yayıncılardan birine (veya bunların bir kısaltmasına) sahip olabilecek resmi bir Lumi Education GbR mağaza girişinden indirdiyseniz geçerlidir:<ul><li> Lumi Education GbR Jan Philip Schellenberg ve Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
+        "warningGPL": "Lumi H5P Player uygulaması AGPL-3.0 Lisansı altında lisanslandığından, herkes uygulamayı değiştirebilir ve dağıtabilir. Bu gizlilik politikası, Lumi Player uygulamasının başkaları tarafından değiştirilen ve yayınlanan sürümleri için geçerli değildir.",
+        "controllerHeading": "Lumi H5P Player'da veri toplamadan kim sorumludur?",
+        "controllerText": "Denetleyici (Madde 4 (7) GDPR'ye göre, kişisel verilerin işlenmesinin amacını ve araçlarını belirleyen tüzel kişi) Lumi Education GbR Jan Philip Schellenberg ve Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig'dir. , Almanya.",
+        "dataHeading": "Hangi veriler toplanır? Nasıl toplanır?",
+        "dataText": "Uygulamayı kullanırken aşağıdaki veriler kuruluşumuza veya üçüncü taraflara iletilir:",
+        "dataTable": {
+            "header": "<th>Sayı</th><th>Veri</th><th>Ne zaman?</th><th>Kime bulaşıyor?</th>",
+            "row1": "<td>1</td><td>Kurulumunuzun benzersiz bir tanımlayıcısı ve IP adresiniz</td><td>Uygulamayı başlattığınızda</td><td rowspan=\"5\">Lumi Eğitim GbR</td>",
+            "row2": "<td>2</td><td>Uygulamayı ne sıklıkla kullanıyorsunuz?</td><td>Uygulamayı başlattığınızda ve kullanım istatistiklerini etkinleştirdiğinizde</td>",
+            "row3": "<td>3</td><td>Bilgisayarınız (işletim sistemi) ve konumunuz hakkında bilgiler</td><td>Uygulamayı başlattığınızda ve kullanım istatistiklerini etkinleştirdiğinizde</td>",
+            "row4": "<td>4</td><td>Uygulamanın hangi kısımlarını kullanıyorsun</td><td>Uygulamayı kullanırken ve kullanım istatistiklerini etkinleştirirken</td>",
+            "row5": "<td>5</td><td>Uygulamayı kullanırken oluşan hatalar</td><td>Uygulamanız bir hatayla karşılaşırsa ve hata raporlamayı etkinleştirdiyseniz</td>",
+            "row6": "<td>6</td><td>IP adresiniz</td><td>Yeni uygulama güncellemelerini kontrol ederken ve indirirken</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, Amerika Birleşik Devletleri (buradan gizlilik politikalarına bakın: https://docs.github.com/en/free-pro-team@latest/github/site- politika/github-gizlilik bildirimi)</td>",
+            "row7": "<td>7</td><td>IP adresiniz</td><td>Uygulamayı kullanırken (yazı tiplerini indirmek için)</td><td>Google, Gordon House, Barrow Street, Dublin 4, İrlanda (buradan gizlilik politikalarına bakın: https://policies.google.com/privacy?hl=en)</td>",
+            "row8": "<td>8</td><td>IP adresiniz ve muhtemelen diğer verileriniz</td><td>Üçüncü taraflara veri aktaran içerik türleri kullanıyorsanız (örn. Yanıtı Söyleyin, ses kaydınızı yazıya dönüştürmek için Google'a iletir)</td><td>kullanılan içerik türüne bağlıdır</td>"
+        },
+        "basisHeading": "Verilerinizi hangi temelde topluyoruz?",
+        "basisText": "Verilerinizi, Lumi Player'ın ilk başlangıcındaki onay iletişim kutusu aracılığıyla 1-8 sayıları için açık izninizle (Madde 6 (1) a GDPR) toplar veya iletiriz. H5P oynatıcının çalışması için 7-8 sayıları arasındaki veri iletimi gereklidir. İtiraz ederseniz, uygulamayı kullanmanız teknik olarak mümkün değildir.",
+        "usageHeading": "Verilerinizi nasıl kullanacağız?",
+        "usageText": "Şirketimiz verilerinizi (1-5 arası sayılar) toplayarak şunları yapabiliriz:<ul><li> uygulamanın hangi bölümlerinin daha fazla geliştirilmesi gerektiğine karar verin (örneğin, yerelleştirilecek dillerin seçimi)</li><li>kullanıcı arayüzünü optimize etmek için</li><li>hataları bul ve düzelt</li><li>sizin tarafınızdan bildirilen bir hata hakkında takip soruları ile sizinle iletişim kurun</li></ul> Verileriniz, profil oluşturma da dahil olmak üzere bireysel karar verme için kullanılmaz.<br/><br/> Hakkınızda aldığımız veriler, kanunen (örneğin kanun yaptırımı için) ve işleme amaçları (aşağıya bakınız) tarafından yapmamız gerekmedikçe, diğer şirketler veya kuruluşlarla paylaşılmaz. Doğrudan üçüncü taraflara (6-8 numaralar) aktarılan verilerin onlar tarafından nasıl kullanıldığı bizim kontrolümüz dışındadır.",
+        "storageHeading": "Verilerinizi nasıl saklarız?",
+        "storageText": {
+            "sentence1": "Şirketimiz, uygulama kullanımınızla ilgili verileri (1-5 arası sayılar) Hetzner Online GmbH, Industriestr tarafından işletilen sistemlerde güvenli bir şekilde depolamak için bir veri işlemcisi kullanır. 25 , D-91710 Gunzenhausen, Almanya.",
+            "sentence2": "Şirketimiz, verilerinizi toplandıktan sonra iki yıl süreyle saklayacaktır. Bu süre sona erdiğinde verilerinizi sileriz.",
+            "sentence3": "Doğrudan üçüncü taraflara (6-8 numaralar) aktarılan verilerin onlar tarafından nasıl ve ne kadar süreyle saklanacağı bizim kontrolümüz dışındadır. Bazı alıcılar ABD'de ikamet ettiğinden, verilerinizin ABD'ye iletilmesi ve ABD'de saklanması muhtemeldir."
+        },
+        "rightsHeading": "Veri koruma haklarınız nelerdir?",
+        "rightsText": "Şirketimiz, tüm veri koruma haklarınızdan tamamen haberdar olduğunuzdan emin olmak ister. Her kullanıcı aşağıdaki haklara sahiptir:",
+        "rightsList": {
+            "r1": "İşlenmeye itiraz etme hakkı – Şirketimizin kişisel verilerinizi işlemesine belirli koşullar altında itiraz etme hakkınız vardır.",
+            "r2": "Erişim hakkı – Şirketimizden kişisel verilerinizin kopyalarını talep etme hakkına sahipsiniz. Bu hizmet için sizden küçük bir ücret talep edebiliriz.",
+            "r3": "Düzeltme hakkı – Şirketimizin yanlış olduğuna inandığınız herhangi bir bilgiyi düzeltmesini talep etme hakkınız vardır. Ayrıca eksik olduğunu düşündüğünüz bilgileri şirketimizden tamamlamasını talep etme hakkınız da bulunmaktadır.",
+            "r4": "Silme hakkı – Belirli koşullar altında şirketimizden kişisel verilerinizi silmesini talep etme hakkına sahipsiniz.",
+            "r5": "İşlemeyi kısıtlama hakkı – Şirketimizden belirli koşullar altında kişisel verilerinizin işlenmesini kısıtlamasını talep etme hakkına sahipsiniz.",
+            "r6": "Veri taşınabilirliği hakkı – Şirketimizden topladığımız verileri belirli koşullar altında başka bir kuruluşa veya doğrudan size aktarmasını talep etme hakkınız vardır."
+        },
+        "rightsContact": "Bir istekte bulunursanız, size yanıt vermek için bir ayımız var. Bu haklardan herhangi birini kullanmak isterseniz, lütfen e-posta <a href=\"mailto:c@Lumi.education\">adresimizden bizimle iletişime geçin: c@Lumi.education</a><br/><br/> 6-8 numaralarında açıklandığı gibi iletilen verilerle ilgili tüm talepler doğrudan alıcılara yönlendirilmelidir.",
+        "otherSitesHeading": "Diğer web sitelerinin gizlilik politikaları",
+        "otherSitesText": "Uygulamamız diğer web sitelerine bağlantılar içerir. Gizlilik politikamız yalnızca web sitemiz için geçerlidir, bu nedenle başka bir web sitesine giden bir bağlantıya tıklarsanız, onların gizlilik politikalarını okumalısınız.",
+        "changesHeading": "Gizlilik politikamızdaki değişiklikler",
+        "changesText": "Şirketimiz gizlilik politikasını düzenli olarak gözden geçirmekte ve her türlü güncellemeyi bu web sayfasına yerleştirmektedir. Bu gizlilik politikası en son 12 Temmuz 2021'de güncellenmiştir.",
         "contactHeading": "bizimle nasıl iletişime geçilir",
         "contactText": "Şirketimizin gizlilik politikası, sizin hakkınızda tuttuğumuz veriler hakkında herhangi bir sorunuz varsa veya veri koruma haklarınızdan birini kullanmak istiyorsanız, lütfen bizimle iletişime geçmekten çekinmeyin. Bize e-posta gönderin: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "Uygun makamla nasıl iletişime geçilir",

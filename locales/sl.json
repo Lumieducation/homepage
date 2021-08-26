@@ -13,7 +13,8 @@
         "home": "Domov",
         "menu": "Meni",
         "newsletter": "Glasilo",
-        "download": "Prenesi"
+        "download": "Prenesi",
+        "support": "Podprite nas"
     },
     "newsletter": {
         "placeholder": "vnesite svoj e-poštni naslov za prejemanje našega glasila",
@@ -131,5 +132,107 @@
         "contactText": "Če imate kakršna koli vprašanja v zvezi s politiko zasebnosti našega podjetja, podatki, ki jih imamo o vas, ali če želite uveljaviti eno od svojih pravic do varstva podatkov, nas prosimo kontaktirajte. Pišite nam na: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "Kako stopiti v stik z ustreznim organom",
         "authorityText": "Če želite prijaviti pritožbo ali če menite, da naše podjetje vaše težave ni obravnavalo zadovoljivo, se lahko obrnete na urad informacijskega pooblaščenca.<br/><br/> E-naslov: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Naslov:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Nemčija"
+    },
+    "support": {
+        "header": "Podprite Lumi tako, da nas sponzorirate",
+        "description": "Tudi brezplačen in odprtokodni izdelek ni brezplačen. Lumi razvijata, vzdržujeta in podpirata dva učitelja v prostem času, da bi digitalno izobraževanje postalo dostopnejše, individualno in vznemirljivo za vse. Lahko nam pomagate izboljšati Lumi z donacijo ali sponzoriranjem.",
+        "donateVia": "Donirajte prek",
+        "whatWeDoIntro": "Zaradi vse večjega števila uporabnikov in storitev, ki jih moramo obravnavati glede podpore in zahtev po funkcijah, naraščajo tudi naši stroški. Vaše donacije nam pomagajo ohraniti Lumi prosto.",
+        "whatWeDoHeader": "Kaj nam pomaga vaša donacija",
+        "seeSupporters": "Oglejte si sponzorje in sponzorje",
+        "whatWeDo": {
+            "bugFixes": {
+                "header": "Popravljene napake",
+                "description": "Odpravljanje napak in izboljšanje kakovosti aplikacije s sistemom gostovanja telemetrije in odpravljanja napak."
+            },
+            "hosting": {
+                "header": "Gostovanje",
+                "description": "Razširite Lumi tako, da gostite domačo stran in uporabite orodja za optimizacijo iskalnikov."
+            },
+            "security": {
+                "header": "Varnost",
+                "description": "Omogočite enostavne in varne namestitve z nakupom digitalnih potrdil za podpis namestitvenih programov za macOS in Windows."
+            },
+            "translation": {
+                "header": "Prevodi",
+                "description": "S storitvami strojnega prevajanja prevajajte prihodnje izdaje v številne jezike."
+            },
+            "features": {
+                "header": "Nove lastnosti",
+                "description": "Razviti in predstaviti nove funkcije in funkcionalnosti."
+            },
+            "community": {
+                "header": "Ohranite skupnost",
+                "description": "Odgovorite na sporočila in zahteve. Napišite glasila."
+            },
+            "free": {
+                "header": "Naj bo Lumi prost",
+                "description": "Naj bo Lumi univerzalno na voljo. Tudi v regijah s slabo infrastrukturo."
+            },
+            "tools": {
+                "header": "Razvijte orodja",
+                "description": "Razvijamo tudi knjižnico H5P Nodejs, ki jo uporabljajo različna podjetja in ustanove."
+            }
+        },
+        "thanks": {
+            "subheading": "Podporniki Lumija",
+            "platinum": "Platinasti sponzorji",
+            "gold": "Zlati sponzorji",
+            "silver": "Srebrni sponzorji",
+            "bronze": "Bronasti sponzorji",
+            "supporters": "Podporniki",
+            "backers": "Podporniki",
+            "generousBackers": "Velikodušni podporniki"
+        }
+    },
+    "appPlayerPrivacyPolicy": {
+        "title": "Lumi H5P Player - Politika zasebnosti",
+        "definitions": "Za lažje razumevanje naše politike zasebnosti je bila samodejno prevedena <a href=\"/en/app-player/privacy-policy\">iz angleškega izvirnika</a> , ki je pravno zavezujoč dokument. Če ne razumete delov tega dokumenta, se obrnite na nas, kot je opisano spodaj.<br/><br/> Numizni urejevalnik Lumi H5P je aplikacija, ki so jo razvili in distribuirali »Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig« (v nadaljevanju »Lumi Education GbR«, »mi« in »naše podjetje«). Ta politika zasebnosti pojasnjuje, kako naše podjetje uporablja osebne podatke, ki jih zbiramo od vas med uporabo aplikacije.",
+        "scope": "Ta politika zasebnosti velja samo za kopije aplikacije, ki ste jih prejeli neposredno od Lumi Education GbR, bodisi tako, da jo prenesete s spletnega mesta lumi.education, skladišča GitHub na naslovu https://github.com/lumieducation/LumiPlayer ali iz trgovine z aplikacijami. Če ste ga prenesli iz trgovine z aplikacijami, ta pravilnik o zasebnosti velja le, če ste ga prenesli iz uradnega vnosa v trgovini Lumi Education GbR, ki ima lahko enega od teh založnikov (ali njihovo kratico):<ul><li> Lumi Education GbR Jan Philip Schellenberg in Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
+        "warningGPL": "Ker je aplikacija Lumi H5P Player licencirana pod licenco AGPL-3.0, jo lahko vsak spremeni in distribuira. Ta politika zasebnosti ne velja za različice aplikacije Lumi Player, ki jih je spremenil in objavil kdo drug.",
+        "controllerHeading": "Kdo je odgovoren za zbiranje podatkov v Lumi H5P Player?",
+        "controllerText": "Upravljavec (v skladu s členom 4 (7) GDPR je pravna oseba, ki določa namen in sredstva obdelave osebnih podatkov) sta Lumi Education GbR Jan Philip Schellenberg in Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig , Nemčija.",
+        "dataHeading": "Kateri podatki se zbirajo? Kako se zbira?",
+        "dataText": "Naslednji podatki se med uporabo aplikacije posredujejo naši organizaciji ali tretjim osebam:",
+        "dataTable": {
+            "header": "<th>Številka</th><th>Podatki</th><th>Kdaj?</th><th>Komu se prenaša?</th>",
+            "row1": "<td>1</td><td>Edinstven identifikator vaše namestitve in vaš IP naslov</td><td>Ko zaženete aplikacijo</td><td rowspan=\"5\">Lumi izobraževanje GbR</td>",
+            "row2": "<td>2</td><td>Kako pogosto uporabljate aplikacijo</td><td>Ko zaženete aplikacijo in omogočite statistiko uporabe</td>",
+            "row3": "<td>3</td><td>Podatki o vašem računalniku (operacijskem sistemu) in vaši lokaciji</td><td>Ko zaženete aplikacijo in omogočite statistiko uporabe</td>",
+            "row4": "<td>4</td><td>Katere dele aplikacije uporabljate</td><td>Medtem ko uporabljate aplikacijo in imate omogočeno statistiko uporabe</td>",
+            "row5": "<td>5</td><td>Napake, ki se pojavijo med uporabo aplikacije</td><td>Če vaša aplikacija naleti na napako in imate omogočeno poročanje o hroščih</td>",
+            "row6": "<td>6</td><td>Vaš IP naslov</td><td>Pri preverjanju novih posodobitev aplikacij in njihovem prenosu</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, Združene države (oglejte si njihovo politiko zasebnosti tukaj: https://docs.github.com/en/free-pro-team@latest/github/site- policy/github-privacy-statement)</td>",
+            "row7": "<td>7</td><td>Vaš IP naslov</td><td>Pri uporabi aplikacije (za prenos pisav)</td><td>Google, Gordon House, Barrow Street, Dublin 4, Irska (njihovo politiko zasebnosti si oglejte tukaj: https://policies.google.com/privacy?hl=sl)</td>",
+            "row8": "<td>8</td><td>Vaš IP naslov in morda drugi podatki</td><td>Če uporabljate vrste vsebine, ki prenašajo podatke tretjim osebam (npr. Speak the Answer prenaša vaš glasovni posnetek Googlu, da ga prepiše)</td><td>odvisno od vrste uporabljene vsebine</td>"
+        },
+        "basisHeading": "Na podlagi česa zbiramo vaše podatke?",
+        "basisText": "Vaše podatke zbiramo ali posredujemo z vašim izrecnim soglasjem (člen 6 (1) GDPR) za številke 1-8 v pogovornem oknu za soglasje ob prvem zagonu Lumi Playerja. Za delovanje predvajalnika H5P je potreben prenos podatkov v številkah 7-8. Če temu nasprotujete, aplikacije tehnično ni mogoče uporabiti.",
+        "usageHeading": "Kako bomo uporabili vaše podatke?",
+        "usageText": "Naše podjetje zbira vaše podatke (številke 1-5), da lahko:<ul><li> odločite se, katere dele aplikacije je treba še naprej razvijati (npr. izbira jezikov za lokalizacijo)</li><li>za optimizacijo uporabniškega vmesnika</li><li>poiščite in odpravite napake</li><li>se obrnite na vas z dodatnimi vprašanji glede hrošča, ki ste ga prijavili</li></ul> Vaši podatki se ne uporabljajo za individualno odločanje, vključno s profiliranjem.<br/><br/> Podatki, ki jih prejemamo o vas, se ne delijo z drugimi podjetji ali organizacijami, razen če to zahtevamo po zakonu (npr. Za kazenski pregon) in za namene obdelave (glejte spodaj). Izven našega nadzora je, kako ti uporabljajo podatke, ki se posredujejo neposredno tretjim osebam (številke 6-8).",
+        "storageHeading": "Kako hranimo vaše podatke?",
+        "storageText": {
+            "sentence1": "Naše podjetje uporablja procesor podatkov za varno shranjevanje podatkov o uporabi vaše aplikacije (številke 1-5) v sistemih, ki jih upravlja Hetzner Online GmbH, Industriestr. 25, D-91710 Gunzenhausen, Nemčija.",
+            "sentence2": "Naše podjetje bo vaše podatke hranilo dve leti po njihovem zbiranju. Ko se to obdobje izteče, bomo vaše podatke izbrisali.",
+            "sentence3": "Ne moremo nadzorovati, kako se podatki, ki se posredujejo neposredno tretjim osebam (številke 6-8), hranijo in kako dolgo. Ker nekateri prejemniki prebivajo v ZDA, je verjetno, da se vaši podatki posredujejo in shranijo v ZDA."
+        },
+        "rightsHeading": "Kakšne so vaše pravice do varstva podatkov?",
+        "rightsText": "Naše podjetje bi se želelo prepričati, da ste v celoti seznanjeni z vsemi svojimi pravicami do varstva podatkov. Vsak uporabnik ima pravico do naslednjega:",
+        "rightsList": {
+            "r1": "Pravica do ugovora obdelavi - Pod določenimi pogoji imate pravico nasprotovati obdelavi vaših osebnih podatkov v našem podjetju.",
+            "r2": "Pravica do dostopa - Imate pravico, da od našega podjetja zahtevate kopije vaših osebnih podatkov. Za to storitev vam lahko zaračunamo majhno pristojbino.",
+            "r3": "Pravica do popravka - imate pravico zahtevati, da naše podjetje popravi vse podatke, za katere menite, da so netočni. Prav tako imate pravico zahtevati, da naše podjetje dopolni podatke, za katere menite, da so nepopolni.",
+            "r4": "Pravica do izbrisa - Imate pravico zahtevati, da naše podjetje pod določenimi pogoji izbriše vaše osebne podatke.",
+            "r5": "Pravica do omejitve obdelave - imate pravico zahtevati, da naše podjetje pod določenimi pogoji omeji obdelavo vaših osebnih podatkov.",
+            "r6": "Pravica do prenosljivosti podatkov - Imate pravico zahtevati, da naše podjetje pod določenimi pogoji prenese podatke, ki smo jih zbrali, drugi organizaciji ali neposredno vam."
+        },
+        "rightsContact": "Če vložite zahtevo, imamo na voljo en mesec, da vam odgovorimo. Če želite uveljavljati katero od teh pravic, nam pišite na naš e <a href=\"mailto:c@Lumi.education\">-poštni naslov: c@Lumi.education</a><br/><br/> Vse zahteve v zvezi s posredovanimi podatki, kot je opisano v številkah 6-8, je treba poslati neposredno prejemnikom.",
+        "otherSitesHeading": "Politike zasebnosti drugih spletnih mest",
+        "otherSitesText": "Naša aplikacija vsebuje povezave do drugih spletnih mest. Naša politika zasebnosti velja samo za naše spletno mesto, zato, če kliknete povezavo do drugega spletnega mesta, preberite njihovo politiko zasebnosti.",
+        "changesHeading": "Spremembe naše politike zasebnosti",
+        "changesText": "Naše podjetje redno preverja svojo politiko zasebnosti in na tej spletni strani objavlja vse posodobitve. Ta politika zasebnosti je bila nazadnje posodobljena 12. julija 2021.",
+        "contactHeading": "Kako stopiti v stik z nami",
+        "contactText": "Če imate kakršna koli vprašanja o politiki zasebnosti našega podjetja, podatkih, ki jih imamo o vas, ali bi radi uveljavili eno od svojih pravic do varstva podatkov, se obrnite na nas. Pošljite nam e <a href=\"mailto:c@Lumi.education\">-pošto na: c@Lumi.education</a>",
+        "authorityHeading": "Kako stopiti v stik z ustreznim organom",
+        "authorityText": "Če želite prijaviti pritožbo ali menite, da naše podjetje ni zadovoljivo rešilo vaše skrbi, se lahko obrnete na urad informacijskega pooblaščenca.<br/><br/> Elektronski naslov: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Naslov:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Nemčija"
     }
 }

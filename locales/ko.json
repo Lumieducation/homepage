@@ -13,7 +13,8 @@
         "home": "집",
         "menu": "메뉴",
         "newsletter": "뉴스 레터",
-        "download": "다운로드"
+        "download": "다운로드",
+        "support": "당신의 도움이 필요합니다"
     },
     "newsletter": {
         "placeholder": "뉴스 레터를 받으려면 이메일 주소를 입력하세요.",
@@ -131,5 +132,107 @@
         "contactText": "당사의 개인 정보 보호 정책, 당사가 보유한 데이터에 대해 질문이 있거나 귀하의 데이터 보호 권리 중 하나를 행사하려는 경우 주저하지 말고 당사에 문의하십시오. 이메일 : <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "해당 기관에 연락하는 방법",
         "authorityText": "불만을보고하고 싶거나 당사가 귀하의 우려를 만족스러운 방식으로 해결하지 않았다고 생각하는 경우 정보 커미셔너 실에 연락 할 수 있습니다.<br/><br/> 이메일 : <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> 주소:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 하노버<br /> 독일"
+    },
+    "support": {
+        "header": "우리를 후원하여 Lumi를 지원하십시오",
+        "description": "무료 오픈 소스 제품도 무료로 만들 수 없습니다. Lumi는 모든 사람이 디지털 교육에 보다 쉽게 접근할 수 있고 개별적이며 흥미진진하도록 하기 위해 여가 시간에 두 명의 교사가 개발, 유지 및 지원합니다. 기부 또는 후원을 통해 Lumi를 개선하는 데 도움을 줄 수 있습니다.",
+        "donateVia": "기부",
+        "whatWeDoIntro": "지원 및 기능 요청을 처리해야 하는 사용자 및 서비스 수가 증가함에 따라 비용도 증가하고 있습니다. 귀하의 기부는 Lumi를 무료로 유지하는 데 도움이 됩니다.",
+        "whatWeDoHeader": "귀하의 기부가 우리에게 도움이 되는 것",
+        "seeSupporters": "후원자 및 후원자 보기",
+        "whatWeDo": {
+            "bugFixes": {
+                "header": "버그 수정",
+                "description": "원격 측정 및 디버깅 시스템을 호스팅하여 버그를 수정하고 앱 품질을 개선합니다."
+            },
+            "hosting": {
+                "header": "호스팅",
+                "description": "홈페이지를 호스팅하고 검색 엔진 최적화 도구를 사용하여 Lumi를 전파하십시오."
+            },
+            "security": {
+                "header": "보안",
+                "description": "macOS 및 Windows용 설치 프로그램에 서명하는 디지털 인증서를 구입하여 쉽고 안전하게 설치하십시오."
+            },
+            "translation": {
+                "header": "번역",
+                "description": "기계 번역 서비스를 사용하여 향후 릴리스를 여러 언어로 번역하십시오."
+            },
+            "features": {
+                "header": "새로운 기능",
+                "description": "새로운 기능을 개발하고 도입합니다."
+            },
+            "community": {
+                "header": "커뮤니티 유지",
+                "description": "메시지 및 요청에 응답합니다. 뉴스레터를 작성합니다."
+            },
+            "free": {
+                "header": "Lumi를 무료로 유지",
+                "description": "Lumi를 보편적으로 사용할 수 있도록 합니다. 인프라가 열악한 지역에서도."
+            },
+            "tools": {
+                "header": "도구 개발",
+                "description": "또한 다양한 기업과 기관에서 사용하고 있는 H5P Nodejs 라이브러리를 개발하고 있습니다."
+            }
+        },
+        "thanks": {
+            "subheading": "루미 서포터즈",
+            "platinum": "플래티넘 스폰서",
+            "gold": "골드 스폰서",
+            "silver": "실버 스폰서",
+            "bronze": "브론즈 스폰서",
+            "supporters": "서포터즈",
+            "backers": "후원자",
+            "generousBackers": "관대한 후원자"
+        }
+    },
+    "appPlayerPrivacyPolicy": {
+        "title": "Lumi H5P 플레이어 – 개인 정보 보호 정책",
+        "definitions": "개인 정보 보호 정책을 이해하는 데 도움이 되도록 법적 구속력이 있는 문서인 <a href=\"/en/app-player/privacy-policy\">영어 원본을 자동으로 번역했습니다.</a> 이 문서의 일부를 이해하지 못하는 경우 아래 설명된 대로 당사에 문의하십시오.<br/><br/> Lumi H5P Desktop Editor는 \"Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig\"(이하 \"Lumi Education GbR\", \"당사\" 및 \"당사\")에서 개발 및 배포한 응용 프로그램입니다. 이 개인 정보 보호 정책은 귀하가 앱을 사용하는 동안 당사가 귀하로부터 수집한 개인 데이터를 어떻게 사용하는지 설명합니다.",
+        "scope": "이 개인 정보 보호 정책은 웹 사이트 lumi.education, GitHub 저장소(https://github.com/lumieducation/LumiPlayer) 또는 애플리케이션 스토어에서 다운로드하여 Lumi Education GbR에서 직접 받은 앱 사본에만 적용됩니다. 애플리케이션 스토어에서 다운로드한 경우 이 개인정보 보호정책은 Lumi Education GbR의 공식 스토어 항목에서 다운로드한 경우에만 적용됩니다.<ul><li> Lumi Education GbR Jan Philip Schellenberg 및 Sebastian Rettig</li><li>얀 필립 셸렌버그</li><li>세바스찬 레티그</li></ul>",
+        "warningGPL": "Lumi H5P Player 앱은 AGPL-3.0 라이선스에 따라 라이선스가 부여되어 누구나 앱을 변경하고 배포할 수 있습니다. 이 개인 정보 보호 정책은 다른 사람이 수정 및 게시한 Lumi Player 앱 버전에는 적용되지 않습니다.",
+        "controllerHeading": "Lumi H5P Player에서 데이터 수집을 담당하는 사람은 누구입니까?",
+        "controllerText": "컨트롤러(GDPR 4(7)조에 따라 개인 데이터 처리의 목적과 수단을 결정하는 법인)는 Lumi Education GbR Jan Philip Schellenberg 및 Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig입니다. , 독일.",
+        "dataHeading": "어떤 데이터가 수집됩니까? 어떻게 수집됩니까?",
+        "dataText": "귀하가 앱을 사용하는 동안 다음 데이터가 당사 조직 또는 제3자에게 전송됩니다.",
+        "dataTable": {
+            "header": "<th>숫자</th><th>데이터</th><th>언제?</th><th>누구에게 전염되나요?</th>",
+            "row1": "<td>1</td><td>설치 및 IP 주소의 고유 식별자</td><td>앱을 시작하면</td><td rowspan=\"5\">루미 교육 GbR</td>",
+            "row2": "<td>2</td><td>앱 사용 빈도</td><td>앱을 시작하고 통계 사용을 활성화한 경우</td>",
+            "row3": "<td>삼</td><td>컴퓨터(운영 체제) 및 위치에 대한 정보</td><td>앱을 시작하고 통계 사용을 활성화한 경우</td>",
+            "row4": "<td>4</td><td>앱에서 사용하는 부분</td><td>앱을 사용하고 통계 사용을 활성화하는 동안</td>",
+            "row5": "<td>5</td><td>앱 사용 중 발생하는 오류</td><td>앱에 오류가 발생하고 버그 보고가 활성화된 경우</td>",
+            "row6": "<td>6</td><td>귀하의 IP 주소</td><td>새로운 앱 업데이트를 확인하고 다운로드할 때</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, United States(여기에서 개인 정보 보호 정책 참조: https://docs.github.com/en/free-pro-team@latest/github/site- 정책/github-privacy-statement)</td>",
+            "row7": "<td>7</td><td>귀하의 IP 주소</td><td>앱 사용 시(글꼴 다운로드용)</td><td>Google, Gordon House, Barrow Street, Dublin 4, Ireland(여기에서 개인정보 보호정책 참조: https://policies.google.com/privacy?hl=ko)</td>",
+            "row8": "<td>8</td><td>귀하의 IP 주소 및 기타 데이터</td><td>제3자에게 데이터를 전송하는 콘텐츠 유형을 사용하는 경우(예: Speak the Answer는 음성 녹음을 Google에 전송하여 텍스트 변환)</td><td>사용된 콘텐츠 유형에 따라 다름</td>"
+        },
+        "basisHeading": "어떤 기준으로 데이터를 수집합니까?",
+        "basisText": "Lumi 플레이어를 처음 시작할 때 동의 대화 상자를 통해 1-8번 숫자에 대한 명시적 동의(GDPR 6조 1항) 하에 데이터를 수집하거나 전송합니다. H5P 플레이어가 작동하려면 7-8번의 데이터 전송이 필요합니다. 이의를 제기하면 기술적으로 앱을 사용할 수 없습니다.",
+        "usageHeading": "귀하의 데이터를 어떻게 사용합니까?",
+        "usageText": "당사는 다음을 위해 귀하의 데이터(번호 1-5)를 수집합니다.<ul><li> 앱의 어떤 부분을 추가로 개발해야 하는지 결정(예: 현지화할 언어 선택)</li><li>사용자 인터페이스를 최적화하기 위해</li><li>버그 찾기 및 수정</li><li>귀하가 보고한 버그에 대한 후속 질문이 있는 경우 귀하에게 연락하십시오.</li></ul> 귀하의 데이터는 프로파일링을 포함한 개별 의사 결정에 사용되지 않습니다.<br/><br/> 당사가 귀하에 대해 수신한 데이터는 법률(예: 법 집행) 및 처리 목적(아래 참조)에 의해 공유되어야 하는 경우를 제외하고는 다른 회사 또는 조직과 공유되지 않습니다. 제3자에게 직접 전송된 데이터(번호 6-8)가 제3자에 의해 사용되는 방식은 당사가 통제할 수 없습니다.",
+        "storageHeading": "데이터를 어떻게 저장합니까?",
+        "storageText": {
+            "sentence1": "당사는 데이터 프로세서를 사용하여 Industriestr의 Hetzner Online GmbH에서 운영하는 시스템에서 앱 사용에 대한 데이터(1-5번)를 안전하게 저장합니다. 25 , D-91710 Gunzenhausen, 독일.",
+            "sentence2": "당사는 귀하의 데이터를 수집한 후 2년 동안 보관합니다. 이 기간이 만료되면 귀하의 데이터를 삭제합니다.",
+            "sentence3": "제3자에게 직접 전송되는 데이터(번호 6-8)가 제3자에 의해 저장되는 방식과 기간은 당사가 통제할 수 없습니다. 받는 사람 중 일부가 미국에 거주하기 때문에 귀하의 데이터가 미국으로 전송되어 미국에 저장될 가능성이 높습니다."
+        },
+        "rightsHeading": "귀하의 데이터 보호 권리는 무엇입니까?",
+        "rightsText": "당사는 귀하가 귀하의 모든 데이터 보호 권리를 완전히 인지하고 있는지 확인하고자 합니다. 모든 사용자는 다음 권한이 있습니다.",
+        "rightsList": {
+            "r1": "처리에 반대할 권리 – 귀하는 특정 조건에서 당사의 개인 데이터 처리에 반대할 권리가 있습니다.",
+            "r2": "액세스 권한 – 귀하는 당사에 귀하의 개인 데이터 사본을 요청할 권리가 있습니다. 이 서비스에 대해 소액의 수수료를 청구할 수 있습니다.",
+            "r3": "수정할 권리 – 귀하는 정확하지 않다고 생각되는 정보를 당사에 수정하도록 요청할 권리가 있습니다. 또한 귀하는 불완전하다고 생각되는 정보를 완성하도록 당사에 요청할 권리가 있습니다.",
+            "r4": "삭제할 권리 – 귀하는 특정 조건에서 당사에 귀하의 개인 데이터를 삭제하도록 요청할 권리가 있습니다.",
+            "r5": "처리를 제한할 수 있는 권리 – 귀하는 특정 조건에서 당사에 귀하의 개인 데이터 처리를 제한하도록 요청할 권리가 있습니다.",
+            "r6": "데이터 이동에 대한 권리 – 귀하는 특정 조건에서 당사가 수집한 데이터를 다른 조직 또는 귀하에게 직접 전송하도록 당사에 요청할 권리가 있습니다."
+        },
+        "rightsContact": "요청을 하시면 한 달 안에 답변을 드리겠습니다. 이러한 권리를 행사하려면 이메일 <a href=\"mailto:c@Lumi.education\">c@Lumi.education으로 문의하십시오.</a><br/><br/> 번호 6-8에 설명된 대로 전송된 데이터와 관련된 모든 요청은 수신자에게 직접 전달되어야 합니다.",
+        "otherSitesHeading": "다른 웹사이트의 개인정보 보호정책",
+        "otherSitesText": "당사 앱에는 다른 웹사이트에 대한 링크가 포함되어 있습니다. 당사의 개인정보 보호정책은 당사 웹사이트에만 적용되므로 다른 웹사이트로 연결되는 링크를 클릭하면 해당 웹사이트의 개인정보 보호정책을 읽어야 합니다.",
+        "changesHeading": "개인 정보 보호 정책 변경",
+        "changesText": "당사는 개인 정보 보호 정책을 정기적으로 검토하고 이 웹 페이지에 업데이트를 게시합니다. 이 개인 정보 보호 정책은 2021년 7월 12일에 마지막으로 업데이트되었습니다.",
+        "contactHeading": "연락 방법",
+        "contactText": "당사의 개인 정보 보호 정책, 당사가 보유하고 있는 데이터에 대해 질문이 있거나 데이터 보호 권리 중 하나를 행사하려는 경우 주저하지 말고 당사에 연락하십시오. 이메일: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
+        "authorityHeading": "해당 기관에 연락하는 방법",
+        "authorityText": "불만 사항을 보고하고 싶거나 당사가 귀하의 우려 사항을 만족스러운 방식으로 해결하지 못했다고 생각되면 정보 커미셔너 사무실에 연락할 수 있습니다.<br/><br/> 이메일: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> 주소:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> 프린젠슈트라세 5<br /> D-30159 하노버<br /> 독일"
     }
 }
