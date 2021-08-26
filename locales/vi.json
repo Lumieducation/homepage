@@ -137,7 +137,7 @@
         "header": "Hỗ trợ Lumi bằng cách tài trợ cho chúng tôi",
         "description": "Ngay cả một sản phẩm mã nguồn mở và miễn phí cũng không được tạo ra miễn phí. Lumi được phát triển, duy trì và hỗ trợ bởi hai giáo viên trong thời gian rảnh của họ với mục tiêu làm cho giáo dục kỹ thuật số trở nên dễ tiếp cận, cá nhân và thú vị hơn cho tất cả mọi người. Bạn có thể giúp chúng tôi cải thiện Lumi bằng cách quyên góp hoặc tài trợ.",
         "donateVia": "Quyên góp qua",
-        "whatWeDoIntro": "Do số lượng người dùng và dịch vụ ngày càng tăng, chúng tôi cần xử lý các yêu cầu hỗ trợ và tính năng, chi phí của chúng tôi cũng tăng lên. Các khoản đóng góp của bạn giúp chúng tôi giữ Lumi miễn phí.",
+        "whatWeDoIntro": "Do số lượng người dùng và dịch vụ ngày càng tăng, chúng tôi cần xử lý các yêu cầu hỗ trợ và tính năng, chi phí của chúng tôi cũng tăng lên.",
         "whatWeDoHeader": "Khoản đóng góp của bạn giúp chúng tôi làm gì",
         "seeSupporters": "Xem những người ủng hộ và nhà tài trợ",
         "whatWeDo": {
@@ -160,14 +160,6 @@
             "features": {
                 "header": "Các tính năng mới",
                 "description": "Phát triển và giới thiệu các tính năng và chức năng mới."
-            },
-            "community": {
-                "header": "Duy trì cộng đồng",
-                "description": "Trả lời tin nhắn và yêu cầu. Viết bản tin."
-            },
-            "free": {
-                "header": "Giữ cho Lumi tự do",
-                "description": "Cung cấp Lumi trên toàn cầu. Ngay cả ở những vùng có cơ sở hạ tầng không tốt."
             },
             "tools": {
                 "header": "Phát triển các công cụ",

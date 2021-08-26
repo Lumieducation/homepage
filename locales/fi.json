@@ -137,7 +137,7 @@
         "header": "Tue Lumia sponsoroimalla meitä",
         "description": "Jopa ilmainen ja avoimen lähdekoodin tuote ei ole ilmainen. Lumia kehittää, ylläpitää ja tukee kaksi opettajaa vapaa -ajallaan, jotta digitaalinen koulutus olisi helpompaa, yksilöllisempää ja jännittävämpää kaikille. Voit auttaa meitä parantamaan Lumia lahjoittamalla tai sponsoroimalla.",
         "donateVia": "Lahjoita kautta",
-        "whatWeDoIntro": "Koska käyttäjien ja palveluiden määrä kasvaa, meidän on käsiteltävä tuki- ja ominaisuuspyyntöjä, myös kustannuksemme ovat korkeat. Lahjoituksesi auttavat meitä pitämään Lumin vapaana.",
+        "whatWeDoIntro": "Koska käyttäjien ja palveluiden määrä kasvaa, meidän on käsiteltävä tuki- ja ominaisuuspyyntöjä, myös kustannuksemme ovat korkeat.",
         "whatWeDoHeader": "Mitä lahjoituksesi auttaa meitä tekemään",
         "seeSupporters": "Katso tukijat ja sponsorit",
         "whatWeDo": {
@@ -160,14 +160,6 @@
             "features": {
                 "header": "Uudet ominaisuudet",
                 "description": "Kehitä ja esittele uusia ominaisuuksia ja toimintoja."
-            },
-            "community": {
-                "header": "Ylläpitää yhteisöä",
-                "description": "Vastaa viesteihin ja pyyntöihin. Kirjoita uutiskirjeitä."
-            },
-            "free": {
-                "header": "Pidä Lumi vapaana",
-                "description": "Tee Lumi yleisesti saataville. Jopa alueilla, joilla on huono infrastruktuuri."
             },
             "tools": {
                 "header": "Kehitä työkaluja",

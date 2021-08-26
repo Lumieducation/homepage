@@ -137,7 +137,7 @@
         "header": "Donem suport a Lumi patrocinant-nos",
         "description": "Fins i tot un producte de codi obert i gratuït no és gratuït. Lumi està desenvolupat, mantingut i recolzat per dos professors en el seu temps lliure amb l'objectiu de fer que l'educació digital sigui més accessible, individual i emocionant per a tothom. Podeu ajudar-nos a millorar Lumi donant o patrocinant.",
         "donateVia": "Feu una donació mitjançant",
-        "whatWeDoIntro": "A causa del nombre creixent d'usuaris i serveis que necessitem per atendre les sol·licituds d'assistència i funcions, els nostres costos també augmenten. Les vostres donacions ens ajuden a mantenir Lumi lliure.",
+        "whatWeDoIntro": "A causa del nombre creixent d'usuaris i serveis que necessitem per atendre les sol·licituds d'assistència i funcions, els nostres costos també augmenten.",
         "whatWeDoHeader": "El que ens ajuda a fer la vostra donació",
         "seeSupporters": "Consulteu els patrocinadors i els seguidors",
         "whatWeDo": {
@@ -160,14 +160,6 @@
             "features": {
                 "header": "Noves característiques",
                 "description": "Desenvolupeu i introduïu noves funcions i funcionalitats."
-            },
-            "community": {
-                "header": "Mantenir la comunitat",
-                "description": "Respon a missatges i sol·licituds. Redactar butlletins."
-            },
-            "free": {
-                "header": "Mantén Lumi lliure",
-                "description": "Feu que Lumi estigui disponible universalment. Fins i tot en regions amb mala infraestructura."
             },
             "tools": {
                 "header": "Desenvolupar eines",

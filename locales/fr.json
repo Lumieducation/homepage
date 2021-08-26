@@ -137,7 +137,7 @@
         "header": "Soutenez Lumi en nous parrainant",
         "description": "Même un produit gratuit et open source n'est pas libre de faire. Lumi est développé, maintenu et soutenu par deux enseignants pendant leur temps libre dans le but de rendre l'éducation numérique plus accessible, individuelle et passionnante pour tous. Vous pouvez nous aider à améliorer Lumi en faisant un don ou en parrainant.",
         "donateVia": "Faire un don via",
-        "whatWeDoIntro": "En raison du nombre croissant d'utilisateurs et de services dont nous avons besoin pour gérer les demandes de support et de fonctionnalités, nos coûts augmentent également. Vos dons nous aident à garder Lumi libre.",
+        "whatWeDoIntro": "En raison du nombre croissant d'utilisateurs et de services dont nous avons besoin pour gérer les demandes de support et de fonctionnalités, nos coûts augmentent également.",
         "whatWeDoHeader": "Ce que votre don nous aide à faire",
         "seeSupporters": "Voir les supporters et sponsors",
         "whatWeDo": {
@@ -160,14 +160,6 @@
             "features": {
                 "header": "Nouvelles fonctionnalités",
                 "description": "Développer et introduire de nouvelles fonctionnalités et fonctionnalités."
-            },
-            "community": {
-                "header": "Maintenir la communauté",
-                "description": "Répondre aux messages et aux demandes. Rédiger des newsletters."
-            },
-            "free": {
-                "header": "Gardez Lumi libre",
-                "description": "Rendre Lumi universellement disponible. Même dans les régions avec de mauvaises infrastructures."
             },
             "tools": {
                 "header": "Développer des outils",

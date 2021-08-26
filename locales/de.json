@@ -184,44 +184,36 @@
         "title": "Lumi H5P Player - Datenschutzerklärung"
     },
     "support": {
-        "header": "Unterstützen Sie Lumi, indem Sie uns sponsern",
-        "description": "Selbst ein kostenloses Open-Source-Produkt ist nicht kostenlos. Lumi wird von zwei Lehrern in ihrer Freizeit entwickelt, gepflegt und unterstützt mit dem Ziel, digitale Bildung für alle zugänglicher, individueller und spannender zu machen. Sie können uns helfen, Lumi zu verbessern, indem Sie spenden oder sponsern.",
-        "donateVia": "Spenden über",
-        "whatWeDoIntro": "Aufgrund der steigenden Anzahl von Benutzern und Diensten, die wir für Support- und Funktionsanfragen benötigen, steigen auch unsere Kosten. Ihre Spenden helfen uns, Lumi frei zu halten.",
-        "whatWeDoHeader": "Wobei uns Ihre Spende hilft",
+        "header": "Unterstütze Lumi, indem du uns sponserst",
+        "description": "Auch ein kostenloses Open-Source-Produkt verursacht bei der Entwicklung Kosten. Lumi wird von zwei Lehrern in ihrer Freizeit entwickelt, gepflegt und unterstützt - mit dem Ziel, digitale Bildung für alle zugänglicher, individueller und spannender zu machen. Du kannst uns helfen, Lumi zu verbessern, indem du spendest oder sponserst.",
+        "donateVia": "Spenden per",
+        "whatWeDoIntro": "Aufgrund der steigenden Anzahl von Benutzern und Diensten, die wir für Support- und Funktionsanfragen benötigen, steigen auch unsere Kosten.",
+        "whatWeDoHeader": "Wobei uns deine Spende hilft",
         "seeSupporters": "Siehe Unterstützer & Sponsoren",
         "whatWeDo": {
             "bugFixes": {
                 "header": "Fehlerbehebung",
-                "description": "Beheben von Fehlern und Verbessern der Qualität der App durch Hosten von Telemetrie- und Debugging-Systemen."
+                "description": "Wir beheben Fehler und verbessern der Qualität der App durch das Hosten von Telemetrie- und Debugging-Systemen."
             },
             "hosting": {
                 "header": "Hosting",
-                "description": "Verbreiten Sie Lumi, indem Sie die Homepage hosten und Tools zur Suchmaschinenoptimierung verwenden."
+                "description": "Wir verbreiten Lumi, indem wir die Homepage hosten und Tools zur Suchmaschinenoptimierung verwenden."
             },
             "security": {
                 "header": "Sicherheit",
-                "description": "Machen Sie Installationen einfach und sicher, indem Sie digitale Zertifikate kaufen, um die Installationsprogramme für macOS und Windows zu signieren."
+                "description": "Wir machen Sie Installationen einfach und sicher, indem wir digitale Zertifikate kaufen, um die Installationsprogramme für macOS und Windows zu signieren."
             },
             "translation": {
                 "header": "Übersetzungen",
-                "description": "Übersetzen Sie zukünftige Versionen mit maschinellen Übersetzungsdiensten in viele Sprachen."
+                "description": "Wir übersetzen zukünftige Versionen mit maschinellen Übersetzungsdiensten in viele Sprachen."
             },
             "features": {
-                "header": "Neue Eigenschaften",
-                "description": "Entwickeln und Einführen neuer Features und Funktionen."
-            },
-            "community": {
-                "header": "Pflege die Gemeinschaft",
-                "description": "Antworten Sie auf Nachrichten und Anfragen. Schreiben Sie Newsletter."
-            },
-            "free": {
-                "header": "Halte Lumi frei",
-                "description": "Lumi universell verfügbar machen. Auch in Regionen mit schlechter Infrastruktur."
+                "header": "Neue Features",
+                "description": "Wir entwickeln und führen neue Features und Funktionen ein."
             },
             "tools": {
-                "header": "Tools entwickeln",
-                "description": "Wir entwickeln auch die H5P Nodejs Library, die von verschiedenen Unternehmen und Institutionen genutzt wird."
+                "header": "Tools weiterentwickeln",
+                "description": "Wir entwickeln auch die H5P-NodeJs-Library, die von verschiedenen Unternehmen und Institutionen genutzt wird."
             }
         },
         "thanks": {

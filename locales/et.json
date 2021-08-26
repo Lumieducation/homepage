@@ -137,7 +137,7 @@
         "header": "Toetage Lumit, sponsoreerides meid",
         "description": "Isegi tasuta ja avatud lähtekoodiga toodet pole tasuta teha. Lumit arendavad, hooldavad ja toetavad vabal ajal kaks õpetajat eesmärgiga muuta digiharidus kõigile kättesaadavamaks, individuaalsemaks ja põnevamaks. Saate aidata meil Lumit täiustada, annetades või sponsoreerides.",
         "donateVia": "Annetage kaudu",
-        "whatWeDoIntro": "Kuna meil on üha rohkem kasutajaid ja teenuseid, peame hakkama saama toe- ja funktsioonitaotlustega, ka meie kulud kasvavad. Teie annetused aitavad meil Lumi vaba hoida.",
+        "whatWeDoIntro": "Kuna meil on üha rohkem kasutajaid ja teenuseid, peame hakkama saama toe- ja funktsioonitaotlustega, ka meie kulud kasvavad.",
         "whatWeDoHeader": "Mida teie annetus aitab meil teha",
         "seeSupporters": "Vaadake toetajaid ja sponsoreid",
         "whatWeDo": {
@@ -160,14 +160,6 @@
             "features": {
                 "header": "Uued omadused",
                 "description": "Arendage ja tutvustage uusi funktsioone ja funktsioone."
-            },
-            "community": {
-                "header": "Hoidke kogukonda",
-                "description": "Sõnumitele ja taotlustele vastamine. Kirjutage uudiskirju."
-            },
-            "free": {
-                "header": "Hoidke Lumi vaba",
-                "description": "Tehke Lumi universaalselt kättesaadavaks. Isegi halva infrastruktuuriga piirkondades."
             },
             "tools": {
                 "header": "Töötage välja tööriistad",

@@ -137,7 +137,7 @@
         "header": "Steun Lumi door ons te sponsoren",
         "description": "Zelfs een gratis en open source product is niet gratis te maken. Lumi is ontwikkeld, onderhouden en ondersteund door twee docenten in hun vrije tijd met als doel digitaal onderwijs toegankelijker, individueler en spannender te maken voor iedereen. U kunt ons helpen Lumi te verbeteren door te doneren of te sponsoren.",
         "donateVia": "Doneer via",
-        "whatWeDoIntro": "Vanwege het toenemende aantal gebruikers en services die we nodig hebben om ondersteuning en functieverzoeken af te handelen, nemen ook onze kosten toe. Uw donaties helpen ons om Lumi gratis te houden.",
+        "whatWeDoIntro": "Vanwege het toenemende aantal gebruikers en services die we nodig hebben om ondersteuning en functieverzoeken af te handelen, nemen ook onze kosten toe.",
         "whatWeDoHeader": "Waar helpt jouw donatie ons bij",
         "seeSupporters": "Zie supporters & sponsors",
         "whatWeDo": {
@@ -160,14 +160,6 @@
             "features": {
                 "header": "Nieuwe functies",
                 "description": "Ontwikkelen en introduceren van nieuwe features en functionaliteit."
-            },
-            "community": {
-                "header": "Onderhoud de gemeenschap",
-                "description": "Beantwoorden van berichten en verzoeken. Schrijf nieuwsbrieven."
-            },
-            "free": {
-                "header": "Houd Lumi vrij",
-                "description": "Maak Lumi universeel beschikbaar. Zelfs in regio's met een slechte infrastructuur."
             },
             "tools": {
                 "header": "Hulpmiddelen ontwikkelen",

@@ -137,7 +137,7 @@
         "header": "Podprite Lumi tako, da nas sponzorirate",
         "description": "Tudi brezplačen in odprtokodni izdelek ni brezplačen. Lumi razvijata, vzdržujeta in podpirata dva učitelja v prostem času, da bi digitalno izobraževanje postalo dostopnejše, individualno in vznemirljivo za vse. Lahko nam pomagate izboljšati Lumi z donacijo ali sponzoriranjem.",
         "donateVia": "Donirajte prek",
-        "whatWeDoIntro": "Zaradi vse večjega števila uporabnikov in storitev, ki jih moramo obravnavati glede podpore in zahtev po funkcijah, naraščajo tudi naši stroški. Vaše donacije nam pomagajo ohraniti Lumi prosto.",
+        "whatWeDoIntro": "Zaradi vse večjega števila uporabnikov in storitev, ki jih moramo obravnavati glede podpore in zahtev po funkcijah, naraščajo tudi naši stroški.",
         "whatWeDoHeader": "Kaj nam pomaga vaša donacija",
         "seeSupporters": "Oglejte si sponzorje in sponzorje",
         "whatWeDo": {
@@ -160,14 +160,6 @@
             "features": {
                 "header": "Nove lastnosti",
                 "description": "Razviti in predstaviti nove funkcije in funkcionalnosti."
-            },
-            "community": {
-                "header": "Ohranite skupnost",
-                "description": "Odgovorite na sporočila in zahteve. Napišite glasila."
-            },
-            "free": {
-                "header": "Naj bo Lumi prost",
-                "description": "Naj bo Lumi univerzalno na voljo. Tudi v regijah s slabo infrastrukturo."
             },
             "tools": {
                 "header": "Razvijte orodja",

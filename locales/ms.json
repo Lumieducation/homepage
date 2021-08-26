@@ -137,7 +137,7 @@
         "header": "Sokong Lumi dengan menaja kami",
         "description": "Malah produk sumber percuma dan terbuka tidak boleh dibuat secara percuma. Lumi dikembangkan, dikekalkan dan disokong oleh dua orang guru pada masa lapang mereka dengan tujuan untuk menjadikan pendidikan digital lebih mudah diakses, individu dan menarik untuk semua orang. Anda boleh membantu kami meningkatkan Lumi dengan menderma atau menaja.",
         "donateVia": "Sumbang melalui",
-        "whatWeDoIntro": "Oleh kerana jumlah pengguna dan perkhidmatan yang semakin meningkat, kami perlu menangani permintaan sokongan dan ciri, kos kami juga akan meningkat. Derma anda membantu kami untuk membebaskan Lumi.",
+        "whatWeDoIntro": "Oleh kerana jumlah pengguna dan perkhidmatan yang semakin meningkat, kami perlu menangani permintaan sokongan dan ciri, kos kami juga akan meningkat.",
         "whatWeDoHeader": "Apa sumbangan anda membantu kami lakukan",
         "seeSupporters": "Lihat penyokong & penaja",
         "whatWeDo": {
@@ -160,14 +160,6 @@
             "features": {
                 "header": "Ciri Baru",
                 "description": "Kembangkan dan perkenalkan ciri dan fungsi baru."
-            },
-            "community": {
-                "header": "Pelihara komuniti",
-                "description": "Balas mesej dan permintaan. Tulis buletin."
-            },
-            "free": {
-                "header": "Pastikan Lumi bebas",
-                "description": "Jadikan Lumi tersedia secara universal. Walaupun di kawasan yang mempunyai infrastruktur yang buruk."
             },
             "tools": {
                 "header": "Kembangkan alat",

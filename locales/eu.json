@@ -137,7 +137,7 @@
         "header": "Lagundu Lumi babestuz",
         "description": "Doako eta irekiko produktu bat ere ez da doakoa. Lumi bi irakasleek beren denbora librean garatu, mantendu eta babesten dute hezkuntza digitala irisgarriagoa, indibiduala eta guztiontzat zirraragarria izan dadin. Lumi hobetzen lagun diezagukezu emanez edo babestuz.",
         "donateVia": "Eman bidez",
-        "whatWeDoIntro": "Laguntza eta eginbide eskaerak kudeatu behar ditugun erabiltzaile eta zerbitzu kopurua gero eta handiagoa dela eta, gure kostuak ere handitzen ari dira. Zure dohaintzek Lumi doakoa izaten laguntzen digute.",
+        "whatWeDoIntro": "Laguntza eta eginbide eskaerak kudeatu behar ditugun erabiltzaile eta zerbitzu kopurua gero eta handiagoa dela eta, gure kostuak ere handitzen ari dira.",
         "whatWeDoHeader": "Zure dohaintzak egiten laguntzen diguna",
         "seeSupporters": "Ikusi aldekoak eta babesleak",
         "whatWeDo": {
@@ -160,14 +160,6 @@
             "features": {
                 "header": "Ezaugarri berriak",
                 "description": "Ezaugarri eta funtzionalitate berriak garatu eta aurkeztu."
-            },
-            "community": {
-                "header": "Komunitatea mantendu",
-                "description": "Erantzun mezu eta eskaerei. Buletinak idatzi."
-            },
-            "free": {
-                "header": "Mantendu Lumi libre",
-                "description": "Jarri Lumi eskuragarri. Azpiegitura txarrak dituzten eskualdeetan ere."
             },
             "tools": {
                 "header": "Tresnak garatu",

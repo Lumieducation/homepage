@@ -137,7 +137,7 @@
         "header": "Taimaka wa Lumi ta hanyar tallafa mana",
         "description": "Ko samfurin kyauta kuma mai buɗewa ba shi da 'yancin yin. Lumi yana haɓakawa, kulawa da goyan baya daga malamai biyu a cikin lokacin su na kyauta tare da burin sa ilimin dijital ya zama mai sauƙi, mutum ɗaya kuma mai ban sha'awa ga kowa. Kuna iya taimaka mana inganta Lumi ta ba da gudummawa ko tallafawa.",
         "donateVia": "Ba da kyauta ta",
-        "whatWeDoIntro": "Saboda karuwar adadin masu amfani da sabis muna buƙatar ɗaukar tallafi da buƙatun fasali farashin mu ma yana ƙaruwa. Ba da gudummawar ku yana taimaka mana mu kiyaye Lumi kyauta.",
+        "whatWeDoIntro": "Saboda karuwar adadin masu amfani da sabis muna buƙatar ɗaukar tallafi da buƙatun fasali farashin mu ma yana ƙaruwa.",
         "whatWeDoHeader": "Abin da gudummawar ku ke taimaka mana mu yi",
         "seeSupporters": "Dubi magoya baya & masu tallafawa",
         "whatWeDo": {
@@ -160,14 +160,6 @@
             "features": {
                 "header": "Sabbin Sigogi",
                 "description": "Ci gaba da gabatar da sabbin abubuwa da ayyuka."
-            },
-            "community": {
-                "header": "Kula da al'umma",
-                "description": "Amsa saƙonni da buƙatun. Rubuta wasiƙun labarai."
-            },
-            "free": {
-                "header": "Ajiye Lumi kyauta",
-                "description": "Sanya Lumi a duk faɗin duniya. Hatta a yankuna da ke da munanan ababen more rayuwa."
             },
             "tools": {
                 "header": "Ci gaba da kayan aiki",

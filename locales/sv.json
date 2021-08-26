@@ -137,7 +137,7 @@
         "header": "Stöd Lumi genom att sponsra oss",
         "description": "Även en gratis och öppen källkodsprodukt är inte gratis att göra. Lumi utvecklas, underhålls och stöds av två lärare på fritiden med målet att göra digital utbildning mer tillgänglig, individuell och spännande för alla. Du kan hjälpa oss att förbättra Lumi genom att donera eller sponsra.",
         "donateVia": "Donera via",
-        "whatWeDoIntro": "På grund av det ökande antalet användare och tjänster som vi behöver för att hantera support och begäran om funktioner ökar våra kostnader också. Dina donationer hjälper oss att hålla Lumi fri.",
+        "whatWeDoIntro": "På grund av det ökande antalet användare och tjänster som vi behöver för att hantera support och begäran om funktioner ökar våra kostnader också.",
         "whatWeDoHeader": "Vad din donation hjälper oss att göra",
         "seeSupporters": "Se supportrar och sponsorer",
         "whatWeDo": {
@@ -160,14 +160,6 @@
             "features": {
                 "header": "Nya egenskaper",
                 "description": "Utveckla och introducera nya funktioner och funktioner."
-            },
-            "community": {
-                "header": "Behåll gemenskapen",
-                "description": "Svara på meddelanden och förfrågningar. Skriv nyhetsbrev."
-            },
-            "free": {
-                "header": "Håll Lumi fri",
-                "description": "Gör Lumi allmänt tillgängligt. Även i regioner med dålig infrastruktur."
             },
             "tools": {
                 "header": "Utveckla verktyg",

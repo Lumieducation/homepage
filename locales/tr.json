@@ -137,7 +137,7 @@
         "header": "Bize sponsor olarak Lumi'yi destekleyin",
         "description": "Ücretsiz ve açık kaynaklı bir ürün bile yapmakta özgür değildir. Lumi, dijital eğitimi herkes için daha erişilebilir, bireysel ve heyecan verici hale getirmek amacıyla iki öğretmen tarafından boş zamanlarında geliştirilir, sürdürülür ve desteklenir. Bağışta bulunarak veya sponsor olarak Lumi'yi geliştirmemize yardımcı olabilirsiniz.",
         "donateVia": "aracılığıyla bağış yapın",
-        "whatWeDoIntro": "Artan kullanıcı ve hizmet sayısı nedeniyle, destek ve özellik isteklerini ele almamız gerektiğinden, maliyetlerimiz de artıyor. Bağışlarınız Lumi'yi ücretsiz tutmamıza yardımcı oluyor.",
+        "whatWeDoIntro": "Artan kullanıcı ve hizmet sayısı nedeniyle, destek ve özellik isteklerini ele almamız gerektiğinden, maliyetlerimiz de artıyor.",
         "whatWeDoHeader": "Bağışınız ne yapmamıza yardımcı oluyor",
         "seeSupporters": "Destekçileri ve sponsorları görün",
         "whatWeDo": {
@@ -160,14 +160,6 @@
             "features": {
                 "header": "Yeni özellikler",
                 "description": "Yeni özellikler ve işlevler geliştirin ve tanıtın."
-            },
-            "community": {
-                "header": "Topluluğu koru",
-                "description": "Mesajları ve istekleri yanıtlayın. Bültenler yazın."
-            },
-            "free": {
-                "header": "Lumi'yi ücretsiz tutun",
-                "description": "Lumi'yi evrensel olarak kullanılabilir hale getirin. Kötü altyapıya sahip bölgelerde bile."
             },
             "tools": {
                 "header": "Araçlar geliştirin",

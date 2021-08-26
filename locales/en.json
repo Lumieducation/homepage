@@ -15,7 +15,7 @@
         "header": "Support Lumi by sponsoring us",
         "description": "Even a free and open source product isn't free to make. Lumi is developed, maintained and supported by two teachers in their free time with the goal to make digital education more accessible, individual and exciting for everyone. You can help us improve Lumi by donating or sponsoring.",
         "donateVia": "Donate via",
-        "whatWeDoIntro": "Due to the increasing number of users and services we need to handle support and feature requests our costs are incresing too. Your donations help us to keep Lumi free.",
+        "whatWeDoIntro": "Due to the increasing number of users and services we need to handle support and feature requests our costs are incresing too.",
         "whatWeDoHeader": "What your donation helps us to do",
         "seeSupporters": "See supporters & sponsors",
         "whatWeDo": {
@@ -38,14 +38,6 @@
             "features": {
                 "header": "New Features",
                 "description": "Develop and introduce new features and functionality."
-            },
-            "community": {
-                "header": "Maintain the community",
-                "description": "Reply to messages and requests. Write newsletters."
-            },
-            "free": {
-                "header": "Keep Lumi free",
-                "description": "Make Lumi universally available. Even in regions with bad infrastructure."
             },
             "tools": {
                 "header": "Develop tools",

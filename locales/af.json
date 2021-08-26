@@ -137,7 +137,7 @@
         "header": "Ondersteun Lumi deur ons te borg",
         "description": "Selfs 'n gratis en open source produk is nie gratis om te maak nie. Lumi word in hul vrye tyd deur twee onderwysers ontwikkel, onderhou en ondersteun, met die doel om digitale onderwys toegankliker, individueel en opwindender vir almal te maak. U kan ons help om Lumi te verbeter deur te skenk of te borg.",
         "donateVia": "Skenk via",
-        "whatWeDoIntro": "Weens die toenemende aantal gebruikers en dienste wat ons nodig het om ondersteuning en funksieversoeke te hanteer, neem ons koste ook toe. U skenkings help ons om Lumi vry te hou.",
+        "whatWeDoIntro": "Weens die toenemende aantal gebruikers en dienste wat ons nodig het om ondersteuning en funksieversoeke te hanteer, neem ons koste ook toe.",
         "whatWeDoHeader": "Wat u skenking ons help om te doen",
         "seeSupporters": "Sien ondersteuners en borge",
         "whatWeDo": {
@@ -160,14 +160,6 @@
             "features": {
                 "header": "Nuwe kenmerke",
                 "description": "Ontwikkel en stel nuwe funksies en funksies bekend."
-            },
-            "community": {
-                "header": "Onderhou die gemeenskap",
-                "description": "Beantwoord boodskappe en versoeke. Skryf nuusbriewe."
-            },
-            "free": {
-                "header": "Hou Lumi vry",
-                "description": "Maak Lumi universeel beskikbaar. Selfs in streke met 'n swak infrastruktuur."
             },
             "tools": {
                 "header": "Ontwikkel gereedskap",

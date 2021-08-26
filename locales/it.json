@@ -187,7 +187,7 @@
         "header": "Sostieni Lumi sponsorizzandoci",
         "description": "Anche un prodotto gratuito e open source non è gratuito. Lumi è sviluppato, mantenuto e supportato da due insegnanti nel loro tempo libero con l'obiettivo di rendere l'educazione digitale più accessibile, individuale ed entusiasmante per tutti. Puoi aiutarci a migliorare Lumi donando o sponsorizzando.",
         "donateVia": "Dona tramite",
-        "whatWeDoIntro": "A causa del numero crescente di utenti e servizi di cui abbiamo bisogno per gestire le richieste di supporto e funzionalità, anche i nostri costi stanno aumentando. Le tue donazioni ci aiutano a mantenere Lumi libero.",
+        "whatWeDoIntro": "A causa del numero crescente di utenti e servizi di cui abbiamo bisogno per gestire le richieste di supporto e funzionalità, anche i nostri costi stanno aumentando.",
         "whatWeDoHeader": "Cosa ci aiuta a fare la tua donazione",
         "seeSupporters": "Vedi sostenitori e sponsor",
         "whatWeDo": {
@@ -210,14 +210,6 @@
             "features": {
                 "header": "Nuove caratteristiche",
                 "description": "Sviluppare e introdurre nuove caratteristiche e funzionalità."
-            },
-            "community": {
-                "header": "Mantieni la comunità",
-                "description": "Rispondere a messaggi e richieste. Scrivi newsletter."
-            },
-            "free": {
-                "header": "Mantieni Lumi libero",
-                "description": "Rendi Lumi universalmente disponibile. Anche nelle regioni con cattive infrastrutture."
             },
             "tools": {
                 "header": "Strumenti di sviluppo",
