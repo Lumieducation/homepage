@@ -27,7 +27,7 @@
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="languageMenuLink"
                      style="max-height:30rem; overflow-y: scroll;">
-                        <a class="dropdown-item" href="/en">English</a>
+                        <a class="dropdown-item" href="/en/{{currentWindowLocation}}">English</a>
                         <div class="dropdown-divider"></div>
                         {{#each languages}}            
                         <a class="dropdown-item" href="/{{this.code}}{{@root.currentWindowLocation}}">{{this.native}}</a>
