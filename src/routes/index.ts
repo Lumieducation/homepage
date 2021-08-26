@@ -93,10 +93,22 @@ router.use(
         next: express.NextFunction
     ) => {
         try {
+            if (req.baseUrl === '/support') {
+                req.baseUrl = `/${getCurrentLanguageCode(
+                    req.language
+                )}/support`;
+            }
+
+            const location = req.baseUrl.replace(
+                `/${getCurrentLanguageCode(req.language)}`,
+                ''
+            );
+
             res.render('support', {
                 languages: getListWithNativeNames(),
                 currentLanguage: getNativeName(req.language),
-                currentLanguageCode: getCurrentLanguageCode(req.language)
+                currentLanguageCode: getCurrentLanguageCode(req.language),
+                currentWindowLocation: location
             });
         } catch (error) {
             res.redirect('/');

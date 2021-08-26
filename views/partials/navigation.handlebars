@@ -29,8 +29,8 @@
                      style="max-height:30rem; overflow-y: scroll;">
                         <a class="dropdown-item" href="/en">English</a>
                         <div class="dropdown-divider"></div>
-                        {{#each languages}}
-                        <a class="dropdown-item" href="/{{this.code}}">{{this.native}}</a>
+                        {{#each languages}}            
+                        <a class="dropdown-item" href="/{{this.code}}{{@root.currentWindowLocation}}">{{this.native}}</a>
                         {{/each}}
                     </div>
                 </li>
