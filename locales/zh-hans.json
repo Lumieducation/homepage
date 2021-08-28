@@ -68,7 +68,8 @@
         "download": "下载",
         "newsletter": "资讯",
         "menu": "菜单",
-        "home": "首页"
+        "home": "首页",
+        "support": "支持我们"
     },
     "home": {
         "get_started": "软件下载",
@@ -79,5 +80,151 @@
         "pageTopic": "教育",
         "keywords": "创建，分享，互动内容，互动练习，H5P，e-learning，elearning，scorm，xapi，课件工具，单机版，线下工具，html5",
         "description": "Lumi是一款桌面应用程序，您可以使用Lumi创建、编辑、查看和分享数十种不同类型的交互式内容。"
+    },
+    "support": {
+        "thanks": {
+            "bronze": "铜牌赞助者",
+            "silver": "银牌赞助者",
+            "gold": "金牌赞助者",
+            "generousBackers": "慷慨的支持者",
+            "backers": "支持者 Backers",
+            "supporters": "支持者",
+            "platinum": "白金赞助者",
+            "subheading": "Lumi 的支持者"
+        },
+        "whatWeDo": {
+            "tools": {
+                "description": "我们还开发了 H5P Nodejs 库，供各种公司和机构使用。",
+                "header": "开发工具"
+            },
+            "features": {
+                "description": "开发和引入新的特性和功能。",
+                "header": "新功能"
+            },
+            "translation": {
+                "description": "使用机器翻译服务将未来版本翻译成多种语言。",
+                "header": "翻译"
+            },
+            "security": {
+                "description": "通过购买数字证书为 macOS 和 Windows 的安装程序签名，使安装变得简单和安全。",
+                "header": "安全"
+            },
+            "hosting": {
+                "description": "托管网站和使用搜索引擎优化工具来传播 Lumi。",
+                "header": "托管"
+            },
+            "bugFixes": {
+                "description": "通过托管遥测和调试系统来修复错误并提高应用程序的质量。",
+                "header": "Bug修复"
+            }
+        },
+        "seeSupporters": "查看支持者和赞助者",
+        "whatWeDoHeader": "您的捐赠会怎样帮助我们",
+        "whatWeDoIntro": "由于我们需要处理的支持和功能请求的用户和服务数量不断增加，我们的成本也在不断地增加。",
+        "donateVia": "捐赠方式",
+        "description": "即便是免费的开源产品也不是免费开发的。 Lumi 是由两位教师利用他们的业余时间开发、维护和支持的，目的是让数字教育更易于访问、更加个性化、并让每个人都为此激动不已。 您可以通过捐赠或赞助来帮助我们改进 Lumi。",
+        "header": "请赞助我们来支持 Lumi"
+    },
+    "appPrivacyPolicy": {
+        "authorityText": "如果您想报告投诉，或者如果您认为我们公司没有以令人满意的方式解决您的问题，您可以联系信息专员办公室。<br/><br/> 电子邮件：<a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br />地址：<br />Der Landesbeauftragte für den Datenschutz Niedersachsen<br />Prinzenstraße 5<br />D-30159 Hannover< br/>德国",
+        "authorityHeading": "如何联系有关管理部门",
+        "contactText": "如果您对我们公司的隐私政策、我们持有的您的数据有任何疑问，或者您想行使您的一项数据保护权利，请随时与我们联系。 给我们发电子邮件：<a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
+        "contactHeading": "如何联系我们",
+        "changesText": "我们公司会定期审查其隐私政策，并将任何更新放在此网页上。 本隐私政策的最后更新时间为 2021 年 7 月 10 日。",
+        "changesHeading": "我们隐私政策的变更",
+        "otherSitesText": "我们的应用程序包含指向其他网站的链接。 我们的隐私政策仅适用于我们的网站，因此如果您点击其他网站的链接，您应该阅读他们的隐私政策。",
+        "otherSitesHeading": "其他网站的隐私政策",
+        "rightsContact": "如果您提出请求，我们有一个月的时间回复您。 如果您想行使这些权利中的任何一项，请通过我们的电子邮件与我们联系：<a href=\"mailto:c@Lumi.education\">c@Lumi.education</a><br/><br/>所有 有关如第 6-9 条所述传输的数据的请求必须直接发送给接收者。",
+        "rightsList": {
+            "r6": "数据可移植性的权利——在某些条件下，您有权要求我们公司将我们收集的数据传输给另一个组织，或直接传输给您。",
+            "r5": "限制处理的权利——在某些情况下，您有权要求我们公司限制处理您的个人数据。",
+            "r4": "删除权 – 在某些情况下，您有权要求我们公司删除您的个人数据。",
+            "r3": "更正权——您有权要求我们公司更正您认为不准确的任何信息。 您也有权要求我们公司完善您认为不完整的信息。",
+            "r2": "访问权——您有权要求我们公司提供您个人数据的副本。 我们可能会就此项服务向您收取少量费用。",
+            "r1": "反对处理的权利——在某些情况下，您有权反对我们公司处理您的个人数据。"
+        },
+        "rightsText": "我们公司希望确保您完全了解您的所有数据保护权利。 每个用户都有权获得以下权利：",
+        "rightsHeading": "您有哪些数据保护权利？",
+        "storageText": {
+            "sentence3": "我们无法控制直接传输给第三方（数字 6-9）的数据如何存储以及存储多长时间。 由于某些收件人居住在美国，因此您的数据很可能会传输到美国并存储在美国。",
+            "sentence2": "我们公司会将您的数据在收集后保留两年。 一旦此时间段到期，我们将删除您的数据。",
+            "sentence1": "我们公司使用数据处理器在由 Hetzner Online GmbH, Industriesstr 运行的系统上安全地存储有关您的应用程序使用情况的数据（编号 1-5 和 10）。 25 号，D-91710，德国贡岑豪森。"
+        },
+        "storageHeading": "我们如何存储您的数据？",
+        "usageText": "我们公司收集您的数据（数字 1-5），以便我们能够：<ul><li>决定应进一步开发应用程序的哪些部分（例如选择要本地化的语言）</li><li>以优化应用程序 用户界面</li><li>查找和修复错误</li><li>就您报告的错误的后续问题与您联系</li></ul>您的数据不会用于个人决策- 制作，包括分析。<br/><br/>我们收到的有关您的数据不会与其他公司或组织共享，除非法律要求我们这样做（例如为了执法）和处理目的（请参阅 以下）。 他们如何使用直接传输给第三方（编号 6-9）的数据是我们无法控制的。",
+        "usageHeading": "我们将如何使用您的数据？",
+        "basisText": "我们在您明确同意（GDPR 第 6 条第 1 款 a GDPR）的情况下，通过 Lumi 首次启动时的同意对话框收集或传输第 1-9 条的数据。 H5P编辑器和播放器工作需要数字6-9的数据传输。 如果您反对，则在技术上无法使用该应用程序。 在使用 Lumi Run 之前，在您明确同意的情况下收集第 10 条的数据。",
+        "basisHeading": "我们在什么基础上收集您的数据？",
+        "dataTable": {
+            "row10": "<td>10</td><td>您上传的 H5P</td><td>如果您选择通过 Lumi Run 应用程序将 H5P 上传到 Lumi.run </td><td>Lumi Education GbR</td >",
+            "row9": "<td>9</td><td>您的 IP 地址和可能的其他数据</td><td>如果您使用向第三方传输数据的内容类型（例如，Speak the Answer 会将您的录音传输给 Google 进行转录 )</td><td>取决于使用的内容类型</td>",
+            "row8": "<td>8</td><td>您的 IP 地址</td><td>使用应用程序时（下载字体）</td><td>Google, Gordon House, Barrow Street, Dublin 4, Ireland ( 在此处查看他们的隐私政策：https://policies.google.com/privacy?hl=en)</td>",
+            "row7": "<td>7</td><td>您的 IP 地址</td><td>检查和下载新应用更新时</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco , CA 94107, 美国（在此处查看他们的隐私政策：https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement）</td>",
+            "row6": "<td>6</td><td>您的 IP 地址、您机器的（稳定的）唯一标识符以及有关 Lumi H5P 编辑器安装的信息（版本等）</td><td>从以下位置下载内容类型时 H5P 中心（在应用程序启动时以及当您在内容类型列表中单击安装或更新时）</td><td>Joubel AS，c/o Flow Coworking AS Strandgata 9, 9008 Tromsø, Norway（在此处查看他们的隐私政策 : https://h5p.org/privacy)</td>",
+            "row5": "<td>5</td><td>在您使用应用程序时发生的错误</td><td>如果您的应用程序遇到错误并且您启用了错误报告</td>",
+            "row4": "<td>4</td><td>您使用应用程序的哪些部分</td><td>当您使用应用程序并启用使用统计功能时</td>",
+            "row3": "<td>3</td><td>有关您的计算机（操作系统）和您的位置的信息</td><td>当您启动应用程序并启用使用统计信息</td>",
+            "row2": "<td>2</td><td>您使用应用的频率</td><td>何时启动应用并启用使用统计</td>",
+            "row1": "<td>1</td><td>安装和 IP 地址的唯一标识符</td><td>启动应用程序时</td><td rowspan=\"5\">Lumi Education GbR</td>",
+            "header": "<th>数字</th><th>数据</th><th>什么时候？</th><th>数据传输给谁？</th>"
+        },
+        "dataText": "在您使用应用程序时，以下数据会传输给我们的组织或第三方：",
+        "dataHeading": "收集哪些数据？ 是如何收集的？",
+        "controllerText": "控制者（根据 GDPR 第 4 (7) 条，确定个人数据处理目的和方式的法人）是 Lumi Education GbR Jan Philip Schellenberg 和 Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig ， 德国。",
+        "controllerHeading": "谁负责 Lumi H5P 桌面编辑器中的数据收集？",
+        "warningGPL": "由于 Lumi 应用程序是根据 AGPL-3.0 许可证获得许可的，因此任何人都可以更改和分发该应用程序。 本隐私政策不适用于由其他任何人修改和发布的 Lumi 应用程序版本。",
+        "scope": "本隐私政策仅适用于您直接从 Lumi Education GbR 收到的应用程序副本，可以从网站 lumi.education、GitHub 存储库 https://github.com/lumieducation/lumi 或应用程序商店下载。 如果您是从应用程序商店下载的，则本隐私政策仅适用于您从 Lumi Education GbR 的官方商店条目下载的程序，该商店可以拥有以下发行商之一（或这些发行商的缩写）：<ul><li>Lumi 教育 GbR Jan Philip Schellenberg 和 Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
+        "definitions": "为了帮助您了解我们的隐私政策，我们从<a href=\"/en/app/privacy-policy\">英文原文</a>进行了自动翻译，这是同样具有法律约束力的文件。 如果您不理解本文档的部分内容，请按如下所述联系我们。<br/><br/>Lumi H5P 桌面编辑器是由“Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig”（“ Lumi Education GbR”、“我们”和“我们的公司”）开发和发行的。 本隐私政策将解释我们公司将如何使用当您使用应用程序时我们从您那里收集的个人数据。",
+        "title": "Lumi H5P 桌面编辑器 – 隐私政策"
+    },
+    "appPlayerPrivacyPolicy": {
+        "authorityText": "如果您想报告投诉，或者如果您认为我们公司没有以令人满意的方式解决您的问题，您可以联系信息专员办公室。<br/><br/>电子邮件：<a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br />地址：<br />Der Landesbeauftragte für den Datenschutz Niedersachsen<br/>Prinzenstraße 5<br/>D-30159 Hannover< br/>德国",
+        "authorityHeading": "如何联系有关部门",
+        "contactText": "如果您对我们公司的隐私政策、我们持有的您的数据有任何疑问，或者您想行使您的一项数据保护权利，请随时与我们联系。 给我们发电子邮件：<a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
+        "contactHeading": "如何联系我们",
+        "changesText": "我们公司会定期审查其隐私政策，并将任何更新放在此网页上。 本隐私政策最后更新于 2021 年 7 月 12 日。",
+        "changesHeading": "我们隐私政策的变更",
+        "otherSitesText": "我们的应用程序包含指向其他网站的链接。 我们的隐私政策仅适用于我们的网站，因此如果您点击其他网站的链接，您应该阅读他们的隐私政策。",
+        "otherSitesHeading": "其他网站的隐私政策",
+        "rightsContact": "如果您提出请求，我们有一个月的时间回复您。 如果您想行使这些权利中的任何一项，请通过我们的电子邮件与我们联系：<a href=\"mailto:c@Lumi.education\">c@Lumi.education</a><br/><br/>所有 有关如第 6-8 条所述传输的数据的请求必须直接发送给接收者。",
+        "rightsList": {
+            "r6": "数据可移植性的权利——在某些条件下，您有权要求我们公司将我们收集的数据传输给另一个组织，或直接传输给您。",
+            "r5": "限制处理的权利——在某些情况下，您有权要求我们公司限制处理您的个人数据。",
+            "r4": "删除权 – 在某些情况下，您有权要求我们公司删除您的个人数据。",
+            "r3": "更正权——您有权要求我们公司更正您认为不准确的任何信息。 您也有权要求我们公司完善您认为不完整的信息。",
+            "r2": "访问权——您有权要求我们公司提供您个人数据的副本。 我们可能会就此项服务向您收取少量费用。",
+            "r1": "反对处理的权利——在某些情况下，您有权反对我们公司处理您的个人数据。"
+        },
+        "rightsText": "我们公司希望确保您完全了解您的所有数据保护权利。 每个用户都有权获得以下权利：",
+        "rightsHeading": "您有哪些数据保护权利？",
+        "storageText": {
+            "sentence3": "我们无法控制直接传输给第三方（编号 6-8）的数据如何由他们存储以及存储多长时间。 由于某些收件人居住在美国，因此您的数据很可能会传输到美国并存储在美国。",
+            "sentence2": "我们公司会将您的数据在收集后保留两年。 一旦此时间段到期，我们将删除您的数据。",
+            "sentence1": "我们公司使用数据处理器在由 Hetzner Online GmbH, Industriesstr 运行的系统上安全地存储有关您的应用程序使用情况（编号 1-5）的数据。 25 号，D-91710，德国贡岑豪森。"
+        },
+        "storageHeading": "我们如何存储您的数据？",
+        "usageText": "我们公司收集您的数据（数字 1-5），以便我们能够：<ul><li>决定应进一步开发应用程序的哪些部分（例如选择要本地化的语言）</li><li>以优化应用程序 用户界面</li><li>查找和修复错误</li><li>就您报告的错误的后续问题与您联系</li></ul>您的数据不会用于个人决策- 制作，包括分析。<br/><br/>我们收到的关于您的数据不会与其他公司或组织共享，除非法律要求我们这样做（例如为了执法）和处理目的（见 以下）。 我们无法控制他们如何使用直接传输给第三方（编号 6-8）的数据。",
+        "usageHeading": "我们将如何使用您的数据？",
+        "basisText": "我们会在您明确同意（GDPR 第 6 条第 1 款 a GDPR）的情况下通过 Lumi 播放器首次启动时的同意对话框收集或传输第 1-8 条的数据。 H5P播放器需要7-8号数据传输才能工作。 如果您反对，则在技术上无法使用该应用程序。",
+        "basisHeading": "我们在什么基础上收集您的数据？",
+        "dataTable": {
+            "row8": "<td>8</td><td>您的 IP 地址和可能的其他数据</td><td>如果您使用向第三方传输数据的内容类型（例如，Speak the Answer 会将您的录音传输给 Google 进行转录 )</td><td>取决于使用的内容类型</td>",
+            "row7": "<td>7</td><td>您的 IP 地址</td><td>使用应用程序时（下载字体）</td><td>Google, Gordon House, Barrow Street, Dublin 4, Ireland ( 在此处查看他们的隐私政策：https://policies.google.com/privacy?hl=en)</td>",
+            "row6": "<td>6</td><td>您的 IP 地址</td><td>检查和下载新应用更新时</td><td>GitHub Inc., 88 Colin P Kelly Jr St, San Francisco , CA 94107, 美国（在此处查看他们的隐私政策：https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement）</td>",
+            "row5": "<td>5</td><td>在您使用应用程序时发生的错误</td><td>如果您的应用程序遇到错误并且您启用了错误报告</td>",
+            "row4": "<td>4</td><td>您使用应用程序的哪些部分</td><td>当您使用应用程序并启用使用统计功能时</td>",
+            "row3": "<td>3</td><td>有关您的计算机（操作系统）和您的位置的信息</td><td>当您启动应用程序并启用使用统计信息</td>",
+            "row2": "<td>2</td><td>您使用应用的频率</td><td>何时启动应用并启用使用统计</td>",
+            "row1": "<td>1</td><td>安装和 IP 地址的唯一标识符</td><td>启动应用程序时</td><td rowspan=\"5\">Lumi Education GbR</td>",
+            "header": "<th>数字</th><th>数据</th><th>什么时候？</th><th>数据传输给谁？</th>"
+        },
+        "dataText": "在您使用应用程序时，以下数据会传输给我们的组织或第三方：",
+        "dataHeading": "收集哪些数据？ 它是如何收集的？",
+        "controllerText": "控制者（根据 GDPR 第 4 (7) 条，确定个人数据处理目的和方式的法人）是 Lumi Education GbR Jan Philip Schellenberg 和 Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig ， 德国。",
+        "controllerHeading": "Lumi H5P Player 中的数据收集由谁负责？",
+        "warningGPL": "由于 Lumi H5P Player 应用程序是根据 AGPL-3.0 许可证获得许可的，因此任何人都可以更改和分发该应用程序。 本隐私政策不适用于由其他任何人修改和发布的 Lumi Player 应用程序版本。",
+        "scope": "本隐私政策仅适用于您直接从 Lumi Education GbR 收到的应用程序副本，可以从网站 lumi.education、GitHub 存储库 https://github.com/lumieducation/LumiPlayer 或应用程序商店下载。 如果您是从应用程序商店下载的，则本隐私政策仅适用于您从 Lumi Education GbR 的官方商店条目下载的程序，该商店可以拥有以下发行商之一（或这些发行商的缩写）：<ul><li>Lumi 教育 GbR Jan Philip Schellenberg 和 Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
+        "definitions": "为了帮助您了解我们的隐私政策，我们将<a href=\"/en/app-player/privacy-policy\">英文原文</a>自动翻译为此文件，这是具有法律约束力的文件。 如果您不理解本文档的部分内容，请按如下所述联系我们。<br/><br/>Lumi H5P 桌面编辑器是由“Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig”（“ Lumi Education GbR”、“我们”和“我们的公司”）开发和发行的。 本隐私政策将解释我们公司如何在您使用应用程序时使用我们从您那里收集的个人数据。",
+        "title": "Lumi H5P 播放器 – 隐私政策"
     }
 }
