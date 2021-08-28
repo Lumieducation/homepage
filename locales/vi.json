@@ -1,13 +1,13 @@
 {
     "meta": {
-        "keywords": "tạo, chia sẻ, nội dung tương tác, bài tập tương tác, h5p, e-learning, elearning, scorm, xapi, công cụ tác giả, ngoại tuyến, độc lập, html5",
+        "keywords": "tạo, chia sẻ, nội dung tương tác, bài tập tương tác, h5p, e-learning, elearning, scorm, xapi, công cụ biên soạn, ngoại tuyến, độc lập, html5",
         "pageTopic": "giáo dục",
         "pageType": "Tải phần mềm",
         "description": "Lumi là một ứng dụng máy tính để bàn mã nguồn mở cho phép bạn tạo, chỉnh sửa, xem và chia sẻ nội dung tương tác với hàng chục loại nội dung khác nhau."
     },
     "mission": {
         "make_learning": "Học tập",
-        "accessible": "có thể truy cập được.",
+        "accessible": "dễ tiếp cận.",
         "individual": "cá nhân.",
         "exciting": "thú vị."
     },
@@ -16,64 +16,64 @@
         "welcome": "Lumi là một ứng dụng dành cho máy tính để bàn cho phép bạn tạo, chỉnh sửa, xem và chia sẻ nội dung tương tác với hàng chục loại nội dung khác nhau. Nó miễn phí và mã nguồn mở."
     },
     "navigation": {
-        "home": "Trang Chủ",
-        "menu": "Thực đơn",
+        "home": "Trang chủ",
+        "menu": "Trình đơn",
         "newsletter": "Bản tin",
         "download": "Tải xuống",
         "support": "Ủng hộ chúng tôi"
     },
     "newsletter": {
-        "placeholder": "Nhập địa chỉ email của bạn để nhận bản tin của chúng tôi",
+        "placeholder": "Nhập địa chỉ thư điện tử của bạn để nhận bản tin của chúng tôi",
         "subscribe": "Đăng ký"
     },
     "features": {
-        "subheading": "Biên tập viên Lumi H5P",
+        "subheading": "Trình biên tập Lumi H5P",
         "heading": "Tạo, chỉnh sửa và xem các tệp H5P trực tiếp trên máy tính của bạn.",
         "h5p": {
-            "heading": "Tất cả các loại nội dung Hub H5P",
-            "description": "Bạn có thể chọn từ hơn 40 loại nội dung và tải trực tiếp chúng từ H5P Hub."
+            "heading": "Tất cả các loại nội dung của H5P Hub",
+            "description": "Bạn có thể chọn từ hơn 40 loại nội dung và tải chúng ngay từ H5P Hub."
         },
         "use": {
             "heading": "Dễ sử dụng",
             "description": "Bạn không cần bất kỳ kiến thức lập trình nào để tạo nội dung tương tác hấp dẫn với Lumi!"
         },
         "preview": {
-            "heading": "Xem nhanh",
+            "heading": "Xem trước nhanh",
             "description": "Kiểm tra các thay đổi của bạn mà không cần lưu bằng cách chuyển sang bản xem trước."
         },
         "standalone": {
             "heading": "Chạy độc lập",
-            "description": "Lumi chạy như một chương trình máy tính để bàn trên máy tính của bạn. Không cần LMS như Moodle hoặc CMS như WordPress."
+            "description": "Lumi chạy như một chương trình trên máy tính của bạn. Không cần LMS như Moodle hoặc CMS như WordPress."
         },
         "htmlExport": {
             "heading": "Xuất HTML thuần túy",
-            "description": "Lưu nội dung của bạn dưới dạng các tệp HTML tất cả trong một hoạt động ở hầu hết mọi nơi và gửi nội dung đó cho người học của bạn."
+            "description": "Lưu nội dung của bạn dưới dạng các tệp HTML tất cả trong một, chạy được ở hầu hết mọi nơi và gửi nội dung đó cho người học của bạn."
         },
         "scormExport": {
-            "heading": "Xuất khẩu SCORM",
-            "description": "Xuất nội dung của bạn dưới dạng gói SCORM 1.2 có thể được sử dụng trong bất kỳ LMS tuân thủ nào."
+            "heading": "Xuất SCORM",
+            "description": "Xuất nội dung của bạn dưới dạng gói SCORM 1.2 có thể dùng được trong bất kỳ LMS nào tuân thủ."
         },
         "analytics": {
             "heading": "Nhận sự tiến bộ của người học",
-            "description": "Người học có thể tải xuống tiến trình của mình bằng công cụ báo cáo của Lumi và gửi cho bạn để phân tích."
+            "description": "Người học có thể tải xuống tiến trình của mình bằng công cụ báo cáo của Lumi và gửi cho bạn phân tích."
         },
         "openSource": {
-            "heading": "Nguồn mở và miễn phí",
+            "heading": "Mã nguồn mở và miễn phí",
             "description": "Lumi được cấp phép theo GNU Affero General Public License 3.0 và hoàn toàn miễn phí. Bạn có thể sử dụng nội dung được tạo bằng nó theo bất kỳ cách nào bạn muốn."
         }
     },
     "download": {
         "title": "Tải xuống Lumi",
-        "windows_download_store": "Tải xuống từ Microsoft Store (được khuyến nghị)",
+        "windows_download_store": "Tải xuống từ Microsoft Store (nên dùng)",
         "window_download_installer": "Tải xuống trình cài đặt (exe)",
         "download": "Tải xuống",
         "bypass_smartscreen": "Tìm hiểu tại đây cách bỏ qua bộ lọc SmartScreen của Windows (chỉ cần thiết cho trình cài đặt exe)."
     },
     "footer": {
         "company": "Công ty",
-        "mission": "Làm cho việc học trở nên dễ tiếp cận, cá nhân và thú vị.",
-        "quick_links": "đường dẫn nhanh",
-        "contact": "Tiếp xúc",
+        "mission": "Làm cho việc học trở nên dễ tiếp cận, mang tính cá nhân và thú vị.",
+        "quick_links": "Đường dẫn nhanh",
+        "contact": "Liên lạc",
         "privacy": "Riêng tư",
         "imprint": "Dấu ấn",
         "contact_information": "Thông tin liên lạc",
@@ -84,10 +84,10 @@
     "appPrivacyPolicy": {
         "title": "Lumi H5P Desktop Editor - Chính sách quyền riêng tư",
         "definitions": "Để giúp bạn hiểu chính sách bảo mật của chúng tôi, chính sách này đã được dịch tự động <a href=\"/en/app/privacy-policy\">từ bản gốc tiếng Anh</a> , là tài liệu ràng buộc về mặt pháp lý. Nếu bạn không hiểu các phần của tài liệu này, hãy liên hệ với chúng tôi theo mô tả bên dưới.<br/><br/> Lumi H5P Desktop Editor là một ứng dụng được phát triển và phân phối bởi “Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig” (“Lumi Education GbR”, “chúng tôi” và “công ty của chúng tôi” trong phần sau). Chính sách bảo mật này sẽ giải thích cách công ty chúng tôi sử dụng dữ liệu cá nhân mà chúng tôi thu thập từ bạn khi bạn sử dụng ứng dụng.",
-        "scope": "Chính sách bảo mật này chỉ áp dụng cho các bản sao của ứng dụng bạn nhận được trực tiếp từ Lumi Education GbR, bằng cách tải xuống từ trang web lumi.education, kho lưu trữ GitHub tại https://github.com/lumieducation/lumi hoặc từ cửa hàng ứng dụng. Nếu bạn đã tải xuống từ một cửa hàng ứng dụng, chính sách bảo mật này chỉ áp dụng nếu bạn tải xuống từ một cửa hàng chính thức của Lumi Education GbR, có thể có một trong những nhà xuất bản sau (hoặc tên viết tắt của những nhà xuất bản này):<ul><li> Lumi Education GbR Jan Philip Schellenberg và Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
+        "scope": "Chính sách bảo mật này chỉ áp dụng cho các bản sao của ứng dụng bạn nhận được trực tiếp từ Lumi Education GbR, bằng cách tải xuống từ trang web lumi.education, kho lưu trữ GitHub tại https://github.com/lumieducation/lumi hoặc từ cửa hàng ứng dụng. Nếu bạn đã tải xuống từ một cửa hàng ứng dụng, chính sách bảo mật này chỉ áp dụng nếu bạn tải xuống từ một cửa hàng chính thức của Lumi Education GbR, có thể có tên một trong những nhà xuất bản sau (hoặc tên viết tắt của những nhà xuất bản này):<ul><li> Lumi Education GbR Jan Philip Schellenberg và Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
         "warningGPL": "Vì ứng dụng Lumi được cấp phép theo Giấy phép AGPL-3.0 nên bất kỳ ai cũng có thể thay đổi và phân phối ứng dụng. Chính sách bảo mật này không áp dụng cho các phiên bản của ứng dụng Lumi đã được sửa đổi và xuất bản bởi bất kỳ ai khác.",
         "controllerHeading": "Ai chịu trách nhiệm thu thập dữ liệu trong Lumi H5P Desktop Editor?",
-        "controllerText": "Người kiểm soát (theo Điều 4 (7) GDPR, pháp nhân xác định mục đích và phương tiện xử lý dữ liệu cá nhân) là Lumi Education GbR Jan Philip Schellenberg và Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig , Nước Đức.",
+        "controllerText": "Người kiểm soát (theo Điều 4 (7) GDPR, pháp nhân xác định mục đích và phương tiện xử lý dữ liệu cá nhân) là Lumi Education GbR Jan Philip Schellenberg và Sebastian Rettig, Frida-Kahlo-Straße 41, D-38126 Braunschweig, nước Đức.",
         "dataHeading": "Dữ liệu nào được thu thập? Nó được thu thập như thế nào?",
         "dataText": "Dữ liệu sau được truyền tới tổ chức của chúng tôi hoặc các bên thứ ba trong khi bạn sử dụng ứng dụng:",
         "dataTable": {
