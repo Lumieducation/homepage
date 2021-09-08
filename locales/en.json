@@ -226,5 +226,8 @@
         "contactText": "If you have any questions about our company’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us. Email us at: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "How to contact the appropriate authority",
         "authorityText": "Should you wish to report a complaint or if you feel that our company has not addressed your concern in a satisfactory manner, you may contact the Information Commissioner’s Office.<br/><br/>Email: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br />Address:<br />Der Landesbeauftragte für den Datenschutz Niedersachsen<br />Prinzenstraße 5<br />D-30159 Hannover<br />Germany"
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "DISCLAIMER: The content in this language is for information only. The official, binding version of the privacy policy was written in English.",
+        "languageDisclaimerTermsAndConditions": "DISCLAIMER: The content in this language is for information only. The official, binding version of the terms and conditions was written in English."
     }
 }
