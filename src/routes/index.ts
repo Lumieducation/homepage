@@ -7,6 +7,12 @@ import {
     getCurrentLanguageCode
 } from '../languages';
 
+function getCurrentLocationWithoutLanguage(req: express.Request): string {
+    return req.baseUrl.replace(
+        `/${getCurrentLanguageCode(req.language)}/`,
+        '/'
+    );
+}
 const router = express.Router();
 
 router.use(
@@ -21,6 +27,7 @@ router.use(
                 languages: getListWithNativeNames(),
                 currentLanguage: getNativeName(req.language),
                 currentLanguageCode: getCurrentLanguageCode(req.language)
+                currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {
             res.redirect('/');
@@ -40,6 +47,7 @@ router.use(
                 languages: getListWithNativeNames(),
                 currentLanguage: getNativeName(req.language),
                 currentLanguageCode: getCurrentLanguageCode(req.language)
+                currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {
             res.redirect('/');
@@ -59,6 +67,7 @@ router.use(
                 languages: getListWithNativeNames(),
                 currentLanguage: getNativeName(req.language),
                 currentLanguageCode: getCurrentLanguageCode(req.language)
+                currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {
             res.redirect('/');
@@ -78,6 +87,7 @@ router.use(
                 languages: getListWithNativeNames(),
                 currentLanguage: getNativeName(req.language),
                 currentLanguageCode: getCurrentLanguageCode(req.language)
+                currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {
             res.redirect('/');
@@ -93,22 +103,11 @@ router.use(
         next: express.NextFunction
     ) => {
         try {
-            if (req.baseUrl === '/support') {
-                req.baseUrl = `/${getCurrentLanguageCode(
-                    req.language
-                )}/support`;
-            }
-
-            const location = req.baseUrl.replace(
-                `/${getCurrentLanguageCode(req.language)}`,
-                ''
-            );
-
             res.render('support', {
                 languages: getListWithNativeNames(),
                 currentLanguage: getNativeName(req.language),
                 currentLanguageCode: getCurrentLanguageCode(req.language),
-                currentWindowLocation: location
+                currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {
             res.redirect('/');
@@ -128,6 +127,7 @@ router.use(
                 languages: getListWithNativeNames(),
                 currentLanguage: getNativeName(req.language),
                 currentLanguageCode: getCurrentLanguageCode(req.language)
+                currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {
             res.redirect('/');
@@ -147,6 +147,7 @@ router.use(
                 languages: getListWithNativeNames(),
                 currentLanguage: getNativeName(req.language),
                 currentLanguageCode: getCurrentLanguageCode(req.language)
+                currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {
             res.redirect('/');
@@ -170,6 +171,7 @@ router.use(
             languages: getListWithNativeNames(),
             currentLanguage: getNativeName(req.language),
             currentLanguageCode: getCurrentLanguageCode(req.language)
+            currentWindowLocation: getCurrentLocationWithoutLanguage(req)
         });
         /*
         try {
