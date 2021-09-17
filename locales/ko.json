@@ -226,5 +226,9 @@
         "contactText": "당사의 개인 정보 보호 정책, 당사가 보유하고 있는 데이터에 대해 질문이 있거나 데이터 보호 권리 중 하나를 행사하려는 경우 주저하지 말고 당사에 연락하십시오. 이메일: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "해당 기관에 연락하는 방법",
         "authorityText": "불만 사항을 보고하고 싶거나 당사가 귀하의 우려 사항을 만족스러운 방식으로 해결하지 못했다고 생각되면 정보 커미셔너 사무실에 연락할 수 있습니다.<br/><br/> 이메일: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> 주소:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> 프린젠슈트라세 5<br /> D-30159 하노버<br /> 독일"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "이 언어의 텍스트는 정보 제공용입니다. 개인 정보 보호 정책의 공식적이고 구속력 있는 버전은 영어로 작성되었습니다.",
+        "languageDisclaimerTermsAndConditions": "이 언어의 텍스트는 정보 제공용입니다. 공식적이고 구속력 있는 이용 약관은 영어로 작성되었습니다."
     }
 }

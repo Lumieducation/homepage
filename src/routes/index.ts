@@ -29,6 +29,9 @@ router.use(
                 currentLanguageCode: getCurrentLanguageCode(req.language),
                 languageIsNotEnglish:
                     getCurrentLanguageCode(req.language) !== 'en',
+                languageHasNoManualTranslation:
+                    getCurrentLanguageCode(req.language) !== 'en' &&
+                    getCurrentLanguageCode(req.language) !== 'de',
                 currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {
@@ -51,6 +54,9 @@ router.use(
                 currentLanguageCode: getCurrentLanguageCode(req.language),
                 languageIsNotEnglish:
                     getCurrentLanguageCode(req.language) !== 'en',
+                languageHasNoManualTranslation:
+                    getCurrentLanguageCode(req.language) !== 'en' &&
+                    getCurrentLanguageCode(req.language) !== 'de',
                 currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {
@@ -73,6 +79,9 @@ router.use(
                 currentLanguageCode: getCurrentLanguageCode(req.language),
                 languageIsNotEnglish:
                     getCurrentLanguageCode(req.language) !== 'en',
+                languageHasNoManualTranslation:
+                    getCurrentLanguageCode(req.language) !== 'en' &&
+                    getCurrentLanguageCode(req.language) !== 'de',
                 currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {
@@ -95,6 +104,9 @@ router.use(
                 currentLanguageCode: getCurrentLanguageCode(req.language),
                 languageIsNotEnglish:
                     getCurrentLanguageCode(req.language) !== 'en',
+                languageHasNoManualTranslation:
+                    getCurrentLanguageCode(req.language) !== 'en' &&
+                    getCurrentLanguageCode(req.language) !== 'de',
                 currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {
@@ -137,6 +149,9 @@ router.use(
                 currentLanguageCode: getCurrentLanguageCode(req.language),
                 languageIsNotEnglish:
                     getCurrentLanguageCode(req.language) !== 'en',
+                languageHasNoManualTranslation:
+                    getCurrentLanguageCode(req.language) !== 'en' &&
+                    getCurrentLanguageCode(req.language) !== 'de',
                 currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {

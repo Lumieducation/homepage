@@ -226,5 +226,9 @@
         "contactText": "إذا كانت لديك أي أسئلة حول سياسة الخصوصية لشركتنا ، أو البيانات التي نحتفظ بها عنك ، أو إذا كنت ترغب في ممارسة أحد حقوق حماية البيانات الخاصة بك ، فلا تتردد في الاتصال بنا. راسلنا على: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "كيفية الاتصال بالسلطة المختصة",
         "authorityText": "إذا كنت ترغب في الإبلاغ عن شكوى أو إذا شعرت أن شركتنا لم تعالج مشكلتك بطريقة مرضية ، فيمكنك الاتصال بمكتب مفوض المعلومات.<br/><br/> البريد الإلكتروني: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> عنوان:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> برينزينشتراسه 5<br /> D-30159 ، هانوفر<br /> ألمانيا"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "النص في هذه اللغة للعلم فقط. تمت كتابة النسخة الرسمية الملزمة لسياسة الخصوصية باللغة الإنجليزية.",
+        "languageDisclaimerTermsAndConditions": "النص في هذه اللغة للعلم فقط. تمت كتابة النسخة الرسمية الملزمة للشروط والأحكام باللغة الإنجليزية."
     }
 }

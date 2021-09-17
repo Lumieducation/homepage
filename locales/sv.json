@@ -226,5 +226,9 @@
         "contactText": "Om du har några frågor om vårt företags integritetspolicy, de uppgifter vi har om dig eller om du vill utöva en av dina dataskyddsrättigheter, tveka inte att kontakta oss. Maila oss på: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "Hur man kontaktar lämplig myndighet",
         "authorityText": "Om du vill anmäla ett klagomål eller om du anser att vårt företag inte har behandlat din oro på ett tillfredsställande sätt kan du kontakta informationskommissionären.<br/><br/> E <a href=\"mailto:poststelle@lfd.niedersachsen.de\">-post: poststelle@lfd.niedersachsen.de</a><br /> Adress:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Tyskland"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "Texten på detta språk är endast för information. Den officiella, bindande versionen av sekretesspolicyn skrevs på engelska.",
+        "languageDisclaimerTermsAndConditions": "Texten på detta språk är endast för information. Den officiella, bindande versionen av villkoren skrevs på engelska."
     }
 }

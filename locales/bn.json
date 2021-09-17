@@ -226,5 +226,9 @@
         "contactText": "আপনার যদি আমাদের কোম্পানির গোপনীয়তা নীতি, আপনার কাছে থাকা ডেটা, অথবা আপনি আপনার ডেটা সুরক্ষা অধিকারগুলির একটি ব্যবহার করতে চান, তাহলে আমাদের সাথে যোগাযোগ করতে দ্বিধা করবেন না। আমাদের ইমেল করুন: <a href=\"mailto:c@Lumi.education\">c@Lumi.education এ</a>",
         "authorityHeading": "কিভাবে যথাযথ কর্তৃপক্ষের সাথে যোগাযোগ করবেন",
         "authorityText": "আপনি যদি কোন অভিযোগ জানাতে চান অথবা যদি আপনি মনে করেন যে আমাদের কোম্পানি সন্তোষজনক পদ্ধতিতে আপনার উদ্বেগের সমাধান করেনি, আপনি তথ্য কমিশনারের কার্যালয়ে যোগাযোগ করতে পারেন।<br/><br/> ইমেইল: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> ঠিকানা:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> ডি -30159 হ্যানোভার<br /> জার্মানি"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "এই ভাষার পাঠ্য শুধুমাত্র তথ্যের জন্য। গোপনীয়তা নীতির অফিসিয়াল, বাইন্ডিং ভার্সন ইংরেজিতে লেখা হয়েছিল।",
+        "languageDisclaimerTermsAndConditions": "এই ভাষার পাঠ্য শুধুমাত্র তথ্যের জন্য। শর্তাবলীর অফিসিয়াল, বাইন্ডিং ভার্সন ইংরেজিতে লেখা হয়েছিল।"
     }
 }

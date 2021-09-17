@@ -226,5 +226,9 @@
         "contactText": "Şirketimizin gizlilik politikası, sizin hakkınızda tuttuğumuz veriler hakkında herhangi bir sorunuz varsa veya veri koruma haklarınızdan birini kullanmak istiyorsanız, lütfen bizimle iletişime geçmekten çekinmeyin. Bize e-posta gönderin: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "Uygun makamla nasıl iletişime geçilir",
         "authorityText": "Bir şikayeti bildirmek isterseniz veya şirketimizin endişenizi tatmin edici bir şekilde ele almadığını düşünüyorsanız, Bilgi Komiserliği ile iletişime geçebilirsiniz.<br/><br/> E-posta: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Adres:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstrasse 5<br /> D-30159 Hannover<br /> Almanya"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "Bu dildeki metin yalnızca bilgi amaçlıdır. Gizlilik politikasının resmi, bağlayıcı versiyonu İngilizce olarak yazılmıştır.",
+        "languageDisclaimerTermsAndConditions": "Bu dildeki metin yalnızca bilgi amaçlıdır. Şartlar ve koşulların resmi, bağlayıcı versiyonu İngilizce olarak yazılmıştır."
     }
 }

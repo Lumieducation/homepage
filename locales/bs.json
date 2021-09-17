@@ -226,5 +226,9 @@
         "contactText": "Ako imate pitanja o politici privatnosti naše kompanije, podacima koje čuvamo o vama ili želite iskoristiti jedno od svojih prava na zaštitu podataka, ne ustručavajte se kontaktirati nas. Pošaljite nam e <a href=\"mailto:c@Lumi.education\">-poruku na: c@Lumi.education</a>",
         "authorityHeading": "Kako kontaktirati odgovarajuće tijelo",
         "authorityText": "Ako želite prijaviti žalbu ili smatrate da naša kompanija nije na zadovoljavajući način riješila vašu zabrinutost, možete se obratiti Uredu povjerenika za informacije.<br/><br/> E <a href=\"mailto:poststelle@lfd.niedersachsen.de\">-pošta: poststelle@lfd.niedersachsen.de</a><br /> Adresa:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Njemačka"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "Tekst na ovom jeziku služi samo za informaciju. Službena, obavezujuća verzija politike privatnosti napisana je na engleskom jeziku.",
+        "languageDisclaimerTermsAndConditions": "Tekst na ovom jeziku služi samo za informaciju. Službena, obavezujuća verzija odredbi i uslova napisana je na engleskom jeziku."
     }
 }

@@ -226,5 +226,9 @@
         "contactText": "اگر آپ کو ہماری کمپنی کی پرائیویسی پالیسی کے بارے میں کوئی سوالات ہیں ، جو ڈیٹا ہم آپ کے پاس رکھتے ہیں ، یا آپ اپنے ڈیٹا کے تحفظ کے حقوق میں سے ایک استعمال کرنا چاہتے ہیں ، تو براہ کرم ہم سے رابطہ کرنے میں ہچکچاہٹ نہ کریں۔ ہمیں ای میل کریں: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "مناسب اتھارٹی سے رابطہ کیسے کریں",
         "authorityText": "اگر آپ کسی شکایت کی اطلاع دینا چاہتے ہیں یا اگر آپ کو لگتا ہے کہ ہماری کمپنی نے آپ کی تشویش کو تسلی بخش انداز میں حل نہیں کیا ہے تو آپ انفارمیشن کمشنر کے دفتر سے رابطہ کر سکتے ہیں۔<br/><br/> ای میل: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de۔</a><br /> پتہ:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 ہنوور۔<br /> جرمنی"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "اس زبان میں متن صرف معلومات کے لیے ہے۔ پرائیویسی پالیسی کا آفیشل ، بائنڈنگ ورژن انگریزی میں لکھا گیا تھا۔",
+        "languageDisclaimerTermsAndConditions": "اس زبان میں متن صرف معلومات کے لیے ہے۔ شرائط و ضوابط کا سرکاری ، پابند ورژن انگریزی میں لکھا گیا تھا۔"
     }
 }

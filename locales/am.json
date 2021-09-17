@@ -226,5 +226,9 @@
         "contactText": "ስለ ኩባንያችን የግላዊነት ፖሊሲ ፣ በእናንተ ላይ የያዝነውን መረጃ በተመለከተ ማንኛውም ጥያቄ ካለዎት ወይም አንዱን የውሂብ ጥበቃ መብቶችዎን ለመጠቀም ከፈለጉ እባክዎን እኛን ለማነጋገር አያመንቱ። በኢሜል ይላኩልን: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "ተገቢውን ባለስልጣን እንዴት ማነጋገር እንደሚቻል",
         "authorityText": "ቅሬታዎን ለማቅረብ ከፈለጉ ወይም ኩባንያችን የሚያሳስብዎትን በአጥጋቢ ሁኔታ እንዳልተመለሰዎት ከተሰማዎት የመረጃ ኮሚሽነሩን ቢሮ ማነጋገር ይችላሉ።<br/><br/> ኢሜል: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> አድራሻ<br /> ዴር ላንድስበኡፍስትራግቴ für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 ሃኖቨር<br /> ጀርመን"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "በዚህ ቋንቋ ያለው ጽሑፍ ለመረጃ ብቻ ነው። የግላዊነት ፖሊሲው ኦፊሴላዊ ፣ አስገዳጅ ስሪት በእንግሊዝኛ ተፃፈ።",
+        "languageDisclaimerTermsAndConditions": "በዚህ ቋንቋ ያለው ጽሑፍ ለመረጃ ብቻ ነው። ኦፊሴላዊው ፣ አስገዳጅው የውሎች እና ሁኔታዎች ስሪት በእንግሊዝኛ ተፃፈ።"
     }
 }

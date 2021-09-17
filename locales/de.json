@@ -226,5 +226,9 @@
             "backers": "Unterstützer",
             "generousBackers": "Großzügige Unterstützer"
         }
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "Der Text in dieser Sprache dient nur zur Information. Die offizielle, verbindliche Version der Datenschutzerklärung wurde in englischer Sprache verfasst.",
+        "languageDisclaimerTermsAndConditions": "Der Text in dieser Sprache dient nur zur Information. Die offizielle, verbindliche Version der AGB wurde in englischer Sprache verfasst."
     }
 }

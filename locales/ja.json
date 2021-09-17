@@ -226,5 +226,9 @@
         "contactText": "当社のプライバシーポリシー、保有するデータについてご不明な点がある場合、またはデータ保護権の行使をご希望の場合は、お気軽にお問い合わせください。メールでお問い合わせください： <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "適切な当局に連絡する方法",
         "authorityText": "苦情の報告をご希望の場合、または当社がお客様の懸念に十分に対応していないと思われる場合は、情報コミッショナーオフィスにご連絡ください。<br/><br/> Eメール： <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br />住所：<br /> DerLandesbeauftragtefürdenDatenschutzNiedersachsen<br /> Prinzenstraße5<br /> D-30159ハノーバー<br />ドイツ"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "この言語のテキストは情報提供のみを目的としています。プライバシーポリシーの公式の拘束力のあるバージョンは英語で書かれました。",
+        "languageDisclaimerTermsAndConditions": "この言語のテキストは情報提供のみを目的としています。利用規約の公式の拘束力のあるバージョンは英語で書かれていました。"
     }
 }

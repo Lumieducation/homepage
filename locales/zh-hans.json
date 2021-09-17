@@ -226,5 +226,9 @@
         "scope": "本隐私政策仅适用于您直接从 Lumi Education GbR 收到的应用程序副本，可以从网站 lumi.education、GitHub 存储库 https://github.com/lumieducation/LumiPlayer 或应用程序商店下载。 如果您是从应用程序商店下载的，则本隐私政策仅适用于您从 Lumi Education GbR 的官方商店条目下载的程序，该商店可以拥有以下发行商之一（或这些发行商的缩写）：<ul><li>Lumi 教育 GbR Jan Philip Schellenberg 和 Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastian Rettig</li></ul>",
         "definitions": "为了帮助您了解我们的隐私政策，我们将<a href=\"/en/app-player/privacy-policy\">英文原文</a>自动翻译为此文件，这是具有法律约束力的文件。 如果您不理解本文档的部分内容，请按如下所述联系我们。<br/><br/>Lumi H5P 桌面编辑器是由“Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig”（“ Lumi Education GbR”、“我们”和“我们的公司”）开发和发行的。 本隐私政策将解释我们公司如何在您使用应用程序时使用我们从您那里收集的个人数据。",
         "title": "Lumi H5P 播放器 – 隐私政策"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "免责声明：此语言的内容仅供参考。隐私政策的正式、有约束力的版本是用英文编写的。",
+        "languageDisclaimerTermsAndConditions": "免责声明：此语言的内容仅供参考。条款和条件的正式、具有约束力的版本是用英文编写的。"
     }
 }

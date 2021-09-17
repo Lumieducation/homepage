@@ -226,5 +226,9 @@
         "contactText": "Gure konpainiaren pribatutasun politikari, guk dauzkagun datuei edo zure datuak babesteko eskubideren bat baliatu nahi baduzu, zalantzarik baduzu, jar zaitez gurekin harremanetan. Bidali posta elektroniko bidez: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "Nola jarri harremanetan dagokion agintaritzarekin",
         "authorityText": "Kexaren berri eman nahi baduzu edo gure enpresak zure kezka modu egokian zuzendu ez duela uste baduzu, Informazio Batzordearen Bulegora jo dezakezu.<br/><br/> Posta elektronikoa: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Helbidea:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Alemania"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "Hizkuntza honetako testua informazioa baino ez da. Pribatutasun politikaren bertsio ofizial eta loteslea ingelesez idatzi zen.",
+        "languageDisclaimerTermsAndConditions": "Hizkuntza honetako testua informazioa baino ez da. Baldintza eta baldintzen bertsio ofizial loteslea ingelesez idatzi zen."
     }
 }
