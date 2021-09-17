@@ -7,6 +7,12 @@ import {
     getCurrentLanguageCode
 } from '../languages';
 
+function getCurrentLocationWithoutLanguage(req: express.Request): string {
+    return req.baseUrl.replace(
+        `/${getCurrentLanguageCode(req.language)}/`,
+        '/'
+    );
+}
 const router = express.Router();
 
 router.use(
@@ -20,7 +26,13 @@ router.use(
             res.render('app/privacy-policy', {
                 languages: getListWithNativeNames(),
                 currentLanguage: getNativeName(req.language),
-                currentLanguageCode: getCurrentLanguageCode(req.language)
+                currentLanguageCode: getCurrentLanguageCode(req.language),
+                languageIsNotEnglish:
+                    getCurrentLanguageCode(req.language) !== 'en',
+                languageHasNoManualTranslation:
+                    getCurrentLanguageCode(req.language) !== 'en' &&
+                    getCurrentLanguageCode(req.language) !== 'de',
+                currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {
             res.redirect('/');
@@ -39,7 +51,13 @@ router.use(
             res.render('app-player/privacy-policy', {
                 languages: getListWithNativeNames(),
                 currentLanguage: getNativeName(req.language),
-                currentLanguageCode: getCurrentLanguageCode(req.language)
+                currentLanguageCode: getCurrentLanguageCode(req.language),
+                languageIsNotEnglish:
+                    getCurrentLanguageCode(req.language) !== 'en',
+                languageHasNoManualTranslation:
+                    getCurrentLanguageCode(req.language) !== 'en' &&
+                    getCurrentLanguageCode(req.language) !== 'de',
+                currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {
             res.redirect('/');
@@ -58,7 +76,13 @@ router.use(
             res.render('privacy-policy', {
                 languages: getListWithNativeNames(),
                 currentLanguage: getNativeName(req.language),
-                currentLanguageCode: getCurrentLanguageCode(req.language)
+                currentLanguageCode: getCurrentLanguageCode(req.language),
+                languageIsNotEnglish:
+                    getCurrentLanguageCode(req.language) !== 'en',
+                languageHasNoManualTranslation:
+                    getCurrentLanguageCode(req.language) !== 'en' &&
+                    getCurrentLanguageCode(req.language) !== 'de',
+                currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {
             res.redirect('/');
@@ -67,17 +91,23 @@ router.use(
 );
 
 router.use(
-    '/run/terms-of-use',
+    '/run/terms-and-conditions',
     async (
         req: express.Request,
         res: express.Response,
         next: express.NextFunction
     ) => {
         try {
-            res.render('run/terms-of-use', {
+            res.render('run/terms-and-conditions', {
                 languages: getListWithNativeNames(),
                 currentLanguage: getNativeName(req.language),
-                currentLanguageCode: getCurrentLanguageCode(req.language)
+                currentLanguageCode: getCurrentLanguageCode(req.language),
+                languageIsNotEnglish:
+                    getCurrentLanguageCode(req.language) !== 'en',
+                languageHasNoManualTranslation:
+                    getCurrentLanguageCode(req.language) !== 'en' &&
+                    getCurrentLanguageCode(req.language) !== 'de',
+                currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {
             res.redirect('/');
@@ -93,22 +123,11 @@ router.use(
         next: express.NextFunction
     ) => {
         try {
-            if (req.baseUrl === '/support') {
-                req.baseUrl = `/${getCurrentLanguageCode(
-                    req.language
-                )}/support`;
-            }
-
-            const location = req.baseUrl.replace(
-                `/${getCurrentLanguageCode(req.language)}`,
-                ''
-            );
-
             res.render('support', {
                 languages: getListWithNativeNames(),
                 currentLanguage: getNativeName(req.language),
                 currentLanguageCode: getCurrentLanguageCode(req.language),
-                currentWindowLocation: location
+                currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {
             res.redirect('/');
@@ -127,7 +146,13 @@ router.use(
             res.render('run/privacy-policy', {
                 languages: getListWithNativeNames(),
                 currentLanguage: getNativeName(req.language),
-                currentLanguageCode: getCurrentLanguageCode(req.language)
+                currentLanguageCode: getCurrentLanguageCode(req.language),
+                languageIsNotEnglish:
+                    getCurrentLanguageCode(req.language) !== 'en',
+                languageHasNoManualTranslation:
+                    getCurrentLanguageCode(req.language) !== 'en' &&
+                    getCurrentLanguageCode(req.language) !== 'de',
+                currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {
             res.redirect('/');
@@ -146,7 +171,8 @@ router.use(
             res.render('imprint', {
                 languages: getListWithNativeNames(),
                 currentLanguage: getNativeName(req.language),
-                currentLanguageCode: getCurrentLanguageCode(req.language)
+                currentLanguageCode: getCurrentLanguageCode(req.language),
+                currentWindowLocation: getCurrentLocationWithoutLanguage(req)
             });
         } catch (error) {
             res.redirect('/');
@@ -169,7 +195,8 @@ router.use(
             release: '0.8.1',
             languages: getListWithNativeNames(),
             currentLanguage: getNativeName(req.language),
-            currentLanguageCode: getCurrentLanguageCode(req.language)
+            currentLanguageCode: getCurrentLanguageCode(req.language),
+            currentWindowLocation: getCurrentLocationWithoutLanguage(req)
         });
         /*
         try {

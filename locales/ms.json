@@ -226,5 +226,9 @@
         "contactText": "Sekiranya anda mempunyai pertanyaan mengenai dasar privasi syarikat kami, data yang kami simpan kepada anda, atau anda ingin menggunakan salah satu hak perlindungan data anda, jangan ragu untuk menghubungi kami. <a href=\"mailto:c@Lumi.education\">Hantarkan</a> e-mel kepada kami di: c@Lumi.education",
         "authorityHeading": "Cara menghubungi pihak berkuasa yang sesuai",
         "authorityText": "Sekiranya anda ingin melaporkan aduan atau jika anda merasakan bahawa syarikat kami tidak menangani masalah anda dengan cara yang memuaskan, anda boleh menghubungi Pejabat Pesuruhjaya Maklumat.<br/><br/> E-mel: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Alamat:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Jerman"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "Teks dalam bahasa ini hanya untuk maklumat. Versi rasmi, privasi yang mengikat ditulis dalam bahasa Inggeris.",
+        "languageDisclaimerTermsAndConditions": "Teks dalam bahasa ini hanya untuk maklumat. Versi terma dan syarat rasmi yang mengikat ditulis dalam bahasa Inggeris."
     }
 }

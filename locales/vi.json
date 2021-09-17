@@ -226,5 +226,9 @@
         "contactText": "Nếu bạn có bất kỳ câu hỏi nào về chính sách bảo mật của công ty chúng tôi, dữ liệu mà chúng tôi lưu giữ trên bạn hoặc bạn muốn thực hiện một trong các quyền bảo vệ dữ liệu của mình, vui lòng liên hệ với chúng tôi. Gửi email cho chúng tôi theo địa chỉ: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "Làm thế nào để liên hệ với cơ quan thích hợp",
         "authorityText": "Nếu bạn muốn báo cáo khiếu nại hoặc nếu bạn cảm thấy rằng công ty của chúng tôi chưa giải quyết mối quan tâm của bạn một cách thỏa đáng, bạn có thể liên hệ với Văn phòng Ủy viên Thông tin.<br/><br/> Email: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Địa chỉ nhà:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> nước Đức"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "Văn bản bằng ngôn ngữ này chỉ dành cho thông tin. Phiên bản chính thức, ràng buộc của chính sách bảo mật được viết bằng tiếng Anh.",
+        "languageDisclaimerTermsAndConditions": "Văn bản bằng ngôn ngữ này chỉ dành cho thông tin. Phiên bản chính thức, ràng buộc của các điều khoản và điều kiện được viết bằng tiếng Anh."
     }
 }

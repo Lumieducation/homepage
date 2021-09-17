@@ -226,5 +226,9 @@
             "backers": "Sostenitori",
             "generousBackers": "Sostenitori generosi"
         }
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "Il testo in questa lingua è solo a scopo informativo. La versione ufficiale e vincolante dell'informativa sulla privacy è stata redatta in inglese.",
+        "languageDisclaimerTermsAndConditions": "Il testo in questa lingua è solo a scopo informativo. La versione ufficiale e vincolante dei termini e delle condizioni è stata scritta in inglese."
     }
 }

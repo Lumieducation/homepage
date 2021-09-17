@@ -226,5 +226,9 @@
         "contactText": "Pokud máte nějaké dotazy týkající se zásad ochrany osobních údajů naší společnosti, údajů, které o vás uchováváme, nebo byste chtěli uplatnit jedno ze svých práv na ochranu údajů, neváhejte nás kontaktovat. Pošlete nám e <a href=\"mailto:c@Lumi.education\">-mail na adresu: c@Lumi.education</a>",
         "authorityHeading": "Jak kontaktovat příslušný úřad",
         "authorityText": "Pokud si přejete nahlásit stížnost nebo máte pocit, že naše společnost nevyřešila vaše obavy uspokojivým způsobem, můžete se obrátit na Úřad komisaře pro informace.<br/><br/> E <a href=\"mailto:poststelle@lfd.niedersachsen.de\">-mail: poststelle@lfd.niedersachsen.de</a><br /> Adresa:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Německo"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "Text v tomto jazyce má pouze informativní charakter. Oficiální, závazná verze zásad ochrany osobních údajů byla napsána v angličtině.",
+        "languageDisclaimerTermsAndConditions": "Text v tomto jazyce má pouze informativní charakter. Oficiální, závazná verze podmínek byla napsána v angličtině."
     }
 }

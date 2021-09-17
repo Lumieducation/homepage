@@ -226,5 +226,9 @@
             "backers": "Patrocinadores",
             "generousBackers": "Generosos patrocinadores"
         }
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "El texto en este idioma es solo para información. La versión oficial y vinculante de la política de privacidad se redactó en inglés.",
+        "languageDisclaimerTermsAndConditions": "El texto en este idioma es solo para información. La versión oficial y vinculante de los términos y condiciones se redactó en inglés."
     }
 }

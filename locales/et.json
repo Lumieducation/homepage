@@ -226,5 +226,9 @@
         "contactText": "Kui teil on küsimusi meie ettevõtte privaatsuspoliitika, teie valduses olevate andmete kohta või soovite kasutada mõnda oma andmekaitseõigust, võtke meiega julgelt ühendust. Saatke meile e <a href=\"mailto:c@Lumi.education\">-kiri: c@Lumi.education</a>",
         "authorityHeading": "Kuidas pöörduda vastava asutuse poole",
         "authorityText": "Kui soovite kaebusest teatada või kui arvate, et meie ettevõte ei ole teie murega rahuldavalt tegelenud, võite võtta ühendust teabevoliniku bürooga.<br/><br/> E <a href=\"mailto:poststelle@lfd.niedersachsen.de\">-post: poststelle@lfd.niedersachsen.de</a><br /> Aadress:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Saksamaa"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "Selles keeles olev tekst on ainult informatiivne. Privaatsuspoliitika ametlik, siduv versioon on kirjutatud inglise keeles.",
+        "languageDisclaimerTermsAndConditions": "Selles keeles olev tekst on ainult informatiivne. Tingimuste ametlik, siduv versioon on kirjutatud inglise keeles."
     }
 }

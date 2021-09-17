@@ -226,5 +226,9 @@
         "contactText": "Jeśli masz jakiekolwiek pytania dotyczące polityki prywatności naszej firmy, przechowywanych przez nas danych lub chcesz skorzystać z jednego ze swoich praw do ochrony danych, skontaktuj się z nami. Napisz do nas na <a href=\"mailto:c@Lumi.education\">adres: c@Lumi.education</a>",
         "authorityHeading": "Jak skontaktować się z odpowiednim organem?",
         "authorityText": "Jeśli chcesz zgłosić skargę lub jeśli uważasz, że nasza firma nie zajęła się Twoim problemem w zadowalający sposób, możesz skontaktować się z Biurem Komisarza ds. Informacji.<br/><br/> E-mail: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Adres:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hanower<br /> Niemcy"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "Tekst w tym języku ma charakter wyłącznie informacyjny. Oficjalna, wiążąca wersja polityki prywatności została sporządzona w języku angielskim.",
+        "languageDisclaimerTermsAndConditions": "Tekst w tym języku ma charakter wyłącznie informacyjny. Oficjalna, wiążąca wersja regulaminu została sporządzona w języku angielskim."
     }
 }

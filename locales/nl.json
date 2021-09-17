@@ -226,5 +226,9 @@
         "contactText": "Als u vragen heeft over het privacybeleid van ons bedrijf, de gegevens die we over u hebben, of als u een van uw gegevensbeschermingsrechten wilt uitoefenen, neem dan gerust contact met ons op. E-mail ons op: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "Contact opnemen met de juiste autoriteit?",
         "authorityText": "Als u een klacht wilt melden of als u van mening bent dat ons bedrijf uw probleem niet op een bevredigende manier heeft opgelost, kunt u contact opnemen met de Information Commissioner's Office.<br/><br/> E-mail: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Adres:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinsenstrae 5<br /> D-30159 Hannover<br /> Duitsland"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "De tekst in deze taal is alleen ter informatie. De officiële, bindende versie van het privacybeleid is in het Engels opgesteld.",
+        "languageDisclaimerTermsAndConditions": "De tekst in deze taal is alleen ter informatie. De officiële, bindende versie van de voorwaarden is in het Engels geschreven."
     }
 }

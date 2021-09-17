@@ -226,5 +226,9 @@
         "contactText": "Si teniu cap pregunta sobre la política de privadesa de la nostra empresa, sobre les dades que tenim sobre vosaltres o si voleu exercir algun dels vostres drets de protecció de dades, no dubteu en posar-vos en contacte amb nosaltres. Envieu-nos un correu electrònic a: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "Com contactar amb l'autoritat corresponent",
         "authorityText": "Si voleu informar d’una queixa o si creieu que la nostra empresa no ha atès la vostra preocupació de manera satisfactòria, podeu contactar amb l’Oficina del Comissari d’Informació.<br/><br/> Correu electrònic: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Adreça:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> D-30159 Hannover<br /> Alemanya"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "El text en aquest idioma és només informatiu. La versió oficial i vinculant de la política de privadesa es va escriure en anglès.",
+        "languageDisclaimerTermsAndConditions": "El text en aquest idioma és només informatiu. La versió oficial i vinculant dels termes i condicions es va escriure en anglès."
     }
 }

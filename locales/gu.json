@@ -226,5 +226,9 @@
         "contactText": "જો તમને અમારી કંપનીની ગોપનીયતા નીતિ, અમે જે ડેટા તમારી પાસે રાખ્યો છે, અથવા તમે તમારા ડેટા સંરક્ષણ અધિકારોમાંથી એકનો ઉપયોગ કરવા માંગતા હો, તો કૃપા કરીને અમારો સંપર્ક કરવામાં અચકાશો નહીં. અમને ઇમેઇલ કરો: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
         "authorityHeading": "યોગ્ય અધિકારીનો સંપર્ક કેવી રીતે કરવો",
         "authorityText": "જો તમે ફરિયાદની જાણ કરવા માંગતા હોવ અથવા જો તમને લાગતું હોય કે અમારી કંપનીએ સંતોષકારક રીતે તમારી ચિંતાનો ઉકેલ લાવ્યો નથી, તો તમે માહિતી કમિશનર કચેરીનો સંપર્ક કરી શકો છો.<br/><br/> ઇમેઇલ: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> સરનામું:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinzenstraße 5<br /> ડી -30159 હેનોવર<br /> જર્મની"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "આ ભાષામાં લખાણ માત્ર માહિતી માટે છે. ગોપનીયતા નીતિનું સત્તાવાર, બંધનકર્તા સંસ્કરણ અંગ્રેજીમાં લખવામાં આવ્યું હતું.",
+        "languageDisclaimerTermsAndConditions": "આ ભાષામાં લખાણ માત્ર માહિતી માટે છે. નિયમો અને શરતોનું સત્તાવાર, બંધનકર્તા સંસ્કરણ અંગ્રેજીમાં લખવામાં આવ્યું હતું."
     }
 }
