@@ -41,7 +41,7 @@
         "cross-env": "7.0.3",
         "husky": "7.0.2",
         "json-autotranslate": "1.9.2",
-        "nodemon": "2.0.12",
+        "nodemon": "2.0.13",
         "prettier": "2.4.1",
         "ts-node": "10.2.1",
         "tslint-config-airbnb": "5.11.2",
