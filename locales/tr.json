@@ -29,19 +29,19 @@
         },
         "use": {
             "heading": "Kullanımı kolay",
-            "description": "Lumi ile ilgi çekici interaktif içerik oluşturmak için herhangi bir programlama bilgisine ihtiyacınız yok!"
+            "description": "Lumi ile ilgi çekici etkileşimli içerik oluşturmak için herhangi bir programlama bilgisine ihtiyacınız yoktur!"
         },
         "preview": {
             "heading": "Hızlı önizleme",
-            "description": "Önizlemeye geçerek değişiklikleri kaydetmeden kontrol edin."
+            "description": "Önizlemeye geçerek değişiklikleri kaydetmeden kontrol ediniz."
         },
         "standalone": {
             "heading": "Bağımsız çalışır",
-            "description": "Lumi, bilgisayarınızda bir masaüstü programı olarak çalışır. Moodle gibi bir LMS veya WordPress gibi bir CMS'ye gerek yok."
+            "description": "Lumi, bilgisayarınızda bir masaüstü programı olarak çalışır. Moodle gibi bir LMS veya WordPress gibi bir CMS'ye gerek yoktur."
         },
         "htmlExport": {
             "heading": "Saf HTML dışa aktarma",
-            "description": "İçeriğinizi hemen hemen her yerde çalışan hepsi bir arada HTML dosyaları olarak kaydedin ve öğrencilerinize gönderin."
+            "description": "İçeriğinizi neredeyse her yerde çalışan hepsi bir arada HTML dosyaları olarak kaydedin ve öğrencilerinize gönderin."
         },
         "scormExport": {
             "heading": "SCORM dışa aktarma",
@@ -76,10 +76,10 @@
         "sourceCode": "Kaynak kodu"
     },
     "meta": {
-        "keywords": "oluşturma, paylaşma, etkileşimli içerik, etkileşimli alıştırmalar, h5p, e-öğrenme, e-öğrenme, scorm, xapi, yazma aracı, çevrimdışı, bağımsız, html5",
+        "keywords": "oluşturma, paylaşma, etkileşimli içerik, etkileşimli alıştırmalar, h5p, e-öğrenme, eöğrenme, scorm, xapi, yazma aracı, çevrimdışı, bağımsız, html5",
         "pageTopic": "Eğitim",
         "pageType": "yazılım indir",
-        "description": "Lumi, düzinelerce farklı içerik türüyle etkileşimli içerik oluşturmanıza, düzenlemenize, görüntülemenize ve paylaşmanıza olanak tanıyan açık kaynaklı bir masaüstü uygulamasıdır."
+        "description": "Lumi, onlarca farklı içerik türüyle etkileşimli içerik oluşturmanıza, düzenlemenize, görüntülemenize ve paylaşmanıza olanak tanıyan açık kaynaklı bir masaüstü uygulamasıdır."
     },
     "appPrivacyPolicy": {
         "title": "Lumi H5P Masaüstü Düzenleyici – Gizlilik Politikası",
