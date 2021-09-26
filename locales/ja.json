@@ -35,11 +35,11 @@
         },
         "use": {
             "heading": "使いやすい",
-            "description": "プログラミングの知識がなくても、Lumiで魅力的なインタラクティブコンテンツを作ることができます。"
+            "description": "Lumiで魅力的なインタラクティブコンテンツを作成するのにプログラミングの知識は必要ありません！"
         },
         "preview": {
             "heading": "クイックプレビュー",
-            "description": "プレビューに切り替えて、保存せずに変更を確認します。"
+            "description": "プレビューに切り替えることで、保存せずに変更を確認することができます。"
         },
         "standalone": {
             "heading": "スタンドアロンで実行",
@@ -134,7 +134,7 @@
         "authorityText": "苦情の報告をご希望の場合、または当社がお客様の懸念に十分に対応していないと思われる場合は、情報コミッショナーオフィスにご連絡ください。<br/><br/> Eメール： <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br />住所：<br /> DerLandesbeauftragtefürdenDatenschutzNiedersachsen<br /> Prinzenstraße5<br /> D-30159ハノーバー<br />ドイツ"
     },
     "support": {
-        "header": "私たちを後援することによってルミをサポートする",
+        "header": "私たちを後援することによってLumiを支援する",
         "description": "無料のオープンソース製品でさえ、無料で作ることはできません。 Lumiは、デジタル教育をより身近で、個性的で、誰にとっても刺激的なものにすることを目的として、2人の教師によって自由時間に開発、維持、サポートされています。寄付または後援することで、Lumiの改善にご協力いただけます。",
         "donateVia": "経由で寄付する",
         "whatWeDoIntro": "サポートや機能のリクエストを処理する必要のあるユーザーやサービスの数が増えているため、コストも増加しています。",
