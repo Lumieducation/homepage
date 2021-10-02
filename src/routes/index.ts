@@ -192,7 +192,7 @@ router.use(
         next: express.NextFunction
     ) => {
         res.render('home', {
-            release: '0.8.1',
+            release: '0.8.2',
             languages: getListWithNativeNames(),
             currentLanguage: getNativeName(req.language),
             currentLanguageCode: getCurrentLanguageCode(req.language),
@@ -216,7 +216,7 @@ router.use(
         } catch (error) {
             console.log('error:', error);
             res.render('home', {
-                release: '0.8.1',
+                release: '0.8.2',
                 languages: getListWithNativeNames(),
                 currentLanguage: getNativeName(req.language),
                 currentLanguageCode: getCurrentLanguageCode(req.language)
