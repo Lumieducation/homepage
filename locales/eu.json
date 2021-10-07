@@ -37,7 +37,7 @@
         },
         "standalone": {
             "heading": "Korrika autonomoa",
-            "description": "Lumi ordenagailuko programa gisa exekutatzen da. Ez da beharrezkoa Moodle bezalako LMS edo WordPress bezalako CMSrik."
+            "description": "Lumi zure ordenagailuko programa gisa exekutatzen da. Ez dago Moodle bezalako LMS edo WordPress bezalako CMS baten beharrik."
         },
         "htmlExport": {
             "heading": "HTML esportazio hutsa",
