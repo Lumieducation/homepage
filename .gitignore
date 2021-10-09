@@ -25,3 +25,4 @@ node_modules
 .secrets
 google_translate.json
 .json-autotranslate-cache/
+.dccache
