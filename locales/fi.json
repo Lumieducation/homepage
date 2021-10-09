@@ -60,8 +60,9 @@
         "title": "Lataa Lumi",
         "windows_download_store": "Lataa Microsoft Storesta (suositus)",
         "window_download_installer": "Lataa asennusohjelma (exe)",
-        "download": "ladata",
-        "bypass_smartscreen": "Opi täältä, kuinka ohittaa Windowsin SmartScreen-suodatin (tarvitaan vain exe-installerille)."
+        "bypass_smartscreen": "Opi täältä, kuinka ohittaa Windowsin SmartScreen-suodatin (tarvitaan vain exe-installerille).",
+        "linux_format": "Lataa Lumi haluamallasi pakettityypillä:",
+        "download_snap": "Hae Snap Storesta"
     },
     "footer": {
         "company": "Yhtiö",

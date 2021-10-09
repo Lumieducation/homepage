@@ -66,8 +66,9 @@
         "title": "Zazzage Lumi",
         "windows_download_store": "Zazzage daga Shagon Microsoft (shawarar)",
         "window_download_installer": "Zazzage mai sakawa (exe)",
-        "download": "Zazzagewa",
-        "bypass_smartscreen": "Koyi anan yadda za'a keɓance matattarar SmartScreen na Windows (kawai ana buƙata don mai sakawa)."
+        "bypass_smartscreen": "Koyi anan yadda za'a keɓance matattarar SmartScreen na Windows (kawai ana buƙata don mai sakawa).",
+        "linux_format": "Sauke Lumi a cikin nau'in kunshin da kuka fi so:",
+        "download_snap": "Samu daga Shagon Shagon"
     },
     "footer": {
         "company": "Kamfanin",

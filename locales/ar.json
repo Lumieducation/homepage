@@ -110,8 +110,9 @@
         "title": "تنزيل Lumi",
         "windows_download_store": "تنزيل من متجر Microsoft (مستحسن)",
         "window_download_installer": "تنزيل المثبت (exe)",
-        "download": "تحميل",
-        "bypass_smartscreen": "تعرف هنا على كيفية تجاوز عامل تصفية SmartScreen الخاص بنظام Windows (مطلوب فقط لبرنامج exe-installer)."
+        "bypass_smartscreen": "تعرف هنا على كيفية تجاوز عامل تصفية SmartScreen الخاص بنظام Windows (مطلوب فقط لبرنامج exe-installer).",
+        "linux_format": "قم بتنزيل Lumi في نوع الحزمة المفضل لديك:",
+        "download_snap": "احصل عليه من متجر Snap"
     },
     "footer": {
         "company": "شركة",

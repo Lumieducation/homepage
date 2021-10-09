@@ -66,8 +66,9 @@
         "title": "دانلود لومی",
         "windows_download_store": "بارگیری از فروشگاه مایکروسافت (توصیه می شود)",
         "window_download_installer": "بارگیری نصب (exe)",
-        "download": "دانلود",
-        "bypass_smartscreen": "در اینجا یاد بگیرید که چگونه فیلتر SmartScreen ویندوز را دور بزنید (فقط برای نصب exe لازم است)."
+        "bypass_smartscreen": "در اینجا یاد بگیرید که چگونه فیلتر SmartScreen ویندوز را دور بزنید (فقط برای نصب exe لازم است).",
+        "linux_format": "Lumi را در نوع بسته دلخواه خود بارگیری کنید:",
+        "download_snap": "از فروشگاه اسنپ تهیه کنید"
     },
     "footer": {
         "company": "شرکت",

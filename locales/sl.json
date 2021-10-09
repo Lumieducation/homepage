@@ -60,8 +60,9 @@
         "title": "Prenesite Lumi",
         "windows_download_store": "Prenesite iz Microsoftove trgovine (priporočeno)",
         "window_download_installer": "Namestitveni program za prenos (exe)",
-        "download": "Prenesi",
-        "bypass_smartscreen": "Tukaj preberite, kako zaobiti Windows-ov filter SmartScreen (potreben samo za namestitveni program exe)."
+        "bypass_smartscreen": "Tukaj preberite, kako zaobiti Windows-ov filter SmartScreen (potreben samo za namestitveni program exe).",
+        "linux_format": "Prenesite Lumi v želeni vrsti paketa:",
+        "download_snap": "Pridobite v trgovini Snap Store"
     },
     "footer": {
         "company": "Podjetje",

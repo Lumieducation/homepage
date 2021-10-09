@@ -60,8 +60,9 @@
         "title": "Stáhnout Lumi",
         "windows_download_store": "Stáhnout z Microsoft Store (doporučeno)",
         "window_download_installer": "Stáhnout instalační program (exe)",
-        "download": "Stažení",
-        "bypass_smartscreen": "Naučte se zde, jak obejít filtr SmartScreen systému Windows (je potřeba pouze pro instalační program exe)."
+        "bypass_smartscreen": "Naučte se zde, jak obejít filtr SmartScreen systému Windows (je potřeba pouze pro instalační program exe).",
+        "linux_format": "Stáhněte si Lumi v preferovaném typu balíčku:",
+        "download_snap": "Získejte z obchodu Snap"
     },
     "footer": {
         "company": "Společnost",

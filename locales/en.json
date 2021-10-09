@@ -110,7 +110,8 @@
         "title": "Download Lumi",
         "windows_download_store": "Download from the Microsoft Store (recommended)",
         "window_download_installer": "Download installer (exe)",
-        "download": "Download",
+        "linux_format": "Download Lumi in your preferred package type:",
+        "download_snap": "Get from the Snap Store",
         "bypass_smartscreen": "Learn here how to bypass Windows's SmartScreen filter (only needed for exe-installer)."
     },
     "footer": {

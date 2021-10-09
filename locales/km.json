@@ -60,8 +60,9 @@
         "title": "ទាញយក Lumi",
         "windows_download_store": "ទាញយកពី Microsoft Store (បានណែនាំ)",
         "window_download_installer": "ទាញយកកម្មវិធីតំឡើង (ឧទាហរណ៍)",
-        "download": "ទាញយក",
-        "bypass_smartscreen": "រៀននៅទីនេះពីរបៀបដើម្បីចៀសវាងតម្រង SmartScreen របស់វីនដូ (ត្រូវការសម្រាប់តែអ្នកដំឡើងប៉ុណ្ណោះ) ។"
+        "bypass_smartscreen": "រៀននៅទីនេះពីរបៀបដើម្បីចៀសវាងតម្រង SmartScreen របស់វីនដូ (ត្រូវការសម្រាប់តែអ្នកដំឡើងប៉ុណ្ណោះ) ។",
+        "linux_format": "ទាញយក Lumi តាមប្រភេទកញ្ចប់ដែលអ្នកចូលចិត្ត៖",
+        "download_snap": "ទទួលបានពីហាង Snap"
     },
     "footer": {
         "company": "ក្រុមហ៊ុន",

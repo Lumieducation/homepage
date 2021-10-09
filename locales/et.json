@@ -60,8 +60,9 @@
         "title": "Laadige alla Lumi",
         "windows_download_store": "Laadige alla Microsofti poest (soovitatav)",
         "window_download_installer": "Laadige alla installiprogramm (exe)",
-        "download": "Lae alla",
-        "bypass_smartscreen": "Siit saate teada, kuidas Windowsi SmartScreeni filtrist mööda minna (vajalik ainult exe-installeri jaoks)."
+        "bypass_smartscreen": "Siit saate teada, kuidas Windowsi SmartScreeni filtrist mööda minna (vajalik ainult exe-installeri jaoks).",
+        "linux_format": "Laadige Lumi alla oma eelistatud paketitüübiga:",
+        "download_snap": "Hankige Snap Store'ist"
     },
     "footer": {
         "company": "Firma",

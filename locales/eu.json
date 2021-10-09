@@ -60,8 +60,9 @@
         "title": "Deskargatu Lumi",
         "windows_download_store": "Deskargatu Microsoft Store-tik (gomendatua)",
         "window_download_installer": "Deskargatu instalatzailea (exe)",
-        "download": "Deskargatu",
-        "bypass_smartscreen": "Ikasi hemen Windows-en SmartScreen iragazkia nola gainditu (exe-instalatzailearentzat soilik behar da)."
+        "bypass_smartscreen": "Ikasi hemen Windows-en SmartScreen iragazkia nola gainditu (exe-instalatzailearentzat soilik behar da).",
+        "linux_format": "Deskargatu Lumi nahi duzun pakete motan:",
+        "download_snap": "Lortu Snap Store-tik"
     },
     "footer": {
         "company": "Enpresa",

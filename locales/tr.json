@@ -60,8 +60,9 @@
         "title": "Lumi'yi indirin",
         "windows_download_store": "Microsoft Store'dan indirin (önerilir)",
         "window_download_installer": "Yükleyiciyi indir (exe)",
-        "download": "İndir",
-        "bypass_smartscreen": "Windows'un SmartScreen filtresini nasıl atlayacağınızı buradan öğrenin (yalnızca exe-installer için gereklidir)."
+        "bypass_smartscreen": "Windows'un SmartScreen filtresini nasıl atlayacağınızı buradan öğrenin (yalnızca exe-installer için gereklidir).",
+        "linux_format": "Lumi'yi tercih ettiğiniz paket türünde indirin:",
+        "download_snap": "Snap Store'dan alın"
     },
     "footer": {
         "company": "şirket",

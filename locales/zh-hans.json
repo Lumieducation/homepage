@@ -19,10 +19,11 @@
     },
     "download": {
         "bypass_smartscreen": "在这里了解如何绕过Windows的SmartScreen筛选器（仅exe安装方式）。",
-        "download": "下载",
         "window_download_installer": "下载安装文件 (exe)",
         "windows_download_store": "从微软商店下载（推荐）",
-        "title": "下载Lumi"
+        "title": "下载Lumi",
+        "linux_format": "以您喜欢的软件包类型下载 Lumi：",
+        "download_snap": "从 Snap 商店获取"
     },
     "features": {
         "standalone": {

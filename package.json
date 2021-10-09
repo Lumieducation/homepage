@@ -25,7 +25,7 @@
         "uninstall": "rm -rf build/ && rm -rf node_modules/",
         "heroku-postbuild": "npm run build",
         "watch": "cross-env NODE_ENV=development nodemon",
-        "localize": "json-autotranslate -d --directory-structure ngx-translate -c google_translate.json -s google-translate --decode-escapes -t key-based -i locales -m i18next && prettier --write \"locales/*.json\""
+        "localize": "mv locales/zh-hans.json locales/zh.json && json-autotranslate -d --directory-structure ngx-translate -c google_translate.json -s google-translate --decode-escapes -t key-based -i locales -m i18next && prettier --write \"locales/*.json\" && mv locales/zh.json locales/zh-hans.json"
     },
     "publishConfig": {
         "access": "restricted"

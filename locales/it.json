@@ -60,8 +60,9 @@
         "title": "Download Lumi",
         "windows_download_store": "Scarica da Microsoft Store (consigliato)",
         "window_download_installer": "Scarica il programma di installazione (exe)",
-        "download": "Scarica",
-        "bypass_smartscreen": "Scopri qui come bypassare il filtro SmartScreen di Windows (necessario solo per exe-installer)."
+        "bypass_smartscreen": "Scopri qui come bypassare il filtro SmartScreen di Windows (necessario solo per exe-installer).",
+        "linux_format": "Scarica Lumi nel tuo tipo di pacchetto preferito:",
+        "download_snap": "Ottieni dallo Snap Store"
     },
     "footer": {
         "company": "Azienda",

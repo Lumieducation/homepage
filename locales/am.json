@@ -110,8 +110,9 @@
         "title": "ሉሚ አውርድ",
         "windows_download_store": "ከማይክሮሶፍት መደብር ያውርዱ (የሚመከር)",
         "window_download_installer": "ጫኝ ጫን (exe)",
-        "download": "አውርድ",
-        "bypass_smartscreen": "የዊንዶውስ ስማርት ማያ ገጽ ማጣሪያን እንዴት ማለፍ እንደሚቻል እዚህ ይማሩ (ለ exe-installer ብቻ ያስፈልጋል)።"
+        "bypass_smartscreen": "የዊንዶውስ ስማርት ማያ ገጽ ማጣሪያን እንዴት ማለፍ እንደሚቻል እዚህ ይማሩ (ለ exe-installer ብቻ ያስፈልጋል)።",
+        "linux_format": "በመረጡት የጥቅል ዓይነት ውስጥ ሉሚን ያውርዱ",
+        "download_snap": "ከ Snap መደብር ያግኙ"
     },
     "footer": {
         "company": "ኩባንያ",

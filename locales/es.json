@@ -13,10 +13,11 @@
     },
     "download": {
         "bypass_smartscreen": "Aprenda aquí como saltarse el filtro SmartScreen de Windows (solamente necesario para instalador-exe).",
-        "download": "Descargar",
         "window_download_installer": "Descargar instalador (exe)",
         "windows_download_store": "Descargar desde la Microsoft Store (recomendado)",
-        "title": "Descargar Lumi"
+        "title": "Descargar Lumi",
+        "linux_format": "Descargue Lumi en su tipo de paquete preferido:",
+        "download_snap": "Obtener de la tienda Snap"
     },
     "features": {
         "standalone": {

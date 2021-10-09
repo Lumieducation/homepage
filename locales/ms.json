@@ -66,8 +66,9 @@
         "title": "Muat turun Lumi",
         "windows_download_store": "Muat turun dari Kedai Microsoft (disyorkan)",
         "window_download_installer": "Muat turun pemasang (exe)",
-        "download": "Muat turun",
-        "bypass_smartscreen": "Pelajari di sini cara memintas penapis SmartScreen Windows (hanya diperlukan untuk exe-installer)."
+        "bypass_smartscreen": "Pelajari di sini cara memintas penapis SmartScreen Windows (hanya diperlukan untuk exe-installer).",
+        "linux_format": "Muat turun Lumi dalam jenis pakej pilihan anda:",
+        "download_snap": "Dapatkan dari Kedai Snap"
     },
     "footer": {
         "company": "Syarikat",

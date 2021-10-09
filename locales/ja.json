@@ -66,8 +66,9 @@
         "title": "ルミをダウンロード",
         "windows_download_store": "Microsoftストアからダウンロード（推奨）",
         "window_download_installer": "インストーラーのダウンロード（exe）",
-        "download": "ダウンロード",
-        "bypass_smartscreen": "ここでは、WindowsのSmartScreenフィルターをバイパスする方法を学びます（exe-installerにのみ必要）。"
+        "bypass_smartscreen": "ここでは、WindowsのSmartScreenフィルターをバイパスする方法を学びます（exe-installerにのみ必要）。",
+        "linux_format": "お好みのパッケージタイプでLumiをダウンロードします。",
+        "download_snap": "スナップストアから入手"
     },
     "footer": {
         "company": "会社",

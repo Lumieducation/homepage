@@ -66,8 +66,9 @@
         "title": "Pobierz Lumi",
         "windows_download_store": "Pobierz ze sklepu Microsoft Store (zalecane)",
         "window_download_installer": "Pobierz instalator (exe)",
-        "download": "Ściągnij",
-        "bypass_smartscreen": "Dowiedz się, jak ominąć filtr SmartScreen systemu Windows (potrzebny tylko w przypadku exe-instalatora)."
+        "bypass_smartscreen": "Dowiedz się, jak ominąć filtr SmartScreen systemu Windows (potrzebny tylko w przypadku exe-instalatora).",
+        "linux_format": "Pobierz Lumi w preferowanym typie opakowania:",
+        "download_snap": "Pobierz ze sklepu Snap"
     },
     "footer": {
         "company": "Firma",

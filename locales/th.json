@@ -65,10 +65,11 @@
     },
     "download": {
         "bypass_smartscreen": "ดูวิธีข้ามผ่านหน้าจอ SmartScreen filter ของ Windows (สำหรับตัวติดตั้งแบบ exe)",
-        "download": "ดาวน์โหลด",
         "window_download_installer": "ดาวน์โหลดตัวติดตั้ง (exe)",
         "windows_download_store": "ดาวน์โหลดจาก Microsoft Store (แนะนำ)",
-        "title": "ดาวน์โหลดลูมิ"
+        "title": "ดาวน์โหลดลูมิ",
+        "linux_format": "ดาวน์โหลด Lumi ในประเภทแพ็คเกจที่คุณต้องการ:",
+        "download_snap": "รับจาก Snap Store"
     },
     "features": {
         "openSource": {

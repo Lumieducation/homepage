@@ -60,8 +60,9 @@
         "title": "Ladda ner Lumi",
         "windows_download_store": "Ladda ner från Microsoft Store (rekommenderas)",
         "window_download_installer": "Ladda ner installationsprogrammet (exe)",
-        "download": "Ladda ner",
-        "bypass_smartscreen": "Lär dig här hur man kringgår Windows SmartScreen-filter (behövs bara för exe-installatör)."
+        "bypass_smartscreen": "Lär dig här hur man kringgår Windows SmartScreen-filter (behövs bara för exe-installatör).",
+        "linux_format": "Ladda ner Lumi i din förpackningstyp:",
+        "download_snap": "Hämta från Snap Store"
     },
     "footer": {
         "company": "Företag",
