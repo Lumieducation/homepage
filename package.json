@@ -43,7 +43,7 @@
         "json-autotranslate": "1.9.3",
         "nodemon": "2.0.14",
         "prettier": "2.4.1",
-        "ts-node": "10.3.1",
+        "ts-node": "10.4.0",
         "tslint-config-airbnb": "5.11.2",
         "tslint-config-prettier": "1.18.0",
         "tslint-react": "5.0.0",
