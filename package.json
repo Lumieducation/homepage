@@ -36,7 +36,7 @@
         "@types/express-serve-static-core": "4.17.24",
         "@types/express": "4.17.13",
         "@types/i18next": "13.0.0",
-        "@types/node": "16.11.6",
+        "@types/node": "16.11.7",
         "commitlint": "13.2.1",
         "cross-env": "7.0.3",
         "husky": "7.0.4",
