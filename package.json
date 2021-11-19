@@ -5,6 +5,7 @@
     "author": "J.P. Schellenberg",
     "dependencies": {
         "body-parser": "1.19.0",
+        "bootstrap": "^4.6.1",
         "express": "4.17.1",
         "express-handlebars": "^5.3.5",
         "express-limit": "^0.1.0",
@@ -13,11 +14,13 @@
         "i18next": "21.5.2",
         "i18next-fs-backend": "1.1.4",
         "i18next-http-middleware": "3.1.4",
+        "jquery": "^3.6.0",
+        "jquery-migrate": "^3.3.2",
         "morgan": "1.10.0",
         "superagent": "6.1.0"
     },
     "scripts": {
-        "build": "npx tsc --project tsconfig.json",
+        "build": "npx tsc --project tsconfig.json && ./scripts/copy-js.sh",
         "ci": "npm run lint && npm run format:check && npm run build",
         "clean": "rm -rf build/",
         "format": "npx prettier --write \"{src,test}/**/*.ts\"",
@@ -25,7 +28,7 @@
         "lint": "./node_modules/.bin/tslint --project tsconfig.json --config tslint.json",
         "uninstall": "rm -rf build/ && rm -rf node_modules/",
         "heroku-postbuild": "npm run build",
-        "watch": "cross-env NODE_ENV=development nodemon",
+        "watch": "./scripts/copy-js.sh && cross-env NODE_ENV=development nodemon",
         "localize": "mv locales/zh-hans.json locales/zh.json && json-autotranslate -d --directory-structure ngx-translate -c google_translate.json -s google-translate --decode-escapes -t key-based -i locales -m i18next && prettier --write \"locales/*.json\" && mv locales/zh.json locales/zh-hans.json",
         "start": "node build/app.js"
     },
