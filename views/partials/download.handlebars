@@ -17,7 +17,7 @@
                         <div class="dropdown-menu" aria-labelledby="windowsDownloadButton">
                             <a 
                             onclick="_paq.push(['trackEvent', 'Download', 'Windows (MS Store)', 'Windows (MS Store)', 'Windows (MS Store)']); setTimeout(function() { window.location.href = '/{{currentLanguageCode}}/support' }, 1000)"
-                            class="dropdown-item" href="https://www.microsoft.com/store/apps/9PD83XFV86J4" target="_blank"><img
+                            class="dropdown-item" rel="noopener" href="https://www.microsoft.com/store/apps/9PD83XFV86J4" target="_blank"><img
                                     src="/images/microsoft_store.svg" width="24" class="mr-1"></img> {{i18n "download.windows_download_store"}}</a>
                             <div class="dropdown-divider"></div>
                             <a 
@@ -56,7 +56,7 @@
                         <div class="dropdown-menu" aria-labelledby="linuxDownloadButton">
                             <a class="dropdown-item"
                              onclick="_paq.push(['trackEvent', 'Download', 'Linux (Snap)', 'Linux (Snap)', 'Linux (Snap)']); setTimeout(function() { window.location.href = '/{{currentLanguageCode}}/support' }, 1000)"
-                             target="_blank" href="https://snapcraft.io/lumi">{{i18n "download.download_snap"}}</a>
+                             rel="noopener" target="_blank" href="https://snapcraft.io/lumi">{{i18n "download.download_snap"}}</a>
                             <div class="dropdown-divider"></div>
                             <p class="dropdown-item-text"><i>{{i18n "download.linux_format"}}</i></p>
                             <a
