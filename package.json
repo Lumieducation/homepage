@@ -7,6 +7,7 @@
         "body-parser": "1.19.0",
         "express": "4.17.1",
         "express-handlebars": "^5.3.5",
+        "express-limit": "^0.1.0",
         "helmet": "4.6.0",
         "i18n": "0.13.3",
         "i18next": "21.5.2",
@@ -25,7 +26,8 @@
         "uninstall": "rm -rf build/ && rm -rf node_modules/",
         "heroku-postbuild": "npm run build",
         "watch": "cross-env NODE_ENV=development nodemon",
-        "localize": "mv locales/zh-hans.json locales/zh.json && json-autotranslate -d --directory-structure ngx-translate -c google_translate.json -s google-translate --decode-escapes -t key-based -i locales -m i18next && prettier --write \"locales/*.json\" && mv locales/zh.json locales/zh-hans.json"
+        "localize": "mv locales/zh-hans.json locales/zh.json && json-autotranslate -d --directory-structure ngx-translate -c google_translate.json -s google-translate --decode-escapes -t key-based -i locales -m i18next && prettier --write \"locales/*.json\" && mv locales/zh.json locales/zh-hans.json",
+        "start": "node build/app.js"
     },
     "publishConfig": {
         "access": "restricted"

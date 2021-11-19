@@ -1,5 +1,5 @@
 import * as express from 'express';
-import * as superagent from 'superagent';
+import { limit } from 'express-limit';
 
 import {
     getListWithNativeNames,
@@ -14,6 +14,14 @@ function getCurrentLocationWithoutLanguage(req: express.Request): string {
     );
 }
 const router = express.Router();
+
+if (process.env.NODE_ENV !== 'development') {
+    const rateLimiter = limit({
+        period: 5 * 60 * 1000,
+        max: 1000
+    });
+    router.use(rateLimiter);
+}
 
 router.use(
     '/app/privacy-policy',

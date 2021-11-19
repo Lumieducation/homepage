@@ -11,6 +11,7 @@ import helmet from 'helmet';
 import routes from './routes';
 import { languages } from './languages';
 
+// deepcode ignore UseCsurfForExpress: no post requests in the app
 const app = express();
 
 let devMode = false;
@@ -90,7 +91,15 @@ app.use(
             if (req.secure) {
                 next();
             } else {
-                res.redirect(`https://${req.headers.host}${req.url}`);
+                if (
+                    !/^(\/[\w\-]+){0,}\/?(\?[\w\-]+=[\w\-]+)?$/i.test(
+                        req.originalUrl
+                    )
+                ) {
+                    res.status(400).send('Illegal request').end();
+                    return;
+                }
+                res.redirect(`https://lumi.education${req.originalUrl}`);
             }
         } else {
             next();
@@ -101,9 +110,15 @@ app.use(
 app.use(express.static(path.join(__dirname, '..', 'public')));
 
 app.use('/:lang([a-zA-Z]{2,3}-?[a-zA-Z]{0,6})', (req, res, next) => {
+    if (typeof req.params.lang !== 'string') {
+        next();
+        return;
+    }
+    // deepcode ignore HTTPSourceWithUncheckedType: checked by route regex and typeof
     const langLowercase = req.params.lang.toLocaleLowerCase();
     if (languages.includes(langLowercase)) {
         if (req.url === '/' && !req.originalUrl.endsWith('/')) {
+            // deepcode ignore OR: checked against dictionary languages
             res.redirect(`/${langLowercase}/`);
         } else {
             routes(req, res, next);
