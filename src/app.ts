@@ -1,6 +1,6 @@
 import bodyParser from 'body-parser';
 import express from 'express';
-import exphbs from 'express-handlebars';
+import * as exphbs from 'express-handlebars';
 import path from 'path';
 import morgan from 'morgan';
 import i18next from 'i18next';
