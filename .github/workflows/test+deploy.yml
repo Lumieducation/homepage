@@ -52,7 +52,7 @@ jobs:
             - uses: azure/setup-kubectl@v1
               id: install
 
-            - uses: azure/k8s-deploy@v1.4
+            - uses: azure/k8s-deploy@v1.5
               with:
                   namespace: ${{ secrets.K8S_NAMESPACE }}
                   manifests: |
