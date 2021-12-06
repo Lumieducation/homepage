@@ -43,22 +43,22 @@ jobs:
                   docker build . -t lumieducation/homepage:${{ github.sha }}
                   docker push lumieducation/homepage:${{ github.sha }}
 
-            - uses: azure/k8s-set-context@v1
-              with:
-                method: kubeconfig
-                kubeconfig: ${{ secrets.K8S_SECRET }}
-              id: setcontext
+            # - uses: azure/k8s-set-context@v1
+            #   with:
+            #     method: kubeconfig
+            #     kubeconfig: ${{ secrets.K8S_SECRET }}
+            #   id: setcontext
 
-            - uses: azure/setup-kubectl@v1
-              id: install
+            # - uses: azure/setup-kubectl@v1
+            #   id: install
 
-            - uses: azure/k8s-deploy@v1.5
-              with:
-                  namespace: ${{ secrets.K8S_NAMESPACE }}
-                  manifests: |
-                      manifests/deployment.yaml
-                      manifests/service.yaml
-                      manifests/ingress.yaml
-                  images: |
-                      lumieducation/homepage:${{ github.sha }}
-                  token: ${{ secrets.GITHUB_TOKEN }}
+            # - uses: azure/k8s-deploy@v1.5
+            #   with:
+            #       namespace: ${{ secrets.K8S_NAMESPACE }}
+            #       manifests: |
+            #           manifests/deployment.yaml
+            #           manifests/service.yaml
+            #           manifests/ingress.yaml
+            #       images: |
+            #           lumieducation/homepage:${{ github.sha }}
+            #       token: ${{ secrets.GITHUB_TOKEN }}
