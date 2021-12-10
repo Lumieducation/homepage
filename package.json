@@ -4,7 +4,7 @@
     "description": "Lumi.education",
     "author": "J.P. Schellenberg",
     "dependencies": {
-        "body-parser": "1.19.0",
+        "body-parser": "1.19.1",
         "bootstrap": "4.6.1",
         "express": "4.17.1",
         "express-handlebars": "6.0.2",
