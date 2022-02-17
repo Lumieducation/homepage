@@ -6,7 +6,7 @@
     "dependencies": {
         "body-parser": "1.19.2",
         "bootstrap": "4.6.1",
-        "express": "4.17.2",
+        "express": "4.17.3",
         "express-handlebars": "6.0.2",
         "express-limit": "0.1.0",
         "helmet": "4.6.0",
