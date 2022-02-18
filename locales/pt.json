@@ -37,7 +37,7 @@
         },
         "standalone": {
             "heading": "Funciona sozinho",
-            "description": "O Lumi é executado como um programa de desktop no seu computador. Não há necessidade de um LMS como o Moodle ou um CMS como o WordPress."
+            "description": "O Lumi é executado como um programa desktop, no seu computador. Não há necessidade de possuir um LMS como o Moodle ou um CMS como o WordPress."
         },
         "htmlExport": {
             "heading": "Exportação de HTML puro",
