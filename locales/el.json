@@ -59,10 +59,14 @@
     "download": {
         "title": "Κατεβάστε το Lumi",
         "windows_download_store": "Λήψη από το Microsoft Store (συνιστάται)",
-        "window_download_installer": "Λήψη προγράμματος εγκατάστασης (exe)",
         "bypass_smartscreen": "Μάθετε εδώ πώς να παρακάμψετε το φίλτρο SmartScreen των Windows (απαιτείται μόνο για το exe-installer).",
         "linux_format": "Κατεβάστε το Lumi στον τύπο πακέτου που προτιμάτε:",
-        "download_snap": "Λάβετε από το Snap Store"
+        "download_snap": "Λάβετε από το Snap Store",
+        "windows_download_installer": "Λήψη προγράμματος εγκατάστασης για έναν χρήστη (exe, x64, αυτόματη ενημέρωση)",
+        "windows_download_multiuser": "Λήψη προγράμματος εγκατάστασης σε όλο το σύστημα (exe, x64, χωρίς αυτόματη ενημέρωση)",
+        "macos_intel": "macOS με επεξεργαστή Intel",
+        "macos_apple": "macOS με επεξεργαστή Apple Silicon / M1",
+        "more_files": "Πραγματοποιήστε λήψη περαιτέρω προγραμμάτων εγκατάστασης και αρχιτεκτονικών από τη <a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>σελίδα έκδοσης του GitHub</a>"
     },
     "footer": {
         "company": "Εταιρία",

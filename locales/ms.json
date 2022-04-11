@@ -65,10 +65,14 @@
     "download": {
         "title": "Muat turun Lumi",
         "windows_download_store": "Muat turun dari Kedai Microsoft (disyorkan)",
-        "window_download_installer": "Muat turun pemasang (exe)",
         "bypass_smartscreen": "Pelajari di sini cara memintas penapis SmartScreen Windows (hanya diperlukan untuk exe-installer).",
         "linux_format": "Muat turun Lumi dalam jenis pakej pilihan anda:",
-        "download_snap": "Dapatkan dari Kedai Snap"
+        "download_snap": "Dapatkan dari Kedai Snap",
+        "windows_download_installer": "Muat turun pemasang untuk pengguna tunggal (exe, x64, autokemas kini)",
+        "windows_download_multiuser": "Muat turun pemasang seluruh sistem (exe, x64, tiada kemas kini automatik)",
+        "macos_intel": "macOS dengan pemproses Intel",
+        "macos_apple": "macOS dengan pemproses Apple Silicon / M1",
+        "more_files": "Muat turun pemasang dan seni bina lanjut dari <a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>halaman keluaran GitHub</a>"
     },
     "footer": {
         "company": "Syarikat",

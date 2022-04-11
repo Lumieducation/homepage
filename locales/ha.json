@@ -65,10 +65,14 @@
     "download": {
         "title": "Zazzage Lumi",
         "windows_download_store": "Zazzage daga Shagon Microsoft (shawarar)",
-        "window_download_installer": "Zazzage mai sakawa (exe)",
         "bypass_smartscreen": "Koyi anan yadda za'a keɓance matattarar SmartScreen na Windows (kawai ana buƙata don mai sakawa).",
         "linux_format": "Sauke Lumi a cikin nau'in kunshin da kuka fi so:",
-        "download_snap": "Samu daga Shagon Shagon"
+        "download_snap": "Samu daga Shagon Shagon",
+        "windows_download_installer": "Zazzage mai sakawa don mai amfani ɗaya (exe, x64, sabuntawa ta atomatik)",
+        "windows_download_multiuser": "Zazzage mai sakawa mai faɗin tsarin (exe, x64, babu sabuntawa ta atomatik)",
+        "macos_intel": "macOS tare da Intel processor",
+        "macos_apple": "MacOS tare da Apple Silicon / M1 processor",
+        "more_files": "Zazzage ƙarin masu sakawa da gine-gine daga <a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>shafin sakin GitHub</a>"
     },
     "footer": {
         "company": "Kamfanin",

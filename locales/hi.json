@@ -65,10 +65,14 @@
     "download": {
         "title": "लुमी डाउनलोड करें",
         "windows_download_store": "Microsoft स्टोर से डाउनलोड करें (अनुशंसित)",
-        "window_download_installer": "इंस्टॉलर डाउनलोड करें (exe)",
         "bypass_smartscreen": "यहां जानें कि विंडोज के स्मार्टस्क्रीन फ़िल्टर को कैसे बायपास किया जाए (केवल एक्स-इंस्टॉलर के लिए आवश्यक)।",
         "linux_format": "Lumi को अपने पसंदीदा पैकेज प्रकार में डाउनलोड करें:",
-        "download_snap": "स्नैप स्टोर से प्राप्त करें"
+        "download_snap": "स्नैप स्टोर से प्राप्त करें",
+        "windows_download_installer": "एकल उपयोगकर्ता के लिए इंस्टॉलर डाउनलोड करें (exe, x64, ऑटो-अपडेट)",
+        "windows_download_multiuser": "सिस्टम-व्यापी इंस्टॉलर डाउनलोड करें (exe, x64, कोई ऑटो-अपडेट नहीं)",
+        "macos_intel": "इंटेल प्रोसेसर के साथ macOS",
+        "macos_apple": "Apple सिलिकॉन / M1 प्रोसेसर के साथ macOS",
+        "more_files": "<a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>GitHub रिलीज़ पेज</a> से और इंस्टॉलर और आर्किटेक्चर डाउनलोड करें"
     },
     "footer": {
         "company": "कंपनी",

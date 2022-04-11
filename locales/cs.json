@@ -59,10 +59,14 @@
     "download": {
         "title": "Stáhnout Lumi",
         "windows_download_store": "Stáhnout z Microsoft Store (doporučeno)",
-        "window_download_installer": "Stáhnout instalační program (exe)",
         "bypass_smartscreen": "Naučte se zde, jak obejít filtr SmartScreen systému Windows (je potřeba pouze pro instalační program exe).",
         "linux_format": "Stáhněte si Lumi v preferovaném typu balíčku:",
-        "download_snap": "Získejte z obchodu Snap"
+        "download_snap": "Získejte z obchodu Snap",
+        "windows_download_installer": "Stáhnout instalační program pro jednoho uživatele (exe, x64, automatická aktualizace)",
+        "windows_download_multiuser": "Stáhnout instalační program pro celý systém (exe, x64, bez automatické aktualizace)",
+        "macos_intel": "macOS s procesorem Intel",
+        "macos_apple": "macOS s procesorem Apple Silicon / M1",
+        "more_files": "Stáhněte si další instalační programy a architektury ze <a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>stránky vydání GitHubu</a>"
     },
     "footer": {
         "company": "Společnost",

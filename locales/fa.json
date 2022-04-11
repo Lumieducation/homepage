@@ -65,10 +65,14 @@
     "download": {
         "title": "دانلود لومی",
         "windows_download_store": "بارگیری از فروشگاه مایکروسافت (توصیه می شود)",
-        "window_download_installer": "بارگیری نصب (exe)",
         "bypass_smartscreen": "در اینجا یاد بگیرید که چگونه فیلتر SmartScreen ویندوز را دور بزنید (فقط برای نصب exe لازم است).",
         "linux_format": "Lumi را در نوع بسته دلخواه خود بارگیری کنید:",
-        "download_snap": "از فروشگاه اسنپ تهیه کنید"
+        "download_snap": "از فروشگاه اسنپ تهیه کنید",
+        "windows_download_installer": "دانلود برنامه نصب برای تک کاربر (exe، x64، به روز رسانی خودکار)",
+        "windows_download_multiuser": "دانلود نصب کننده در سراسر سیستم (exe، x64، بدون به روز رسانی خودکار)",
+        "macos_intel": "macOS با پردازنده اینتل",
+        "macos_apple": "macOS با پردازنده Apple Silicon / M1",
+        "more_files": "نصب کننده ها و معماری های بیشتر را از <a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>صفحه انتشار GitHub</a> دانلود کنید"
     },
     "footer": {
         "company": "شرکت",

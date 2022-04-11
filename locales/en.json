@@ -109,10 +109,14 @@
     "download": {
         "title": "Download Lumi",
         "windows_download_store": "Download from the Microsoft Store (recommended)",
-        "window_download_installer": "Download installer (exe)",
+        "windows_download_installer": "Download installer for single user (exe, x64, auto-update)",
+        "windows_download_multiuser": "Download system-wide installer (exe, x64, no auto-update)",
+        "macos_intel": "macOS with Intel processor",
+        "macos_apple": "macOS with Apple Silicon / M1 processor",
         "linux_format": "Download Lumi in your preferred package type:",
-        "download_snap": "Get from the Snap Store",
-        "bypass_smartscreen": "Learn here how to bypass Windows's SmartScreen filter (only needed for exe-installer)."
+        "download_snap": "Get from the Snap Store (Ubuntu)",
+        "bypass_smartscreen": "Learn here how to bypass Windows's SmartScreen filter (only needed for exe-installers).",
+        "more_files": "Download further installers and architectures from the <a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>GitHub release page</a>"
     },
     "footer": {
         "company": "Company",

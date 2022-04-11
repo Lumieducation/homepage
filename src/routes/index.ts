@@ -200,7 +200,7 @@ router.use(
         next: express.NextFunction
     ) => {
         res.render('home', {
-            release: '0.8.3',
+            release: '0.9.1',
             languages: getListWithNativeNames(),
             currentLanguage: getNativeName(req.language),
             currentLanguageCode: getCurrentLanguageCode(req.language),

@@ -67,7 +67,7 @@ app.use(i18nextHttpMiddleware.handle(i18next));
 const handleBars = exphbs.create({
     helpers: {
         i18n: (key: string, ctx: any) => {
-            return ctx.data?.root?.t(key);
+            return ctx.data?.root?.t(key, ctx.hash);
         }
     }
 });

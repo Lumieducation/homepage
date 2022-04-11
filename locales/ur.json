@@ -65,10 +65,14 @@
     "download": {
         "title": "ڈاؤن لوڈ ، اتارنا",
         "windows_download_store": "مائیکرو سافٹ اسٹور سے ڈاؤن لوڈ کریں (تجویز کردہ)",
-        "window_download_installer": "انسٹالر ڈاؤن لوڈ کریں (مثال)",
         "bypass_smartscreen": "یہاں ونڈوز کے اسمارٹ اسکرین فلٹر کو نظرانداز کرنے کا طریقہ سیکھیں (صرف ایکسٹال انسٹالر کیلئے ضروری ہے)۔",
         "linux_format": "اپنی پسندیدہ پیکیج کی قسم میں لومی ڈاؤن لوڈ کریں:",
-        "download_snap": "سنیپ اسٹور سے حاصل کریں۔"
+        "download_snap": "سنیپ اسٹور سے حاصل کریں۔",
+        "windows_download_installer": "واحد صارف کے لیے انسٹالر ڈاؤن لوڈ کریں (exe، x64، آٹو اپ ڈیٹ)",
+        "windows_download_multiuser": "سسٹم وائیڈ انسٹالر ڈاؤن لوڈ کریں (exe, x64، کوئی آٹو اپ ڈیٹ نہیں)",
+        "macos_intel": "انٹیل پروسیسر کے ساتھ macOS",
+        "macos_apple": "Apple Silicon / M1 پروسیسر کے ساتھ macOS",
+        "more_files": "<a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>GitHub ریلیز پیج</a> سے مزید انسٹالرز اور آرکیٹیکچرز ڈاؤن لوڈ کریں۔"
     },
     "footer": {
         "company": "کمپنی",

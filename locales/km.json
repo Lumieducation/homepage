@@ -59,10 +59,14 @@
     "download": {
         "title": "ទាញយក Lumi",
         "windows_download_store": "ទាញយកពី Microsoft Store (បានណែនាំ)",
-        "window_download_installer": "ទាញយកកម្មវិធីតំឡើង (ឧទាហរណ៍)",
         "bypass_smartscreen": "រៀននៅទីនេះពីរបៀបដើម្បីចៀសវាងតម្រង SmartScreen របស់វីនដូ (ត្រូវការសម្រាប់តែអ្នកដំឡើងប៉ុណ្ណោះ) ។",
         "linux_format": "ទាញយក Lumi តាមប្រភេទកញ្ចប់ដែលអ្នកចូលចិត្ត៖",
-        "download_snap": "ទទួលបានពីហាង Snap"
+        "download_snap": "ទទួលបានពីហាង Snap",
+        "windows_download_installer": "ទាញយកកម្មវិធីដំឡើងសម្រាប់អ្នកប្រើប្រាស់តែមួយ (exe, x64, ធ្វើបច្ចុប្បន្នភាពដោយស្វ័យប្រវត្តិ)",
+        "windows_download_multiuser": "ទាញយកកម្មវិធីដំឡើងពេញប្រព័ន្ធ (exe, x64, គ្មានការធ្វើបច្ចុប្បន្នភាពដោយស្វ័យប្រវត្តិ)",
+        "macos_intel": "macOS ជាមួយ Intel processor",
+        "macos_apple": "macOS ជាមួយ Apple Silicon / M1 processor",
+        "more_files": "ទាញយកកម្មវិធីដំឡើង និងស្ថាបត្យកម្មបន្ថែមពី <a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>ទំព័រចេញផ្សាយ GitHub</a>"
     },
     "footer": {
         "company": "ក្រុមហ៊ុន",

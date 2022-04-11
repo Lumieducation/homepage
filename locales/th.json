@@ -65,11 +65,15 @@
     },
     "download": {
         "bypass_smartscreen": "ดูวิธีข้ามผ่านหน้าจอ SmartScreen filter ของ Windows (สำหรับตัวติดตั้งแบบ exe)",
-        "window_download_installer": "ดาวน์โหลดตัวติดตั้ง (exe)",
         "windows_download_store": "ดาวน์โหลดจาก Microsoft Store (แนะนำ)",
         "title": "ดาวน์โหลดลูมิ",
         "linux_format": "ดาวน์โหลด Lumi ในประเภทแพ็คเกจที่คุณต้องการ:",
-        "download_snap": "รับจาก Snap Store"
+        "download_snap": "รับจาก Snap Store",
+        "windows_download_installer": "ดาวน์โหลดตัวติดตั้งสำหรับผู้ใช้คนเดียว (exe, x64, อัปเดตอัตโนมัติ)",
+        "windows_download_multiuser": "ดาวน์โหลดตัวติดตั้งทั้งระบบ (exe, x64, ไม่มีการอัปเดตอัตโนมัติ)",
+        "macos_intel": "macOS พร้อมโปรเซสเซอร์ Intel",
+        "macos_apple": "macOS พร้อมโปรเซสเซอร์ Apple Silicon / M1",
+        "more_files": "ดาวน์โหลดตัวติดตั้งและสถาปัตยกรรมเพิ่มเติมจาก <a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>หน้าเผยแพร่ GitHub</a>"
     },
     "features": {
         "openSource": {

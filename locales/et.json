@@ -59,10 +59,14 @@
     "download": {
         "title": "Laadige alla Lumi",
         "windows_download_store": "Laadige alla Microsofti poest (soovitatav)",
-        "window_download_installer": "Laadige alla installiprogramm (exe)",
         "bypass_smartscreen": "Siit saate teada, kuidas Windowsi SmartScreeni filtrist mööda minna (vajalik ainult exe-installeri jaoks).",
         "linux_format": "Laadige Lumi alla oma eelistatud paketitüübiga:",
-        "download_snap": "Hankige Snap Store'ist"
+        "download_snap": "Hankige Snap Store'ist",
+        "windows_download_installer": "Laadige alla installiprogramm ühe kasutaja jaoks (exe, x64, automaatne värskendus)",
+        "windows_download_multiuser": "Laadige alla kogu süsteemi hõlmav installer (exe, x64, ilma automaatse värskenduseta)",
+        "macos_intel": "macOS Inteli protsessoriga",
+        "macos_apple": "macOS Apple Silicon / M1 protsessoriga",
+        "more_files": "Laadige alla täiendavad installiprogrammid ja arhitektuurid <a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>GitHubi väljalaske lehelt</a>"
     },
     "footer": {
         "company": "Firma",

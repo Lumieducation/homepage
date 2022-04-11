@@ -59,10 +59,14 @@
     "download": {
         "title": "Lumi 다운로드",
         "windows_download_store": "Microsoft Store에서 다운로드 (권장)",
-        "window_download_installer": "설치 프로그램 다운로드 (exe)",
         "bypass_smartscreen": "여기에서 Windows의 SmartScreen 필터를 우회하는 방법을 알아보십시오 (exe-installer에만 필요).",
         "linux_format": "원하는 패키지 유형으로 Lumi를 다운로드하십시오.",
-        "download_snap": "스냅 스토어에서 가져오기"
+        "download_snap": "스냅 스토어에서 가져오기",
+        "windows_download_installer": "단일 사용자용 설치 프로그램 다운로드(exe, x64, 자동 업데이트)",
+        "windows_download_multiuser": "시스템 전체 설치 프로그램 다운로드(exe, x64, 자동 업데이트 없음)",
+        "macos_intel": "Intel 프로세서가 탑재된 macOS",
+        "macos_apple": "Apple Silicon / M1 프로세서가 탑재된 macOS",
+        "more_files": "<a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>GitHub 릴리스 페이지</a> 에서 추가 설치 프로그램 및 아키텍처 다운로드"
     },
     "footer": {
         "company": "회사",

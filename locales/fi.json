@@ -59,10 +59,14 @@
     "download": {
         "title": "Lataa Lumi",
         "windows_download_store": "Lataa Microsoft Storesta (suositus)",
-        "window_download_installer": "Lataa asennusohjelma (exe)",
         "bypass_smartscreen": "Opi täältä, kuinka ohittaa Windowsin SmartScreen-suodatin (tarvitaan vain exe-installerille).",
         "linux_format": "Lataa Lumi haluamallasi pakettityypillä:",
-        "download_snap": "Hae Snap Storesta"
+        "download_snap": "Hae Snap Storesta",
+        "windows_download_installer": "Lataa asennusohjelma yhdelle käyttäjälle (exe, x64, automaattinen päivitys)",
+        "windows_download_multiuser": "Lataa koko järjestelmän asennusohjelma (exe, x64, ei automaattista päivitystä)",
+        "macos_intel": "macOS Intel-prosessorilla",
+        "macos_apple": "macOS Apple Silicon / M1 -prosessorilla",
+        "more_files": "Lataa lisää asennusohjelmia ja arkkitehtuureja <a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>GitHubin julkaisusivulta</a>"
     },
     "footer": {
         "company": "Yhtiö",

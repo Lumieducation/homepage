@@ -59,10 +59,14 @@
     "download": {
         "title": "Ladda ner Lumi",
         "windows_download_store": "Ladda ner från Microsoft Store (rekommenderas)",
-        "window_download_installer": "Ladda ner installationsprogrammet (exe)",
         "bypass_smartscreen": "Lär dig här hur man kringgår Windows SmartScreen-filter (behövs bara för exe-installatör).",
         "linux_format": "Ladda ner Lumi i din förpackningstyp:",
-        "download_snap": "Hämta från Snap Store"
+        "download_snap": "Hämta från Snap Store",
+        "windows_download_installer": "Ladda ner installationsprogram för en användare (exe, x64, automatisk uppdatering)",
+        "windows_download_multiuser": "Ladda ner systemomfattande installationsprogram (exe, x64, ingen automatisk uppdatering)",
+        "macos_intel": "macOS med Intel-processor",
+        "macos_apple": "macOS med Apple Silicon/M1-processor",
+        "more_files": "Ladda ner ytterligare installationsprogram och arkitekturer från <a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>GitHub-versionen</a>"
     },
     "footer": {
         "company": "Företag",

@@ -65,10 +65,14 @@
     "download": {
         "title": "લમી ડાઉનલોડ કરો",
         "windows_download_store": "માઇક્રોસ Storeફ્ટ સ્ટોર પરથી ડાઉનલોડ કરો (ભલામણ કરેલ)",
-        "window_download_installer": "ઇન્સ્ટોલર ડાઉનલોડ કરો (ઉદાહરણો)",
         "bypass_smartscreen": "વિંડોઝના સ્માર્ટસ્ક્રીન ફિલ્ટરને બાયપાસ કેવી રીતે કરવું તે અહીં જાણો (ફક્ત એક્સેપ-ઇન્સ્ટોલર માટે જરૂરી છે).",
         "linux_format": "તમારા મનપસંદ પેકેજ પ્રકારમાં લુમી ડાઉનલોડ કરો:",
-        "download_snap": "Snap Store માંથી મેળવો"
+        "download_snap": "Snap Store માંથી મેળવો",
+        "windows_download_installer": "એકલ વપરાશકર્તા માટે ઇન્સ્ટોલર ડાઉનલોડ કરો (exe, x64, સ્વતઃ-અપડેટ)",
+        "windows_download_multiuser": "સિસ્ટમ-વ્યાપી ઇન્સ્ટોલર ડાઉનલોડ કરો (exe, x64, કોઈ સ્વતઃ-અપડેટ નથી)",
+        "macos_intel": "ઇન્ટેલ પ્રોસેસર સાથે macOS",
+        "macos_apple": "Apple Silicon/M1 પ્રોસેસર સાથે macOS",
+        "more_files": "<a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>GitHub પ્રકાશન પૃષ્ઠ</a> પરથી વધુ ઇન્સ્ટોલર્સ અને આર્કિટેક્ચર્સ ડાઉનલોડ કરો"
     },
     "footer": {
         "company": "કંપની",

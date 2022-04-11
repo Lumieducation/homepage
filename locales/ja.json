@@ -65,10 +65,14 @@
     "download": {
         "title": "ルミをダウンロード",
         "windows_download_store": "Microsoftストアからダウンロード（推奨）",
-        "window_download_installer": "インストーラーのダウンロード（exe）",
         "bypass_smartscreen": "ここでは、WindowsのSmartScreenフィルターをバイパスする方法を学びます（exe-installerにのみ必要）。",
         "linux_format": "お好みのパッケージタイプでLumiをダウンロードします。",
-        "download_snap": "スナップストアから入手"
+        "download_snap": "スナップストアから入手",
+        "windows_download_installer": "シングルユーザー用のインストーラーのダウンロード（exe、x64、自動更新）",
+        "windows_download_multiuser": "システム全体のインストーラーをダウンロードする（exe、x64、自動更新なし）",
+        "macos_intel": "Intelプロセッサを搭載したmacOS",
+        "macos_apple": "Apple Silicon/M1プロセッサを搭載したmacOS",
+        "more_files": "<a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>GitHubリリースページ</a>からさらにインストーラーとアーキテクチャをダウンロードします"
     },
     "footer": {
         "company": "会社",

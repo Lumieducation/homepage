@@ -59,10 +59,14 @@
     "download": {
         "title": "Скачать Lumi",
         "windows_download_store": "Скачать из Microsoft Store (рекомендуется)",
-        "window_download_installer": "Скачать установщик (exe)",
         "bypass_smartscreen": "Узнайте здесь, как обойти фильтр Windows SmartScreen (требуется только для exe-установщика).",
         "linux_format": "Загрузите Lumi в предпочитаемом типе пакета:",
-        "download_snap": "Получить в магазине Snap"
+        "download_snap": "Получить в магазине Snap",
+        "windows_download_installer": "Скачать установщик для одного пользователя (exe, x64, автообновление)",
+        "windows_download_multiuser": "Загрузите общесистемный установщик (exe, x64, без автоматического обновления)",
+        "macos_intel": "macOS с процессором Intel",
+        "macos_apple": "macOS с процессором Apple Silicon/M1",
+        "more_files": "Загрузите дополнительные установщики и архитектуры со <a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>страницы выпуска GitHub</a> ."
     },
     "footer": {
         "company": "Компания",

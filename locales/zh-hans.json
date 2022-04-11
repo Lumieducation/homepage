@@ -19,11 +19,15 @@
     },
     "download": {
         "bypass_smartscreen": "在这里了解如何绕过Windows的SmartScreen筛选器（仅exe安装方式）。",
-        "window_download_installer": "下载安装文件 (exe)",
         "windows_download_store": "从微软商店下载（推荐）",
         "title": "下载Lumi",
         "linux_format": "以您喜欢的软件包类型下载 Lumi：",
-        "download_snap": "从 Snap 商店获取"
+        "download_snap": "从 Snap 商店获取",
+        "windows_download_installer": "下载单用户安装程序（exe、x64、自动更新）",
+        "windows_download_multiuser": "下载系统范围的安装程序（exe、x64、无自动更新）",
+        "macos_intel": "采用英特尔处理器的 macOS",
+        "macos_apple": "带有 Apple Silicon / M1 处理器的 macOS",
+        "more_files": "从<a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>GitHub 发布页面</a>下载更多安装程序和架构"
     },
     "features": {
         "standalone": {

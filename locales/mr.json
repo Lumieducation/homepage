@@ -65,10 +65,14 @@
     "download": {
         "title": "डाउनलोड Lumi",
         "windows_download_store": "मायक्रोसॉफ्ट स्टोअर वरून डाउनलोड करा (शिफारस केलेले)",
-        "window_download_installer": "इंस्टॉलर डाउनलोड करा (उदाहरणार्थ)",
         "bypass_smartscreen": "विंडोजचे स्मार्टस्क्रीन फिल्टर (केवळ एक्स्प्रेस-इंस्टॉलरसाठी आवश्यक) बायपास कसे करावे ते येथे जाणून घ्या.",
         "linux_format": "आपल्या पसंतीच्या पॅकेज प्रकारात लुमी डाउनलोड करा:",
-        "download_snap": "स्नॅप स्टोअर वरून मिळवा"
+        "download_snap": "स्नॅप स्टोअर वरून मिळवा",
+        "windows_download_installer": "एकल वापरकर्त्यासाठी इंस्टॉलर डाउनलोड करा (exe, x64, स्वयं-अपडेट)",
+        "windows_download_multiuser": "सिस्टम-व्यापी इंस्टॉलर डाउनलोड करा (exe, x64, कोणतेही स्वयं-अपडेट नाही)",
+        "macos_intel": "इंटेल प्रोसेसरसह macOS",
+        "macos_apple": "Apple सिलिकॉन / M1 प्रोसेसरसह macOS",
+        "more_files": "<a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>GitHub प्रकाशन पृष्ठावरून</a> पुढील इंस्टॉलर आणि आर्किटेक्चर डाउनलोड करा"
     },
     "footer": {
         "company": "कंपनी",

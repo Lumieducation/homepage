@@ -59,10 +59,14 @@
     "download": {
         "title": "Lumi'yi indirin",
         "windows_download_store": "Microsoft Store'dan indirin (önerilir)",
-        "window_download_installer": "Yükleyiciyi indir (exe)",
         "bypass_smartscreen": "Windows'un SmartScreen filtresini nasıl atlayacağınızı buradan öğrenin (yalnızca exe-installer için gereklidir).",
         "linux_format": "Lumi'yi tercih ettiğiniz paket türünde indirin:",
-        "download_snap": "Snap Store'dan alın"
+        "download_snap": "Snap Store'dan alın",
+        "windows_download_installer": "Tek kullanıcı için yükleyiciyi indirin (exe, x64, otomatik güncelleme)",
+        "windows_download_multiuser": "Sistem genelinde yükleyiciyi indirin (exe, x64, otomatik güncelleme yok)",
+        "macos_intel": "Intel işlemcili macOS",
+        "macos_apple": "Apple Silikon / M1 işlemcili macOS",
+        "more_files": "<a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>GitHub sürüm sayfasından</a> daha fazla yükleyici ve mimari indirin"
     },
     "footer": {
         "company": "şirket",

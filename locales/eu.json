@@ -59,10 +59,14 @@
     "download": {
         "title": "Deskargatu Lumi",
         "windows_download_store": "Deskargatu Microsoft Store-tik (gomendatua)",
-        "window_download_installer": "Deskargatu instalatzailea (exe)",
         "bypass_smartscreen": "Ikasi hemen Windows-en SmartScreen iragazkia nola gainditu (exe-instalatzailearentzat soilik behar da).",
         "linux_format": "Deskargatu Lumi nahi duzun pakete motan:",
-        "download_snap": "Lortu Snap Store-tik"
+        "download_snap": "Lortu Snap Store-tik",
+        "windows_download_installer": "Deskargatu instalatzailea erabiltzaile bakarrerako (exe, x64, eguneratze automatikoa)",
+        "windows_download_multiuser": "Deskargatu sistema osorako instalatzailea (exe, x64, eguneratze automatikorik gabe)",
+        "macos_intel": "macOS Intel prozesadorearekin",
+        "macos_apple": "macOS Apple Silicon / M1 prozesadorearekin",
+        "more_files": "Deskargatu instalatzaile eta arkitektura gehiago <a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>GitHub bertsio-orritik</a>"
     },
     "footer": {
         "company": "Enpresa",

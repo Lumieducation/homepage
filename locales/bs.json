@@ -59,10 +59,14 @@
     "download": {
         "title": "Preuzmite Lumi",
         "windows_download_store": "Preuzmite iz Microsoft Store-a (preporučeno)",
-        "window_download_installer": "Preuzmi instalacijski program (exe)",
         "bypass_smartscreen": "Ovdje naučite kako zaobići Windows SmartScreen filter (potreban samo za exe-instalater).",
         "linux_format": "Preuzmite Lumi u željenoj vrsti paketa:",
-        "download_snap": "Nabavite iz Snap Store -a"
+        "download_snap": "Nabavite iz Snap Store -a",
+        "windows_download_installer": "Preuzmite instalacioni program za jednog korisnika (exe, x64, automatsko ažuriranje)",
+        "windows_download_multiuser": "Preuzmite program za instalaciju za cijeli sistem (exe, x64, bez automatskog ažuriranja)",
+        "macos_intel": "macOS sa Intel procesorom",
+        "macos_apple": "macOS sa Apple Silicon / M1 procesorom",
+        "more_files": "Preuzmite dalje instalatere i arhitekture sa <a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>stranice izdanja GitHub-a</a>"
     },
     "footer": {
         "company": "Kompanija",

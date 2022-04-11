@@ -20,28 +20,58 @@
                             class="dropdown-item" rel="noopener" href="https://www.microsoft.com/store/apps/9PD83XFV86J4" target="_blank"><img
                                     src="/images/microsoft_store.svg" width="24" class="mr-1"></img> {{i18n "download.windows_download_store"}}</a>
                             <div class="dropdown-divider"></div>
+                            <div class="mt-2 mb-2">
                             <a 
-                            onclick="_paq.push(['trackEvent', 'Download', 'Windows', 'Windows', 'Windows']); setTimeout(function() { window.location.href = '/{{currentLanguageCode}}/support' }, 4000)"
+                            onclick="_paq.push(['trackEvent', 'Download', 'Windows', 'perUser', '']); setTimeout(function() { window.location.href = '/{{currentLanguageCode}}/support' }, 4000)"
                             class="dropdown-item"
                                 href="https://github.com/Lumieducation/Lumi/releases/download/v{{release}}/Lumi-Setup-{{release}}.exe">
                                 <i class="fa fa-file" style="font-size:20px; margin-right:10px;" aria-hidden="true"></i>
-                                {{i18n "download.window_download_installer"}}</a>
+                                {{i18n "download.windows_download_installer"}}</a>
+                            </div>
+                            <div class="mb-2">
+                             <a 
+                            onclick="_paq.push(['trackEvent', 'Download', 'Windows', 'perMachine', '']); setTimeout(function() { window.location.href = '/{{currentLanguageCode}}/support' }, 4000)"
+                            class="dropdown-item"
+                                href="https://github.com/Lumieducation/Lumi/releases/download/v{{release}}/Lumi-{{release}}-multiuser-x64.exe">
+                                <i class="fa fa-file" style="font-size:20px; margin-right:10px;" aria-hidden="true"></i>
+                                {{i18n "download.windows_download_multiuser"}}</a>
+                            </div>
                             <p class="dropdown-item-text"><a
                                     href="https://www.pcworld.com/article/3197443/how-to-get-past-windows-defender-smartscreen-in-windows-10.html">
                                     {{i18n "download.bypass_smartscreen"}}</a> 
                             <p>
+                            <div class="dropdown-divider"></div>
+                            <p class="dropdown-item-text">{{{i18n "download.more_files" version=release}}}</p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-md-12 col-lg-4 d-flex justify-content-center counter-wrap">
                 <div class="block-18 text-center">
-                    <div class="text">
-                        <a
-                        onclick="_paq.push(['trackEvent', 'Download', 'macOS', 'macOS', 'macOS']); setTimeout(function() { window.location.href = '/{{currentLanguageCode}}/support' }, 4000)"
-                        href="https://github.com/Lumieducation/Lumi/releases/download/v{{release}}/Lumi-{{release}}.dmg"
-                            class="btn btn-primary btn-outline-white mb-md-3 px-4 py-3 cloud-download">
-                            <strong class="number"><i class="fa fa-apple"></i> macOS</strong></a>
+                     <div class="text">
+                        <button id="windowsDownloadButton"
+                            class="btn btn-primary btn-outline-white mb-md-3 px-4 py-3 cloud-download dropdown-toggle"
+                            type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <strong class="number"> <i class="fa fa-apple"></i> macOS</strong>
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="windowsDownloadButton">
+                            <div class="mt-2">
+                            <a 
+                            onclick="_paq.push(['trackEvent', 'Download', 'macOS', 'Intel', '']); setTimeout(function() { window.location.href = '/{{currentLanguageCode}}/support' }, 4000)"
+                            class="dropdown-item"
+                                href="https://github.com/Lumieducation/Lumi/releases/download/v{{release}}/Lumi-{{release}}.dmg">
+                                <i class="fa fa-apple" style="font-size:20px; margin-right:10px;" aria-hidden="true"></i>
+                                {{i18n "download.macos_intel"}}</a>
+                            </div>
+                            <div class="mt-2 mb-2">
+                            <a 
+                            onclick="_paq.push(['trackEvent', 'Download', 'macOS', 'Apple', '']); setTimeout(function() { window.location.href = '/{{currentLanguageCode}}/support' }, 4000)"
+                            class="dropdown-item mt-2"
+                                href="https://github.com/Lumieducation/Lumi/releases/download/v{{release}}/Lumi-{{release}}-arm64.dmg">
+                                <i class="fa fa-apple" style="font-size:20px; margin-right:10px;" aria-hidden="true"></i>
+                                {{i18n "download.macos_apple"}}</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -63,17 +93,19 @@
                             onclick="_paq.push(['trackEvent', 'Download', 'Linux (AppImage)', 'Linux (AppImage)', 'Linux (AppImage)']);setTimeout(function() { window.location.href = '/{{currentLanguageCode}}/support' }, 4000)"
                              class="dropdown-item"
                                 href="https://github.com/Lumieducation/Lumi/releases/download/v{{release}}/Lumi-{{release}}.AppImage">
-                                AppImage</a>
+                                AppImage (x64)</a>
                             <a
                             onclick="_paq.push(['trackEvent', 'Download', 'Linux (deb)', 'Linux (deb)', 'Linux (deb)']);setTimeout(function() { window.location.href = '/{{currentLanguageCode}}/support' }, 4000)"
                              class="dropdown-item"
                                 href="https://github.com/Lumieducation/Lumi/releases/download/v{{release}}/lumi_{{release}}_amd64.deb">
-                                deb (Debian, Ubuntu, Mint)</a>
+                                deb (Debian, Ubuntu, Mint, x64)</a>
                             <a
                             onclick="_paq.push(['trackEvent', 'Download', 'Linux (pacman)', 'Linux (pacman)', 'Linux (pacman)']);setTimeout(function() { window.location.href = '/{{currentLanguageCode}}/support' }, 4000)"
                              class="dropdown-item"
                                 href="https://github.com/Lumieducation/Lumi/releases/download/v{{release}}/lumi-{{release}}.pacman">
-                                pacman (Arch)</a>
+                                pacman (Arch, x64)</a>
+                            <div class="dropdown-divider"></div>
+                            <p class="dropdown-item-text">{{{i18n "download.more_files" version=release}}}</p>
                         </div>
                     </div>
                 </div>

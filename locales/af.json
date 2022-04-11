@@ -13,11 +13,15 @@
     },
     "download": {
         "bypass_smartscreen": "Leer hoe jy die SmartScreen-filter van Windows kan omseil (slegs nodig vir 'n exe-installasie).",
-        "window_download_installer": "Laai installeerder af (exe)",
         "windows_download_store": "Laai van die Microsoft Winkel af (word aanbeveel)",
         "title": "Laai Lumi af",
         "linux_format": "Laai Lumi af in u pakkettipe wat u verkies:",
-        "download_snap": "Kry by die Snap Store"
+        "download_snap": "Kry by die Snap Store",
+        "windows_download_installer": "Laai installeerder af vir enkelgebruiker (exe, x64, outo-opdatering)",
+        "windows_download_multiuser": "Laai stelselwye installeerder af (exe, x64, geen outo-opdatering)",
+        "macos_intel": "macOS met Intel-verwerker",
+        "macos_apple": "macOS met Apple Silicon / M1 verwerker",
+        "more_files": "Laai verdere installeerders en argitekture van die <a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>GitHub-vrystellingbladsy</a> af"
     },
     "features": {
         "standalone": {
