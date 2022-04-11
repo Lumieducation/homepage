@@ -58,7 +58,12 @@
         "windows_download_store": "Descargar desde la Microsoft Store (recomendado)",
         "title": "Descargar Lumi",
         "linux_format": "Descargue Lumi en su tipo de paquete preferido:",
-        "download_snap": "Obtener de la Tienda Snap"
+        "download_snap": "Obtener de la Tienda Snap (Ubuntu)",
+        "windows_download_installer": "Descargue el instalador para un solo usuario (exe, x64, actualización automática)",
+        "macos_apple": "macOS con procesador Apple Silicon / M1",
+        "windows_download_multiuser": "Descargue el instalador de todo el sistema (exe, x64, sin actualización automática)",
+        "macos_intel": "macOS con procesador Intel",
+        "more_files": "Descargue más instaladores y arquitecturas desde la <a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>página de descargas de GitHub</a>"
     },
     "newsletter": {
         "subscribe": "Suscribirse",
