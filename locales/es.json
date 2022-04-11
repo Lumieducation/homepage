@@ -16,7 +16,7 @@
         "windows_download_store": "Descargar desde la Microsoft Store (recomendado)",
         "title": "Descargar Lumi",
         "linux_format": "Descargue Lumi en su tipo de paquete preferido:",
-        "download_snap": "Obtener de la tienda Snap",
+        "download_snap": "Obtener de la Tienda Snap (Ubuntu)",
         "windows_download_installer": "Descargue el instalador para un solo usuario (exe, x64, actualización automática)",
         "windows_download_multiuser": "Descargue el instalador de todo el sistema (exe, x64, sin actualización automática)",
         "macos_intel": "macOS con procesador Intel",
