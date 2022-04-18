@@ -59,9 +59,9 @@
     "download": {
         "title": "Lade Lumi herunter",
         "windows_download_store": "Download aus dem Microsoft Store (empfohlen)",
-        "bypass_smartscreen": "Lese hier, wie du den SmartScreen-Filter von Windows umgehst (nur für das exe-Installationsprogramm erforderlich).",
+        "bypass_smartscreen": "Lese hier, wie du den SmartScreen-Filter von Windows umgehst (nur für exe-Installationsprogramme erforderlich).",
         "linux_format": "Lade Lumi in deinem bevorzugten Pakettyp herunter:",
-        "download_snap": "Aus dem Snap Store herunterladen",
+        "download_snap": "Aus dem Snap Store herunterladen (Ubuntu)",
         "windows_download_installer": "Installationsprogramm für Einzelbenutzer herunterladen (exe, x64, Auto-Update)",
         "windows_download_multiuser": "Installationsprogramm für systemweite Installation herunterladen (exe, x64, kein Auto-Update)",
         "macos_intel": "macOS mit Intel-Prozessor",
