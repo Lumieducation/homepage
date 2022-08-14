@@ -56,7 +56,14 @@
         "download": "Descargar",
         "window_download_installer": "Descargar instalador (exe)",
         "windows_download_store": "Descargar desde la Microsoft Store (recomendado)",
-        "title": "Descargar Lumi"
+        "title": "Descargar Lumi",
+        "linux_format": "Descargue Lumi en su tipo de paquete preferido:",
+        "download_snap": "Obtener de la Tienda Snap (Ubuntu)",
+        "windows_download_installer": "Descargue el instalador para un solo usuario (exe, x64, actualización automática)",
+        "macos_apple": "macOS con procesador Apple Silicon / M1",
+        "windows_download_multiuser": "Descargue el instalador de todo el sistema (exe, x64, sin actualización automática)",
+        "macos_intel": "macOS con procesador Intel",
+        "more_files": "Descargue más instaladores y arquitecturas desde la <a href='https://github.com/Lumieducation/Lumi/releases/tag/v{{version}}'>página de descargas de GitHub</a>"
     },
     "newsletter": {
         "subscribe": "Suscribirse",
@@ -66,7 +73,8 @@
         "download": "Descargar",
         "newsletter": "Boletín informativo",
         "menu": "Menú",
-        "home": "Inicio"
+        "home": "Inicio",
+        "support": "Apóyanos"
     },
     "mission": {
         "exciting": "exitante.",
@@ -181,5 +189,53 @@
         "scope": "Esta política de privacidad solo se aplica a las copias de la aplicación que recibió directamente de Lumi Education GbR, ya sea descargándola del sitio web lumi.education, del repositorio de GitHub en https://github.com/lumieducation/lumi o de una tienda de aplicaciones. Si lo descargó de una tienda de aplicaciones, esta política de privacidad solo se aplica si lo descargó de una entrada de tienda oficial de Lumi Education GbR, que puede tener uno de estos editores (o una abreviatura de estos):<ul><li> Lumi Education GbR Jan Philip Schellenberg y Sebastian Rettig</li><li>Jan Philip Schellenberg</li><li>Sebastián Rettig</li></ul>",
         "definitions": "Para ayudarlo a comprender nuestra política de privacidad, se tradujo automáticamente <a href=\"/en/app/privacy-policy\">del original en inglés</a> , que es el documento legalmente vinculante. Si no comprende partes de este documento, comuníquese con nosotros como se describe a continuación.<br/><br/> El editor de escritorio Lumi H5P es una aplicación desarrollada y distribuida por “Lumi Education GbR Jan Philip Schellenberg und Sebastian Rettig” (“Lumi Education GbR”, “nosotros” y “nuestra empresa” en lo sucesivo). Esta política de privacidad explicará cómo nuestra empresa utiliza los datos personales que recopilamos de usted mientras usa la aplicación.",
         "title": "Editor de escritorio Lumi H5P - Política de privacidad"
+    },
+    "support": {
+        "whatWeDoIntro": "Debido al creciente número de usuarios y servicios que necesitamos para manejar el soporte y las solicitudes de funciones, nuestros costos también están aumentando.",
+        "whatWeDo": {
+            "security": {
+                "description": "Haga que las instalaciones sean fáciles y seguras comprando certificados digitales para firmar los instaladores para macOS y Windows.",
+                "header": "Seguridad"
+            },
+            "bugFixes": {
+                "header": "Corrección de errores",
+                "description": "Corregir errores y mejorar la calidad de la aplicación alojando sistemas de telemetría y depuración."
+            },
+            "hosting": {
+                "header": "Hosting",
+                "description": "Difunda Lumi alojando la página de inicio y utilizando las herramientas de optimización de motores de búsqueda."
+            },
+            "translation": {
+                "header": "Traducciones",
+                "description": "Traduzca futuras versiones a muchos idiomas con los servicios de traducción automática."
+            },
+            "features": {
+                "header": "Nuevas características",
+                "description": "Desarrolle e introduzca nuevas características y funcionalidades."
+            },
+            "tools": {
+                "header": "Desarrollar herramientas",
+                "description": "También desarrollamos la biblioteca H5P Nodejs, que es utilizada por varias empresas e instituciones."
+            }
+        },
+        "thanks": {
+            "supporters": "Partidarios",
+            "subheading": "Partidarios de Lumi",
+            "platinum": "Patrocinadores platino",
+            "gold": "Patrocinadores de oro",
+            "silver": "Patrocinadores Plata",
+            "bronze": "Patrocinadores de bronce",
+            "backers": "Patrocinadores",
+            "generousBackers": "Patrocinadores Generosos"
+        },
+        "header": "Apoya a Lumi patrocinándonos",
+        "description": "Incluso un producto gratuito y de código abierto no es gratuito. Lumi es desarrollado, mantenido y apoyado por dos profesores en su tiempo libre con el objetivo de hacer que la educación digital sea más accesible, individual y emocionante para todos. Puedes ayudarnos a mejorar Lumi donando o patrocinando.",
+        "donateVia": "Donar a través de",
+        "whatWeDoHeader": "Lo que nos ayuda a hacer tu donación",
+        "seeSupporters": "Ver seguidores y patrocinadores"
+    },
+    "disclaimer": {
+        "languageDisclaimerPrivacyPolicy": "El texto en este idioma es solo para información. La versión oficial y vinculante de la política de privacidad se redactó en inglés.",
+        "languageDisclaimerTermsAndConditions": "El texto en este idioma es solo para información. La versión oficial y vinculante de los términos y condiciones se redactó en inglés."
     }
 }
