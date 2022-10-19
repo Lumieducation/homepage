@@ -1,6 +1,6 @@
 # We use a build image to keep the final image as clean as possible
 
-FROM node:16 AS BUILD_IMAGE
+FROM node:19 AS BUILD_IMAGE
 
 # install 
 RUN npm install -g clean-modules
@@ -19,7 +19,7 @@ RUN npm prune --production
 # run clean-modules
 RUN clean-modules --yes
 
-FROM node:16-alpine
+FROM node:19-alpine
 
 WORKDIR /app
 
