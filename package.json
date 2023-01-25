@@ -8,7 +8,7 @@
         "bootstrap": "4.6.2",
         "express": "4.18.2",
         "express-handlebars": "6.0.7",
-        "express-limit": "0.1.0",
+        "express-limit": "1.0.0",
         "helmet": "4.6.0",
         "i18n": "0.15.1",
         "i18next": "21.10.0",
