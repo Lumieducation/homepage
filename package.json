@@ -43,7 +43,7 @@
         "@types/express-serve-static-core": "4.17.33",
         "@types/i18next": "13.0.0",
         "@types/node": "16.18.24",
-        "commitlint": "15.0.0",
+        "commitlint": "17.0.0",
         "cross-env": "7.0.3",
         "husky": "7.0.4",
         "json-autotranslate": "1.11.0",
