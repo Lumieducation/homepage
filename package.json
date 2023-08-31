@@ -45,7 +45,7 @@
         "@types/node": "16.18.46",
         "commitlint": "17.7.1",
         "cross-env": "7.0.3",
-        "husky": "7.0.4",
+        "husky": "8.0.3",
         "json-autotranslate": "1.12.2",
         "nodemon": "2.0.22",
         "prettier": "2.8.8",
