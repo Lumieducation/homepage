@@ -61,7 +61,7 @@
         "windows_download_store": "Baixe da Microsoft Store (recomendado)",
         "bypass_smartscreen": "Aprenda aqui como contornar o filtro SmartScreen do Windows (necessário apenas para o instalador EXE).",
         "linux_format": "Baixe Lumi em seu tipo de pacote preferido:",
-        "download_snap": "Obtenha na Snap Store",
+        "download_snap": "Obtenha na Snap Store (Ubuntu)",
         "windows_download_installer": "Baixe o instalador para usuário único (exe, x64, atualização automática)",
         "windows_download_multiuser": "Baixe o instalador de todo o sistema (exe, x64, sem atualização automática)",
         "macos_intel": "macOS com processador Intel",
