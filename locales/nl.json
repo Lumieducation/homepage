@@ -59,9 +59,9 @@
     "download": {
         "title": "Download Lumi",
         "windows_download_store": "Downloaden vanuit de Microsoft Store (aanbevolen)",
-        "bypass_smartscreen": "Lees hier hoe u het SmartScreen-filter van Windows kunt omzeilen (alleen nodig voor het exe-installatieprogramma).",
+        "bypass_smartscreen": "Lees hier hoe je het SmartScreen-filter van Windows kunt omzeilen (alleen nodig voor het exe-installatieprogramma's).",
         "linux_format": "Download Lumi in uw gewenste pakkettype:",
-        "download_snap": "Haal uit de Snap Store",
+        "download_snap": "Haal uit de Snap Store (Ubuntu)",
         "windows_download_installer": "Download installatieprogramma voor één gebruiker (exe, x64, auto-update)",
         "windows_download_multiuser": "Download systeembreed installatieprogramma (exe, x64, geen automatische update)",
         "macos_intel": "macOS met Intel-processor",
@@ -81,7 +81,7 @@
         "sourceCode": "Broncode"
     },
     "meta": {
-        "keywords": "creëren, delen, interactieve inhoud, interactieve oefeningen, h5p, e-learning, e-learning, scorm, xapi, authoringtool, offline, standalone, html5",
+        "keywords": "creëren, delen, interactieve inhoud, interactieve oefeningen, h5p, e-learning, scorm, xAPI, auteurstool, offline, standalone, html5",
         "pageTopic": "onderwijs",
         "pageType": "software download",
         "description": "Lumi is een open-source desktop-app waarmee u interactieve inhoud met tientallen verschillende inhoudstypen kunt maken, bewerken, bekijken en delen."
@@ -133,9 +133,9 @@
         "otherSitesText": "Onze app bevat links naar andere websites. Ons privacybeleid is alleen van toepassing op onze website, dus als u op een link naar een andere website klikt, dient u hun privacybeleid te lezen.",
         "changesHeading": "Wijzigingen in ons privacybeleid",
         "changesText": "Ons bedrijf houdt zijn privacybeleid regelmatig bij en plaatst eventuele updates op deze webpagina. Dit privacybeleid is voor het laatst bijgewerkt op 10 juli 2021.",
-        "contactHeading": "Hoe kunt u contact met ons opnemen?",
+        "contactHeading": "Hoe kunt u contact met ons opnemen",
         "contactText": "Als u vragen heeft over het privacybeleid van ons bedrijf, de gegevens die we over u hebben, of als u een van uw gegevensbeschermingsrechten wilt uitoefenen, neem dan gerust contact met ons op. E-mail ons op: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
-        "authorityHeading": "Contact opnemen met de juiste autoriteit?",
+        "authorityHeading": "Hoe neemt u contact op met de juiste autoriteit",
         "authorityText": "Als u een klacht wilt melden of als u van mening bent dat ons bedrijf uw probleem niet op een bevredigende manier heeft opgelost, kunt u contact opnemen met de Information Commissioner's Office.<br/><br/> E-mail: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Adres:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinsenstrae 5<br /> D-30159 Hannover<br /> Duitsland"
     },
     "support": {
@@ -227,9 +227,9 @@
         "otherSitesText": "Onze app bevat links naar andere websites. Ons privacybeleid is alleen van toepassing op onze website, dus als u op een link naar een andere website klikt, dient u hun privacybeleid te lezen.",
         "changesHeading": "Wijzigingen in ons privacybeleid",
         "changesText": "Ons bedrijf houdt zijn privacybeleid regelmatig bij en plaatst eventuele updates op deze webpagina. Dit privacybeleid is voor het laatst bijgewerkt op 12 juli 2021.",
-        "contactHeading": "Hoe kunt u contact met ons opnemen?",
+        "contactHeading": "Hoe kunt u contact met ons opnemen",
         "contactText": "Als u vragen heeft over het privacybeleid van ons bedrijf, de gegevens die we over u hebben, of als u een van uw gegevensbeschermingsrechten wilt uitoefenen, neem dan gerust contact met ons op. E-mail ons op: <a href=\"mailto:c@Lumi.education\">c@Lumi.education</a>",
-        "authorityHeading": "Contact opnemen met de juiste autoriteit?",
+        "authorityHeading": "Hoe neemt u contact op met de juiste autoriteit",
         "authorityText": "Als u een klacht wilt melden of als u van mening bent dat ons bedrijf uw probleem niet op een bevredigende manier heeft opgelost, kunt u contact opnemen met de Information Commissioner's Office.<br/><br/> E-mail: <a href=\"mailto:poststelle@lfd.niedersachsen.de\">poststelle@lfd.niedersachsen.de</a><br /> Adres:<br /> Der Landesbeauftragte für den Datenschutz Niedersachsen<br /> Prinsenstrae 5<br /> D-30159 Hannover<br /> Duitsland"
     },
     "disclaimer": {
